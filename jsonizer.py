@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Convets the data.csv verb family database into an appropriate JSON
 # representation for use in d3 program
+# JSON has been validated by JSON validator online
 
 from sys import exit
 import csv
@@ -34,26 +35,39 @@ def readIn():
 
 
 # Writes out the roots in JSON format
-# TODO: Write this so it doesn't have trailing ocmmas in arrays
 def writeOut(roots):
     with open(OUTPUT, 'w') as filew:
         filew.write("{\"verbRoots\": [\n")
-        for root in roots.keys():
+        rootsArray = roots.keys()
+        for i in range(len(rootsArray)):
+            root = rootsArray[i]
             filew.write("{\n")
-            filew.write("\"root\":\"" + root + "\",\n")
-            filew.write("\"childWords\":[\n")
-            for verb in roots[root]:
-                filew.write("\t{\n")
-                filew.write("\t\"verb\":\"" + verb[0] + "\",\n")
-                filew.write("\t\"separ\":\"" + verb[1].lower() + "\",\n")
-                filew.write("\t\"transes\":[")
-                for trans in verb[2:]:
-                    filew.write("\"" + trans + "\",")
+            filew.write("\t\"root\":\"" + root + "\",\n")
+            filew.write("\t\"childWords\": [\n")
+            for j in range(len(roots[root])):
+                verb = roots[root][j]
+                filew.write("\t\t{\n")
+                filew.write("\t\t\t\"verb\": \"" + verb[0] + "\",\n")
+                filew.write("\t\t\t\"separ\": \"" + verb[1].lower() + "\",\n")
+                filew.write("\t\t\t\"transes\": [")
+                for k in range(len(verb[2:])):
+                    if k < (len(verb[2:]) - 1):  # not last entry, add comma
+                        filew.write("\"" + verb[2:][k] + "\", ")
+                    else:  # Last entry, no comma
+                        filew.write("\"" + verb[2:][k] + "\"")
                 filew.write("]\n")
-                filew.write("\t},\n")
-            filew.write("]\n")
-            filew.write("},\n")
-        filew.write("}")
+                if j < (len(roots[root]) - 1):  # not last entry, add comma
+                    filew.write("\t\t},\n")
+                else:  # last entry, don't add comma
+                    filew.write("\t\t}\n")
+            filew.write("\t]\n")
+            if i < (len(rootsArray) - 1):  # not last entry, add comma
+                filew.write("},\n")
+            else:  # last entry, no comma
+                filew.write("}\n")  
+
+        filew.write("]")  # Close whole array
+        filew.write("}")  # Close whole object
                 
 
 
