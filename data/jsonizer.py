@@ -37,7 +37,7 @@ def readIn():
 # Writes out the roots in JSON format
 def writeOut(roots):
     with open(OUTPUT, 'w') as filew:
-        filew.write("{\"verbRoots\": [\n")
+        filew.write("[\n")
         rootsArray = roots.keys()
         for i in range(len(rootsArray)):
             root = rootsArray[i]
@@ -67,8 +67,6 @@ def writeOut(roots):
                 filew.write("}\n")  
 
         filew.write("]")  # Close whole array
-        filew.write("}")  # Close whole object
-                
 
 
 
