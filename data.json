@@ -1,0 +1,92 @@
+{"verbRoots": [
+{
+"root":"stellen",
+"childWords":[
+	{
+	"verb":"abstellen",
+	"separ":"y",
+	"transes":["to put down","to turn off",]
+	},
+	{
+	"verb":"anstellen",
+	"separ":"y",
+	"transes":["to lean on","to attempt",]
+	},
+	{
+	"verb":"aufstellen",
+	"separ":"y",
+	"transes":["to arrange","to establish",]
+	},
+	{
+	"verb":"bestellen",
+	"separ":"n",
+	"transes":["to order",]
+	},
+]
+},
+{
+"root":"gehen",
+"childWords":[
+	{
+	"verb":"abgehen",
+	"separ":"y",
+	"transes":["to exit",]
+	},
+	{
+	"verb":"angehen",
+	"separ":"y",
+	"transes":["to tackle","to concern something",]
+	},
+	{
+	"verb":"ausgehen",
+	"separ":"y",
+	"transes":["to go out",]
+	},
+	{
+	"verb":"aufgehen",
+	"separ":"y",
+	"transes":["to rise",]
+	},
+	{
+	"verb":"durchgehen",
+	"separ":"y",
+	"transes":["to go through",]
+	},
+	{
+	"verb":"mitgehen",
+	"separ":"y",
+	"transes":["to accompany",]
+	},
+	{
+	"verb":"nachgehen",
+	"separ":"y",
+	"transes":["to pursue",]
+	},
+	{
+	"verb":"vorgehen",
+	"separ":"y",
+	"transes":["to proceed",]
+	},
+	{
+	"verb":"uebergehen",
+	"separ":"y",
+	"transes":["to skip","to ignore",]
+	},
+	{
+	"verb":"umgehen",
+	"separ":"n",
+	"transes":["to bypass",]
+	},
+	{
+	"verb":"untergehen",
+	"separ":"n",
+	"transes":["to sink","to descend",]
+	},
+	{
+	"verb":"zugeen",
+	"separ":"y",
+	"transes":["to approach","to close",]
+	},
+]
+},
+}
