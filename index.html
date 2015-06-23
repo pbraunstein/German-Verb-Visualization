@@ -3,8 +3,21 @@
 <head>
 	<meta charset="utf-8">
 	<title>German Verb Viz</title>
+
+	<script type="text/javascript" src="libs/d3/d3.min.js"></script>
 </head>
 <body>
 	Hello World!
+	<script>
+		var data;
+		console.log("In Script");
+
+		d3.json("data/data.json", function(error, json){
+			if (error) return console.warn(error);
+			data = json;
+			console.log("Data loaded");
+			console.log(data);
+		});
+	</script>
 </body>
 </html>
