@@ -1,0 +1,5 @@
+Clean up the code
+Make more than one fdg
+Play with the fdg settings
+Play with the colors
+Have it display prefix in circle, hover for translation
