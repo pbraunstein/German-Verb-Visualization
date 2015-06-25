@@ -23,7 +23,7 @@
 		var color = d3.scale.category20();
 		var data;
 		var width = 600;
-		var height = 400;
+		var height = 600;
 		var svg = d3.select("body").append("svg")
 					.attr("width", width)
 					.attr("height", height)
@@ -36,12 +36,15 @@
 		});
 
 		function vizIt() {
+			buildFDG(data[1]);
+		}
+
+		function buildFDG(preTree) {
 			var fdg = d3.layout.force()
-				.gravity(.05)
+				.gravity(0.05)
 				.distance(100)
-				.charge(-100)
+				.charge(-1000)
 				.size([width, height]);
-			preTree = data[1]
 			nodes = [];
 			i = 1;
 
@@ -54,20 +57,33 @@
 			});
 
 			links = [];
-
+			console.log(preTree.childWords);
 			// Create links
 			for (i = 1; i < nodes.length; i++){
-				links.push({"source":0, "target":i, "value":3});
+				var newLink = {"source":0, "target":i, "value":6}
+				if (preTree.childWords[i - 1].separ == "y") {
+					newLink.separ = true;
+				} else {
+					newLink.separ = false;
+				}
+				links.push(newLink);
 			}
-
-			fdg.nodes(nodes).links(links).start();
+			console.log(links);
+			fdg.nodes(nodes).links(links).linkDistance(function(thisLink){
+				if (thisLink.separ) {
+					return 200;}
+				else {
+					return 100;
+				}
+			  }).start();
 
 			// draw lines for links
 			var link = svg.selectAll(".link")
 						  .data(links)
 						  .enter().append("line")
 						  .attr("class", "link")
-      					  .style("stroke-width", function(d) { return Math.sqrt(d.value); });
+						  .style("stroke-dasharray", function(d) {if (d.separ) {return 10} else {return 0}})
+      					  .style("stroke-width", function(d) { if (d.separ) {return Math.sqrt(d.value);} else {return d.value}});
 
       		//draw circles for nodes
 			var node = svg.selectAll(".node")
@@ -88,18 +104,6 @@
 				    node.attr("cx", function(d) { return d.x; })
 				        .attr("cy", function(d) { return d.y; });
 			});
-		}
-
-		function buildFDG(preTree) {
-			var fdg = d3.layout.force()
-						.gravity(.05)
-						.distance(100)
-    					.charge(-100)
-    					.size([width, height]);
-			nodes = [];
-			nodes.push({"name": preTree.root, "group" : 1});
-			fdg.nodes(nodes).links([]).start();
-			console.log(nodes);
 		}
 
 		function randPos() {

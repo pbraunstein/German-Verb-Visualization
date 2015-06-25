@@ -1,5 +1,4 @@
-Clean up the code
-Make more than one fdg
-Play with the fdg settings
 Play with the colors
 Have it display prefix in circle, hover for translation
+Update jsonizer so that it makes true or false java script things and update
+fdg maker to just put in true or false
