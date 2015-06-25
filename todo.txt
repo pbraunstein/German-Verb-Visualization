@@ -1,4 +1,7 @@
-Play with the colors
-Have it display prefix in circle, hover for translation
-Update jsonizer so that it makes true or false java script things and update
-fdg maker to just put in true or false
+--- Update jsonizer so that it outputs true and false into sep
+--------- which will require streamlining the code
+--- Differentiate root node by making it bigger
+--- only display prefix of the verb leafs in the text
+--- click for translation
+------- should have some kind of animation
+--- filter spread sheet so that it only has one word of translation
