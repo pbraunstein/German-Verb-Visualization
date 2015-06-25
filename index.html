@@ -3,13 +3,19 @@
 <head>
 	<meta charset="utf-8">
 	<title>German Verb Viz</title>
-
+	<link href="http://fonts.googleapis.com/css?family=Merienda+One" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet" type="text/css">
 	<script type="text/javascript" src="libs/d3/d3.min.js"></script>
 </head>
 <style>
 	.node {
 		stroke: #fff;
 		stroke-width: 1.5px;
+	}
+
+	.node text {
+		  pointer-events: none;
+  		  font: 30px Merienda;
 	}
 
 	.link {
@@ -57,7 +63,6 @@
 			});
 
 			links = [];
-			console.log(preTree.childWords);
 			// Create links
 			for (i = 1; i < nodes.length; i++){
 				var newLink = {"source":0, "target":i, "value":6}
@@ -68,7 +73,7 @@
 				}
 				links.push(newLink);
 			}
-			console.log(links);
+			
 			fdg.nodes(nodes).links(links).linkDistance(function(thisLink){
 				if (thisLink.separ) {
 					return 200;}
@@ -88,12 +93,19 @@
       		//draw circles for nodes
 			var node = svg.selectAll(".node")
 						  .data(nodes)
-						  .enter().append("circle")
+						  .enter().append("g")
 						  .attr("class", "node")
+						  .call(fdg.drag);
+				node.append("circle")		  
 						  .attr("r", 20)
 						  .style("fill", function(d) { return color(d.group); })
-						  .call(fdg.drag);
-		  	node.append("title").text(function(d) {return d.name});
+
+		  	node.append("text")
+		  		.attr("text-anchor", "middle")
+		  		.attr("dy", ".35em")
+		  		.style("fill", "gray")
+		  		.style("stroke", "black")
+		  		.text(function(d) {return d.name});
 
 		  	fdg.on("tick", function() {
 			    link.attr("x1", function(d) { return d.source.x; })
@@ -101,15 +113,8 @@
 			        .attr("x2", function(d) { return d.target.x; })
 			        .attr("y2", function(d) { return d.target.y; });
 
-				    node.attr("cx", function(d) { return d.x; })
-				        .attr("cy", function(d) { return d.y; });
+			     node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 			});
-		}
-
-		function randPos() {
-			var toReturn = Math.floor(Math.random() * diameter);
-			console.log(toReturn);
-			return toReturn;
 		}
 
 	</script>
