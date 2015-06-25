@@ -6,21 +6,107 @@
 
 	<script type="text/javascript" src="libs/d3/d3.min.js"></script>
 </head>
+<style>
+	.node {
+		stroke: #fff;
+		stroke-width: 1.5px;
+	}
+
+	.link {
+		stroke: #999;
+		stroke-opacity: .6;
+	}
+</style>
 <body>
 	Hello World!
 	<script>
+		var color = d3.scale.category20();
 		var data;
-		var diameter = 960;
+		var width = 600;
+		var height = 400;
 		var svg = d3.select("body").append("svg")
-					.attr("width", diameter)
-					.attr("height", diameter)
+					.attr("width", width)
+					.attr("height", height)
 		console.log("In Script");
 
 		d3.json("data/data.json", function(error, json){
 			if (error) return console.warn(error);
 			data = json;
-			console.log(data);
+			vizIt();
 		});
+
+		function vizIt() {
+			var fdg = d3.layout.force()
+				.gravity(.05)
+				.distance(100)
+				.charge(-100)
+				.size([width, height]);
+			preTree = data[1]
+			nodes = [];
+			i = 1;
+
+			// Create hub node
+			nodes.push({"name":preTree.root, "group":i++})
+
+			// Create all of the surrounding nodes
+			preTree.childWords.forEach(function(word) {
+				nodes.push({"name":word.verb, "group":i++});
+			});
+
+			links = [];
+
+			// Create links
+			for (i = 1; i < nodes.length; i++){
+				links.push({"source":0, "target":i, "value":3});
+			}
+
+			fdg.nodes(nodes).links(links).start();
+
+			// draw lines for links
+			var link = svg.selectAll(".link")
+						  .data(links)
+						  .enter().append("line")
+						  .attr("class", "link")
+      					  .style("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+      		//draw circles for nodes
+			var node = svg.selectAll(".node")
+						  .data(nodes)
+						  .enter().append("circle")
+						  .attr("class", "node")
+						  .attr("r", 20)
+						  .style("fill", function(d) { return color(d.group); })
+						  .call(fdg.drag);
+		  	node.append("title").text(function(d) {return d.name});
+
+		  	fdg.on("tick", function() {
+			    link.attr("x1", function(d) { return d.source.x; })
+			        .attr("y1", function(d) { return d.source.y; })
+			        .attr("x2", function(d) { return d.target.x; })
+			        .attr("y2", function(d) { return d.target.y; });
+
+				    node.attr("cx", function(d) { return d.x; })
+				        .attr("cy", function(d) { return d.y; });
+			});
+		}
+
+		function buildFDG(preTree) {
+			var fdg = d3.layout.force()
+						.gravity(.05)
+						.distance(100)
+    					.charge(-100)
+    					.size([width, height]);
+			nodes = [];
+			nodes.push({"name": preTree.root, "group" : 1});
+			fdg.nodes(nodes).links([]).start();
+			console.log(nodes);
+		}
+
+		function randPos() {
+			var toReturn = Math.floor(Math.random() * diameter);
+			console.log(toReturn);
+			return toReturn;
+		}
 
 	</script>
 </body>
