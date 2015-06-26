@@ -123,6 +123,8 @@
 
 
 		  			});
+		  	node.append("title")
+		  		.text(function(d) {return d.name});
 
 		  	fdg.on("tick", function() {
 			    link.attr("x1", function(d) { return d.source.x; })
