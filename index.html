@@ -15,7 +15,7 @@
 
 	.node text {
 		  pointer-events: none;
-  		  font: 30px Merienda;
+  		  font: 25px Merienda;
 	}
 
 	.link {
@@ -29,6 +29,8 @@
 		var data;
 		var width = 1000;
 		var height = 800;
+		var nodeRad = 30;
+		var HUB_SCALE_FACTOR = 3;
 		var svg = d3.select("body").append("svg")
 					.attr("width", width)
 					.attr("height", height)
@@ -51,12 +53,15 @@
 			nodes = [];
 			i = 1;
 
+			// Get length of root
+			rootLength = preTree.root.length;
+
 			// Create hub node
-			nodes.push({"name":preTree.root, "group":i++})
+			nodes.push({"name":preTree.root, "group":i++, "hub":true})
 
 			// Create all of the surrounding nodes
 			preTree.childWords.forEach(function(word) {
-				nodes.push({"name":word.verb, "group":i++});
+				nodes.push({"name":word.verb, "group":i++,"hub":false});
 			});
 
 			links = [];
@@ -94,7 +99,14 @@
 						  .attr("class", "node")
 						  .call(fdg.drag);
 				node.append("circle")		  
-						  .attr("r", 20)
+						  .attr("r", function(d){
+						  	// hubs should be bigger
+						  	if (d.hub) {
+						  		return HUB_SCALE_FACTOR * nodeRad;
+						  	} else {
+						  		return nodeRad;
+						  	}
+						  })
 						  .style("fill", function(d) { return color(d.group); })
 
 		  	node.append("text")
@@ -102,7 +114,15 @@
 		  		.attr("dy", ".35em")
 		  		.style("fill", "gray")
 		  		.style("stroke", "black")
-		  		.text(function(d) {return d.name});
+		  		.text(function(d) {
+		  			if (d.hub) {
+		  				return d.name;
+		  			} else {
+		  				return d.name.slice(0, -rootLength);
+		  			}
+
+
+		  			});
 
 		  	fdg.on("tick", function() {
 			    link.attr("x1", function(d) { return d.source.x; })
