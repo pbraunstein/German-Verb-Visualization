@@ -1,3 +1,4 @@
 --- click for translation
-------- should have some kind of animation
+-------- should have some kind of animation
 --- filter spread sheet so that it only has one word of translation
+--- Put it in bounding box

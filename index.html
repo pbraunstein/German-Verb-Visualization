@@ -31,6 +31,7 @@
 		var height = 800;
 		var nodeRad = 30;
 		var HUB_SCALE_FACTOR = 3;
+		var TRANS_DURATION = 1000;
 		var svg = d3.select("body").append("svg")
 					.attr("width", width)
 					.attr("height", height)
@@ -96,7 +97,8 @@
 						  .enter().append("g")
 						  .attr("class", "node")
 						  .call(fdg.drag);
-				node.append("circle")		  
+
+			node.append("circle")		  
 						  .attr("r", function(d){
 						  	// hubs should be bigger
 						  	if (d.hub) {
@@ -105,13 +107,25 @@
 						  		return nodeRad;
 						  	}
 						  })
-						  .style("fill", function(d) { return color(d.group); })
+						  .on("click", function(d ){
+						  	d3.select(this).transition().duration(TRANS_DURATION)
+						  	  .attr("r", 2 * d3.select(this).attr("r"))
+						  	  .style("opacity", 0.3);
+						  	d3.select(this).transition().duration(TRANS_DURATION)
+						  	  .delay(3000).attr("r", d3.select(this).attr("r"))
+						  	  .style("opacity", 1);
+						  })
+						  .style("fill", function(d) { return color(d.group); });
 
+			// Draw the text label
 		  	node.append("text")
 		  		.attr("text-anchor", "middle")
 		  		.attr("dy", ".35em")
 		  		.style("fill", "gray")
 		  		.style("stroke", "black")
+		  		.on("click", function() {
+		  			console.log("CLICK");
+		  		})
 		  		.text(function(d) {
 		  			if (d.hub) {
 		  				return d.name;
@@ -120,9 +134,12 @@
 		  			}
 
 
-		  			});
+		  		});
+
+		  	// Create tooltip
 		  	node.append("title")
 		  		.text(function(d) {return d.name});
+
 
 		  	fdg.on("tick", function() {
 			    link.attr("x1", function(d) { return d.source.x; })
