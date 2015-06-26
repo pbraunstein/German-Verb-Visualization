@@ -32,6 +32,7 @@
 		var nodeRad = 30;
 		var HUB_SCALE_FACTOR = 3;
 		var TRANS_DURATION = 1000;
+		var PAUSE_DURATION = 3000;
 		var svg = d3.select("body").append("svg")
 					.attr("width", width)
 					.attr("height", height)
@@ -58,11 +59,11 @@
 			rootLength = preTree.root.length;
 
 			// Create hub node
-			nodes.push({"name":preTree.root, "group":i++, "hub":true})
+			nodes.push({"name":preTree.root, "group":i++, "hub":true,"trans":"n/a"})
 
 			// Create all of the surrounding nodes
 			preTree.childWords.forEach(function(word) {
-				nodes.push({"name":word.verb, "group":i++,"hub":false});
+				nodes.push({"name":word.verb, "group":i++,"hub":false,"trans":word.trans});
 			});
 
 			links = [];
@@ -134,21 +135,23 @@
 
 		  	node.on("click", function(d){
 		  		// Transition
+		  		var origText = d3.select(this).select("text").text();
 		  		d3.select(this).select("circle").transition().duration(TRANS_DURATION)
 		  		  .attr("r", 2 * d3.select(this).select("circle").attr("r"))
 		  		  .style("opacity", 0.3);
-		  		d3.select(this).select("text").transition().duration(TRANS_DURATION)
+
+		  		d3.select(this).select("text").transition().delay(TRANS_DURATION)
 		  		  .style("fill", "black")
-		  		  .style("stroke", "gray");
+		  		  .text(d.trans);
 
 
 		  		// Pause, and then transition back to normal
-		  		d3.select(this).select("circle").transition().delay(3000).duration(TRANS_DURATION)
+		  		d3.select(this).select("circle").transition().delay(PAUSE_DURATION).duration(TRANS_DURATION)
 		  		  .attr("r", d3.select(this).select("circle").attr("r"))
 		  		  .style("opacity", 1);
-		  		d3.select(this).select("text").transition().delay(3000).duration(TRANS_DURATION)
-		  		  .style("fill", "gray")
-		  		  .style("stroke", "black");
+		  		d3.select(this).select("text").transition().delay(PAUSE_DURATION)
+		  		  .text(origText)
+		  		  .style("fill", "gray");
 
 		  	})
 

@@ -5,22 +5,22 @@
 		{
 			"verb": "abstellen",
 			"separ": true,
-			"transes": ["to put down", "to turn off"]
+			"trans": "to put down / to turn off"
 		},
 		{
 			"verb": "anstellen",
 			"separ": true,
-			"transes": ["to lean on", "to attempt"]
+			"trans": "to lean on / to attempt"
 		},
 		{
 			"verb": "aufstellen",
 			"separ": true,
-			"transes": ["to arrange", "to establish"]
+			"trans": "to arrange / to establish"
 		},
 		{
 			"verb": "bestellen",
 			"separ": false,
-			"transes": ["to order"]
+			"trans": "to order"
 		}
 	]
 },
@@ -30,62 +30,62 @@
 		{
 			"verb": "abgehen",
 			"separ": true,
-			"transes": ["to exit"]
+			"trans": "to exit"
 		},
 		{
 			"verb": "angehen",
 			"separ": true,
-			"transes": ["to tackle", "to concern something"]
+			"trans": "to tackle / to concern something"
 		},
 		{
 			"verb": "ausgehen",
 			"separ": true,
-			"transes": ["to go out"]
+			"trans": "to go out"
 		},
 		{
 			"verb": "aufgehen",
 			"separ": true,
-			"transes": ["to rise"]
+			"trans": "to rise"
 		},
 		{
 			"verb": "durchgehen",
 			"separ": true,
-			"transes": ["to go through"]
+			"trans": "to go through"
 		},
 		{
 			"verb": "mitgehen",
 			"separ": true,
-			"transes": ["to accompany"]
+			"trans": "to accompany"
 		},
 		{
 			"verb": "nachgehen",
 			"separ": true,
-			"transes": ["to pursue"]
+			"trans": "to pursue"
 		},
 		{
 			"verb": "vorgehen",
 			"separ": true,
-			"transes": ["to proceed"]
+			"trans": "to proceed"
 		},
 		{
 			"verb": "uebergehen",
 			"separ": true,
-			"transes": ["to skip", "to ignore"]
+			"trans": "to skip"
 		},
 		{
 			"verb": "umgehen",
 			"separ": false,
-			"transes": ["to bypass"]
+			"trans": "to bypass"
 		},
 		{
 			"verb": "untergehen",
 			"separ": false,
-			"transes": ["to sink", "to descend"]
+			"trans": "to sink"
 		},
 		{
 			"verb": "zugehen",
 			"separ": true,
-			"transes": ["to approach", "to close"]
+			"trans": "to approach / to close"
 		}
 	]
 }

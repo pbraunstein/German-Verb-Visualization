@@ -50,13 +50,9 @@ def writeOut(roots):
                 filew.write("\t\t\t\"verb\": \"" + verb[0] + "\",\n")
                 filew.write("\t\t\t\"separ\": " +  getJsonIsSep(verb[1])
                             + ",\n")
-                filew.write("\t\t\t\"transes\": [")
-                for k in range(len(verb[2:])):
-                    if k < (len(verb[2:]) - 1):  # not last entry, add comma
-                        filew.write("\"" + verb[2:][k] + "\", ")
-                    else:  # Last entry, no comma
-                        filew.write("\"" + verb[2:][k] + "\"")
-                filew.write("]\n")
+                filew.write("\t\t\t\"trans\": ")
+                filew.write("\"" + verb[2] + "\"")
+                filew.write("\n")
                 if j < (len(roots[root]) - 1):  # not last entry, add comma
                     filew.write("\t\t},\n")
                 else:  # last entry, don't add comma
