@@ -48,7 +48,8 @@ def writeOut(roots):
                 verb = roots[root][j]
                 filew.write("\t\t{\n")
                 filew.write("\t\t\t\"verb\": \"" + verb[0] + "\",\n")
-                filew.write("\t\t\t\"separ\": \"" + verb[1].lower() + "\",\n")
+                filew.write("\t\t\t\"separ\": " +  getJsonIsSep(verb[1])
+                            + ",\n")
                 filew.write("\t\t\t\"transes\": [")
                 for k in range(len(verb[2:])):
                     if k < (len(verb[2:]) - 1):  # not last entry, add comma
@@ -67,6 +68,20 @@ def writeOut(roots):
                 filew.write("}\n")  
 
         filew.write("]")  # Close whole array
+
+
+# Returns the string "true" (without quotes, mind you) if
+# the argument passed in is anycase y. Returns "false" if
+# anycase n, otherwise, prints an error message and fails
+def getJsonIsSep(letter):
+    letter = letter.lower()
+    if letter == 'y':
+        return "true"
+    elif letter == 'n':
+        return "false"
+    else:
+        print "ERROR:", letter, "is not a valid sep marker"
+        exit(1)
 
 
 

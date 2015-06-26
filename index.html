@@ -68,11 +68,9 @@
 			// Create links
 			for (i = 1; i < nodes.length; i++){
 				var newLink = {"source":0, "target":i, "value":6}
-				if (preTree.childWords[i - 1].separ == "y") {
-					newLink.separ = true;
-				} else {
-					newLink.separ = false;
-				}
+				// Index is one behind, because childWords doesn't
+				// include the hub node root
+				newLink.separ = preTree.childWords[i - 1].separ;
 				links.push(newLink);
 			}
 
