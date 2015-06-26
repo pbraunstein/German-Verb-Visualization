@@ -107,14 +107,6 @@
 						  		return nodeRad;
 						  	}
 						  })
-						  .on("click", function(d ){
-						  	d3.select(this).transition().duration(TRANS_DURATION)
-						  	  .attr("r", 2 * d3.select(this).attr("r"))
-						  	  .style("opacity", 0.3);
-						  	d3.select(this).transition().duration(TRANS_DURATION)
-						  	  .delay(3000).attr("r", d3.select(this).attr("r"))
-						  	  .style("opacity", 1);
-						  })
 						  .style("fill", function(d) { return color(d.group); });
 
 			// Draw the text label
@@ -139,6 +131,26 @@
 		  	// Create tooltip
 		  	node.append("title")
 		  		.text(function(d) {return d.name});
+
+		  	node.on("click", function(d){
+		  		// Transition
+		  		d3.select(this).select("circle").transition().duration(TRANS_DURATION)
+		  		  .attr("r", 2 * d3.select(this).select("circle").attr("r"))
+		  		  .style("opacity", 0.3);
+		  		d3.select(this).select("text").transition().duration(TRANS_DURATION)
+		  		  .style("fill", "black")
+		  		  .style("stroke", "gray");
+
+
+		  		// Pause, and then transition back to normal
+		  		d3.select(this).select("circle").transition().delay(3000).duration(TRANS_DURATION)
+		  		  .attr("r", d3.select(this).select("circle").attr("r"))
+		  		  .style("opacity", 1);
+		  		d3.select(this).select("text").transition().delay(3000).duration(TRANS_DURATION)
+		  		  .style("fill", "gray")
+		  		  .style("stroke", "black");
+
+		  	})
 
 
 		  	fdg.on("tick", function() {
