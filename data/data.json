@@ -5,17 +5,17 @@
 		{
 			"verb": "abstellen",
 			"separ": true,
-			"trans": "to put down / to turn off"
+			"trans": "to put down"
 		},
 		{
 			"verb": "anstellen",
 			"separ": true,
-			"trans": "to lean on / to attempt"
+			"trans": "to lean on"
 		},
 		{
 			"verb": "aufstellen",
 			"separ": true,
-			"trans": "to arrange / to establish"
+			"trans": "to arrange"
 		},
 		{
 			"verb": "bestellen",
@@ -35,7 +35,7 @@
 		{
 			"verb": "angehen",
 			"separ": true,
-			"trans": "to tackle / to concern something"
+			"trans": "to tackle"
 		},
 		{
 			"verb": "ausgehen",
@@ -85,7 +85,7 @@
 		{
 			"verb": "zugehen",
 			"separ": true,
-			"trans": "to approach / to close"
+			"trans": "to approach"
 		}
 	]
 }

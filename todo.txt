@@ -1,4 +1,2 @@
---- click for translation
--------- should have some kind of animation
---- filter spread sheet so that it only has one word of translation
+--- Figure out how to add translation of root to spreadsheet
 --- Put it in bounding box
