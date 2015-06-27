@@ -1,5 +1,4 @@
 --- Figure out how to add translation of root to spreadsheet
--- limit position on bounding box when dragging
 -- look into dragging things in general
 --- set initial positions so it doesn't get stuck in the corners on start up
 --- reorganize code into different js files

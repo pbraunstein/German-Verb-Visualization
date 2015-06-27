@@ -28,7 +28,7 @@
 		var color = d3.scale.category20();
 		var data;
 		var width = 1000;
-		var height = 800;
+		var height = 700;
 		var nodeRad = 30;
 		var HUB_SCALE_FACTOR = 3;
 		var TRANS_DURATION = 1000;
@@ -165,12 +165,13 @@
 
 
 		  	fdg.on("tick", function() {
+		  		node.attr("transform", function(d) {return "translate(" + clampX(d, this) + "," + clampY(d, this) + ")"; });
 			    link.attr("x1", function(d) { return d.source.x; })
 			        .attr("y1", function(d) { return d.source.y; })
 			        .attr("x2", function(d) { return d.target.x; })
 			        .attr("y2", function(d) { return d.target.y; });
 
-			     node.attr("transform", function(d) {return "translate(" + clampX(d, this) + "," + clampY(d, this) + ")"; });
+
 			});
 		}
 
@@ -183,25 +184,31 @@
 	function clampX(node, box) {
 		// Insane way to get radius, is there a better way?
 		var rad = d3.select(box)[0][0].childNodes[0].r.animVal.value;
+		var newVal;
 		if (node.x - rad < 0){
-			return rad;
+			newVal = rad;
 		} else if (node.x + rad  > width) {
-			return width - rad;
+			newVal = width - rad;
 		} else {
-			return node.x;
+			newVal = node.x;
 		}
+		node.x = newVal;
+		return node.x;
 	}
 
 	function clampY(node, box){
 		// Insane way to get radius, is there a better way?
 		var rad = d3.select(box)[0][0].childNodes[0].r.animVal.value;
+		var newVal;
 		if (node.y - rad < 0){
-			return rad;
+			newVal = rad;
 		} else if (node.y + rad > height) {
-			return height - rad;
+			newVal = height - rad;
 		} else {
-			return node.y;
+			newVal = node.y;
 		}
+		node.y = newVal;
+		return node.y
 	}
 
 	function getRandomPos(isXCoord) {
