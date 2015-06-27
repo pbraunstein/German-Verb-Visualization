@@ -36,6 +36,14 @@
 		var svg = d3.select("body").append("svg")
 					.attr("width", width)
 					.attr("height", height)
+		// Add bounding box
+		 svg.append("rect")
+		   .attr("x", 0)
+		   .attr("y", 0)
+		   .attr("width", width)
+		   .attr("height", height)
+		   .style("fill", "white")
+		   .style("stroke", "black");
 
 		d3.json("data/data.json", function(error, json){
 			if (error) return console.warn(error);
@@ -165,6 +173,7 @@
 			     node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 			});
 		}
+
 
 	function getRandomPos(isXCoord) {
 		if (isXCoord) {

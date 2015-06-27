@@ -1,2 +1,2 @@
 --- Figure out how to add translation of root to spreadsheet
---- Put it in bounding box
+-- limit position based on bounding box
