@@ -170,10 +170,34 @@
 			        .attr("x2", function(d) { return d.target.x; })
 			        .attr("y2", function(d) { return d.target.y; });
 
-			     node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+			     node.attr("transform", function(d) {return "translate(" + clampX(d) + "," + clampY(d) + ")"; });
 			});
 		}
 
+
+	// Take in a g element, and returns the x 
+	// position it should be in taking into account
+	// node is the data, 
+	// currently lets circs go half off
+	function clampX(node) {
+		if (node.x < 0){
+			return 0;
+		} else if (node.x > width) {
+			return width;
+		} else {
+			return node.x;
+		}
+	}
+
+	function clampY(node){
+		if (node.y < 0){
+			return 0;
+		} else if (node.y > width) {
+			return width;
+		} else {
+			return node.y;
+		}
+	}
 
 	function getRandomPos(isXCoord) {
 		if (isXCoord) {
