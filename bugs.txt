@@ -1,0 +1,2 @@
+---- Double clicking causes double inflation, and makes it so that it returns
+to twice its size
