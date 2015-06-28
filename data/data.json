@@ -79,7 +79,7 @@
 		},
 		{
 			"verb": "untergehen",
-			"separ": false,
+			"separ": true,
 			"trans": "to sink"
 		},
 		{

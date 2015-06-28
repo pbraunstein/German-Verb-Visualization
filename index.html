@@ -125,6 +125,7 @@
 		  		.attr("dy", ".35em")
 		  		.style("fill", "gray")
 		  		.style("stroke", "black")
+		  		.style("-web-user-select", "none")
 		  		.text(function(d) {
 		  			if (d.hub) {
 		  				return d.name;
@@ -156,20 +157,19 @@
 		  		  .style("opacity", 0.3)
 		  		  .each("start", function() {d3.select(this).style("pointer-events", "none");});
 
+		  		// Put in translated text
 		  		d3.select(this).select("text").transition().delay(TRANS_DURATION)
-		  		  .style("fill", "black")
 		  		  .text(d.trans);
 
+		  		// Return text to normal  
+		  		d3.select(this).select("text").transition().delay(PAUSE_DURATION)
+		  		  .text(origText);
 
 		  		// Pause, and then transition back to normal
 		  		d3.select(this).select("circle").transition().delay(PAUSE_DURATION).duration(TRANS_DURATION)
 		  		  .attr("r", d3.select(this).select("circle").attr("r"))
 		  		  .style("opacity", 1)
 		  		  .each("end", function () {d3.select(this).style("pointer-events", "auto")});  	
-		  		d3.select(this).select("text").transition().delay(PAUSE_DURATION)
-		  		  .text(origText)
-		  		  .style("fill", "gray");
-		  			  	
 	}
 
 	function adjustNodesNLinks (node, link) {
