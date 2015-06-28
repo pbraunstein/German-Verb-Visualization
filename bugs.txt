@@ -1,0 +1,2 @@
+When the simulation is on, the inflating nodes respect the boundary, when it is
+off, they do not
