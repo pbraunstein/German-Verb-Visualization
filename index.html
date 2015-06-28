@@ -27,7 +27,7 @@
 	<script>
 		var color = d3.scale.category20();
 		var data;
-		var width = 900;
+		var width = 700;
 		var height = 700;
 		var nodeRad = 30;
 		var HUB_SCALE_FACTOR = 3;
@@ -37,6 +37,7 @@
 		var svg = d3.select("body").append("svg")
 					.attr("width", width)
 					.attr("height", height)
+		var fdg;
 		// Add bounding box
 		 svg.append("rect")
 		   .attr("x", 0)
@@ -57,13 +58,12 @@
 		}
 
 		function buildFDG(preTree) {
-			var fdg = d3.layout.force()
+			fdg = d3.layout.force()
 				.gravity(0.05)
 				.charge(-1000)
 				.size([width, height]);
 			nodes = [];
 			i = 1;
-
 			// Get length of root
 			rootLength = preTree.root.length;
 
@@ -101,13 +101,14 @@
 						  .style("stroke-dasharray", function(d) {if (d.separ) {return 10} else {return 0}})
       					  .style("stroke-width", function(d) { if (d.separ) {return Math.sqrt(d.value);} else {return d.value}});
 
-      		//draw circles for nodes
+      		//create g elemnts for the nodes
 			var node = svg.selectAll(".node")
 						  .data(nodes)
 						  .enter().append("g")
 						  .attr("class", "node")
 						  .call(fdg.drag);
 
+			// add circles for the nodes
 			node.append("circle")		  
 						  .attr("r", function(d){
 						  	// hubs should be bigger
@@ -125,15 +126,12 @@
 		  		.attr("dy", ".35em")
 		  		.style("fill", "gray")
 		  		.style("stroke", "black")
-		  		.style("-web-user-select", "none")
 		  		.text(function(d) {
 		  			if (d.hub) {
 		  				return d.name;
 		  			} else {
 		  				return d.name.slice(0, -rootLength);
 		  			}
-
-
 		  		});
 
 		  	// Create tooltip
@@ -149,11 +147,11 @@
 		}
 
 	function clickEventHandler(d) {	
+				fdg.start();
 		  		// Transition
 		  		var origText = d3.select(this).select("text").text();
-		  		var origContext = this;
 		  		d3.select(this).select("circle").transition().duration(TRANS_DURATION)
-		  		  .attr("r", function() {return 2 * d3.select(origContext).select("circle").attr("r");})
+		  		  .attr("r", 2 * d3.select(this).select("circle").attr("r"))
 		  		  .style("opacity", 0.3)
 		  		  .each("start", function() {d3.select(this).style("pointer-events", "none");});
 
@@ -181,11 +179,10 @@
 	}
 
 
-	// Take in a g element, and returns the x 
-	// position it should be in taking into account
+
 	// node is the data, 
 	// box is the this context of the g svg
-	// currently lets circs go half off
+	// extracts radius and uses this to position node within x bounds
 	function clampX(node, box) {
 		// INSANE ABSURD way to get radius, is there a better way?
 		var rad = d3.select(box)[0][0].childNodes[0].r.animVal.value;
@@ -201,8 +198,11 @@
 		return node.x;
 	}
 
+	// node is the data, 
+	// box is the this context of the g svg
+	// extracts radius and uses this to position node within y bounds
 	function clampY(node, box){
-		// Insane way to get radius, is there a better way?
+		// INSANE ABSURD way to get radius, is there a better way?
 		var rad = d3.select(box)[0][0].childNodes[0].r.animVal.value;
 		var newVal;
 		if (node.y - rad < 0){

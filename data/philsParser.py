@@ -16,12 +16,12 @@ def main():
     acc = ''
 
     for line in filer:
-        # Get rid of preamble stuff
+        # Keep preamble stuff
         if "<page>" in line and not inBody:
             inBody = True
             acc += line
-        elif not inBody:  # In preamble, don't need it
-            continue  
+        elif not inBody:  # In preamble just put it into the new file
+            filew.write(line)
         elif "</page>" in line:  # end of reccord
             acc += line
             # found a German verb DE wiktionary
