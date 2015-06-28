@@ -33,6 +33,7 @@
 		var HUB_SCALE_FACTOR = 3;
 		var TRANS_DURATION = 1000;
 		var PAUSE_DURATION = 3000;
+		var currentlyAnimating = []
 		var svg = d3.select("body").append("svg")
 					.attr("width", width)
 					.attr("height", height)
@@ -124,9 +125,6 @@
 		  		.attr("dy", ".35em")
 		  		.style("fill", "gray")
 		  		.style("stroke", "black")
-		  		.on("click", function() {
-		  			console.log("CLICK");
-		  		})
 		  		.text(function(d) {
 		  			if (d.hub) {
 		  				return d.name;
@@ -141,16 +139,22 @@
 		  	node.append("title")
 		  		.text(function(d) {return d.name});
 
-		  	node.on("click", function(d){
+		  	node.on("click", clickEventHandler)
+
+
+		  	fdg.on("tick", function() {
+		  		adjustNodesNLinks(node, link);
+			});
+		}
+
+	function clickEventHandler(d) {	
 		  		// Transition
 		  		var origText = d3.select(this).select("text").text();
 		  		var origContext = this;
 		  		d3.select(this).select("circle").transition().duration(TRANS_DURATION)
-		  		  .attr("r", function() {adjustNodesNLinks(node, link); return 2 * d3.select(origContext).select("circle").attr("r");})
-		  		  .style("opacity", 0.3);
-
-		  		
-		  		  
+		  		  .attr("r", function() {return 2 * d3.select(origContext).select("circle").attr("r");})
+		  		  .style("opacity", 0.3)
+		  		  .each("start", function() {d3.select(this).style("pointer-events", "none");});
 
 		  		d3.select(this).select("text").transition().delay(TRANS_DURATION)
 		  		  .style("fill", "black")
@@ -160,21 +164,15 @@
 		  		// Pause, and then transition back to normal
 		  		d3.select(this).select("circle").transition().delay(PAUSE_DURATION).duration(TRANS_DURATION)
 		  		  .attr("r", d3.select(this).select("circle").attr("r"))
-		  		  .style("opacity", 1);
+		  		  .style("opacity", 1)
+		  		  .each("end", function () {d3.select(this).style("pointer-events", "auto")});  	
 		  		d3.select(this).select("text").transition().delay(PAUSE_DURATION)
 		  		  .text(origText)
 		  		  .style("fill", "gray");
-
-		  	})
-
-
-		  	fdg.on("tick", function() {
-		  		adjustNodesNLinks(node, link);
-			});
-		}
+		  			  	
+	}
 
 	function adjustNodesNLinks (node, link) {
-		console.log("Adjusting?");
   		node.attr("transform", function(d) {return "translate(" + clampX(d, this) + "," + clampY(d, this) + ")"; });
 	    link.attr("x1", function(d) { return d.source.x; })
 	        .attr("y1", function(d) { return d.source.y; })
