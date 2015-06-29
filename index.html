@@ -59,7 +59,7 @@
 
 		function buildFDG(preTree) {
 			fdg = d3.layout.force()
-				.gravity(0.05)
+				.gravity(0.075)
 				.charge(-1000)
 				.size([width, height]);
 			nodes = [];
@@ -136,7 +136,7 @@
 
 		  	// Create tooltip
 		  	node.append("title")
-		  		.text(function(d) {return d.name});
+		  		.text(function(d) {return d.name + "\n" + d.trans});
 
 		  	node.on("click", clickEventHandler)
 
