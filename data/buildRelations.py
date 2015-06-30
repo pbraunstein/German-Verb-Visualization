@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Right now, throws out all records without translation
+
 from sys import exit
 from bs4 import BeautifulSoup
 import re
@@ -7,12 +9,13 @@ import re
 # CONSTANTS
 INPUT = "filteredPhilsWayDE.xml"
 OUTPUT = "verben.csv"
-NA = "N/A"
+NA = u'N/A'
+CODE = "utf-8-sig"
 
 class xmlRecord:
     def __init__(self, record):
         self.name = unicode(record.title.contents[0])
-        self.trans = self.getEnTrans(record.text)
+        self.trans = unicode(self.getEnTrans(record.text))
         self.isRoot = None
         self.isSep = None
         self.prefix = None
@@ -20,7 +23,8 @@ class xmlRecord:
         self.children = []
 
     def __str__(self):
-        return self.name + "\n" + self.trans
+        return self.name.encode(CODE) + "\n" + self.trans.encode(CODE)\
+            + "\n\n"
 
     # Parses the text of the XML record to get the En translation
     def getEnTrans(self, text):
@@ -44,10 +48,20 @@ def main():
     soup = BeautifulSoup(open(INPUT), "xml")
     allPages = soup.findAll('page')
 
+    records = []
+
     for page in allPages:
-        if page.title.contents[0] == 'suchen':
-            print xmlRecord(page)
-            break
+        newRec = xmlRecord(page)  # Create new record
+        if newRec.trans != NA:
+            records.append(newRec)
+
+    print "Successfully created all records"
+
+    for record in records:
+        print record
+
+    print len(records)
+
 
 
 
