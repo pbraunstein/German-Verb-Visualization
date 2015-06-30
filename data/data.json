@@ -16,17 +16,6 @@
 	]
 },
 {
-	"root": "﻿loben",
-	"trans": "﻿praise",
-	"childWords": [
-		{
-			"verb": "﻿lobhudeln",
-			"separ": false,
-			"trans": "﻿adulate"
-		}
-	]
-},
-{
 	"root": "﻿pissen",
 	"trans": "﻿piss",
 	"childWords": [
@@ -45,17 +34,6 @@
 			"verb": "﻿abtrennen",
 			"separ": true,
 			"trans": "﻿separate"
-		}
-	]
-},
-{
-	"root": "﻿knutschen",
-	"trans": "﻿snog",
-	"childWords": [
-		{
-			"verb": "﻿knautschen",
-			"separ": false,
-			"trans": "﻿crumple"
 		}
 	]
 },
@@ -100,11 +78,6 @@
 			"verb": "﻿aufdrängen",
 			"separ": true,
 			"trans": "﻿obtrude"
-		},
-		{
-			"verb": "﻿drängeln",
-			"separ": false,
-			"trans": "﻿push"
 		}
 	]
 },
@@ -163,13 +136,38 @@
 	]
 },
 {
-	"root": "﻿passen",
-	"trans": "﻿fit",
+	"root": "﻿richten",
+	"trans": "﻿straighten",
 	"childWords": [
 		{
-			"verb": "﻿anpassen",
+			"verb": "﻿ausrichten",
 			"separ": true,
-			"trans": "﻿adapt"
+			"trans": "﻿align"
+		},
+		{
+			"verb": "﻿aufrichten",
+			"separ": true,
+			"trans": "﻿raise"
+		},
+		{
+			"verb": "﻿unterrichten",
+			"separ": false,
+			"trans": "﻿teach"
+		},
+		{
+			"verb": "﻿errichten",
+			"separ": false,
+			"trans": "﻿build"
+		},
+		{
+			"verb": "﻿berichten",
+			"separ": false,
+			"trans": "﻿report"
+		},
+		{
+			"verb": "﻿anrichten",
+			"separ": true,
+			"trans": "﻿perpetrate"
 		}
 	]
 },
@@ -213,22 +211,17 @@
 			"verb": "﻿entspringen",
 			"separ": false,
 			"trans": "﻿spring"
-		},
-		{
-			"verb": "﻿sprengen",
-			"separ": false,
-			"trans": "﻿spray"
 		}
 	]
 },
 {
-	"root": "﻿lachen",
-	"trans": "﻿laugh",
+	"root": "﻿reiben",
+	"trans": "﻿rub",
 	"childWords": [
 		{
-			"verb": "﻿lächeln",
+			"verb": "﻿zerreiben",
 			"separ": false,
-			"trans": "﻿smile"
+			"trans": "﻿bray"
 		}
 	]
 },
@@ -327,11 +320,6 @@
 			"verb": "﻿vertauschen",
 			"separ": false,
 			"trans": "﻿exchange"
-		},
-		{
-			"verb": "﻿täuschen",
-			"separ": false,
-			"trans": "﻿deceive"
 		},
 		{
 			"verb": "﻿austauschen",
@@ -572,17 +560,6 @@
 	]
 },
 {
-	"root": "﻿sortieren",
-	"trans": "﻿sort",
-	"childWords": [
-		{
-			"verb": "﻿aussortieren",
-			"separ": true,
-			"trans": "﻿winnow"
-		}
-	]
-},
-{
 	"root": "﻿machen",
 	"trans": "﻿make",
 	"childWords": [
@@ -696,17 +673,6 @@
 			"verb": "﻿entzünden",
 			"separ": false,
 			"trans": "﻿ignite"
-		}
-	]
-},
-{
-	"root": "﻿kochen",
-	"trans": "﻿cook",
-	"childWords": [
-		{
-			"verb": "﻿köcheln",
-			"separ": true,
-			"trans": "﻿simmer"
 		}
 	]
 },
@@ -1158,13 +1124,18 @@
 	]
 },
 {
-	"root": "﻿schlürfen",
-	"trans": "﻿sip",
+	"root": "﻿reißen",
+	"trans": "﻿write",
 	"childWords": [
 		{
-			"verb": "﻿schlurfen",
+			"verb": "﻿zerreißen",
 			"separ": false,
-			"trans": "﻿shuffle"
+			"trans": "﻿tear"
+		},
+		{
+			"verb": "﻿hinreißen",
+			"separ": true,
+			"trans": "﻿enrapture"
 		}
 	]
 },
@@ -1252,11 +1223,6 @@
 			"verb": "﻿erkennen",
 			"separ": false,
 			"trans": "﻿recognize"
-		},
-		{
-			"verb": "﻿kennzeichnen",
-			"separ": false,
-			"trans": "﻿mark"
 		},
 		{
 			"verb": "﻿bekennen",
@@ -1547,11 +1513,6 @@
 			"verb": "﻿besitzen",
 			"separ": false,
 			"trans": "﻿possess"
-		},
-		{
-			"verb": "﻿setzen",
-			"separ": false,
-			"trans": "﻿set"
 		}
 	]
 },
@@ -1642,17 +1603,6 @@
 	]
 },
 {
-	"root": "﻿dampfen",
-	"trans": "﻿fume",
-	"childWords": [
-		{
-			"verb": "﻿dämpfen",
-			"separ": false,
-			"trans": "﻿steam"
-		}
-	]
-},
-{
 	"root": "﻿stampfen",
 	"trans": "﻿stomp",
 	"childWords": [
@@ -1660,28 +1610,6 @@
 			"verb": "﻿zerstampfen",
 			"separ": false,
 			"trans": "﻿mash"
-		}
-	]
-},
-{
-	"root": "﻿erkiesen",
-	"trans": "﻿choose",
-	"childWords": [
-		{
-			"verb": "﻿auserkiesen",
-			"separ": true,
-			"trans": "﻿choose"
-		}
-	]
-},
-{
-	"root": "﻿stieben",
-	"trans": "﻿scatter",
-	"childWords": [
-		{
-			"verb": "﻿zerstieben",
-			"separ": false,
-			"trans": "﻿disperse"
 		}
 	]
 },
@@ -2049,11 +1977,6 @@
 	"trans": "﻿dive",
 	"childWords": [
 		{
-			"verb": "﻿taufen",
-			"separ": false,
-			"trans": "﻿baptize"
-		},
-		{
 			"verb": "﻿auftauchen",
 			"separ": true,
 			"trans": "﻿emerge"
@@ -2215,11 +2138,6 @@
 			"verb": "﻿ausschlagen",
 			"separ": true,
 			"trans": "﻿dislodge"
-		},
-		{
-			"verb": "﻿schlachten",
-			"separ": false,
-			"trans": "﻿butcher"
 		}
 	]
 },
@@ -2395,17 +2313,6 @@
 	]
 },
 {
-	"root": "﻿tropfen",
-	"trans": "﻿drip",
-	"childWords": [
-		{
-			"verb": "﻿tröpfeln",
-			"separ": false,
-			"trans": "﻿drip"
-		}
-	]
-},
-{
 	"root": "﻿einigen",
 	"trans": "﻿unite",
 	"childWords": [
@@ -2473,22 +2380,6 @@
 			"verb": "﻿aufprallen",
 			"separ": true,
 			"trans": "﻿thud"
-		}
-	]
-},
-{
-	"root": "﻿reißen",
-	"trans": "﻿write",
-	"childWords": [
-		{
-			"verb": "﻿zerreißen",
-			"separ": false,
-			"trans": "﻿tear"
-		},
-		{
-			"verb": "﻿hinreißen",
-			"separ": true,
-			"trans": "﻿enrapture"
 		}
 	]
 },
@@ -2617,17 +2508,6 @@
 	]
 },
 {
-	"root": "﻿saugen",
-	"trans": "﻿suck",
-	"childWords": [
-		{
-			"verb": "﻿säugen",
-			"separ": false,
-			"trans": "﻿suckle"
-		}
-	]
-},
-{
 	"root": "﻿klatschen",
 	"trans": "﻿clap",
 	"childWords": [
@@ -2705,17 +2585,6 @@
 			"verb": "﻿ausschimpfen",
 			"separ": true,
 			"trans": "﻿berate"
-		}
-	]
-},
-{
-	"root": "﻿klicken",
-	"trans": "﻿click",
-	"childWords": [
-		{
-			"verb": "﻿anklicken",
-			"separ": true,
-			"trans": "﻿click"
 		}
 	]
 },
@@ -3200,38 +3069,13 @@
 	]
 },
 {
-	"root": "﻿richten",
-	"trans": "﻿straighten",
+	"root": "﻿passen",
+	"trans": "﻿fit",
 	"childWords": [
 		{
-			"verb": "﻿ausrichten",
+			"verb": "﻿anpassen",
 			"separ": true,
-			"trans": "﻿align"
-		},
-		{
-			"verb": "﻿aufrichten",
-			"separ": true,
-			"trans": "﻿raise"
-		},
-		{
-			"verb": "﻿unterrichten",
-			"separ": false,
-			"trans": "﻿teach"
-		},
-		{
-			"verb": "﻿errichten",
-			"separ": false,
-			"trans": "﻿build"
-		},
-		{
-			"verb": "﻿berichten",
-			"separ": false,
-			"trans": "﻿report"
-		},
-		{
-			"verb": "﻿anrichten",
-			"separ": true,
-			"trans": "﻿perpetrate"
+			"trans": "﻿adapt"
 		}
 	]
 },
@@ -3274,13 +3118,13 @@
 	]
 },
 {
-	"root": "﻿schwatzen",
-	"trans": "﻿babble",
+	"root": "﻿sortieren",
+	"trans": "﻿sort",
 	"childWords": [
 		{
-			"verb": "﻿schwätzen",
-			"separ": false,
-			"trans": "﻿babble"
+			"verb": "﻿aussortieren",
+			"separ": true,
+			"trans": "﻿winnow"
 		}
 	]
 },
@@ -3569,11 +3413,6 @@
 			"verb": "﻿einsteigen",
 			"separ": true,
 			"trans": "﻿board"
-		},
-		{
-			"verb": "﻿steigern",
-			"separ": false,
-			"trans": "﻿increase"
 		}
 	]
 },
@@ -3589,13 +3428,13 @@
 	]
 },
 {
-	"root": "﻿erkunden",
-	"trans": "﻿explore",
+	"root": "﻿klicken",
+	"trans": "﻿click",
 	"childWords": [
 		{
-			"verb": "﻿erkundigen",
-			"separ": false,
-			"trans": "﻿inquire"
+			"verb": "﻿anklicken",
+			"separ": true,
+			"trans": "﻿click"
 		}
 	]
 },
@@ -3920,6 +3759,11 @@
 			"trans": "﻿denote"
 		},
 		{
+			"verb": "﻿kennzeichnen",
+			"separ": false,
+			"trans": "﻿mark"
+		},
+		{
 			"verb": "﻿abzeichnen",
 			"separ": true,
 			"trans": "﻿copy"
@@ -4033,35 +3877,24 @@
 	]
 },
 {
-	"root": "﻿zischen",
-	"trans": "﻿hiss",
+	"root": "﻿stieben",
+	"trans": "﻿scatter",
 	"childWords": [
 		{
-			"verb": "﻿zischeln",
+			"verb": "﻿zerstieben",
+			"separ": false,
+			"trans": "﻿disperse"
+		}
+	]
+},
+{
+	"root": "﻿erkiesen",
+	"trans": "﻿choose",
+	"childWords": [
+		{
+			"verb": "﻿auserkiesen",
 			"separ": true,
-			"trans": "﻿whisper"
-		}
-	]
-},
-{
-	"root": "﻿klappen",
-	"trans": "﻿work",
-	"childWords": [
-		{
-			"verb": "﻿klappern",
-			"separ": false,
-			"trans": "﻿clatter"
-		}
-	]
-},
-{
-	"root": "﻿reiben",
-	"trans": "﻿rub",
-	"childWords": [
-		{
-			"verb": "﻿zerreiben",
-			"separ": false,
-			"trans": "﻿bray"
+			"trans": "﻿choose"
 		}
 	]
 },
@@ -4084,17 +3917,6 @@
 			"verb": "﻿verrosten",
 			"separ": false,
 			"trans": "﻿rust"
-		}
-	]
-},
-{
-	"root": "﻿klingen",
-	"trans": "﻿ring",
-	"childWords": [
-		{
-			"verb": "﻿klingeln",
-			"separ": false,
-			"trans": "﻿ring"
 		}
 	]
 },
@@ -4197,11 +4019,6 @@
 			"verb": "﻿gefallen",
 			"separ": false,
 			"trans": "﻿please"
-		},
-		{
-			"verb": "﻿fällen",
-			"separ": false,
-			"trans": "﻿fell"
 		},
 		{
 			"verb": "﻿entfallen",
@@ -4598,17 +4415,6 @@
 	]
 },
 {
-	"root": "﻿flechten",
-	"trans": "﻿plait",
-	"childWords": [
-		{
-			"verb": "﻿entflechten",
-			"separ": false,
-			"trans": "﻿detangle"
-		}
-	]
-},
-{
 	"root": "﻿rufen",
 	"trans": "﻿shriek",
 	"childWords": [
@@ -4721,13 +4527,13 @@
 	]
 },
 {
-	"root": "﻿verlinken",
-	"trans": "﻿link",
+	"root": "﻿flechten",
+	"trans": "﻿plait",
 	"childWords": [
 		{
-			"verb": "﻿linken",
+			"verb": "﻿entflechten",
 			"separ": false,
-			"trans": "﻿cheat"
+			"trans": "﻿detangle"
 		}
 	]
 },

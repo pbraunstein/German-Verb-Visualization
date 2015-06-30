@@ -20,7 +20,8 @@ class xmlRecord:
         self.isChild = None
         self.isSep = self.getIsSep(record.text)
         self.root = None
-        self.derivedWords = self.getDerivedTerms(record.text)
+        self.derivedWords = self.filterDerivedTerms(
+                                self.getDerivedTerms(record.text))
 
     def __str__(self):
         if self.root is not None:
@@ -74,6 +75,7 @@ class xmlRecord:
         return None
 
     # Parses the text of the xml to record to get the derived words
+    # Returns a list of derived terms
     # (auf Deutsch: Wortbildungen)
     def getDerivedTerms(self, text):
         regEx1 = re.compile(ur'\{\{Wortbildungen\}\}(.*)=', re.UNICODE |
@@ -104,6 +106,18 @@ class xmlRecord:
             return termsList2
         else:
             return []  # No derived words, could still be okay
+
+
+    #  Remove derived terms that do not contain the root as a complete
+    #  suffix
+    def filterDerivedTerms(self, derivedTerms):
+        toReturn = []
+        regEx = re.compile(u'(.+)' + self.name + u'$', re.UNICODE)
+        for term in derivedTerms:
+            m = regEx.search(term)
+            if m:
+                toReturn.append(term)
+        return toReturn
 
 
 def main():

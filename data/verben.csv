@@ -15,7 +15,6 @@
 ,﻿trinken,n,﻿drink
 ,﻿gehen,n,﻿walk
 ,﻿wandeln,n,﻿stroll
-,﻿kochen,n,﻿cook
 ,﻿sprechen,n,﻿speak
 ﻿ausscheiden,﻿scheiden,y,﻿excrete
 ﻿abschmieren,﻿schmieren,y,﻿grease
@@ -46,7 +45,6 @@
 ﻿aufstehen,﻿stehen,y,﻿rise
 ,﻿schlafen,n,﻿sleep
 ﻿bekommen,﻿kommen,n,﻿get
-,﻿lachen,n,﻿laugh
 ﻿erregen,﻿regen,n,﻿arouse
 ﻿zunehmen,﻿nehmen,y,﻿increase
 ﻿abnehmen,﻿nehmen,y,﻿check
@@ -62,10 +60,8 @@
 ,﻿frieren,n,﻿freeze
 ,﻿leben,n,﻿live
 ﻿auseinandersetzen,﻿setzen,y,﻿deal
-,﻿saugen,n,﻿suck
 ,﻿dingen,n,﻿hire
 ,﻿streichen,n,﻿paint
-﻿schwätzen,﻿schwatzen,n,﻿babble
 ﻿übersetzen,﻿setzen,n,﻿translate
 ﻿abschmirgeln,﻿schmirgeln,y,﻿abrade
 ,﻿schmirgeln,n,﻿sand
@@ -73,7 +69,6 @@
 ﻿gebrechen,﻿brechen,n,﻿lack
 ,﻿sagen,n,﻿say
 ,﻿kacken,n,﻿shit
-,﻿loben,n,﻿praise
 ,﻿singen,n,﻿sing
 ,﻿bringen,n,﻿bring
 ,﻿schimpfen,n,﻿scold
@@ -96,9 +91,6 @@
 ,﻿holen,n,﻿get
 ,﻿atmen,n,﻿breathe
 ,﻿schwimmen,n,﻿swim
-﻿erkundigen,﻿erkunden,n,﻿inquire
-,﻿schlürfen,n,﻿sip
-﻿schlurfen,﻿schlürfen,n,﻿shuffle
 ﻿ankommen,﻿kommen,y,﻿arrive
 ,﻿regnen,n,﻿rain
 ,﻿reiben,n,﻿rub
@@ -126,7 +118,6 @@
 ,﻿prügeln,n,﻿beat
 ,﻿schauen,n,﻿look
 ﻿abschauen,﻿schauen,y,﻿peek
-,﻿dampfen,n,﻿fume
 ﻿bestechen,﻿stechen,n,﻿bribe
 ﻿aussprechen,﻿sprechen,y,﻿pronounce
 ﻿abdriften,﻿driften,y,﻿drift
@@ -195,7 +186,6 @@
 ﻿verhindern,﻿hindern,n,﻿prevent
 ﻿entwickeln,﻿wickeln,n,﻿develop
 ,﻿setzen,n,﻿set
-﻿setzen,﻿sitzen,n,﻿set
 ,﻿nutzen,n,﻿use
 ﻿erfolgen,﻿folgen,n,﻿happen
 ﻿versuchen,﻿suchen,n,﻿try
@@ -213,7 +203,6 @@
 ,﻿klagen,n,﻿wail
 ,﻿fassen,n,﻿grasp
 ﻿ableiten,﻿leiten,y,﻿divert
-,﻿klingen,n,﻿ring
 ,﻿erkiesen,n,﻿choose
 ﻿verbergen,﻿bergen,n,﻿hide
 ,﻿drucken,n,﻿print
@@ -221,7 +210,6 @@
 ﻿berühren,﻿rühren,n,﻿touch
 ,﻿dreschen,n,﻿thresh
 ,﻿lächeln,n,﻿smile
-﻿lächeln,﻿lachen,n,﻿smile
 ,﻿fließen,n,﻿flow
 ,﻿beten,n,﻿pray
 ,﻿heilen,n,﻿heal
@@ -250,12 +238,10 @@
 ﻿bedürfen,﻿dürfen,n,﻿need
 ,﻿hängen,n,﻿hang
 ,﻿täuschen,n,﻿deceive
-﻿täuschen,﻿tauschen,n,﻿deceive
 ,﻿kleben,n,﻿glue
 ,﻿lösen,n,﻿disjoin
 ,﻿bergen,n,﻿save
 ﻿einfallen,﻿fallen,y,﻿remember
-﻿tröpfeln,﻿tropfen,n,﻿drip
 ,﻿scheiden,n,﻿divorce
 ﻿aufbringen,﻿bringen,y,﻿upset
 ,﻿klarieren,n,﻿clear
@@ -272,7 +258,6 @@
 ﻿abweisen,﻿weisen,y,﻿reject
 ,﻿hungern,n,﻿hunger
 ﻿verhungern,﻿hungern,n,﻿famish
-,﻿verlinken,n,﻿link
 ,﻿stampfen,n,﻿stomp
 ﻿erwerben,﻿werben,n,﻿acquire
 ﻿aufdecken,﻿decken,y,﻿detect
@@ -312,7 +297,6 @@
 ,﻿fesseln,n,﻿chain
 ﻿ergreifen,﻿greifen,n,﻿grab
 ﻿zuhören,﻿hören,y,﻿listen
-﻿säugen,﻿saugen,n,﻿suckle
 ﻿verteilen,﻿teilen,n,﻿distribute
 ﻿erzählen,﻿zählen,n,﻿tell
 ,﻿trennen,n,﻿separate
@@ -365,7 +349,6 @@
 ,﻿tagen,n,﻿dawn
 ﻿weggehen,﻿gehen,y,﻿leave
 ﻿ansprechen,﻿sprechen,y,﻿address
-,﻿schwatzen,n,﻿babble
 ,﻿isolieren,n,﻿insulate
 ﻿abdingen,﻿dingen,y,﻿cede
 ﻿vertreiben,﻿treiben,n,﻿banish
@@ -417,7 +400,6 @@
 ﻿beistehen,﻿stehen,y,﻿assist
 ﻿beitreten,﻿treten,y,﻿join
 ﻿unterrichten,﻿richten,n,﻿teach
-,﻿klappen,n,﻿work
 ﻿verpachten,﻿pachten,n,﻿loan
 ﻿zulassen,﻿lassen,y,﻿tolerate
 ,﻿stören,n,﻿disturb
@@ -442,7 +424,6 @@
 ﻿anlassen,﻿lassen,y,﻿start
 ﻿auflassen,﻿lassen,y,﻿launch
 ﻿auslassen,﻿lassen,y,﻿miss
-﻿taufen,﻿tauchen,n,﻿baptize
 ﻿bewahren,﻿wahren,n,﻿keep
 ﻿umgehen,﻿gehen,n,﻿evade
 ﻿durchlassen,﻿lassen,y,﻿leak
@@ -484,13 +465,12 @@
 ﻿abschlagen,﻿schlagen,y,﻿beat
 ﻿verzeihen,﻿zeihen,n,﻿forgive
 ﻿verfolgen,﻿folgen,n,﻿follow
-﻿kennzeichnen,﻿kennen,n,﻿mark
+﻿kennzeichnen,﻿zeichnen,n,﻿mark
 ﻿teilnehmen,﻿nehmen,y,﻿attend
 ﻿verschließen,﻿schließen,n,﻿lock
 ﻿austauschen,﻿tauschen,y,﻿exchange
 ﻿verfallen,﻿fallen,n,﻿expire
 ﻿aufmachen,﻿machen,y,﻿open
-﻿klappern,﻿klappen,n,﻿clatter
 ﻿auffallen,﻿fallen,y,﻿notice
 ﻿ausrasten,﻿rasten,y,﻿unlatch
 ﻿übertreiben,﻿treiben,n,﻿exaggerate
@@ -532,7 +512,6 @@
 ﻿bedanken,﻿danken,n,﻿thank
 ,﻿deuten,n,﻿point
 ﻿anstehen,﻿stehen,y,﻿queue
-﻿klingeln,﻿klingen,n,﻿ring
 ﻿abstützen,﻿stützen,y,﻿brace
 ﻿angehen,﻿gehen,y,﻿start
 ﻿andauern,﻿dauern,y,﻿continue
@@ -552,7 +531,6 @@
 ﻿versammeln,﻿sammeln,n,﻿assemble
 ﻿aufprallen,﻿prallen,y,﻿thud
 ﻿bewerben,﻿werben,n,﻿apply
-,﻿zischen,n,﻿hiss
 ﻿einspeisen,﻿speisen,y,﻿inject
 ﻿verfechten,﻿fechten,n,﻿advocate
 ﻿bewundern,﻿wundern,n,﻿admire
@@ -642,8 +620,6 @@
 ﻿unterlassen,﻿lassen,n,﻿stop
 ﻿verankern,﻿ankern,n,﻿anchor
 ,﻿wecken,n,﻿wake
-,﻿knutschen,n,﻿snog
-,﻿tropfen,n,﻿drip
 ﻿überfliegen,﻿fliegen,n,﻿skim
 ﻿entpacken,﻿packen,n,﻿unpack
 ﻿anhaben,﻿haben,y,﻿wear
@@ -657,7 +633,6 @@
 ﻿beschützen,﻿schützen,n,﻿protect
 ,﻿rasten,n,﻿rest
 ﻿verkürzen,﻿kürzen,n,﻿shorten
-﻿linken,﻿verlinken,n,﻿cheat
 ﻿auserkiesen,﻿erkiesen,y,﻿choose
 ,﻿pachten,n,﻿lease
 ﻿zerreiben,﻿reiben,n,﻿bray
@@ -666,7 +641,6 @@
 ﻿abwerten,﻿werten,y,﻿devalue
 ,﻿werten,n,﻿rate
 ﻿entgehen,﻿gehen,n,﻿evade
-﻿zischeln,﻿zischen,y,﻿whisper
 ﻿nachvollziehen,﻿vollziehen,y,﻿understand
 ,﻿rosten,n,﻿rust
 ﻿aufwecken,﻿wecken,y,﻿awake
@@ -676,7 +650,6 @@
 ﻿bekennen,﻿kennen,n,﻿confess
 ﻿verschwimmen,﻿schwimmen,n,﻿blur
 ﻿wegmachen,﻿machen,y,﻿remove
-﻿fällen,﻿fallen,n,﻿fell
 ﻿verstärken,﻿stärken,n,﻿invigorate
 ,﻿spotten,n,﻿scoff
 ,﻿färben,n,﻿dye
@@ -689,7 +662,6 @@
 ﻿ausbauen,﻿bauen,y,﻿remove
 ﻿hinreißen,﻿reißen,y,﻿enrapture
 ﻿anbauen,﻿bauen,y,﻿grow
-﻿dämpfen,﻿dampfen,n,﻿steam
 ﻿andeuten,﻿deuten,y,﻿hint
 ﻿einschätzen,﻿schätzen,y,﻿assess
 ﻿verwandeln,﻿wandeln,n,﻿transmute
@@ -708,7 +680,6 @@
 ﻿befürchten,﻿fürchten,n,﻿fear
 ,﻿sortieren,n,﻿sort
 ﻿einsteigen,﻿steigen,y,﻿board
-﻿sprengen,﻿springen,n,﻿spray
 ,﻿schädigen,n,﻿harm
 ,﻿zehren,n,﻿tear
 ,﻿wundern,n,﻿surprise
@@ -770,7 +741,6 @@
 ,﻿weihen,n,﻿consecrate
 ﻿einteilen,﻿teilen,y,﻿divide
 ,﻿steigern,n,﻿increase
-﻿steigern,﻿steigen,n,﻿increase
 ﻿durchsuchen,﻿suchen,n,﻿search
 ﻿ausrüsten,﻿rüsten,y,﻿equip
 ﻿einzeichnen,﻿zeichnen,y,﻿mark
@@ -802,7 +772,6 @@
 ﻿umwandeln,﻿wandeln,y,﻿transform
 ﻿nachweisen,﻿weisen,y,﻿prove
 ﻿vorzeigen,﻿zeigen,y,﻿show
-﻿schlachten,﻿schlagen,n,﻿butcher
 ﻿anbeißen,﻿beißen,y,﻿bite
 ﻿erschießen,﻿schießen,n,﻿shoot
 ﻿verstellen,﻿stellen,n,﻿block
@@ -831,7 +800,6 @@
 ﻿verwerfen,﻿werfen,n,﻿erase
 ﻿eislaufen,﻿laufen,y,﻿skate
 ﻿mitgehen,﻿gehen,y,﻿accompany
-﻿lobhudeln,﻿loben,n,﻿adulate
 ﻿umwerfen,﻿werfen,y,﻿stun
 ﻿erzwingen,﻿zwingen,n,﻿force
 ,﻿zedieren,n,﻿assign
@@ -841,7 +809,6 @@
 ﻿aufrechterhalten,﻿erhalten,y,﻿maintain
 ﻿durchlaufen,﻿laufen,y,﻿pass
 ﻿verzerren,﻿zerren,n,﻿distort
-﻿drängeln,﻿drängen,n,﻿push
 ﻿zustellen,﻿stellen,y,﻿block
 ﻿zubringen,﻿bringen,y,﻿bring
 ﻿entspannen,﻿spannen,n,﻿relax
@@ -849,7 +816,6 @@
 ,﻿prallen,n,﻿collide
 ﻿zerfließen,﻿fließen,n,﻿melt
 ,﻿wägen,n,﻿weigh
-﻿knautschen,﻿knutschen,n,﻿crumple
 ﻿zupacken,﻿packen,y,﻿grab
 ﻿verklagen,﻿klagen,n,﻿sue
 ﻿dekomponieren,﻿komponieren,n,﻿decompose
@@ -865,7 +831,6 @@
 ﻿bescheinen,﻿scheinen,n,﻿shine
 ,﻿siedeln,n,﻿settle
 ﻿entflechten,﻿flechten,n,﻿detangle
-,﻿erkunden,n,﻿explore
 ﻿wegschmeißen,﻿schmeißen,y,﻿discard
 ﻿unterspülen,﻿spülen,n,﻿undermine
 ﻿auswringen,﻿wringen,y,﻿wring
@@ -881,7 +846,6 @@
 ﻿verwarnen,﻿warnen,n,﻿warn
 ﻿erwürgen,﻿würgen,n,﻿choke
 ﻿durchnehmen,﻿nehmen,y,﻿do
-﻿köcheln,﻿kochen,y,﻿simmer
 ﻿beregnen,﻿regnen,n,﻿water
 ﻿verheilen,﻿heilen,n,﻿heal
 ﻿aufatmen,﻿atmen,y,﻿recover
