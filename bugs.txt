@@ -1,2 +1,3 @@
-When the simulation is on, the inflating nodes respect the boundary, when it is
-off, they do not
+Reflexive verbs most likely marked as sepraable. For example, wasch mich
+---- to fix, maybe just check if the other word is mir or mich, and if so,
+don't count it
