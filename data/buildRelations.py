@@ -17,14 +17,18 @@ class xmlRecord:
         self.name = unicode(record.title.contents[0])
         self.trans = unicode(self.getEnTrans(record.text))
         self.isRoot = None
-        self.isSep = None
+        self.isSep = self.getIsSep(record.text)
         self.prefix = None
         self.root = None
-        self.children = []
         self.derivedWords = self.getDerivedTerms(record.text)
 
     def __str__(self):
-        return self.name.encode(CODE) + "\n" + self.trans.encode(CODE)
+        if self.isSep:
+            separ = "Separable"
+        else:
+            separ = "Unseparable"
+        return self.name.encode(CODE) + "\n" + self.trans.encode(CODE) +\
+                "\n" + separ + "\n"
 
     # Parses the text of the XML record to get the En translation
     def getEnTrans(self, text):
@@ -43,6 +47,20 @@ class xmlRecord:
                 return match.group(1)
         else:
             return NA
+
+    # Determines if the verb is separable by counting the number of words
+    # used to conjugate the present first person (Gegenwart_ich)
+    def getIsSep(self, text):
+        regEx = re.compile(ur'Gegenwart_ich *= *(.*)', re.UNICODE)
+        match = regEx.search(text)
+        if match:
+            conj = match.group(1).strip()
+            if len(conj.split()) > 1:
+                return True
+            else:
+                return False
+
+        return None
 
     # Parses the text of the xml to record to get the derived words
     # (auf Deutsch: Wortbildungen)
@@ -79,35 +97,25 @@ def main():
     allPages = soup.findAll('page')
 
     records = getRecords(allPages)
-    
+
     for record in records:
-        print "---------------------------"
-        print record.name.encode(CODE)
-        for x in record.derivedWords:
-            print x.encode(CODE) + ",",
-        print "\n---------------------------"
-        print
+        print record
     print len(records)
 
+# Creates the xml records, and filters out the records that have no
+# english translation filters out as well those without conjugations
+# (can't tell if it is separable). As of first draft, only one word
+# in dewiki has no separability information (babysitten).
 def getRecords(allPages):
     toReturn = []
 
     for page in allPages:
         newRec = xmlRecord(page)
         if newRec.trans != NA:
-            toReturn.append(newRec)
+            if newRec.isSep is not None:
+                toReturn.append(newRec)
 
     return toReturn
-
-
-
-
-
-
-
-
-
-
 
 
 if __name__ == '__main__':
