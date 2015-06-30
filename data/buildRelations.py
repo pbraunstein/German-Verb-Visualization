@@ -55,7 +55,14 @@ class xmlRecord:
         match = regEx.search(text)
         if match:
             conj = match.group(1).strip()
-            if len(conj.split()) > 1:
+            conjArr = conj.split()
+            conjArr = [x.strip() for x in conjArr]  # to be safe
+            conjArrLen = len(conjArr)
+
+            # reflexive, don't count the refl. pronoun
+            if 'mich' in conjArr or 'mir' in conjArr:
+                conjArrLen -= 1
+            if conjArrLen > 1:
                 return True
             else:
                 return False

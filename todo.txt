@@ -1,7 +1,7 @@
 --- reorganize code into different js files
 --- read up on transform translation attribute thing
 
----- Look into wheather reflexive verbs are marked as separable
----- e.g. wasch mich
+--- Try and fix wandeln problem (see bugs.txt)
+
 
 

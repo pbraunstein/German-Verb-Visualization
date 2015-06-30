@@ -1,3 +1,2 @@
-Reflexive verbs most likely marked as sepraable. For example, wasch mich
----- to fix, maybe just check if the other word is mir or mich, and if so,
-don't count it
+wandlen classified as separable because there are two forms of the conjugation.
+Also weird characters I don't yet know how to deal with.
