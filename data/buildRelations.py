@@ -4,6 +4,8 @@
 
 from sys import exit
 from bs4 import BeautifulSoup
+from urllib import quote_plus
+import urllib2
 import re
 
 # CONSTANTS
@@ -11,11 +13,12 @@ INPUT = "filteredPhilsWayDE.xml"
 OUTPUT = "verben.csv"
 NA = u'N/A'
 CODE = "utf-8-sig"
+API = "SPOOF"
 
 class xmlRecord:
     def __init__(self, record):
         self.name = unicode(record.title.contents[0])
-        self.trans = unicode(self.getEnTrans(record.text))
+        self.trans = self.getEnTrans()
         self.isRoot = None
         self.isChild = None
         self.isSep = self.getIsSep(record.text)
@@ -35,8 +38,26 @@ class xmlRecord:
         return self.name.encode(CODE) + "\n" + self.trans.encode(CODE) +\
                 "\n" + separ + "\nRoot:" + r.encode(CODE) + "\n"
 
+    # Uses Yandex API key to make translation
+    def getEnTrans(self):
+        link = "https://translate.yandex.net/api/v1.5/tr/translate?key=" +\
+                API + "&lang=de-en&text=" + quote_plus(self.name.encode(CODE))
+
+        content = urllib2.urlopen(link).read()
+
+        soup = BeautifulSoup(content, 'xml')
+
+        trans = soup.find('Translation').text
+
+        # Yandex returns input if no trans found
+        if trans != self.name:
+            return trans
+        else:
+            return NA
+
+
     # Parses the text of the XML record to get the En translation
-    def getEnTrans(self, text):
+    def __getEnTrans(self, text):
 
         # e.g. {{UE|en|know}} Trying to pull out know,
         # UE represents uppercase umlauted U

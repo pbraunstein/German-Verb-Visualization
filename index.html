@@ -30,7 +30,7 @@
 		var width = 700;
 		var height = 700;
 		var nodeRad = 30;
-		var HUB_SCALE_FACTOR = 3;
+		var HUB_SCALE_FACTOR = 2;
 		var TRANS_DURATION = 1000;
 		var PAUSE_DURATION = 3000;
 		var currentlyAnimating = []
@@ -54,21 +54,22 @@
 		});
 
 		function vizIt() {
-			buildFDG(data[1]);
+			// 11, ch16, 17, 28, ch42, ch48 ch61, 83, ch86
+			buildFDG(data[0]);
 		}
 
 		function buildFDG(preTree) {
 			fdg = d3.layout.force()
-				.gravity(0.075)
+				.gravity(0.05)
 				.charge(-1000)
 				.size([width, height]);
 			nodes = [];
 			i = 1;
 			// Get length of root
-			rootLength = preTree.root.length;
+			rootLength = preTree.root.length - 1;
 
 			// Create hub node
-			nodes.push({"name":preTree.root, "group":i++, "hub":true,"trans":"n/a"})
+			nodes.push({"name":preTree.root, "group":i++, "hub":true,"trans":preTree.trans})
 
 			// Create all of the surrounding nodes
 			preTree.childWords.forEach(function(word) {
