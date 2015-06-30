@@ -17,18 +17,22 @@ class xmlRecord:
         self.name = unicode(record.title.contents[0])
         self.trans = unicode(self.getEnTrans(record.text))
         self.isRoot = None
+        self.isChild = None
         self.isSep = self.getIsSep(record.text)
-        self.prefix = None
         self.root = None
         self.derivedWords = self.getDerivedTerms(record.text)
 
     def __str__(self):
+        if self.root is not None:
+            r = self.root
+        else:
+            r = NA
         if self.isSep:
             separ = "Separable"
         else:
             separ = "Unseparable"
         return self.name.encode(CODE) + "\n" + self.trans.encode(CODE) +\
-                "\n" + separ + "\n"
+                "\n" + separ + "\nRoot:" + r.encode(CODE) + "\n"
 
     # Parses the text of the XML record to get the En translation
     def getEnTrans(self, text):
@@ -72,15 +76,18 @@ class xmlRecord:
     # Parses the text of the xml to record to get the derived words
     # (auf Deutsch: Wortbildungen)
     def getDerivedTerms(self, text):
-        regEx1 = re.compile(ur'\{\{Wortbildungen\}\}(.*)\n\n===', re.DOTALL |
-            re.UNICODE)
+        regEx1 = re.compile(ur'\{\{Wortbildungen\}\}(.*)=', re.UNICODE |
+                re.DOTALL)
 
         match = regEx1.search(text)
 
         # This code is messy, it splits on commas and colons to make
         # a flat list. It uses a regex to strip certain punctuation
         if match:
-            terms = match.group(1).strip()
+            # Geedy match in Regex gobbles too much, split on ===
+            # which I know to be the start of the next sectiont
+            terms = match.group(1).split("===")[0]
+            terms = terms.strip()
             termsList1 = terms.split(u':')
             termsList2 = []
             for word in termsList1:
@@ -105,9 +112,16 @@ def main():
 
     records = getRecords(allPages)
 
-    for record in records:
-        print record
-    print len(records)
+    records = annotateRelations(records)
+
+    records = filterOrphans(records)
+
+    writeOut(records)
+
+
+#    for record in records:
+#        print record
+
 
 # Creates the xml records, and filters out the records that have no
 # english translation filters out as well those without conjugations
@@ -123,6 +137,57 @@ def getRecords(allPages):
                 toReturn.append(newRec)
 
     return toReturn
+
+
+# Figures out from the derived terms, which terms are roots and which are
+# children.
+def annotateRelations(records):
+    for recordOuter in records:
+        derived = recordOuter.derivedWords
+        for dw in derived:
+            for recordInner in records:
+                if dw == recordInner.name:  # found one!
+                    recordOuter.isRoot = True  # Outer is a root
+                    recordInner.isChild = True  # inner is a child
+                    recordInner.root = recordOuter.name  # Note name of root
+
+    return records
+
+
+# Filters out the records that are neither children nor roots
+def filterOrphans(records):
+    toReturn = []
+
+    for record in records:
+        if record.isRoot is None and record.isChild is None: 
+            continue  # Don't want records without relations
+        toReturn.append(record)
+
+    return toReturn
+
+# Writes out information in the records into file
+# A word can be both a root and a child
+def writeOut(records):
+    with open(OUTPUT, 'w') as filew:
+        filew.write("#Verb,Root,Sep,Trans\n")
+        for record in records:
+            if record.isSep:
+                separ = "y"
+            else:
+                separ = "n"
+
+            # Write out record if it is a root
+            # root by definition cannot be separable
+            if record.isRoot:  
+                filew.write("," + record.name.encode(CODE) + ",n" +\
+                            "," + record.trans.encode(CODE) + "\n")
+
+            # If it is a child, write it out
+            if record.isChild:
+                filew.write(record.name.encode(CODE) + "," +\
+                            record.root.encode(CODE) + "," + separ + "," +\
+                            record.trans.encode(CODE) + "\n")
+
 
 
 if __name__ == '__main__':
