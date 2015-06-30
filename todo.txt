@@ -1,3 +1,6 @@
 --- reorganize code into different js files
 --- read up on transform translation attribute thing
 
+--- regex to get the Wortbildungen
+--- come up with some way of getting Trennbarkeit
+

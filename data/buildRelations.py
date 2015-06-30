@@ -48,19 +48,21 @@ def main():
     soup = BeautifulSoup(open(INPUT), "xml")
     allPages = soup.findAll('page')
 
-    records = []
-
-    for page in allPages:
-        newRec = xmlRecord(page)  # Create new record
-        if newRec.trans != NA:
-            records.append(newRec)
-
-    print "Successfully created all records"
-
+    records = getRecords(allPages)
+    
     for record in records:
         print record
-
     print len(records)
+
+def getRecords(allPages):
+    toReturn = []
+
+    for page in allPages:
+        newRec = xmlRecord(page)
+        if newRec.trans != NA:
+            toReturn.append(newRec)
+
+    return toReturn
 
 
 
