@@ -1,0 +1,92 @@
+[
+{
+	"root":"stellen",
+	"childWords": [
+		{
+			"verb": "abstellen",
+			"separ": true,
+			"trans": "to put down"
+		},
+		{
+			"verb": "anstellen",
+			"separ": true,
+			"trans": "to lean on"
+		},
+		{
+			"verb": "aufstellen",
+			"separ": true,
+			"trans": "to arrange"
+		},
+		{
+			"verb": "bestellen",
+			"separ": false,
+			"trans": "to order"
+		}
+	]
+},
+{
+	"root":"gehen",
+	"childWords": [
+		{
+			"verb": "abgehen",
+			"separ": true,
+			"trans": "to exit"
+		},
+		{
+			"verb": "angehen",
+			"separ": true,
+			"trans": "to tackle"
+		},
+		{
+			"verb": "ausgehen",
+			"separ": true,
+			"trans": "to go out"
+		},
+		{
+			"verb": "aufgehen",
+			"separ": true,
+			"trans": "to rise"
+		},
+		{
+			"verb": "durchgehen",
+			"separ": true,
+			"trans": "to go through"
+		},
+		{
+			"verb": "mitgehen",
+			"separ": true,
+			"trans": "to accompany"
+		},
+		{
+			"verb": "nachgehen",
+			"separ": true,
+			"trans": "to pursue"
+		},
+		{
+			"verb": "vorgehen",
+			"separ": true,
+			"trans": "to proceed"
+		},
+		{
+			"verb": "uebergehen",
+			"separ": true,
+			"trans": "to skip"
+		},
+		{
+			"verb": "umgehen",
+			"separ": false,
+			"trans": "to bypass"
+		},
+		{
+			"verb": "untergehen",
+			"separ": true,
+			"trans": "to sink"
+		},
+		{
+			"verb": "zugehen",
+			"separ": true,
+			"trans": "to approach"
+		}
+	]
+}
+]
