@@ -50,12 +50,13 @@
 		d3.json("data/data.json", function(error, json){
 			if (error) return console.warn(error);
 			data = json;
+			console.log(data.length);
 			vizIt();
 		});
-
+		
 		function vizIt() {
-			// 11, ch16, 17, 28, ch42, ch48 ch61, 83, ch86
-			buildFDG(data[0]);
+			// 5, 50, 77, 95, 111, 116, 125, 142, 150, 162, 170, 171, 185, 199
+			buildFDG(data[213]);
 		}
 
 		function buildFDG(preTree) {
