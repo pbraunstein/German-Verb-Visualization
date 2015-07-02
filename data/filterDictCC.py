@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 # Filters out the other words in the dictCC file, just looks at verbs
-
 from sys import exit
 
 # CONSTANTS

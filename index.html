@@ -55,8 +55,17 @@
 		});
 		
 		function vizIt() {
-			// 5, 50, 77, 95, 111, 116, 125, 142, 150, 162, 170, 171, 185, 199
-			buildFDG(data[213]);
+			var index = 0;
+			var i = 0;
+			index = null
+			for (i = 0; i < data.length; i++) {
+				if (data[i]['root'].localeCompare('gehen') == 0) {
+					index = i
+					console.log("GOT IT")
+				}
+			}
+
+			buildFDG(data[index]);
 		}
 
 		function buildFDG(preTree) {

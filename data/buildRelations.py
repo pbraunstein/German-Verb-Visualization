@@ -13,12 +13,12 @@ INPUT = "filteredPhilsWayDE.xml"
 OUTPUT = "verben.csv"
 NA = u'N/A'
 CODE = "utf-8-sig"
-API = "SPOOF"
+DICT = "dictCCVerbList.txt"
 
 class xmlRecord:
-    def __init__(self, record):
+    def __init__(self, record, dictionary):
         self.name = unicode(record.title.contents[0])
-        self.trans = self.getEnTrans()
+        self.trans = self.getEnTrans(dictionary)
         self.isRoot = None
         self.isChild = None
         self.isSep = self.getIsSep(record.text)
@@ -38,41 +38,12 @@ class xmlRecord:
         return self.name.encode(CODE) + "\n" + self.trans.encode(CODE) +\
                 "\n" + separ + "\nRoot:" + r.encode(CODE) + "\n"
 
-    # Uses Yandex API key to make translation
-    def getEnTrans(self):
-        link = "https://translate.yandex.net/api/v1.5/tr/translate?key=" +\
-                API + "&lang=de-en&text=" + quote_plus(self.name.encode(CODE))
-
-        content = urllib2.urlopen(link).read()
-
-        soup = BeautifulSoup(content, 'xml')
-
-        trans = soup.find('Translation').text
-
-        # Yandex returns input if no trans found
-        if trans != self.name:
-            return trans
-        else:
+    def getEnTrans(self, dictionary):
+        try:
+            return dictionary[self.name][0]
+        except KeyError:
             return NA
 
-
-    # Parses the text of the XML record to get the En translation
-    def __getEnTrans(self, text):
-
-        # e.g. {{UE|en|know}} Trying to pull out know,
-        # UE represents uppercase umlauted U
-        # Only matches the first definition (if there are more than one)
-        regEx = re.compile(ur'\{\{\u00dc\|en\|(\w*)\}\}', re.UNICODE)
-
-        match = regEx.search(text)
-
-        if match:
-            if match.group(1).strip() == '':  # Sometimes records are empty
-                return NA
-            else:
-                return match.group(1)
-        else:
-            return NA
 
     # Determines if the verb is separable by counting the number of words
     # used to conjugate the present first person (Gegenwart_ich)
@@ -142,31 +113,66 @@ class xmlRecord:
 
 
 def main():
+    print "Reading In Dictionary...."
+    wordTrans = readInDict(DICT)
+    print "Complete."
+
+    print "Loading XML Doc...."
     soup = BeautifulSoup(open(INPUT), "xml")
     allPages = soup.findAll('page')
+    print "Complete."
 
-    records = getRecords(allPages)
+    print "Generating Records...."
+    records = getRecords(allPages, wordTrans)
+    print "Complete."
 
+    print "Annotating Reltations...."
     records = annotateRelations(records)
+    print "Complete."
 
+    print "Pruning Unwanted Data...."
     records = filterOrphans(records)
+    print "Complete."
 
+    print "Writing Out Results...."
     writeOut(records)
+    print "Complete."
 
 
-#    for record in records:
-#        print record
+# Reads in the dictionary and returns a German key with a list
+# of translations {niederschlagen:[to strike, to put down a rebellion, usw]}
+def readInDict(dictionary):
+    i = 0
+    toReturn = {}
+    with open(dictionary, 'r') as filer:
+        for line in filer:
+            line = line.decode(CODE)
+            listL = line.strip().split("\t")
+            word = listL[0]
+            trans = listL[1]
+
+            # TODO: Change this so it gets all words?
+            if word in toReturn.keys():
+                pass
+            else:  # new word
+                toReturn[word] = [trans]
+            i += 1
+            if i % 1000 == 0:
+                print i
+
+    return toReturn
+
 
 
 # Creates the xml records, and filters out the records that have no
 # english translation filters out as well those without conjugations
 # (can't tell if it is separable). As of first draft, only one word
 # in dewiki has no separability information (babysitten).
-def getRecords(allPages):
+def getRecords(allPages, wordTrans):
     toReturn = []
 
     for page in allPages:
-        newRec = xmlRecord(page)
+        newRec = xmlRecord(page, wordTrans)
         if newRec.trans != NA:
             if newRec.isSep is not None:
                 toReturn.append(newRec)
