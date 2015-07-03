@@ -1,6 +1,7 @@
 === New Features ===
---- Make csv ==> json parser take a root with no verb as ther root's
-        translation
+--- Parse common verb HTML file
+--- Use common verb file to choose among translations generated from the
+    dicttCC file.
 
 === D3 Code Organization ===
 --- reorganize code into different js files
