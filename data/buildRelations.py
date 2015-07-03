@@ -14,6 +14,7 @@ OUTPUT = "verben.csv"
 NA = u'N/A'
 CODE = "utf-8-sig"
 DICT = "dictCCVerbList.txt"
+FREQ_LIST = "englFreq.csv"
 
 class xmlRecord:
     def __init__(self, record, dictionary):
@@ -139,26 +140,49 @@ def main():
     print "Complete."
 
 
-# Reads in the dictionary and returns a German key with a list
-# of translations {niederschlagen:[to strike, to put down a rebellion, usw]}
+# Reads in the dictionary and returns a German key with a singleton list
+# it currently chooses the most common translation using the frequency list
 def readInDict(dictionary):
     i = 0
     toReturn = {}
+    freqList = readFreqList()
+    INF = len(freqList) + 1  # For use when word has no freq rating
     with open(dictionary, 'r') as filer:
         for line in filer:
             line = line.decode(CODE)
             listL = line.strip().split("\t")
             word = listL[0]
-            trans = listL[1]
+            newTrans = listL[1]
 
-            # TODO: Change this so it gets all words?
             if word in toReturn.keys():
-                pass
+                oldTrans = toReturn[word][0]
+
+                try:
+                    oldFreq = freqList[oldTrans]
+                except KeyError:
+                    oldFreq = INF
+                try:
+                    newFreq = freqList[newTrans]
+                except KeyError:
+                    newFreq = INF
+
+                if newFreq < oldFreq:  # found a more frequent word
+                    toReturn[word] = [newTrans]
             else:  # new word
-                toReturn[word] = [trans]
+                toReturn[word] = [newTrans]
             i += 1
             if i % 1000 == 0:
                 print i
+
+    return toReturn
+
+# Reads in the frequency list for use in choosing English translations of words
+def readFreqList():
+    toReturn = {}
+    with open(FREQ_LIST, 'r') as filer:
+        for line in filer:
+            listL = line.strip().split(",")
+            toReturn[unicode(listL[0])] = int(listL[1])
 
     return toReturn
 

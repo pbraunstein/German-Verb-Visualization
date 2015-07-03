@@ -9,6 +9,7 @@
 
 === DATA PARSING ===
 --- Try and fix wandeln problem (see bugs.txt)
+--- Could say, if there are brackets, it is a minor translation, ignore
 
 
 
