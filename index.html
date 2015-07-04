@@ -47,7 +47,7 @@
 		   .style("fill", "white")
 		   .style("stroke", "black");
 
-		d3.json("data/dataFullDictCCFirst.json", function(error, json){
+		d3.json("data/dataWiki.json", function(error, json){
 			if (error) return console.warn(error);
 			data = json;
 			console.log(data.length);
@@ -59,7 +59,7 @@
 			var i = 0;
 			index = null
 			for (i = 0; i < data.length; i++) {
-				if (data[i]['root'].localeCompare('gehen') == 0) {
+				if (data[i]['root'].localeCompare('stehen') == 0) {
 					index = i
 					console.log("GOT IT")
 				}

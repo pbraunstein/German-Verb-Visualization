@@ -142,6 +142,8 @@ def main():
 
 # Reads in the dictionary and returns a German key with a singleton list
 # it currently chooses the most common translation using the frequency list
+# Defavors entries with brackets in them, cause they (maybe) indicate
+# specialized verbs
 def readInDict(dictionary):
     i = 0
     toReturn = {}
@@ -150,9 +152,9 @@ def readInDict(dictionary):
     with open(dictionary, 'r') as filer:
         for line in filer:
             line = line.decode(CODE)
-            listL = line.strip().split("\t")
-            word = listL[0]
-            newTrans = listL[1]
+            listL = line.lower().strip().split("\t")
+            word = listL[0].strip()
+            newTrans = listL[1].strip()
 
             if word in toReturn.keys():
                 oldTrans = toReturn[word][0]
@@ -166,8 +168,16 @@ def readInDict(dictionary):
                 except KeyError:
                     newFreq = INF
 
+                # Super bad if there is a bracket in it
+                if u'[' in oldTrans:
+                    oldFreq = INF + 1
+                if u'[' in newTrans:
+                    newFreq = INF + 1
+
                 if newFreq < oldFreq:  # found a more frequent word
                     toReturn[word] = [newTrans]
+                else:
+                    pass
             else:  # new word
                 toReturn[word] = [newTrans]
             i += 1
@@ -182,7 +192,7 @@ def readFreqList():
     with open(FREQ_LIST, 'r') as filer:
         for line in filer:
             listL = line.strip().split(",")
-            toReturn[unicode(listL[0])] = int(listL[1])
+            toReturn[listL[0].decode(CODE)] = int(listL[1])
 
     return toReturn
 
