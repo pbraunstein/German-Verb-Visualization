@@ -13,8 +13,7 @@ INPUT = "filteredPhilsWayDE.xml"
 OUTPUT = "verben.csv"
 NA = u'N/A'
 CODE = "utf-8"
-DICT = "buDict.txt"
-FREQ_LIST = "englFreq.csv"
+DICT = "parsedFreeDictOutput.txt"
 
 class xmlRecord:
     def __init__(self, record, dictionary):
@@ -43,24 +42,7 @@ class xmlRecord:
         try:
             return dictionary[self.name]
         except KeyError:
-            try:
-                link = "https://glosbe.com/gapi/translate?from=deu&dest=eng" +\
-                            "&format=json&phrase=" +\
-                            quote_plus(self.name.encode(CODE)) +\
-                            "&callback=my_custom_function_name"
-
-                content = urllib2.urlopen(link).read()
-                regEx = re.compile("my_custom_function_name\(\{\"result\":\"ok\",\"tuc\":\[\{\"phrase\":\{\"text\":\"([\w\s]+)\",", re.UNICODE)
-                match = regEx.search(content)
-                if match:
-                    trans = match.group(1).decode(CODE)
-                    return trans
-                else:
-                    return NA
-            except urllib2.HTTPError:
-                writeOutDict(dictionary)
-                print "ABORTED"
-                exit(1)
+            return NA
 
 
     # Determines if the verb is separable by counting the number of words
@@ -156,12 +138,8 @@ def main():
     writeOut(records)
     print "Complete."
 
-    print "Saving Cache"
-    writeOutDict(wordTrans)
-    print "Complete."
 
-
-# Reads in the dict file to query first
+# Reads in the dict file to query
 def readInDict():
     toReturn = {}
 
@@ -170,7 +148,10 @@ def readInDict():
             line = line.decode(CODE)
             line = line.strip()
             listL = line.split(u':')
-            toReturn[listL[0]] = listL[1]
+            try:
+                toReturn[listL[0]] = listL[1]
+            except IndexError:
+                pass
 
     return toReturn
 
@@ -250,13 +231,6 @@ def writeOut(records):
                             record.trans.encode(CODE) + "\n")
 
 
-# Save cache of dict
-def writeOutDict(dictionary):
-    print "Rescuing Cache....."
-    with open(DICT, 'w') as filew:
-        for key in dictionary.keys():
-            filew.write(key.encode(CODE) + ":" + dictionary[key].encode(CODE) +
-                            "\n")
 
 if __name__ == '__main__':
     main()
