@@ -25,7 +25,7 @@
 </style>
 <body>
 	<script>
-        console.log("IN FREE LOCAL DICT BRANCH")
+        console.log("IN FREE LOCAL DICT BRANCH REALLY")
 		var color = d3.scale.category20();
 		var data;
 		var width = 700;
@@ -60,7 +60,7 @@
 			var i = 0;
 			index = null
 			for (i = 0; i < data.length; i++) {
-				if (data[i]['root'].localeCompare('sprechen') == 0) {
+				if (data[i]['root'].localeCompare('lassen') == 0) {
 					index = i
 					console.log("GOT IT")
 				}
@@ -77,7 +77,7 @@
 			nodes = [];
 			i = 1;
 			// Get length of root
-			rootLength = preTree.root.length - 1;
+			rootLength = preTree.root.length;
 
 			// Create hub node
 			nodes.push({"name":preTree.root, "group":i++, "hub":true,"trans":preTree.trans})
