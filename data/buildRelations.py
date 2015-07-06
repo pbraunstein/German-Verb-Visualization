@@ -5,7 +5,6 @@
 from sys import exit
 from bs4 import BeautifulSoup
 from urllib import quote_plus
-import requests
 import urllib2
 import re
 
@@ -58,7 +57,7 @@ class xmlRecord:
                     return trans
                 else:
                     return NA
-            except requests.exceptions.RequestException:
+            except urllib2.HTTPError:
                 writeOutDict(dictionary)
                 print "ABORTED"
                 exit(1)
@@ -254,7 +253,7 @@ def writeOut(records):
 # Save cache of dict
 def writeOutDict(dictionary):
     print "Rescuing Cache....."
-    with open(DICT, 'w') as filew:
+    with open(DICT + "art", 'w') as filew:
         for key in dictionary.keys():
             filew.write(key.encode(CODE) + ":" + dictionary[key].encode(CODE))
 
