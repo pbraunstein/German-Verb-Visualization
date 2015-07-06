@@ -55,13 +55,13 @@ class xmlRecord:
                 match = regEx.search(content)
                 if match:
                     trans = match.group(1).decode(CODE)
-                    dictionary[self.name] = trans
                     return trans
                 else:
-                    dictionary[self.name] = NA
                     return NA
             except requests.exceptions.RequestException:
                 writeOutDict(dictionary)
+                print "ABORTED"
+                exit(1)
 
 
     # Determines if the verb is separable by counting the number of words
@@ -157,6 +157,10 @@ def main():
     writeOut(records)
     print "Complete."
 
+    print "Saving Cache"
+    writeOutDict(wordTrans)
+    print "Complete."
+
 
 # Reads in the dict file to query first
 def readInDict():
@@ -183,15 +187,13 @@ def readFreqList():
 
 
 
-# Creates the xml records, and filters out the records that have no
-# english translation filters out as well those without conjugations
-# (can't tell if it is separable). As of first draft, only one word
-# in dewiki has no separability information (babysitten).
+# updates the dictionary with API call results
 def getRecords(allPages, wordTrans):
     toReturn = []
 
     for page in allPages:
         newRec = xmlRecord(page, wordTrans)
+        wordTrans[newRec.name] = newRec.trans  # Update dictionary
         if newRec.trans != NA:
             if newRec.isSep is not None:
                 toReturn.append(newRec)
@@ -251,6 +253,7 @@ def writeOut(records):
 
 # Save cache of dict
 def writeOutDict(dictionary):
+    print "Rescuing Cache....."
     with open(DICT, 'w') as filew:
         for key in dictionary.keys():
             filew.write(key.encode(CODE) + ":" + dictionary[key].encode(CODE))
