@@ -5,6 +5,7 @@
 from sys import exit
 from bs4 import BeautifulSoup
 from urllib import quote_plus
+import requests
 import urllib2
 import re
 
@@ -12,8 +13,8 @@ import re
 INPUT = "filteredPhilsWayDE.xml"
 OUTPUT = "verben.csv"
 NA = u'N/A'
-CODE = "utf-8-sig"
-DICT = "dictCCVerbList.txt"
+CODE = "utf-8"
+DICT = "buDict.txt"
 FREQ_LIST = "englFreq.csv"
 
 class xmlRecord:
@@ -41,9 +42,26 @@ class xmlRecord:
 
     def getEnTrans(self, dictionary):
         try:
-            return dictionary[self.name][0]
+            return dictionary[self.name]
         except KeyError:
-            return NA
+            try:
+                link = "https://glosbe.com/gapi/translate?from=deu&dest=eng" +\
+                            "&format=json&phrase=" +\
+                            quote_plus(self.name.encode(CODE)) +\
+                            "&callback=my_custom_function_name"
+
+                content = urllib2.urlopen(link).read()
+                regEx = re.compile("my_custom_function_name\(\{\"result\":\"ok\",\"tuc\":\[\{\"phrase\":\{\"text\":\"([\w\s]+)\",", re.UNICODE)
+                match = regEx.search(content)
+                if match:
+                    trans = match.group(1).decode(CODE)
+                    dictionary[self.name] = trans
+                    return trans
+                else:
+                    dictionary[self.name] = NA
+                    return NA
+            except requests.exceptions.RequestException:
+                writeOutDict(dictionary)
 
 
     # Determines if the verb is separable by counting the number of words
@@ -115,7 +133,7 @@ class xmlRecord:
 
 def main():
     print "Reading In Dictionary...."
-    wordTrans = readInDict(DICT)
+    wordTrans = readInDict()
     print "Complete."
 
     print "Loading XML Doc...."
@@ -140,49 +158,16 @@ def main():
     print "Complete."
 
 
-# Reads in the dictionary and returns a German key with a singleton list
-# it currently chooses the most common translation using the frequency list
-# Defavors entries with brackets in them, cause they (maybe) indicate
-# specialized verbs
-def readInDict(dictionary):
-    i = 0
+# Reads in the dict file to query first
+def readInDict():
     toReturn = {}
-    freqList = readFreqList()
-    INF = len(freqList) + 1  # For use when word has no freq rating
-    with open(dictionary, 'r') as filer:
+
+    with open(DICT, 'r') as filer:
         for line in filer:
             line = line.decode(CODE)
-            listL = line.lower().strip().split("\t")
-            word = listL[0].strip()
-            newTrans = listL[1].strip()
-
-            if word in toReturn.keys():
-                oldTrans = toReturn[word][0]
-
-                try:
-                    oldFreq = freqList[oldTrans]
-                except KeyError:
-                    oldFreq = INF
-                try:
-                    newFreq = freqList[newTrans]
-                except KeyError:
-                    newFreq = INF
-
-                # Super bad if there is a bracket in it
-                if u'[' in oldTrans:
-                    oldFreq = INF + 1
-                if u'[' in newTrans:
-                    newFreq = INF + 1
-
-                if newFreq < oldFreq:  # found a more frequent word
-                    toReturn[word] = [newTrans]
-                else:
-                    pass
-            else:  # new word
-                toReturn[word] = [newTrans]
-            i += 1
-            if i % 1000 == 0:
-                print i
+            line = line.strip()
+            listL = line.split(u':')
+            toReturn[listL[0]] = listL[1]
 
     return toReturn
 
@@ -264,6 +249,11 @@ def writeOut(records):
                             record.trans.encode(CODE) + "\n")
 
 
+# Save cache of dict
+def writeOutDict(dictionary):
+    with open(DICT, 'w') as filew:
+        for key in dictionary.keys():
+            filew.write(key.encode(CODE) + ":" + dictionary[key].encode(CODE))
 
 if __name__ == '__main__':
     main()
