@@ -253,9 +253,10 @@ def writeOut(records):
 # Save cache of dict
 def writeOutDict(dictionary):
     print "Rescuing Cache....."
-    with open(DICT + "art", 'w') as filew:
+    with open(DICT, 'w') as filew:
         for key in dictionary.keys():
-            filew.write(key.encode(CODE) + ":" + dictionary[key].encode(CODE))
+            filew.write(key.encode(CODE) + ":" + dictionary[key].encode(CODE) +
+                            "\n")
 
 if __name__ == '__main__':
     main()
