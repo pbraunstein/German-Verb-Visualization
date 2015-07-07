@@ -141,7 +141,9 @@ def main():
     print "Complete."
 
     print "Generating Records...."
-    records = getRecords(allPages, wordTrans)
+    packing = getRecords(allPages, wordTrans)
+    records = packing[0]
+    wordTrans = packing[1]
     print "Complete."
 
     print "Annotating Reltations...."
@@ -197,7 +199,7 @@ def getRecords(allPages, wordTrans):
             if newRec.isSep is not None:
                 toReturn.append(newRec)
 
-    return toReturn
+    return [toReturn, dictionary]
 
 
 # Figures out from the derived terms, which terms are roots and which are
