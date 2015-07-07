@@ -1,7 +1,5 @@
 === New Features ===
---- Parse common verb HTML file
---- Use common verb file to choose among translations generated from the
-    dicttCC file.
+--- Add the words in Unterbegriffe to the possible synonynms
 
 === D3 Code Organization ===
 --- reorganize code into different js files
@@ -9,7 +7,6 @@
 
 === DATA PARSING ===
 --- Try and fix wandeln problem (see bugs.txt)
---- Could say, if there are brackets, it is a minor translation, ignore
 
 
 
