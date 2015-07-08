@@ -199,7 +199,7 @@ def getRecords(allPages, wordTrans):
             if newRec.isSep is not None:
                 toReturn.append(newRec)
 
-    return [toReturn, dictionary]
+    return [toReturn, wordTrans]
 
 
 # Figures out from the derived terms, which terms are roots and which are
