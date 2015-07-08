@@ -85,12 +85,11 @@ class xmlRecord:
         match2 = regEx2.search(text)
         listL1 = []
         if match2:
-            if self.name == u'erkennen':
-                termsListP = regExP.sub('', match2.group(1))
-                termsListP = regExP2.sub(',', termsListP)  # Replace newLines
-                listL1 = termsListP.split(",")
-                listL1 = [x for x in listL1 if x != '']
-                listL1 = [x.strip() for x in listL1]
+            termsListP = regExP.sub('', match2.group(1))
+            termsListP = regExP2.sub(',', termsListP)  # Replace newLines
+            listL1 = termsListP.split(",")
+            listL1 = [x for x in listL1 if x != '']
+            listL1 = [x.strip() for x in listL1]
 
         match = regEx1.search(text)
 
