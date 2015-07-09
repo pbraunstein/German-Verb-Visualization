@@ -1,897 +1,346 @@
-exzerpieren:excerpt
-vereisen:ice over
-wiedererlangen:regain
-ergänzen:add
-weilen:abide
-scheiden:divorce
-verhungern:starve
-abfahren:depart
-einschätzen:judge
-verknusen:N/A
-vorschreiben:prescribe
-schaben:scrape
-beobachten:observe
-steigen:climb
-parlieren:converse
-brandschatzen:to pillage and threaten to burn
-entgegenarbeiten:counteract
-epilieren:epilate
-herumkramen:N/A
-fellieren:fellate
-löten:solder
-schleusen:channel
-zippen:zip
-trepanieren:N/A
-nörgeln:nag
-komponieren:compose
-anschicken:prepare
-knutschen:smooch
-abfedern:cushion
 seifen:soap
-vergessen:forget
-amtieren:officiate
-glasieren:frost
-kategorisieren:categorize
-mitnehmen:take
-zäumen:bridle
-flöten gehen:break in two
-verdauen:digest
-sich einen runterholen:jerk off
-terminieren:time
-aufsteigen:rise
-krachen:crack
-sieden:boil
+abfahren:depart
+verknusen:N/A
+ausschmücken:beautify
+halsen:jibe
+entgegenarbeiten:counteract
+herumkramen:N/A
+katalogisieren:catalogue
+verdursten:die of thirst
 träumen:dream
-pflegen:nurse
 versetzen:alarm
-johlen:bawl
-revozieren:revoke
-abschmieren:grease
-donnern:thunder
-dehydratisieren:dehydrate
-deformieren:contort
 taufen:baptize
 hecheln:pant
 hinsetzen:sit
-etablieren:establish
 haben:have
 konfluieren:N/A
-verbarrikadieren:barricade
-konsumieren:consume
-diffundieren:diffuse
-ebben:N/A
-gucken:look
-verwählen:misdial
-abern:N/A
+umpolen:change
 einlasten:dispatch
-innewohnen:characteristic
-winden:wind
 konfiszieren:confiscate
-saturieren:saturate
+mitfiebern:N/A
 subskribieren:subscribe
-charakterisieren:characterize
-verlinken:link
 maturieren:N/A
 balsamieren:embalm
-delirieren:rave
-abbezahlen:pay off
-krümmen:bend
-entwaffnen:disarm
-abhandeln:deal
+gärtnern:garden
+theoretisieren:theorize
 karteln:play cards
-wohlfühlen:N/A
-kaschieren:conceal
-beaten:beat
-nachdenken:think
-eiern:to wobble
-florieren:prosper
-paginieren:paginate
-latschen:traipse
-zischen:hiss
-desistieren:to desist
+beschienen:N/A
+verstimmen:contravene
+abfliegen:take off
+umtakeln:N/A
+mutieren:mutate
 annehmen:answer
-bezwingen:beat
-anerkennen:recognize
-satteln:saddle
-fördern:accelerate
+gipfeln:culminate
 bezahlen:pay
 kollaterieren:N/A
-kicken:kick
-überzeugen:convince
-bestätigen:confirm
-güllen:N/A
-abarbeiten:execute
-besagen:imply
+indignieren:N/A
 lokalisieren:localize
 bremsen:brake
 speien:spit
-einweihen:baptize
-designieren:designate
-beschränken:limit
-bedingen:bring about
+hinpflanzen:N/A
 akzeptieren:accept
-einbeziehen:include
-darben:pinch
-hadern:quarrel with
-ergrauen:gray
-sächseln:to speak in Saxon dialect
+exkludieren:N/A
 pürieren:puree
-aufmischen:rock
-zerstampfen:stomp
-knipsen:photograph
-putzen:clean
+kodifizieren:codify
+haushalten:budget
 missbilligen:disapprove
 zusteigen:N/A
 anheben:lift
-empören:resent
-chiffrieren:encrypt
-konfligieren:conflict
-vergleichen:compare
-hüpfen:hop
+schwärmen:swarm
+reichen:hand
 zerbrechen:break
-deponieren:deposit
-einkästen:N/A
-takeln:rig
-reihern:puke
-spurten:sprint
-barmen:N/A
+sporteln:N/A
+durchregieren:N/A
 kredenzen:serve
-babbeln:babble
-aufkreuzen:pop up
-maximieren:maximize
-grenzen:border
-räkeln:loll
-ausfallen:fail
-krippen:N/A
-abknöpfen:N/A
-katalogisieren:catalogue
+keltern:N/A
 vermögen:be able to
-vernaschen:spend on sweets
 einigen:unite
-einbrechen:break in
-dirigieren:conduct
-tilgen:extinguish
-annullieren:annul
 paffen:puff
-chauffieren:chauffeur
-trotzen:defy
-liieren:hook up
 laktieren:lactate
 einkreisen:circle
-brummen:buzz
-exterminieren:N/A
-verteilen:distribute
-wullacken:N/A
-popeln:N/A
-kommunizieren:communicate
-exportieren:export
-demolieren:break down
-nützen:avail
+umschnallen:commute
 verschwenden:waste
-verlautbaren:announce
 rebellieren:rebel
 aufbrechen:start
-zusammenleben:cohabit
-reformieren:reform
-schnorren:scrounge
-übertragen:broadcast
-lohnen:worth
 elaborieren:N/A
-bemüßigen:N/A
-segmentieren:segment
-schwängern:impregnate
 locken:lure
-herumhuren:fornicate
-versorgen:supply
-abändern:change
-streunen:stray
+schnieseln:N/A
 aufmotzen:soup up
 bimmeln:jingle
-repräsentieren:represent
-absegnen:bless
-kopulieren:copulate
 misshandeln:mistreat
-springen:jump
 verplempern:fritter away
-ticken:tick
-klimpern:jingle
 abbeißen:bite off
-beschleichen:steal up to
-unterstellen:subjugate
-vereitern:ulcerate
-umziehen:move
-durchbrechen:break through
-anstehen:form a line
-unterhalten:entertain
+umherholen:N/A
+bedrücken:oppress
 geben:pass
-anstreben:aim
+absegnen:bless
 flottieren:float
-schlittern:slide
-abalienieren:abalienate
-zielen:aim
-röntgen:N/A
+umtopfen:repot
+portieren:port
 eskomptieren:anticipate
 anranzen:bawl out
 simplifizieren:simplify
-korrespondieren:correspond
 intervenieren:intercede
-normieren:norm
-schmoken:N/A
+vindizieren:claim
 verschachern:barter away
 rekurrieren:appeal
-kehren:sweep
+schikanieren:bully
+gebieten:command
 verwirklichen:realize
-etiolieren:etiolate
+entflecken:N/A
 infrage stellen:question
-mieten:rent
-hereinkommen:enter
 kreuzen:cross
-bohren:drill
-kaprizieren:insist on
-weißeln:decorate
-eskalieren:escalate
 hüten:look after
-rekrutieren:recruit
-schlottern:shiver
-pudern:dust
-anpirschen:stalk
-umstellen:transpose
+vorankommen:advance
 unterstützen:help
-fehlschlagen:abort
-versprechen:promise
-erproben:try
-extrahieren:extract
-anklagen:accuse
-chillen:chill
+wegkommen:walk
 anmalen:paint
-einschieben:insert
-entsaften:juice
-benedeien:bless
-rasten:rest
-selchen:smoke
-triezen:pester
-schneiden:cut
-plantschen:to dabble
-levitieren:N/A
-ausrüsten:equip
-knöpfen:button
-wühlen:rummage
 personalisieren:personalize
-schnaufen:chuff
-ausarbeiten:work out
-instruieren:instruct
-böllern:fire
-casten:cast
-analysieren:analyse
-kompromittieren:compromise
-aufsitzen:straddle
-überarbeiten:overwork
 abbestellen:unsubscribe
-anlachen:N/A
-spotten:jeer
-zuknöpfen:button up
-aufweisen:feature
-fringsen:steal
-zubuttern:chip in
-mitdenken:help think
-überlappen:lap
-korrumpieren:corrupt
-regieren:govern
 schütteln:shake
-versteigern:auction
-hereingeheimnissen:N/A
-betten:embed
-tragen:transport
 deuten:interpret
-brunzen:piss
-teilen:divide
-durchdrehen:freak out
-frieren:freeze
+flennen:snivel
 influenzieren:N/A
-einheften:file
 anlegen:create
-jähren:N/A
-schächten:slaughter
-verankern:anchor
-braten:fry
-berühren:touch
-assimilieren:assimilate
-tupfen:dab
-mäandrieren:zigzag
+radizieren:root extraction
+antun:accept
 röcheln:breathe stertorously
-einimpfen:inculcate
-greinen:cry
 übereinstimmen:agree
-erzeugen:produce
-entreißen:dispossess
+thronen:be enthroned
 zucken:jerk
 jauchzen:crow
 klingen:sound
 bähen:foment
-indexieren:subscript
-verschanzen:entrench
 nappieren:coat
-sengen:scorch
-platzen:burst
-atzen:feed
-krabbeln:crawl
-konzedieren:concede
-ermuntern:encourage
-verabscheuen:detest
+klittern:N/A
 girren:coo
-erwidern:reply
 retuschieren:retouch
 verschlagworten:catalog
-abziehen:subtract
-baumeln:dangle
+festhalten:grip
+lüften:air
 tüddeln:N/A
-häkeln:crochet
-stierln:look through
-eröffnen:establish
-einseifen:soap
-ausflippen:flip
-bekennen:confess
-hospitieren:sit in on classes
-knuffen:poke
-zugrunde legen:to take as a basis
+frettieren:N/A
+abwehren:ward off
 flirren:to whir
-lupfen:lift
 abängstigen:N/A
-quetschen:squeeze
-anlügen:lie to
-strawanzen:N/A
+dahinsiechen:languish
 erkiesen:choose
-aufwenden:spend
-schleimen:brownnose
-duzen:thou
-kommerzialisieren:commercialize
-keppeln:nag
-schraffieren:hatch
-unterscheiden:distinguish
-nebeln:N/A
+blechen:cough up
 brauchen:need
-zerpflücken:pick to pieces
-überstürzen:rush
-prägen:coin
-fieren:lower
 beißen:bite
-welken:wither
-vorbeifahren:pass
-abkupfern:copy
-verwesen:decay
-anrichten:arrange
-befürworten:applaud
-vorbereiten:prepare
-versüßen:sugar
+piepen:chirp
+logieren:be pregnant
 widerrufen:revoke
 pfropfen:graft
-wulachen:N/A
-ableiten:deduce
-flöten:whistle
-angehen:concern
-grienen:grin
-ausspucken:disgorge
+belecken:lick
+verlangsamen:slow down
 abhetzen:rush about
-schönen:brighten
-bemustern:to take sample
-verfolgen:pursue
-entfachen:kindle
+anreisen:arrive
 lauten:be
-spendieren:shout
-eitern:fester
-erwahren:N/A
-erzielen:score
-oktroyieren:force
-bändigen:curb
-einen:compromise
+latschen:traipse
 shoppen:shop
-schlurfen:shuffle
 vorgehen:advance
-abspecken:slim
 bitten:ask
 dinieren:dine
-bräunen:sunbathe
-aufbewahren:save
-kritteln:cavil
-raten:guess
-lullen:lull
-frönen:indulge
+abhauen:skedaddle
 dibbern:chat
-skartieren:N/A
-verweigern:refuse
 bramarbasieren:boast
-aufwickeln:wind
-spazieren:stroll
-herbsteln:to become autumnal
-pichen:N/A
-vögeln:fuck
-sprengen:blow up
-zusammenhängen:cohere
 bürgen:vouch
-traktieren:address
 schäkern:dally
-laufen:run
-konzeptualisieren:N/A
-erreichen:accomplish
-verbieten:forbid
-abnützen:to outwear
-zünden:ignite
-aufschlagen:pitch
-schmulen:N/A
+darniederliegen:N/A
 wähnen:daydream
-obsiegen:win
+anpissen:N/A
 überprüfen:check
-wienern:to polish
-albern:silly
-bereedern:N/A
-vergittern:grate
+geifern:salivate
 grätschen:sprawl
 husten:cough
 deklassieren:declassify
-schnalzen:click
-obwalten:prevail
-extrudieren:extrude
-einrichten:arrange
-bedanken:thank
-angeben:declare
+einkochen:boil down
+freisprechen:absolve
+aussitzen:to sit out
 umschreiben:paraphrase
 verraten:betray
-zusprechen:assign
-leihen:borrow
-traversieren:traverse
-anschmieren:con
-ankreuzen:cross
+weiterhelfen:N/A
 vorziehen:prefer
 kondolieren:condole
-verschneiden:neuter
-modern:modern
-flattern:flutter
-kalligraphieren:N/A
-knoten:knot
-sezernieren:secrete
-klicken:click
-hervorrufen:cause
-herrschen:reign
-kitzeln:tickle
-ehren:honour
-abstellen:stand
-mitmischen:to get involved
-emendieren:emend
+zaudern:hesitate
+leugnen:deny
 knallen:bang
-kotieren:admit for quotation
-entschuldigen:excuse
 konturieren:outline
-auspacken:unwrap
-laden:load
-taumeln:stagger
-authentifizieren:authenticate
+einwerfen:insert
 aufwachsen:grow up
-abblättern:peel off
-beschäftigen:occupy
-unterstehen:be subject to
-fertigmachen:complete
-besuchen:visit
-destillieren:distil
-schwelen:smolder
+gutheißen:approve
+abpölen:N/A
+transitieren:N/A
 segeln:sail
-entweihen:desecrate
 vergraulen:scare
 lustwandeln:to stroll
-vorsehen:designate
-festkehren:avert
-traben:trot
-einladen:invite
-pfeifen:whistle
-lächeln:smile
-sperren:bar
-auflösen:dissolve
-gabeln:fork
+erleuchten:enlighten
+prollen:N/A
 zerplatzen:burst
-koalieren:form a coalition
-imponieren:impress
+reinplatzen:N/A
 abasten:N/A
 schlendern:amble
-komplimentieren:escort
-bevorzugen:prefer
-debridieren:debride
-aberkennen:deprive
-produzieren:produce
-migrieren:migrate
-herauskommen:emerge
-speisen:eat
-nachlassen:to abate
-reponieren:restore
 singen:sing
-dopen:dope
-krächzen:caw
+vorausfahren:N/A
 verweilen:linger
+foppen:make fun of
 stattgeben:to accede
-begatten:copulate
-aussortieren:sort out
-ärgern:annoy
-belegen:floor
-abwerten:devalue
-schenken:present
-schicken:send
-ausgeben:spend
-überreichen:hand over
-subsumieren:subsume
-abfliegen:take off
+ausbacken:fry
+fertigstellen:complete
+beratschlagen:consult
+transfundieren:N/A
+emulieren:emulate
+refutieren:decline
+einschiffen:embark
+infizieren:infect
+fingern:N/A
 adaptieren:adapt
-fortbleiben:N/A
 schneien:snow
-knirschen:crunch
-tirilieren:trill
-ausscheiden:excrete
-herausarbeiten:bring out
-reservieren:reserve
-grummeln:hurtle
-umlaufen:circulate
-klauen:steal
-versalzen:oversalt
-erschaffen:create
-portieren:port
-vollziehen:implement
-umtakeln:N/A
-camouflieren:camouflage
+verprellen:to alienate
+entlausen:delouse
+kujonieren:bully
 beschneiden:circumcise
 trampen:hitchhike
-elidieren:elide
-überführen:rearrange
-sammeln:pick
-exkludieren:N/A
-deklarieren:declare
-adsorbieren:adsorb
-widmen:dedicate
-aushebeln:lever
-unterschätzen:underestimate
-verdünnen:dilute
-kieken:to look
-mählen:N/A
-anstrengen:exert
-mitteilen:inform
-sinken:sink
-abbrechen:break
+auszählen:count
+konkretisieren:concrete
+aufplustern:fluff
 ausspionieren:spy
 anfangen:begin
-abgewöhnen:give up
-schämen:shame
-grillen:barbecue
-wegziehen:pull away
-gipfeln:culminate
-freuen:rejoice
-inkubieren:N/A
-schnauben:snort
-wachsen:grow
+heranmachen:N/A
 hasten:be impatient
-kochen:cook
-erfinden:invent
-türken:deceive
+verschaffen:procure
 anlangen:arrive
 auslassen:omit
-blicken:look
-ausführen:perform
-relegieren:expel
-zurückbilden:form back
+abfotografieren:take a photo
 bibbern:jitter
 zahlen:pay
-beschimpfen:abuse
-diskutieren:discuss
-ballern:bang
-aufkleben:affix
-trüffeln:N/A
-erhöhen:increase
-abstürzen:crash
+umetikettieren:N/A
+ertappen:catch
 diskreditieren:discredit
-schreiben:write
-aufwerfen:pose
-plagen:badger
+einlenken:give in
 unterweisen:teach
-reimen:rhyme
 apparieren:apparate
 fangen:catch
-zusammenrechnen:add up
-verspielen:gamble away
-einkerkern:imprison
-entkommen:escape
+schachten:N/A
 buchen:book
-herabblicken:despise
-rufen:call
 publizieren:publish
-erhalten:get
-verschlafen:oversleep
+aufwärmen:limber up
 entwerfen:design
-erschleichen:creep
-messern:cut
-zerfallen:decompose
-fürchten:fear
-hinausfliegen:be beheaded
 rollen:roll
-schlenzen:to flick
-stammen:stem
-buffieren:buff
-enthalten:contain
-finden:find
+klassifizieren:classify
 kreditieren:credit
-massolieren:club
-blitzen:flash
-petzen:snitch
-überwachen:monitor
-unterteilen:classify
-vergiften:poison
 herumzeigen:show around
-schmieden:forge
-einatmen:inhale
 notieren:note
-degoutieren:nauseate
-schlingen:gobble
-kommen:come
-ankleben:stick
+verrennen:N/A
 untersagen:forbid
-unterpunkten:N/A
-hochkommen:rise to the surface
-agitieren:agitate
 herumplagen:N/A
 triggern:to trigger
-geloben:vow
 erfüllen:fulfil
-zementieren:cement
-andeuten:indicate
-implementieren:implement
-mittagessen:food
-schnäuzen:N/A
-schmusen:smooch
+anschleichen:sneak up on
 unterstreichen:underline
 punktieren:puncture
-befragen:question
-nageln:nail
-erleben:experience
-auserkiesen:choose
-anflehen:beg
-effektuieren:accomplish
-absetzen:dethrone
-explizieren:explicate
-instituieren:institute
-kräuseln:purse
-brutzeln:sizzle
-gräzisieren:N/A
-erstechen:stab
+kasteien:chasten oneself
+verurteilen:condemn
+bewirten:treat
+grammatikalisieren:N/A
 ersitzen:acquire by adverse possession
-knatschen:N/A
-mehren:add
+politisieren:politicize
 lehnen:lean
-umsteigen:change
-abschachern:N/A
+exploitieren:exploit
+ausbessern:repair
 abkaufen:buy
-beschönigen:palliate
 umfunktionieren:to convert
-abfälschen:deflect
-sprinten:sprint
-beschlafen:N/A
+thürmen:N/A
 umgeben:surround
-abkühlen:cool
-stehlen:steal
-wegräumen:put away
-ängstigen:frighten
-schuften:toil
 abbitten:apologize
-amüsieren:amuse
 schwenken:sway
-giggeln:N/A
 begrünen:plant
-anfahren:pull away
-köpfen:behead
-juchen:N/A
+brandmarken:brand
 zurückbleiben:fall behind
-abbuchen:debit
-straucheln:stumble
-murksen:to skimp
-abchangieren:N/A
-bumsen:fuck
-lärmen:brawl
-rühren:stir
-erschlaffen:flag
-koalisieren:N/A
-desavouieren:disavow
-pokern:play poker
-panieren:bread
-stammeln:stammer
-gewöhnen:accustom
-scheitern:fail
+devolvieren:devolve
+umsteigen:change
 zusammensparen:save up
-verunsichern:make insecure
-luschern:N/A
-verletzen:violate
-linken:link
-abbusseln:N/A
+grenzen:border
+einschreiben:register
 ersorgen:await
-entthronen:dethrone
 rutschen:slide
-acheln:N/A
-erhitzen:heat
 fladern:fling
-erzählen:tell
-auffahren:ascend
+verschlafen:oversleep
 wenden:turn
-diversifizieren:diversify
-pogen:pogo
-googeln:google
-verhüten:prevent
-tuscheln:murmur
+stelzen:stalk
 spazieren gehen:walk
-stöbern:poke
+abhingehen:N/A
+näherkommen:to near
 toasten:toast
-verlangsamen:slow down
 veräußern:sell
 nuckeln:suck
 obstruieren:block
-knapsen:be stingy
-verschlüsseln:encrypt
-parfümieren:perfume
+anhängen:append
 ähneln:resemble
 aufräumen:clean
-dampfen:fume
-entschlagen:N/A
-legen:put
-abformen:molding
-hoagaschtn:N/A
-zusehen:watch
-boxen:box
+suppen:N/A
+verkraften:to cope with
+kokeln:N/A
+schluchzen:sob
 ankommen:arrive
-mikroskopieren:N/A
-beschweren:complain
-transformieren:transform
-kratzen:scratch
-pranzen:N/A
-hineindenken:to try to understand
+festschreiben:to lay down
+weichen:give way
 dürfen:may
-anvisieren:aim at
-abbeizen:strip
 schließen:lock
-verbläuen:bash
-präsentieren:present
-zwicken:pinch
-schrillen:shrill
-quasseln:yak
-kodifizieren:codify
 proggen:N/A
-konsternieren:alarm
-löchern:fire questions at someone
-sprechen:speak
-drapieren:drape
-legieren:alloy
-schultern:shoulder
+hapern:to lack
+belegen:floor
+klehen:N/A
 blockieren:block
 dribbeln:dribble
-anzweifeln:question
-gurgeln:gargle
-piesacken:badger
-harnen:urinate
-garantieren:guarantee
-brennen:burn
-umerziehen:N/A
-dursten:thirst
-votieren:vote
-ankündigen:announce
-verschießen:fade
+schnauben:snort
+achtgeben:pay attention
 falten:fold
-reinpfeifen:N/A
-sollizitieren:solicit
-gewinnen:earn
+verhüten:prevent
 billigen:approve
-abstrafen:punish
-korrelieren:correlate
-blaken:to give off smoke
-vornehmen:accomplish
-stampfen:pitch
-funzeln:N/A
-verschenken:offer
-unwirschen:N/A
-borgen:borrow
-wissen:know
+sitzen:sit
 entern:board
-falsifizieren:falsify
+scheitern:fail
 stöhnen:groan
-schieflaufen:N/A
-reichen:hand
-spannen:stretch
-heizen:heat
-schalten:switch
-abmagern:lose weight
-beunruhigen:trouble
-entwalden:deforest
-wuseln:scurry
-ansteigen:rise
-vorüberfahren:pass
-vergewissern:ensure
-stoßen:knock
-zuckern:sugar
-insistieren:insist
-kapern:capture
-schwanen:dread
-kundtun:announce
-verschieben:postpone
+einsitzen:N/A
+prosperieren:prosper
+schlabbern:to flap
+beschweren:complain
+attestieren:certify
+dursten:thirst
+schienen:shone
+ausdeutschen:N/A
 entmutigen:discourage
-determinieren:determine
+abrocken:N/A
 verwursten:confound
-begehren:desire
-abspeichern:save
-selegieren:select
 gönnen:allow
-füllen:fill
-abisolieren:skin
-perennieren:N/A
 reparieren:repair
 zerlegen:decompose
-bevormunden:patronize
-kosten:cost
-wintern:to age
-einpreisen:determine the price structure
-quantifizieren:quantify
-siezen:N/A
-feien:immunize
-zurückhalten:withhold
-rödeln:have sex
-widerfahren:befall
-erlösen:deliver
-abzielen:aim
-zündeln:play with fire
+schürfen:prospect
+durchlaufen:run through
+derkrallen:N/A
 verbluten:bleed to death
-anheimstellen:N/A
+einpreisen:determine the price structure
 beneiden:envy
 verdenken:resent
-vereinbaren:agree
-heiligen:hallow
-ersetzen:replace
-leeren:empty
-dehnen:stretch
 kondizieren:N/A
 verschüren:N/A
-rotieren:rotate
 karessieren:caress
-hebeln:lever
-tracken:track
-veranlagen:assess
-stiften:donate
-zeihen:accuse
-aufbäumen:rebel
-abhobeln:cross out
-wallfahren:go on a pilgrimage
-veräppeln:kid
-ausatmen:expire
-maledeien:condemn
-bedrängen:beleaguer
-dotieren:dope
-verschwinden:disappear
-bewohnen:inhabit
+reagieren:react
+arbeiten:work
 züchten:breed
 binden:tie
-einleuchten:appear
-entwöhnen:wean
+auspichen:N/A
 hochheben:raise
-errichten:build
-zerkauen:chew
-motivieren:motivate
-legitimieren:legitimize
-bügeln:iron
-verschweigen:conceal
-krakeln:scrawl
-rallen:N/A
 verfangen:be caught
 befremden:alienate
-auslöffeln:spoon up
 flanieren:stroll
-assoziieren:associate
-stecken:stick
+kaspern:to clown
 gründen:establish
 aufhängen:hang
-bekriegen:battle
-verlängern:lengthen
-herbringen:bring
+automatisieren:automate
 anbieten:offer
-nachschlagen:look up
-deeskalieren:N/A
-scheren:shear
 flackern:flicker
 vorhaben:intend
 lieben:love
@@ -899,1382 +348,1977 @@ züngeln:dart
 verbleiben:dwell
 gären:ferment
 detonieren:detonate
+wattieren:quilt
 laborieren:be afflicted with
-abblitzen:rebuff
-passieren:happen
-rosten:rust
-chargieren:N/A
-vorkommen:occur
-präzisieren:specify
-zusammensetzen:compose
-stützen:sustain
-dokumentieren:document
-einholen:overtake
-finassieren:machinate
-wetterleuchten:lighten
-vermengen:mix
-klären:clear
-aalen:stretch out
-beackern:cultivate
+konzertieren:concert
+abstauben:dust
+zusagen:accept
+anschnauzen:N/A
 verbitten:refuse to tolerate
-verzetteln:dissipate
-suspendieren:suspend
-überwinden:overcome
-hausieren:hawk
-operieren:operate
-zählen:count
-vaporisieren:vaporise
-stranden:beach
+photokopieren:photocopy
+abfegen:sweep
+dremmeln:N/A
 leiden:suffer
-schauen:look
-einfügen:insert
-konspirieren:conspire
-schweigen:be silent
-widerlegen:refute
+demütigen:humiliate
+ersticken:suffocate
 freisetzen:release
-speiben:vomit
-validieren:validate
-behandeln:treat
-domestizieren:domesticate
-pennen:kip
-barbieren:barber
-besudeln:sully
+hartzen:N/A
+verheilen:heal
+romanisieren:romanize
 schwärzen:blacken
-zerren:drag
-erheischen:ask
-raunzen:complain
+affichieren:advertise
 aufnehmen:record
-filzen:felt
-knuddeln:cuddle
-aushalten:endure
 kreisen:circle
 reiten:ride
-lösen:solve
-debattieren:debate
-sekkieren:bother
-prüfen:examine
+zurückgehen:decline
 dealen:deal
-bedienen:serve
-schattieren:shade
 habilitieren:be promoted to professor
 schleudern:hurl
-erscheinen:appear
-gelangen:arrive
+bastardieren:cross
 einbezahlen:to pay in
-applaudieren:applaud
-bröckeln:crumble
-übersteigen:exceed
-erholen:rally
-piksen:prick
+ergründen:fathom
+bekehren:proselytize
 abbegehren:N/A
-abbalgen:flay
-serbeln:N/A
-schwingen:swing
 brillieren:shine
-entkeimen:sterilize
-projektieren:project
-gegenüberstehen:be opposite
 stutzen:prune
-leichtern:lighten
-entlassen:dismiss
-aussagen:bear
-ausbeinen:bone
-verstehen:see
-übersiedeln:move
-beistimmen:accede
 potenzieren:exponentiate
-abbrauchen:N/A
-trotten:trot
 kränkeln:ail
-fleddern:rob
-durchsuchen:search
-bedonnern:N/A
-herabfallen:come out
+obligieren:N/A
 gehören:belong
-absichern:fuse
 beamen:beam
-verrohren:case
-muten:N/A
-lithografieren:to lithograph
-perpetuieren:perpetuate
-spuren:to toe the line
+hausen:dwell
 waschen:wash
-prognostizieren:forecast
-reklamieren:complain
-übernachten:spend the night
-schwarzsehen:dodge the TV license
-disambiguieren:disambiguate
-trennen:divide
-abbröseln:N/A
-verschmutzen:soil
-krankschreiben:N/A
-bearbeiten:edit
-handeln:act
-monetarisieren:N/A
-managen:manage
-regenerieren:regenerate
-kommentieren:comment
-einsetzen:appoint
-erregen:excite
-animieren:animate
-gehorchen:obey
-staben:N/A
+ausgraben:dig out
+buchstabieren:spell
 restringieren:restrict
-aneignen:appropriate
-steigern:increase
-begeistern:enthuse
-pachten:lease
-verlieren:lose
-quälen:torment
-benachrichtigen:notify
-gebrechen:lack
-tangieren:touch
-nachsagen:repeat
+derschnaufen:N/A
+niedermetzeln:butcher
+bündeln:bunch
 beistellen:to make available
 keifen:salivate
-gerben:tan
-joggen:jog
-gewährleisten:assure
+abgießen:decant
 ballen:clench
 renovieren:renovate
-beschulen:N/A
-einblasen:blow in
-schludern:skimp
-erörtern:discuss
-rackern:to drudge
-vergammeln:decay
-ergaunern:rook
-ölen:oil
+periodisieren:N/A
+applizieren:administer
+beömmeln:N/A
 mobben:bully
-enterben:disinherit
-wählen:choose
-abbinden:bond
 trödeln:dawdle
-mosern:to find fault
-abstecken:stake out
-sinnieren:ponder
-fingieren:feign
-kitten:fill
-entrinnen:escape from
-zocken:gamble
-übergeben:hand over
-meucheln:assassinate
-veranlassen:cause
-entfalten:unfold
+wehklagen:lament
 klassieren:classify
-konjugieren:conjugate
-blanchieren:blanch
-verbrämen:embellish
-dezidieren:decide
+queren:to traverse
 nagen:gnaw
-verstimmen:contravene
 abwägen:weigh
-einbläuen:drum
-heißen:be called
-hinlegen:lie down
-akzentuieren:accentuate
-testieren:make a will
-behaupten:claim
-verschmähen:disdain
-fehlen:lack
-grapschen:catch
+aufblasen:inflate
+beflocken:flock
+bemuttern:chaperon
+bluffen:bluff
+abspülen:gargle
+schiffen:rain
+übersiedeln:move
 verallgemeinern:generalize
 anziehen:tighten
-aufbringen:broach
-benennen:name
 mauern:build
 persiflieren:satirize
-klieben:cleave
-darlegen:explain
-aufzeigen:demonstrate
-enteisenen:N/A
+rubbeln:rub
 verbrechen:break
-einführen:introduce
-ausbaldowern:case
-verhalten:behave
-konversieren:converse
-aufziehen:raise
-generieren:generate
-biegen:bend
-wiederholen:repeat
-harren:await
+besetzen:occupy
+rasieren:shave
+umreißen:delineate
 rezipieren:absorb
-aussetzen:abandon
-vermöbeln:batter
-goutieren:approve
-variieren:vary
-zeitigen:bring about
-abduzieren:abduce
 belasten:burden
-verunglimpfen:denigrate
-arbeiten:work
 aushärten:cure
-überwallen:N/A
-versuchen:try
-hinken:limp
-fliehen:flee
-stibitzen:swipe
-füsilieren:shoot
-perseverieren:N/A
-gleichtun:N/A
-pupen:fart
-brüskieren:snub
-beherrschen:control
-revanchieren:pay back
-marginalisieren:marginalise
 verschleiern:veil
-hocken:squat
-kaduzieren:cancel
-hochkrempeln:roll up
-besingen:express
-schmeißen:throw
-schlucken:swallow
-abfragen:query
-downloaden:download
-randomisieren:randomise
-grassieren:rage
-Klinken putzen:sell from door to door
-regnen:rain
-verbergen:hide
-schnackseln:have sex
-zusammenpressen:impact
+ausschalten:turn off
+verwundern:amaze
+zurückliegen:to be delayed
 verschmachten:languish
-schaden:harm
-abschminken:remove make up
-galoppieren:gallop
-toupieren:tease
-einschalten:turn on
 zögern:hesitate
-tolerieren:tolerate
-stören:disturb
-konfigurieren:configure
-demontieren:dismantle
-beschickern:get
-zerfleischen:mangle
-verwüsten:devastate
-wegdrücken:N/A
-tradieren:hand down
-weigern:refuse
 verlieben:fall in love
-abschrecken:chill
-optieren:opt
-wichsen:jerk off
-lesen:read
-schlummern:slumber
-induzieren:induce
-kauern:cower
-puffen:chug
-abreisen:depart
-purgieren:clean
-angeln:fish
-auflehnen:rebel
-scheuchen:shoo
-skoptisieren:N/A
-schleppen:drag
-sekundieren:second
-blaffen:bark
-freilassen:release
-einkoppeln:couple into
+verwinden:get over
+zusammenhängen:cohere
+honen:hone
 überwiegen:preponderate
-verhandeln:negotiate
-fensterln:N/A
-regen:stir
-verklappen:dump at sea
-bodigen:beat
-bauchpinseln:feel flattered
-aufklaren:clear
-kontern:counter
-aufoktroyieren:N/A
-hypen:hype
-dispensieren:dispense
+fotokopieren:photocopy
+derbatzen:N/A
+besendern:N/A
+wegklicken:N/A
 desensibilisieren:desensitize
-nähern:approach
-aquarellieren:watercolour
-zerschellen:smash
-durchfließen:cross
-propagieren:propagandize
-ausbrechen:break out
+entmieten:N/A
+fädeln:baste
 summieren:sum
-monieren:criticize
 abdingen:cede
 folgen:follow
-skypen:skype
-entfernen:delete
+sieben:seven
 anfassen:touch
-abschicken:send
-quietschen:squeak
-outrieren:exaggerate
-wallen:undulate
-decken:cover
-abschließen:lock
+belauern:N/A
+schnucken:nibble
 hussen:agitate
-niederschlagen:knock down
-zeugen:beget
-ächten:ostracize
-aushandeln:negotiate
-einkästeln:N/A
-beantworten:answer
+sterben:die
 straffen:bandage
-rauchen:smoke
-trenzen:N/A
-lähmen:paralyze
-illuminieren:illuminate
-anschnallen:buckle on
-erbittern:exacerbate
 inthronisieren:enthrone
 reflektieren:reflect
-schieben:push
-paktieren:N/A
 dösen:doze
 rütteln:jolt
 schrecken:frighten
-anbringen:mount
-stärken:strengthen
-einzahlen:deposit
-absegeln:to sail away
-abtragen:wear out
-rekapitulieren:recapitulate
+hleban:N/A
 klötern:clatter
-hoffen:hope
-grabschen:grab
-basteln:tinker
-resultieren:result
-erlegen:bag
-wickeln:wrap
-regeln:regulate
-atmen:breathe
-bezeichnen:name
+pachten:lease
+überdenken:rethink
 umarmen:hug
-abbilden:map
-prophezeien:prophesy
-bastardieren:cross
-vermieten:let
-verborgen:hidden
-füttern:feed
-absägen:saw off
-zusammenfassen:summarize
+vernalisieren:N/A
+krippen:N/A
 erschachern:N/A
-töten:kill
-überschätzen:overestimate
-designen:design
-mokieren:mock
-resorbieren:reabsorb
 transportieren:transport
-deputieren:depute
 verhören:interrogate
-mitgeben:give
 differieren:differ
 sickern:ooze
 zugeben:admit
-befürchten:fear
-verknüpfen:join
-argwöhnen:suspect
-knüpfen:tie
-süßen:sweeten
+abwickeln:unwind
+derhungern:N/A
 alimentieren:aliment
-fortloben:kick upstairs
 betrügen:deceive
-verrecken:kick the bucket
-denken:think
-negoziieren:negotiate
-ausbleiben:not to be forthcoming
-gneißen:N/A
+fantasieren:dream up
 intonieren:intonate
-gedeihen:prosper
-angrillen:N/A
-tröpfeln:trickle
-klotzen:N/A
-vindizieren:claim
-leben:live
-perforieren:perforate
-sonnen:sunbathe
-schnökern:browse
-verordnen:prescribe
-unterminieren:undermine
 grinsen:grin
-kaskadieren:cascade
 schmuggeln:smuggle
-inkommodieren:bother
-fremdgehen:cheat
-entbehren:lack
-belfern:N/A
-beenden:finish
 entscheiden:decide
 erschweren:aggravate
 konstatieren:ascertain
-hören:hear
-unterrichten:teach
-schimmern:shimmer
-hintreten:N/A
-verdrängen:oust
-antizipieren:anticipate
-knuscheln:N/A
-tauschen:exchange
-inventieren:invent
-nachweisen:prove
-verarschen:fool
-vermeinen:suppose
-invadieren:invade
-ritualisieren:ritualize
-zusammenarbeiten:collaborate
-abfallen:fall off
-erodieren:erode
-erzen:N/A
-lausen:delouse
-einstimmen:tally
-ausschauen:be after
-proklamieren:proclaim
-erweisen:prove
+katschen:N/A
 fortwischen:N/A
 recken:adulterate
-killen:kill
 pimpern:fuck
-ruhen:rest
+signieren:sign
 aufreiben:pulverise
-fickern:N/A
-erledigen:finish
-blauen:N/A
-insinuieren:insinuate
-antreiben:drive
-speichern:save
-fernsehen:teleview
-spielen:play
-erwerben:acquire
-erbringen:bear
-drücken:press
-betrinken:get drunk
-lauern:lurk
-sezieren:dissect
-tauchen:dive
-belagern:besiege
+kalkulieren:calculate
+entpolitisieren:to depoliticise
+unterordnen:subordinate
 präterieren:N/A
-konvertieren:convert
-plärren:whinge
-versauen:dirty
-zuschreiben:ascribe
-aufhalten:stay
-begraben:bury
+aufbleiben:sit up
+fluten:flood
 ergreifen:seize
-protegieren:sponsor
-demotivieren:demotivate
-abschlagen:refuse
+plätten:iron
 stieben:scatter
-meckern:whinge
 miauen:meow
-vagieren:roam
-auftragen:spread
-konstruieren:construct
-sich krümmen wie ein Aal:N/A
-verhätscheln:coddle
-berichtigen:correct
-verlachen:deride
-resignieren:resign
-auftakeln:rig
-beschatten:shadow
-rügen:reprove
-abfärben:to run
-erdrosseln:choke
-klaffen:gape
-hemmen:dam
-kandieren:candy
-dilatieren:dilate
-canceln:cancel
+tuscheln:murmur
+abschöpfen:skim
+anheuern:charter
+deklamieren:declaim
+anschicken:prepare
 bräteln:grill
 schmecken:taste
-verstaatlichen:nationalize
-hacken:chop
 anästhesieren:anesthetize
 schöpfen:draw
-tadeln:blame
-tölten:N/A
-radieren:etch
-aufmerken:attend
-tschalpen:N/A
-blasen:blow
-verhöhnen:deride
-kooperieren:cooperate
-karamellisieren:caramelize
+zusammenschrauben:N/A
+ausgrauen:gray out
+dahaben:N/A
 verbringen:spend
-schänden:rape
-räsonieren:reason
 restrukturieren:restructure
-verwaisen:become an orphan
-servieren:serve
-teufen:N/A
-beteiligen:participate
-anberaumen:appoint
-faszinieren:fascinate
 abgrenzen:demarcate
-korrigieren:correct
-konzertieren:concert
 verzapfen:mortise
-pusten:blow
-abbetteln:to wheedle
-einverleiben:incorporate
-girieren:endorse
 knebeln:N/A
-zappeln:fidget
 wirken:work
-erfragen:ask
-entgegenkommen:subtend
-nippen:sip
-verbrauchen:consume
-abreißen:tear
-umsehen:browse
-erpflegen:N/A
-liefern:deliver
-konvenieren:to convene
-vazieren:N/A
 aufrechnen:count up
-organisieren:organize
-projizieren:project
-flennen:snivel
-schauspielern:act
-umlegen:apply
-gefallen:please
-vulkanisieren:vulcanize
-einschränken:constrain
-entfallen:allot
-murren:grumble
-behalten:keep
-abstillen:wean
-unternehmen:undertake
+durchliegen:N/A
+abformen:molding
 headbangen:headbang
 währen:last
-derblecken:N/A
+aufzwirbeln:twirl up
 blättern:browse
-medisieren:N/A
-schulen:school
 maunzen:meow
 vorfallen:happen
-einfangen:capture
-aufheben:abolish
-checken:check
-abbauen:mine
-ätzen:etch
-schlagen:coin
 reüssieren:have a success
 anlassen:animadvert
-meditieren:meditate
-versterben:die
-nutzen:utilize
-schwäbeln:N/A
-wispern:whisper
+reifen:mature
 alarmieren:alarm
-unterschreiten:fall short of
-nehmen:take
-obduzieren:autopsy
-verabreichen:administer
-vorbehalten:reserve
-rangieren:shunt
-vernetzen:network
-unterlassen:abandon
-verharschen:become caked
+beben:tremble
+heimkommen:to get home
 repetieren:practice
-fordern:demand
-attentieren:N/A
-foppen:make fun of
-fälschen:forge
-bemerken:notice
+verdummen:stupefy
 plenken:blank
-anvertrauen:entrust
-abnabeln:become independent
-erröten:blush
-beiten:bide
+konfabulieren:confabulate
 bauen:build
-ermorden:kill
-stabilisieren:stabilize
-auftreten:appear
-befruchten:fertilize
+ausscheißen:N/A
+auferstehen:rise
 thesaurieren:to accumulate
 ausgrenzen:exclude
-dämmern:dawn
-beschämen:abash
-initialisieren:initialize
-abnutzen:wear out
-abbrennen:burn down
-eruieren:elicit
-mauscheln:Yiddish
-vermelden:announce
-behagen:please
-bestehen:consist
-entheben:clear
-booten:boot
+stammen:stem
+erkundigen:inquire
+telegrafieren:telegraph
 differenzieren:differentiate
 vertrauen:trust
 turnen:do gymnastics
-extemporieren:extemporize
-verhohnepipeln:to send up
 spenden:donate
 tasten:grope
-abfegen:sweep
-drillen:drill
-abbuffen:buff
-stählen:steel
-ausruhen:rest
-abflachen:flatten
-adeln:ennoble
-aktivieren:activate
+adorieren:N/A
+werken:N/A
+schwelgen:revel
 antworten:answer
-präjudizieren:N/A
 nummerieren:number
-wiederbeleben:resuscitate
+verplappern:open ones mouth too wide
 äpfeln:defecate
-uzen:kid
-abkrüppeln:N/A
-ankennen:N/A
-demütigen:humiliate
-reduzieren:reduce
 triefen:ooze
-proben:rehearse
-raspeln:rasp
-graupeln:sleet
-spulgen:N/A
-verfressen:gluttonous
+zutrauen:commend
 einschlagen:bang
-kalben:calve
 überfordern:overcharge
-verriegeln:bar
 gestatten:allow
-einschüchtern:intimidate
-filetieren:fillet
-patrouillieren:patrol
-rotzen:N/A
-zubereiten:prepare
 blubbern:bubble
 abbacken:N/A
-verdienen:earn
-gähnen:yawn
-erlangen:obtain
+einkerkern:imprison
 schmunzeln:grin
-abdizieren:abdicate
-suhlen:wallow
 pulsieren:pulsate
 flüstern:whisper
-posieren:pose
-verschlingen:devour
-delegieren:delegate
 klauben:scrounge
-privatisieren:privatize
-ausschließen:exclude
-zernagen:eat into
-lernen:learn
-botanisieren:botanize
-durchbrennen:elope
-einsehen:have a look at
-führen:control
-forkeln:N/A
-akquirieren:acquire
-ansehen:watch
-fassen:catch
-drechseln:turn
-ernähren:nourish
-ausüben:exert
-versprengen:to disperse
+entfalten:unfold
+tabuisieren:taboo
 obliegen:behoove
-beabsichtigen:intend
-distanzieren:beat
-erleiden:suffer
-schassen:N/A
-signalisieren:signal
-bringen:bring
+perseverieren:N/A
+hocken:squat
 dechiffrieren:decipher
-löschen:extinguish
-kneten:knead
-schmerzen:hurt
-erleichtern:facilitate
-beurteilen:judge
 hinterlegen:deposit
-unterbinden:deactivate
-aufstellen:posit
-preschen:dash
+abheften:to bind together
 neiden:be jealous
-hinterlassen:leave
-auskoffern:dig
-deduzieren:deduce
-verlegen:misplace
-koordinieren:coordinate
-abblasen:blow away
-merken:notice
-versammeln:assemble
+intubieren:intubate
+interpellieren:interpellate
 rattern:clatter
-eintreffen:arrive
-heiraten:marry
-erzürnen:inflame
-geh:go
-rasen:race
-verziehen:twist
-zutschen:N/A
-schlieren:streak
-betrachten:regard
-ausstrahlen:emanate
-nölen:be slow
-abtakeln:to unrig
-verschlechtern:worsen
-äufnen:N/A
-stupsen:prod
+freinehmen:N/A
+beisetzen:bury
 stolpern:stumble
-zerstören:destroy
-verfilzen:become complicated
-frequentieren:frequent
 gleiten:slide
 seiern:N/A
-beeilen:hurry
-ergründen:fathom
+durchlüften:air
 ansegeln:N/A
-freien:court
-strapazieren:strain
-rauschen:rustle
-erkundigen:inquire
-palavern:to spout
-dressieren:train
-entschärfen:defuse
-wegdenken:N/A
-exponieren:expose
-zügeln:moderate
-schreien:shout
-verzieren:adorn
-versäumen:miss
-einwirken:impact
-chartern:affreight
+quadräteln:N/A
+einrücken:indent
+wurzen:N/A
+mantschen:N/A
 bugsieren:drag
 fleuchen:N/A
-einräumen:concede
 gurren:coo
-vorgeben:pretend
-beiseitelegen:stash
-stottern:stutter
-erstrecken:extend
-sanieren:itself back on an even keel
-beichten:confess
+verzäunen:N/A
 vergeuden:squander
-versichern:insure
-agieren:act
-verbünden:confederate
-erwischen:catch
-auskehren:clean out
-hupen:honk
 kompensieren:compensate
-tun:do
-verzeihen:pardon
-durchixen:N/A
 anschmiegen:cuddle
-herankommen:approach
-dementieren:deny
 abwracken:dismantle
-fluoreszieren:fluoresce
-radotieren:drivel
-prellen:bruise
-herbsten:to become autumnal
 kooptieren:N/A
 alphabetisieren:alphabetize
-aufwecken:wake
-invertieren:invert
-vergießen:shed
-austarieren:tare
+knien:kneel
 akkreditieren:accredit
-blinzeln:blink
-flunkern:lie
-wandern:walk
-stinken:stink
-zurückgehen:decline
-zusammenstoßen:collide
-begrüßen:greet
-runterfallen:N/A
-anbrechen:break
-schrauben:screw
+ablaktieren:N/A
 baden:bathe
-saufen:drink
-schmieren:lubricate
-anrufen:call
-innehaben:hold
-kämpfen:fight
 riskieren:risk
 zergen:N/A
-verschlagen:wily
 umbenennen:rename
-spänen:N/A
-zagen:hesitate
-aufführen:perform
+abdunkeln:black out
 fegen:sweep
-zertifizieren:certify
-ausziehen:undress
-weichen:give way
-hintertreiben:foil
-schmollen:pout
-Rad fahren:cycle
+abtun:snub
+verdunkeln:darken
 tingieren:dye
-verdingen:hire out
 einengen:hem
-bechern:booze
+auseinanderklamüsern:N/A
 abpausen:to transcribe
-allokieren:address
-ansprechen:address
 garrottieren:garrote
 formen:form
-robben:crawl
-einmahnen:ask
-identifizieren:identify
+seichen:piss
 prätendieren:lay claim
-bereitstellen:provide
-mästen:fatten
+unterzeichnen:sign
 anschließen:connect
-verloben:betroth
-verfumfeien:N/A
 mutmaßen:conjecture
 tätscheln:pat
-verkünden:announce
-dreschen:thresh
-suckeln:N/A
-spleißen:splice
-gefrieren:freeze
-frohlocken:exult
-anschrauben:screw on
-abladen:unload
-ausmieten:N/A
-bereiten:cause
+mulatieren:N/A
+exaggerieren:N/A
 vorzeigen:show
-rammeln:fuck
-huldigen:embrace
-duplizieren:duplicate
-nachhelfen:N/A
-büßen:atone for
+preschen:dash
 leiten:control
-abbremsen:brake
-erwachen:awake
-abbeuteln:N/A
-blecken:N/A
+weihen:consecrate
+brettern:to barrel
 kiebitzen:kibitz
-antreten:take on
 ameliorieren:ameliorate
-tätowieren:tattoo
-ausschlafen:sleep in
-verwahrlosen:go seed
+aufrufen:invoke
+zuschließen:lock
 munkeln:rumor
-beschmieren:spread
-umschließen:enclose
-vergrößern:enlarge
 verwunden:wound
-würzen:season
 umfangen:clasp
-betrüben:sadden
-vermaledeien:condemn
-abbalzen:N/A
-verbuddeln:N/A
 verpassen:miss
 zähmen:tame
-stornieren:cancel
+aufteilen:divide
 kollaborieren:collaborate
-plätschern:babble
-ergattern:get hold of
-favorisieren:favor
-frühstücken:breakfast
-betonen:stress
-brandmarken:brand
-auffrieren:N/A
-sautieren:N/A
+gärteln:N/A
 murmeln:mumble
-anspielen:allude
-budgetieren:budget
-okkupieren:occupy
-pantschen:N/A
-zelebrieren:celebrate
+sauen:N/A
 zunehmen:increase
-missfallen:displease
-fotografieren:photograph
 poltern:clatter
 verzichten:renounce
-dekantieren:decant
-abdunkeln:black out
-planschen:flounder about
-keuchen:gasp
-tendieren:tend
 wehren:defend
-lavieren:tack
 steuern:steer
-seigern:to liquate
-zittern:tremble
-sinnen:reflect
 nottun:N/A
-seufzen:sigh
 anordnen:order
-gewittern:N/A
-polieren:polish
-ausstellen:exhibit
-ausbrüten:hatch
-prokeln:N/A
+ernennen:appoint
 machen:go
+ausmisten:to clean out
+verwässern:dilute
 überkommen:come down
 beschädigen:damage
-mümmeln:to nibble
 lehren:teach
 berichten:report
-depravieren:N/A
 fortbewegen:move
-schießen:shoot
-nominalisieren:to nominalise
+schreiten:step
 anweisen:indicate
-vergeigen:N/A
-bieten:bid
-zerstieben:disperse
-beachten:pay attention
-besteigen:mount
-entstehen:arise
-simsen:text
-sägen:saw
-aussehen:look
-betreiben:carry on
-aliquotieren:N/A
+harangieren:N/A
+entgiften:detoxify
+aufteen:to tee
+recyclen:recycle
 summen:hum
-knottern:N/A
-deklamieren:declaim
-frakturieren:N/A
-aufregen:excite
-hecken:hatch
-hungern:hunger
-einfallen:invade
+röten:redden
+vidieren:N/A
+konkludieren:N/A
+zerschellen:smash
+anbrechen:break
 stempeln:stamp
-dippen:dip
-verwalten:manage
-protestieren:protest
-einiggehen:agree
-anspeiben:puke
-besebeln:cheat
-bejahen:affirm
-rinnen:flow
-schnabulieren:N/A
+abstützen:shore up
 streiken:strike
 kuppeln:couple
 evakuieren:evacuate
 jonglieren:juggle
 weglegen:put away
-rean:cry
 glücken:be succesful
-bluten:bleed
-aufrichten:rear
+erachten:deem
 abfangen:intercept
-spritzen:inject
-verzweigen:branch
-stelzen:stalk
-verplappern:open ones mouth too wide
-verausgaben:expend
-enteisen:deice
-verspüren:feel
-begegnen:meet
-fungieren:function
-aufbegehren:protest
-stylen:design
-köpfeln:N/A
+hineinwerfen:dump in together
+dazusagen:add
+zusammenleimen:N/A
+überstellen:N/A
 auslachen:laugh
-trauern:mourn
-salbadern:to spout
-ablenken:distract
 absolvieren:absolve
 genügen:suffice
-abkommen:deviate
-ausloben:offer a prize
-einzeichnen:brand
-kriechen:crawl
-zischeln:hiss
-wurachen:N/A
-karikieren:caricature
-einteilen:divide
+kämpfen:fight
+purzeln:drop
+durchzocken:N/A
 überholen:overtake
-implizieren:imply
+krakeelen:brawl
 kumulieren:cumulate
-einschließen:lock up
+schneiben:snow
 vorladen:summon
-garen:cook
-irisieren:iridescent
-marschieren:march
-sollen:should
+verbremsen:N/A
 bemängeln:criticize
 schmelzen:melt
-wahren:keep
-verpacken:box
-befördern:transport
-detachieren:detach
-trielen:dribble
+rezeptieren:N/A
 spreizen:spread
-substituieren:substitute
-gefangen nehmen:capture
-durchfahren:break through
-auslitern:N/A
-versehren:hurt
-schwafeln:waffle
-meinen:think
-bemühen:trouble
-babysitten:babysit
-gängeln:N/A
-beben:tremble
+quarzen:smoke
+degustieren:degust
+matschen:squelch
+abpinnen:N/A
+zusammenknüllen:cajole
 schnurren:purr
-einkaufen:shop
-vergeben:forgive
-zurückkehren:return
-scheppen:N/A
-ausbaden:pay for
-dehydrieren:become dry
-thronen:be enthroned
 gautschen:N/A
-beanstanden:complain
-faulenzen:idle
-anbiedern:flatter
-fechten:fight
-jagen:hunt
-anmieten:hire
 aufschweißen:N/A
 inquirieren:inquire
-benötigen:need
-triangulieren:to triangulate
-fragen:ask
-innehalten:pause
-saften:N/A
-hervorgehen:answer
-auffallen:stir
+einspeisen:inject
 konsultieren:consult
-abschmücken:N/A
-misslingen:miscarry
-kuschen:knuckle under
-zitieren:quote
-ankern:anchor
-gebrauchen:use
-herausschmecken:taste
-suggerieren:suggest
-verzehren:consume
+brausen:roar
+beizen:etch
 aufsticken:N/A
-mixen:mix
-engagieren:engage
-befreien:free
-ablöschen:blot
-reinchecken:N/A
-problematisieren:N/A
-ersteigen:come up
+abplacken:fag
+zernichten:annihilate
 verüben:commit
-grölen:bawl
-absondern:isolate
-erneuern:renew
-quacksalbern:quack
-vertäuen:moor
-einlassen:admit
-duften:smell
-jucken:itch
-Vorlage:Formatvorlage (Verb vereinfacht)
-rühmen:praise
-promovieren:promote
-scherzen:joke
+hintertreiben:foil
 empfinden:feel
-polarisieren:polarize
-essen:eat
+keulen:cull
+abfinden:compensate
+korrespondieren:correspond
 bergen:salvage
-entspringen:spring
-zürnen:be angry
-abschleppen:tow
-regredieren:N/A
-sabbern:slaver
-achten:esteem
-anpingen:ping
+beschicken:load
 zerkleinern:shred
-heucheln:pretend
+wilddieben:poach
 attackieren:attack
-verorten:file
-erdenken:devise
-antichambrieren:N/A
-verhaften:arrest
-ersinnen:conceive
+klarstellen:clarify
 wettern:fulminate
 resümieren:sum up
-ausbüxen:N/A
-unken:N/A
-ertappen:catch
 umkippen:upset
+überstülpen:N/A
 foltern:torture
 partizipieren:partake
-eingehen:shrink
-dekuvrieren:expose
 aussaugen:deplete
-rechnen:calculate
-schwellen:swell
-widerstehen:resist
-erarbeiten:acquire
-mahnen:urge
-sterben:die
-inkriminieren:incriminate
-kupieren:dock
-emittieren:emit
-scharrieren:N/A
-sausen:speed
-festnageln:nail
+tuchen:N/A
+verpesten:to befoul
 aufladen:give a ride
 striegeln:curry
-festhalten:grip
 abblühen:wither
-fällen:N/A
 beflügeln:buoy
-verneinen:deny
-pochieren:poach
-erinnern:remind
+einnorden:orient
 verschwimmen:become blurred
 kuscheln:cuddle
 verlesen:call a roll
-seichen:piss
-anhaben:wear
+entfachen:kindle
 ejakulieren:ejaculate
 wackeln:waggle
 ratschen:chat
 texten:write
-scannen:scan
-beleben:animate
-betören:beguile
-abätzen:to cauterise
-entkokainisieren:decocainize
-zanken:quarrel
-einloggen:log in
-erpressen:blackmail
-wälzen:roll
-pressieren:accelerate
+einmahnen:ask
+stierln:look through
+anklicken:click
 abstimmen:vote
-nachrechnen:recalculate
-entwickeln:develop
-abfeiern:N/A
+aufgießen:brew
 herziehen:pull near
 vereinnahmen:N/A
-paddeln:paddle
-anastomosieren:anastomose
+verscherbeln:N/A
 spucken:spit
-andauern:last
-verquicken:amalgamate
-beugen:bend
-frickeln:quickly put together an improvised solution
-blaumachen:play hooky
-schätzen:appreciate
-quadrieren:square
-aufwachen:awake
-schleifen:drag
+abtauschen:N/A
 informieren:inform
-reprimieren:repress
 abdriften:drift
 lancieren:launch
-kruschteln:N/A
-bewachen:guard
-fasten:fast
-revidieren:revise
 leisten:accomplish
-miterleben:attend
 amortisieren:amortize
-vormachen:feign
 herunterkommen:descend
-priorisieren:prioritize
-darstellen:represent
-beitreten:join
-orgeln:to howl
-bewirken:cause
-schrotten:total
-exhalieren:exhale
-verschlimmbessern:kill the patient with the cure
-stunden:defer
+widerspiegeln:reflect
+kehrtmachen:reverse
+vergucken:N/A
 mastizieren:masticate
-abtransportieren:evacuate
-pesen:pace
+mitwirken:co operate
 berücksichtigen:consider
-halsen:jibe
-erfahren:experienced
-durchficken:N/A
-freigeben:release
-dienen:serve
+rationieren:ration
+islamisieren:Islamise
 bekräftigen:confirm
-pharyngalisieren:pharyngealize
 ertönen:chime
-abarten:degenerate
-hinreichen:suffice
 pauken:swot
 abzocken:gouge
-golfen:golf
 füßeln:footsie
-bezirzen:bewitch
-steinigen:stone
-mampfen:munch
-anzünden:light
-abmurksen:drygulch
-geziemen:befit
+tilgen:extinguish
+suhlen:wallow
 kontaktieren:contact
-verwünschen:bewitch
-schnucken:nibble
+zwängen:squeeze
 vereiteln:thwart
-abbaumen:start
-affizieren:affect
 verifizieren:verify
-erziehen:educate
-wehtun:hurt
-stippen:dip
-schnorcheln:snorkel
-edieren:edit
-frittieren:N/A
-ausreichen:suffice
-dolmetschen:interpret
-üben:exercise
+kurzweilen:entertain
+ausschlüpfen:hatch
 jammern:lament
-drehen:turn around
-weiterdenken:N/A
-inhibieren:inhibit
-freistellen:exonerate
-monogrammieren:monogram
-aufstocken:add
-eingeben:enter
-begnadigen:pardon
-beauftragen:commission
 begleiten:accompany
-pökeln:pickle
-ambulieren:N/A
-zurechtkommen:cope
-oktavieren:N/A
-verleihen:lend
-shanghaien:N/A
-buchstabieren:spell
-schweißen:weld
-beeinflussen:influence
-glossieren:gloss
-kennenlernen:get to know
-durchstarten:to overshoot
-feixen:smirk
-ausrotten:eradicate
-heroisieren:heroize
-erfolgen:happen
-koitieren:have sex
-schmadern:N/A
-verkehren:associate
-vermasseln:fuck up
-Hilfe:Eintrag:N/A
-malmen:grind
-ausfragen:quiz
-befleißen:N/A
-behindern:hinder
-pullern:go for a slash
+prägen:coin
+grienen:grin
+mitmachen:accede to
+situieren:N/A
+klieren:N/A
 verleumden:slander
-trinken:drink
-hauen:beat
-duellieren:duel
+outrieren:exaggerate
+dibbeln:dibble
+antilogarithmieren:N/A
 ausbauen:complete
 heben:lift
-indignieren:N/A
 abchecken:N/A
-registrieren:register
-präparieren:groom
-konsekrieren:consecrate
-dörren:dry
-nuten:flute
-vertreten:act for
+verzeigen:report
 bardieren:wrap in bacon
-einwilligen:accede
-verzweifeln:despair
+andeuten:indicate
 treffen:strike
-sicken:N/A
 vernichten:destroy
-absprechen:arrange
 plündern:plunder
-entehren:dishonour
-entleihen:rent
-beschälen:cover
-rubrizieren:to categorise
-besitzen:possess
-ahnden:avenge
-barabern:N/A
-paralysieren:paralyze
-zuzeln:lisp
-paaren:mate
+doppelklicken:N/A
 eilen:hurry
 senden:send
-ausmachen:turn off
-wahrnehmen:perceive
+herunterwirtschaften:to run down
 denunzieren:denounce
-stipulieren:stipulate
-durchdenken:investigate thoroughly
-betragen:amount to
-abbüßen:serve
-schlürfen:sip
-lenken:channel
+bappen:N/A
 kennzeichnen:mark
-finanzieren:finance
-versteigen:N/A
-übertreiben:exaggerate
-bündeln:bunch
-vorbeugen:prevent
-avancieren:advance
-anklopfen:call waiting
-raffen:clasp
-einlullen:put to sleep
-ausfüllen:fill out
-abbedingen:exclude by convention
-verschreien:conjure up
-spawnen:N/A
-zaubern:conjure
-heilen:heal
-entrauschen:N/A
-verhageln:N/A
-sirren:to buzz
-rammen:ram
-intrigieren:intrigue
-rächen:avenge
-dichtmachen:to close
-abblassen:N/A
-schwärmen:swarm
-branden:burn
-streiten:fight
+doktern:N/A
+vergewissern:ensure
+kapern:capture
+schrillen:shrill
+kapitalisieren:capitalize
+stromern:wander
+kapitulieren:capitulate
+verschludern:ignore
+klären:clear
 parallelisieren:parallelize
-abbringen:dissuade
-erheben:raise
-erbieten:bid
-sondern:but
-geboren werden:be born
-vergackeiern:N/A
-dilettieren:N/A
+widerlegen:refute
+ausweiden:disembowel
 niesen:sneeze
-zerschmettern:smash
 flügeln:wing
-anlabern:N/A
-landen:land
-fressen:eat
+europäisieren:Europeanize
+aerifizieren:to aerate
 testen:test
-hissen:hoist
 auslatschen:to wear out of shape
 penetrieren:fuck
+zocken:gamble
+volvieren:N/A
+verstecken:hide
+kriseln:to go through a crisis
+durchfließen:cross
+abschrecken:chill
+ausnutzen:exploit
+observieren:observe
+überschreiben:overwrite
+kreißen:be in labor
+befürchten:fear
+einhingehen:N/A
+investigieren:investigate
+lahmlegen:stymie
+werfen:throw
+knauben:N/A
+überleben:survive
+pöbeln:slander
+mustern:scrutinize
+angehen:concern
+ranlassen:put out
+verholen:warp
+umreiten:ride down
+abdanken:abdicate
+verstören:derail
+saunieren:sauna
+bleichen:bleach
+anmuten:abduct
+mercerisieren:N/A
+ausspeichern:read out
+beschleunigen:accelerate
+plörren:N/A
+dementieren:deny
+durchmachen:undergo
+faschieren:to mince
+bagatellisieren:belittle
+zerreden:to discuss to death
+pofen:N/A
+verkünden:announce
+anfreunden:friend
+verspäten:be late
+hinzufügen:add
+verleiden:N/A
+anreißen:forfeit
+pilotieren:pilot
+polieren:polish
+ablehnen:reject
+haspeln:reel
+modifizieren:modify
+erfassen:comprehend
+konkatenieren:concatenate
+hudeln:huddle
+begeben:betake
+kremieren:cremate
+aufrunden:round up
+skandieren:scan
+missen:miss
+saugen:suck
+substanziieren:substantiate
+verpatzen:fluff
+umschulen:reeducate
+staubsaugen:vacuum
+formulieren:formulate
+ertragen:bear
+kentern:capsize
+redigieren:edit
+twisten:to dance the twist
+sicken:N/A
+zuflüstern:to whisper to
+sicheln:cut with a sickle
+krumpeln:N/A
+befleißigen:N/A
+mausern:moult
+dingen:haggle
+frisieren:barber
+sistieren:to suspend
+abberufen:recall
+nacheifern:emulate
+glänzen:shine
+interviewen:interview
+schinden:haze
+kennenlernen:get to know
+vergreisen:age
+wichteln:N/A
+wiedererkennen:recognise
+warmhalten:keep warm
+durchhalten:persevere
+überreden:persuade
+dümpeln:to bob up and down
+passivieren:passivate
+hauchen:breathe
+trügen:deceive
+hervorheben:highlight
+mangeln:lack
+entziffern:decipher
+conchieren:N/A
+nachbilden:emulate
+rumkriegen:N/A
+reiben:rub
+einschreiten:intervene
+einschmeicheln:ingratiate
+abwaschen:do the dishes
+degradieren:degrade
+aufkochen:boil
+diluieren:dilute
+nüffeln:nose
+erigieren:erect
+stiefeln:N/A
+abdrucken:print
+ausstatten:equip
+verkomplizieren:complicate
+verscheiden:pass away
+repatriieren:repatriate
+nahelegen:suggest
+blenden:blind
+flirten:flirt
+erbarmen:pity
+genießen:enjoy
+fortschreiten:advance
+beklatschen:applaud
+cruisen:N/A
+schlampen:lollygag
+entleeren:empty
+postulieren:posit
+vorwegnehmen:anticipate
+abmahnen:to admonish
+aufdrängen:impose
+installieren:install
+einleben:immerse oneself
+bannen:ban
+versengen:char
+verwackeln:to blur
+schwänzen:play hooky
+erbleichen:blanch
+auftauchen:appear
+aufpflanzen:fix
+quizzen:quiz
+haften:cling
+entkräften:invalidate
+kichern:giggle
+tanken:refuel
+wischen:wipe
+aussetzen:abandon
+bellen:bark
+rösten:roast
+befühlen:feel
+rumoren:to make noise
+pirouettieren:pirouette
+bohnern:shine
+balancieren:balance
+einspeicheln:N/A
+knüppeln:bludgeon
+justieren:justify
+aufrauen:roughen
+ponieren:N/A
+muten:N/A
+erlesen:choice
+innervieren:innervate
+radeln:bicycle
+strafen:punish
+löffeln:ladle out
+vorhersagen:predict
+abkarten:conspire
+würfeln:cube
+fortsetzen:continue
+handhaben:handle
+kabeln:cable
+entlauben:defoliate
+abatmen:N/A
+sputen:spurt
+frankieren:stamp
+profitieren:profit
+stürzen:overthrow
+eingemeinden:include
+verwandeln:change
+referieren:give an account
+recht haben:be right
+reinwaschen:purge
+entsichern:N/A
+austreten:leave
+verbrennen:burn
+welschen:N/A
+evaluieren:evaluate
+erraten:guess
+anhinbätzen:N/A
+nähen:sew
+verhageln:N/A
+desertieren:desert
+bewahren:preserve
+beleidigen:insult
+belästigen:bother
+subministrieren:N/A
+pressen:squeeze
+enttabuisieren:N/A
+heranwachsen:grow up
+verstoßen:disown
+belabern:N/A
+shorten:N/A
+ramifizieren:ramify
+schmoren:braise
+betanzen:N/A
+ausherkemmen:N/A
+verlupfen:N/A
+schiften:jibe
+müssen:must
+zäunen:fence
+abklatschen:N/A
+titulieren:entitle
+flehen:beg
+verarbeiten:process
+bestrafen:punish
+verjagen:drive away
+ausladen:unload
+stärken:strengthen
+tanzen:dance
+lutschen:suck
+futtern:consume
+ankleben:stick
+irreführen:mislead
+fortstoßen:to push away
+vergasen:gas
+verändern:change
+einpacken:box
+lispeln:lisp
+melken:milk
+eulanisieren:N/A
+iterieren:iterate
+erfühlen:sense
+derbätzen:N/A
+verklären:glorify
+vermeiden:avoid
+rechten:N/A
+konzipieren:conceive
+anfeuchten:moisten
+markieren:mark
+fisseln:drizzle
+defäzieren:defecate
+quieksen:to squeak
+piksen:prick
+immatrikulieren:enroll
+absenden:forward
+umlügen:N/A
+fabrizieren:fabricate
+veranstalten:develop symptoms of
+peregrinieren:N/A
+entwenden:steal
+predigen:preach
+vibrieren:vibrate
+krönen:crown
+verlängern:lengthen
+häufeln:N/A
+pappen:be sticky
+nationalisieren:nationalise
+erkälten:catch a cold
+abrackern:drudge
+matern:N/A
+zerstreuen:scatter
+verführen:seduce
+wällen:N/A
+bankrottgehen:N/A
+gipsen:plaster
+zuteilwerden:be bestowed
+verursachen:cause
+baldowern:N/A
+ausbreiten:spread
+aufpäppeln:cooker up
+wiederfinden:find again
+abstempeln:cancel
+verteufeln:vilify
+gürten:gird
+gasen:gas
+relaxen:chill
+lukrieren:lucrate
+posten:post
+buttern:butter
+touchieren:graze
+fauchen:hiss
+dräuen:N/A
+begaffen:N/A
+bestreuen:cover
+integrieren:integrate
+verabsolutieren:absolutize
+bezichtigen:accuse
+karren:cart
+parsen:parse
+sichern:save
+ficken:fuck
+absorbieren:absorb
+katapultieren:catapult
+konsternieren:alarm
+gestalten:mold
+japsen:gasp
+exhumieren:exhume
+massakrieren:massacre
+internalisieren:internalize
+umeinanderhetzen:N/A
+trippeln:trip
+migrieren:migrate
+abbröckeln:to wane
+tapezieren:wallpaper
+vorübergehen:elapse
+ersinnen:conceive
+walken:tan
+kuren:N/A
+inkriminieren:incriminate
+iahen:bray
+holen:fetch
+graben:dig
+lunschen:N/A
+befestigen:fasten
+bespötteln:N/A
+absagen:call off
+abbleichen:fade
+durchhängen:to sag
+schwätzen:babble
+schicken:send
+geschehen:happen
+herunterstufen:N/A
+stocken:halt
+verschwitzen:be forgetful of
+uploaden:upload
+anhören:listen
+zustimmen:agree
+disponieren:dispatch
+fortbilden:N/A
+abgehen:exit
+mahlen:grind
+urgieren:to send a reminder
+jobben:job
+beglückwünschen:congratulate
+nachprüfen:recheck
+dämpfen:damp
+auslichten:prune
+verbünden:confederate
+verkoken:carbonize
+läutern:purge
+perhorreszieren:N/A
+anlagern:to take up
+verballhornen:bowdlerize
+parametrisieren:parametrize
+beulen:to warp
+denominieren:N/A
+prahlen:brag
+wachen:watch
+einnicken:doze off
+glätten:smooth
+vertragen:tolerate
+abstottern:N/A
+kondensieren:condense
+absahnen:skim
+verblöden:stupefy
+koppen:N/A
+bedürfen:need
+erfrischen:refresh
+haaren:lose hair
+bereuen:regret
+exponenzieren:N/A
+abschmirgeln:sand down
+tremolieren:to quaver
+uraufführen:premiere
+überführen:rearrange
+wimmern:whimper
+schellen:jingle
+abhacken:chop
+ansalben:N/A
+erklären:explain
+bescheren:award to
+verknappen:run short
+muffen:N/A
+fremdeln:N/A
+abbreviieren:abbreviate
+stechen:sting
+knetschen:N/A
+furagieren:N/A
+ruinieren:ruin
+ablenken:distract
+klamüsern:N/A
+zufriedenstellen:satisfy
+streamen:stream
+verknallen:N/A
+schwofen:shake a leg
+angreifen:charge
+senken:lower
+programmieren:program
+flachlegen:lay
+interessieren:interest
+wirbeln:roll
+wogen:undulate
+herunterladen:download
+halten:last
+ausrotten:eradicate
+abpimmeln:N/A
+galvanisieren:galvanize
+aufessen:eat up
+addieren:add
+busseln:kiss
+erbeuten:capture
+jarowisieren:N/A
+erlöschen:expire
+absegeln:to sail away
+flöhen:N/A
+wiedereröffnen:reopen
+satinieren:calender
+beschmutzen:soil
+bröckeln:crumble
+wundern:surprise
+vertilgen:exterminate
+absterben:atrophy
+spratzeln:N/A
+konsolidieren:consolidate
+ausschaffen:N/A
+dastehen:loiter
+errechnen:compute
+abnibbeln:kick the bucket
+erwachen:awake
+beantragen:propose
+unterfertigen:to sign
+einherschreiten:N/A
+liegen:lie
+durchwinken:N/A
+auflassen:leave open
+bekennen:confess
+daguerreotypieren:N/A
+vorlegen:exhibit
+gerieren:N/A
+maximieren:maximize
+schwindeln:swindle
+containerisieren:containerize
+ziepen:to tweak
+dämmen:dam
+musizieren:make music
+ownen:own
+erwägen:consider
+entblößen:bare
+spüren:feel
+ausmustern:sift out
+herumhuren:fornicate
+paraphrasieren:paraphrase
+erstaunen:astonish
+aufgeben:forsake
+heraufkommen:approach
+zurücktreten:resign
+schnitzen:carve
+klopfen:knock
+verdächtigen:suspect
+erwachsen:adult
+aberrieren:N/A
+destillieren:distil
+ratifizieren:ratify
+abquetschen:squeezing
+austragen:settle
+derbremsen:N/A
+abtropfen:drip off
+daniederliegen:N/A
+berufen:appoint
+umgestalten:remodel
+schönen:brighten
+versieren:N/A
+schurigeln:carp at
+beschweigen:N/A
+pflücken:pick
+ausstopfen:stuff
+aufsteigen:rise
+pasteurisieren:pasteurize
+durchtelefonieren:N/A
+herunterspielen:belittle
+kokettieren:coquet
+verschieben:postpone
+abonnieren:subscribe
+tracheotomieren:tracheotomize
+krökeln:N/A
+wuchzen:N/A
+herumgammeln:hang
+beziehen:refer
+aushalten:endure
+beistehen:assist
+sträuben:ruffle
+stehen:stand
+ermöglichen:enable
+bongen:N/A
+schädigen:damage
+einmischen:meddle
+wickeln:wrap
+heimsuchen:break into
+abschminken:remove make up
+schwarzarbeiten:to do illicit work
+vorstellen:introduce
+basieren:base
+schmökern:browse
+wiegen:weigh
+deklinieren:decline
+abklappern:canvass
+schönreden:blandish
+experimentieren:experiment
+behelfen:make do
+entführen:kidnap
+ausruhen:rest
+akkumulieren:accumulate
+verzinnen:tin
+tönen:resound
+ersaufen:drown
+shishen:N/A
+benutzen:use
+strahlen:shine
+konvertieren:convert
+bereichern:enrich
+rappen:rachis
+kassieren:abolish
+klappen:bang
+festkehren:avert
+trauen:wed
+einwerben:acquire
+rechen:rake
+fotografieren:photograph
+täuschen:deceive
+schärfen:sharpen
+packen:pack
+schleichen:creep
+akkommodieren:accommodate
+aufhören:stop
+brocken:brake
+zeichnen:draw
+verhindern:prevent
+bestechen:bribe
+läppern:N/A
+bolzen:quarrel
+traumatisieren:traumatise
+scheißen:shit
+guthaben:N/A
+hinkommen:arrive at
+beregnen:dampen
+gleichen:resemble
+ausbrüten:hatch
+herauffahren:N/A
+kompostieren:compost
+aufbegehren:protest
+nivellieren:level
+splittern:splinter
+prellen:bruise
+hobeln:plane
+dramatisieren:dramatize
+evozieren:evoke
+zerkreuzen:N/A
+zersägen:to saw up
+konterkarieren:cross
+überfahren:run over
+überweisen:transfer
+abrücken:dissociate
+eintreten:enter
+ledern:leathern
+ermitteln:detect
+manövrieren:maneuver
+runzeln:frown
+glaren:N/A
+pladdern:N/A
+greifen:seize
+hervorbringen:produce
+abdrehen:switch off
+entrümpeln:to clear out
+einmaischen:N/A
+oxidieren:oxidize
+bücken:stoop
+anmelden:announce
+bewundern:admire
+wegwerfen:throw away
+klirren:buzz
+hindackeln:N/A
+draufzahlen:to pay extra
+tingeln:N/A
+genesen:recover
+verwehren:reprobate
+eliminieren:eliminate
+verfluchen:curse
+abbangen:N/A
+abholzen:chop down
+tratschen:gossip
+kramen:to rummage about
+auskommen:get by
+abwarten:await
+puzzeln:N/A
+vorschlagen:suggest
+spinksen:N/A
+fläzen:flop
+spinnen:spin
+verwechseln:confuse
+verleben:experience
+evolvieren:N/A
+bepflanzen:plant
+anmachen:light
+ergrimmen:become angry
+überanstrengen:extend
+umstrukturieren:restructure
+darleihen:advance
+abhinfallen:N/A
+gereichen:N/A
+transmutieren:transmute
+bummeln:slack
+nerven:bug
+anbellen:call
+einbauen:build in
+netzwerken:N/A
+dichtschließen:N/A
+sedieren:sedate
+bestaunen:to gape
+verkennen:misread
+nieseln:drizzle
+eintragen:fill out
+qualmen:fume
+haschen:catch
+streichen:paint
+recyceln:recycle
+ablosen:N/A
+ausantworten:N/A
+kartografieren:map
+kurzfassen:N/A
+wiehern:neigh
+zwinkern:blink
+pflastern:pave
+daddeln:play
+zurückverfolgen:retrace
+wetten:bet
+ehebrechen:commit adultery
+subventionieren:subsidize
+brüsten:boast
+entnehmen:take from
+schmausen:banquet
+fahren:drive
+beanstanden:complain
+abdecken:cover
+vergällen:denature
+langen:be enough
+entmannen:castrate
+enervieren:enervate
+weh tun:hurt
+ähnlichsehen:N/A
+betüdeln:N/A
+herannahen:to approach
+dorren:dry
+befristen:limit
+quäken:mewl
+trocknen:dry
+sanden:sand
+surfen:surf
+aufdecken:expose
+imkern:keep bees
+delektieren:disport
+erbrechen:vomit
+legalisieren:legalise
+konnotieren:connote
+vollführen:fetch
+hantieren:do
+gießen:pour
+knarzen:N/A
+opponieren:oppose
+durchschliefen:N/A
+siechen:to waste away
+treten:kick
+zutexten:at
+abspinnen:N/A
+forteilen:to hurry away
+beginnen:begin
+konterfeien:N/A
+refüsieren:refuse
+zuckern:sugar
+pinseln:brush
+delogieren:N/A
+fluchen:curse
+spülen:rinse
+erlassen:enact
+gebühren:pay
+rochieren:castle
+degenerieren:degenerate
+firnissen:varnish
+ausreizen:milk
+outsourcen:outsource
+entschleiern:unveil
+erübrigen:economize
+versteigen:N/A
+betteln:beg
+vorschreiben:prescribe
+ebben:N/A
+beobachten:observe
+linsen:peek
+fellieren:fellate
+trepanieren:N/A
+nörgeln:nag
+überbeanspruchen:overuse
+voten:vote
+zäumen:bridle
+flöten gehen:break in two
+retournieren:to return
+johlen:bawl
+revozieren:revoke
+verbarrikadieren:barricade
+konsumieren:consume
+anwidern:nauseate
+verfolgen:pursue
+verkrumpeln:N/A
+charakterisieren:characterize
+abbezahlen:pay off
+strafversetzen:N/A
+kaschieren:conceal
+kräftigen:invigorate
+verwahren:cable
+fördern:accelerate
+schänden:rape
+abarbeiten:execute
+verficken:cunning
+designieren:designate
+bedingen:bring about
+innehaben:hold
+färben:dye
+verschlüsseln:encrypt
+verschlucken:swallow
+stressen:stress
+beflecken:stain
+selegieren:select
+takeln:rig
+verwarnen:caution
+ausfallen:fail
+abknöpfen:N/A
+aufmucken:protest
+beschneien:N/A
+piercen:pierce
+verteilen:distribute
+popeln:N/A
+fechsen:N/A
+segmentieren:segment
+lieb behalten:N/A
+versorgen:supply
+abtakeln:to unrig
+repräsentieren:represent
+abpellen:to peel
+springen:jump
+ticken:tick
+klimpern:jingle
+aufhinpappen:N/A
+anstehen:form a line
+einbrennen:etch
+schlittern:slide
+abalienieren:abalienate
+zielen:aim
+verborgen:hidden
+schmoken:N/A
+kehren:sweep
+entzweibrechen:break
+narkotisieren:anaesthetise
+hereinkommen:enter
+kaprizieren:insist on
+eskalieren:escalate
+schlottern:shiver
+nippen:sip
+projizieren:project
+nangeln:N/A
+irrigieren:irrigate
+chillen:chill
+monologisieren:to soliloquise
+fuddeln:N/A
+selchen:smoke
+schimmeln:mildew
+schneiden:cut
+stehen bleiben:stop
+schnaufen:chuff
+abcashen:N/A
+instruieren:instruct
+kompromittieren:compromise
+mitnehmen:take
+mitdenken:help think
+regieren:govern
+hereingeheimnissen:N/A
+tragen:transport
+bezweifeln:doubt
+durchdrehen:freak out
+schächten:slaughter
+entstauben:dust
+mäandrieren:zigzag
+einimpfen:inculcate
+indexieren:subscript
+wohlwollen:N/A
+sengen:scorch
+platzen:burst
+krabbeln:crawl
+problematisieren:N/A
+verabscheuen:detest
+erwidern:reply
+hergehen:N/A
+umeinanderliegen:N/A
+aufstocken:add
+knuffen:poke
+relativieren:put into perspective
+abmurksen:drygulch
+erziehen:educate
+aufwenden:spend
+verzeichnen:enter
+kontrastieren:contrast
+vergackeiern:N/A
+placken:N/A
+verwesen:decay
+befürworten:applaud
+vorbereiten:prepare
+ableiten:deduce
+flöten:whistle
+verneigen:N/A
+bemustern:to take sample
+arrestieren:arrest
+spendieren:shout
+oktroyieren:force
+schlurfen:shuffle
+ansammeln:amass
+bräunen:sunbathe
+aufbewahren:save
+nachsalzen:N/A
+raten:guess
+nesteln:fasten
+frönen:indulge
+skartieren:N/A
+bröseln:crumble
+vögeln:fuck
+laufen:run
+konzeptualisieren:N/A
+verblenden:blind
+inszenieren:stage
+albern:silly
+abschmettern:N/A
+schnalzen:click
+abkapseln:sequester
+bedanken:thank
+angeben:declare
+entkorken:uncork
+zusprechen:assign
+leihen:borrow
+traversieren:traverse
+anschmieren:con
+spratzen:N/A
+symbolisieren:symbolize
+hervorrufen:cause
+kitzeln:tickle
+abwählen:deselect
+kotieren:admit for quotation
+entschuldigen:excuse
+auspacken:unwrap
+laden:load
+authentifizieren:authenticate
+adressieren:address
+philosophieren:philosophize
+abwenden:avert
+traben:trot
+lächeln:smile
+imponieren:impress
+boykottieren:boycott
+wimmen:N/A
+abspulen:unwind
+produzieren:produce
+dopen:dope
+schlupfen:N/A
+sprechen:speak
+pullern:go for a slash
+drapieren:drape
+ausgeben:spend
+überreichen:hand over
+fortbleiben:N/A
+tirilieren:trill
+ausscheiden:excrete
+umhingehen:N/A
+klauen:steal
+versalzen:oversalt
+abknicken:break
+verschlimmern:aggravate
+zerstreiten:to fall out
+anstrengen:exert
+materialisieren:materialize
+ackern:plod
+wegziehen:pull away
+kolportieren:hawk
+rapportieren:give an account
+türken:deceive
+aggravieren:N/A
+mopsen:filch
+ausführen:perform
+duellieren:duel
+zurückbilden:form back
+beschimpfen:abuse
+erhöhen:increase
+schreiben:write
+erstatten:reimburse
+schnacken:N/A
+aufprallen:thud
+aufsperren:to unlock
+messern:cut
+schlenzen:to flick
+benamsen:N/A
+karden:card
+ausreißen:run away
+ziegeln:N/A
+kommen:come
+knöpfen:button
+geloben:vow
+hieven:weigh
+beiwohnen:attend
+bergsteigen:go mountaineering
+befahren:frequented
+schmusen:smooch
+spezifizieren:specify
+explizieren:explicate
+instituieren:institute
+kräuseln:purse
+brutzeln:sizzle
+mehren:add
+beschönigen:palliate
+ratschlagen:N/A
+stehlen:steal
+heiß laufen:N/A
+wegräumen:put away
+ängstigen:frighten
+entseuchen:decontaminate
+juchen:N/A
+abecedieren:N/A
+straucheln:stumble
+begleichen:acquit
+rühren:stir
+desavouieren:disavow
+veraasen:N/A
+darben:pinch
+stammeln:stammer
+ausbitten:ask for
+sticken:embroider
+entthronen:dethrone
+acheln:N/A
+erhitzen:heat
+feststecken:lodge
+auffahren:ascend
+erproben:try
+dagegen sein:object
+koten:defecate
+pflügen:plough
+tupfen:dab
+verhallen:to die away
+hinterlaufen:N/A
+ausquartieren:N/A
+ausherschmuggeln:N/A
+verbalisieren:to verbalise
+kratzen:scratch
+pranzen:N/A
+hineindenken:to try to understand
+abbeizen:strip
+verhunzen:botch
+präsentieren:present
+zwicken:pinch
+quasseln:yak
+kultivieren:cultivate
+legieren:alloy
+schultern:shoulder
+anzweifeln:question
+piesacken:badger
+harnen:urinate
+umerziehen:N/A
+erblinden:go blind
+votieren:vote
+brabbeln:babble
+gewinnen:earn
+blaken:to give off smoke
+unwirschen:N/A
+ausfüllen:fill out
+heizen:heat
+beunruhigen:trouble
+entwalden:deforest
+wuseln:scurry
+ansteigen:rise
+pritschen:N/A
+vorüberfahren:pass
+entglasen:to devitrify
+kosten:cost
+stützen:sustain
+abzielen:aim
+anheimstellen:N/A
+leeren:empty
+Acht geben:pay attention
+explantieren:explant
+grauen:become white
+veranlagen:assess
+zeihen:accuse
+maledeien:condemn
+postieren:position
+entwöhnen:wean
+einzeichnen:brand
+verschweigen:conceal
+niederschlagen:knock down
+ködern:bait
+abfüllen:get drunk
+dichtmachen:to close
+abtauchen:dive
+bekriegen:battle
+ausliegen:N/A
+deeskalieren:N/A
+abblitzen:rebuff
+passieren:happen
+geheien:N/A
+wetterleuchten:lighten
+unterliegen:be defeated
+anekeln:disgust
+fälschen:forge
+verzetteln:dissipate
+präjudizieren:N/A
+einfügen:insert
+schweigen:be silent
+abdizieren:abdicate
+behandeln:treat
+domestizieren:domesticate
+raunzen:complain
+objizieren:N/A
+einwirken:impact
+sekkieren:bother
+bedienen:serve
+applaudieren:applaud
+solmisieren:solmize
+schwirren:zoom
+übersteigen:exceed
+toppen:N/A
+erholen:rally
+nominalisieren:to nominalise
+serbeln:N/A
+schwingen:swing
+meißeln:chisel
+entlassen:dismiss
+ausbeinen:bone
+belächeln:N/A
+kellnern:wait
+aufscheuchen:scare up
+abpfeifen:to whistle to a close
+absichern:fuse
+verrohren:case
+lithografieren:to lithograph
+perpetuieren:perpetuate
+spuren:to toe the line
+abräumen:abstract
+prognostizieren:forecast
+fusseln:fuzz
+schwarzsehen:dodge the TV license
+trennen:divide
+abbröseln:N/A
+durchnummerieren:to number all the way through
+schnorcheln:snorkel
+gehorchen:obey
+staben:N/A
+aneignen:appropriate
+einkleiden:accouter
+gebrechen:lack
+abblassen:N/A
+joggen:jog
+gewährleisten:assure
+beschulen:N/A
+rackern:to drudge
+ergaunern:rook
+ölen:oil
+abbinden:bond
+kitten:fill
+meucheln:assassinate
+veranlassen:cause
+verbrämen:embellish
+dezidieren:decide
+testieren:make a will
+behaupten:claim
+verstümmeln:mutilate
+grapschen:catch
+aufbringen:broach
+konversieren:converse
+aufziehen:raise
+zurückweisen:reject
+biegen:bend
+harren:await
+verschwägern:N/A
+goutieren:approve
+variieren:vary
+umhinkönnen:N/A
+verunglimpfen:denigrate
+erdulden:endure
+zurückkommen:return
+beglücken:to delight
+füsilieren:shoot
+brüskieren:snub
+marginalisieren:marginalise
+kaduzieren:cancel
+ebnen:level
+schmeißen:throw
+schlucken:swallow
+ausliefern:distribute
+downloaden:download
+randomisieren:randomise
+verbergen:hide
+einschalten:turn on
+stören:disturb
+beschickern:get
+zerfleischen:mangle
+verwüsten:devastate
+preisgeben:abandon
+anecken:scandalize
+puffen:chug
+purgieren:clean
+angeln:fish
+deaktivieren:deactivate
+sekundieren:second
+blaffen:bark
+weiterfahren:to drive on
+gruppieren:group
+regen:stir
+herumhacken:N/A
+aufklaren:clear
+hoppeln:scuttle
+bestuhlen:to provide with seating
+skypen:skype
+verheddern:entangle
+rendern:render
+decken:cover
+abschließen:lock
+düsen:pelt
+debütieren:debut
+zeugen:beget
+stillstehen:be at standstill
+beantworten:answer
+bowlen:bowl
+freistellen:exonerate
+rekapitulieren:recapitulate
+erlegen:bag
+belüften:ventilate
+emporwachsen:N/A
+verschaukeln:N/A
+vermieten:let
+absporen:N/A
+füttern:feed
+absägen:saw off
+resorbieren:reabsorb
+heimführen:marry
+überrunden:lap
+verrecken:kick the bucket
+großschreiben:capitalize
+gedeihen:prosper
+tröpfeln:trickle
+klotzen:N/A
+ausknocken:knock out
+enden:end
+herrühren:stem
+tolerieren:tolerate
+kaskadieren:cascade
+konvergieren:converge
+hintreten:N/A
+tauschen:exchange
+scheren:shear
+entschwinden:disappear
+wiedergeben:render
+vermeinen:suppose
+ritualisieren:ritualize
+ausschauen:be after
+neuern:N/A
+verjähren:be in lapse
+erledigen:finish
+erobern:conquer
+betätigen:operate
+fernsehen:teleview
+spielen:play
+erwerben:acquire
+plärren:whinge
+aufhalten:stay
+begraben:bury
+demotivieren:demotivate
+meckern:whinge
+vagieren:roam
+beschatten:shadow
+apportieren:fetch
+zurückgewinnen:recuperate
+dilatieren:dilate
+verstaatlichen:nationalize
+abzäumen:N/A
+synthetisieren:synthesize
+exhalieren:exhale
+krümmen:bend
+zerbröseln:crumble
+karamellisieren:caramelize
+räsonieren:reason
+wankeln:N/A
+beschriften:annotate
+pusten:blow
+einverleiben:incorporate
+girieren:endorse
+liefern:deliver
+konvenieren:to convene
+organisieren:organize
+überlappen:lap
+umlegen:apply
+reinschauen:N/A
+timbrieren:N/A
+abstillen:wean
+medisieren:N/A
+aufheben:abolish
+checken:check
+amüsieren:amuse
+nehmen:take
+rangieren:shunt
+vernetzen:network
+unterlassen:abandon
+verharschen:become caked
+bemerken:notice
+beiten:bide
+vermischen:mix
+freuen:rejoice
+eingrenzen:determine
+dissen:diss
+kegeln:bowl
+taktieren:beat time
+abbuffen:buff
+alteln:N/A
+wiederbeleben:resuscitate
+abherbeuteln:N/A
+abfressen:N/A
+ankennen:N/A
+reduzieren:reduce
+spulgen:N/A
+kalben:calve
+krakeln:scrawl
+rauen:nap
+filetieren:fillet
+gähnen:yawn
+barbieren:barber
+nachfühlen:feel
+nachsehen:look up
+wölben:arch
+privatisieren:privatize
+durchbrennen:elope
+anstecken:infect
+akquirieren:acquire
+fingieren:feign
+langweilen:bore
+durchabfertigen:N/A
+herausschwimmen:N/A
+polken:N/A
+schassen:N/A
+derwuzeln:N/A
+erspielen:N/A
+löschen:extinguish
+prokrastinieren:procrastinate
+deduzieren:deduce
+verlegen:misplace
+deodorieren:N/A
+versammeln:assemble
+eintreffen:arrive
+unterfinanzieren:to underfund
+interzedieren:N/A
+stöbern:poke
+kandieren:candy
+frequentieren:frequent
+ächten:ostracize
+palavern:to spout
+dressieren:train
+voranbringen:advance
+wegdenken:N/A
+schreien:shout
+einräumen:concede
+prasseln:pelt
+versichern:insure
+agieren:act
+runterfallen:N/A
+fluoreszieren:fluoresce
+verprassen:squander
+aufwecken:wake
+invertieren:invert
+austarieren:tare
+blinzeln:blink
+verwünschen:bewitch
+zusammenleben:cohabit
+schrauben:screw
+abätzen:to cauterise
+duften:smell
+spänen:N/A
+umsäumen:edge
+ausziehen:undress
+schmollen:pout
+ruckeln:jerk
+verdingen:hire out
+allokieren:address
+aussortieren:sort out
+entkokainisieren:decocainize
+zerreiben:pulverise
+kalmieren:N/A
+verfumfeien:N/A
+umgarnen:ensnare
+annoncieren:advertise
+suckeln:N/A
+spleißen:splice
+erheischen:ask
+bereiten:cause
+duplizieren:duplicate
+büßen:atone for
+einbüßen:lose
+abbremsen:brake
+abbeuteln:N/A
+blecken:N/A
+nachholen:catch up
+ausherhauen:N/A
+vergrößern:enlarge
+pökeln:pickle
+tricksen:bamboozle
+wiederkehren:come back
+törggelen:N/A
+fianchettieren:N/A
+lexikalisieren:lexicalize
+siegen:win
+bewaffnen:arm
+seufzen:sigh
+aktualisieren:update
+prokeln:N/A
+umstoßen:subvert
+veranschlagen:estimate
+aufsehen:look upward
+bieten:bid
+aussehen:look
+verwalten:manage
+gravieren:engrave
+bejahen:affirm
+zollen:N/A
+rean:cry
+bluten:bleed
+verausgaben:expend
+salbadern:to spout
+besaufen:N/A
+verschimmeln:mildew
+zischeln:hiss
+implizieren:imply
+fräsen:mill
+drankriegen:N/A
+irisieren:iridescent
+wahren:keep
+verpacken:box
+zerschnippeln:N/A
+detachieren:detach
+gefangen nehmen:capture
+auslitern:N/A
+stauben:N/A
+babysitten:babysit
+vergeben:forgive
+paraphieren:initial
+einreiben:rub
+faulenzen:idle
+explodieren:explode
+jagen:hunt
+benötigen:need
+triangulieren:to triangulate
+fragen:ask
+saften:N/A
+abbefehlen:N/A
+misslingen:miscarry
+anmaßen:arrogante
+nachlassen:to abate
+trekken:N/A
+herzukommen:arrive
+ärschen:N/A
+herausschmecken:taste
+verzehren:consume
+einwärmen:N/A
+ruminieren:ruminate
+ersteigen:come up
+pfeffern:pepper
+verknüpfen:join
+abspeichern:save
+jodieren:N/A
+sabbern:slaver
+heucheln:pretend
+erdenken:devise
+verauktionieren:N/A
+appropriieren:appropriate
+vazieren:N/A
+ausbüxen:N/A
+unken:N/A
+enthaaren:depilate
+vertauschen:swap
+derangieren:disarrange
+rechnen:calculate
+erarbeiten:acquire
+bombardieren:bomb
+sniffen:sniff
+feilschen:haggle
+dahinschleppen:N/A
+sausen:speed
+festnageln:nail
+erkecken:N/A
+glasieren:frost
+kleiden:dress
+scannen:scan
+beleben:animate
+deflorieren:deflower
+versifizieren:versify
+wälzen:roll
+abfeiern:N/A
+andauern:last
+entkleiden:disrobe
+quadrieren:square
+blühen:bloom
+häuten:skin
+fallieren:go bankrupt
+fickern:N/A
+priorisieren:prioritize
+beitreten:join
+fetzen:shred
+statuieren:lay down
+marmorieren:marble
+abtransportieren:evacuate
+erfahren:experienced
+ersäufen:drown
+antexten:N/A
+vorgaukeln:N/A
+abbaumen:start
+vertüdeln:N/A
+begöschen:N/A
+ausreichen:suffice
+üben:exercise
+monogrammieren:monogram
+gebärden:sign
+eingeben:enter
+ambulieren:N/A
+vulgarisieren:to vulgarise
+nullen:tare
+umschauen:look round
+tablettieren:moulding
+räumen:clear
+abhobeln:cross out
+einpapierln:N/A
+koitieren:have sex
+entweihen:desecrate
+intensivieren:intensify
+Hilfe:Eintrag:N/A
+ausfragen:quiz
+behindern:hinder
+skandalisieren:N/A
+derbeißen:N/A
+überschreiten:exceed
+weiterbauen:continue building
+einhinwerfen:N/A
+aufpudeln:N/A
+quälen:torment
+spalten:split
+entleihen:rent
+zehnteln:N/A
+abmoderieren:N/A
+paralysieren:paralyze
+verzehnfachen:decuple
+parfümieren:perfume
+betragen:amount to
+schlürfen:sip
+belangen:prosecute
+raffen:clasp
+einlullen:put to sleep
+spawnen:N/A
+einenglischen:Anglicise
+sirren:to buzz
+strammstehen:stand at attention
+aufschreiben:write down
+brummen:buzz
+pfriemeln:to fumble
+streiten:fight
+abbringen:dissuade
+validieren:validate
+ionisieren:ionize
+anlabern:N/A
+knipsen:photograph
+verarschen:fool
 umfallen:be overturned
 pupsen:fart
 klagen:complain
-kneifen:pinch
 pilgern:pilgrimage
-expandieren:expand
-kümmern:care
-verstecken:hide
 disputieren:discuss
-bersten:burst
-lohen:blaze
-naturalisieren:naturalize
 weißen:whiten
-kulminieren:culminate
-kastrieren:castrate
 ramponieren:ruin
 kritisieren:criticize
-zudrängen:N/A
 ablegen:file
 beitragen:contribute
-ausnutzen:exploit
-metabolisieren:metabolise
-spezifizieren:specify
 fraternisieren:fraternize
-überlisten:outwit
-observieren:observe
-pinkeln:pee
-externalisieren:externalise
+mundieren:N/A
+lichten:to thin out
 Recht haben:be right
-zoffen:quarrel
-provozieren:provoke
 parkieren:park
-baggern:dig
-zerkreuzen:N/A
 pushen:push
-umwandeln:convert
-kreißen:be in labor
 abflauen:abate
+beherbergen:accommodate
 widersprechen:contradict
 umbinden:cut down on
 anfasen:chamfer
@@ -2282,1847 +2326,3601 @@ drohen:threaten
 exmatrikulieren:rusticate
 räuspern:N/A
 kaschen:cash
-investigieren:investigate
+dehydrieren:become dry
 können:can
-rigolen:N/A
-schanghaien:shanghai
-fabulieren:fable
+belfern:N/A
 mischen:mix
-werfen:throw
-strangulieren:strangle
 trösten:comfort
 abfeuern:fire
 gaffen:rubberneck
-lizenzieren:license
-übergehen:overlook
 konservieren:preserve
 verscharren:bury
 präkludieren:preclude
-überleben:survive
-hinausführen:lead out
-tagen:meet
-erquicken:refresh
-ranlassen:put out
-vortragen:recite
-verholen:warp
-einnässen:to drip
-versehen:provide
-befinden:be
-kaufen:buy
-urinieren:urinate
+verscherzen:throw away
+aufgeilen:N/A
+schockieren:rock
+funken:radio
 umbrechen:make up
-umreiten:ride down
-abdanken:abdicate
-verfranzen:N/A
-ketteln:N/A
+aktivieren:activate
 festlegen:determine
-bestimmen:determine
-saunieren:sauna
-fertigen:fashion
 skizzieren:sketch
-vomieren:vomit
 abblenden:dip
 berechnen:calculate
-anmuten:abduct
-torpedieren:torpedo
 quellen:well
 entsprechen:correspond
-isolieren:isolate
-mercerisieren:N/A
-separieren:separate
-ausspeichern:read out
 abhalten:deter
-schmirgeln:sand
-beschleunigen:accelerate
-begründen:establish
+laschen:N/A
+doubeln:double
 zechen:booze
-bewässern:irrigate
-messen:measure
-unterteufen:N/A
-umkommen:perish
-abgehen:exit
-bagatellisieren:belittle
-zerreden:to discuss to death
-ülmen:N/A
+einmachen:can
+jeuen:N/A
 dichten:write
-pofen:N/A
-profilieren:distinguish
-tranchieren:carve
-anfreunden:friend
-faulen:putrefy
-verspäten:be late
-substantivieren:substantivise
-hinzufügen:add
-belassen:leave
-scharwenzeln:mince
+konfrontieren:confront
 betiteln:entitle
-müssen:must
-kotzen:vomit
-infiltrieren:infiltrate
-impfen:vaccinate
+petten:N/A
+verehren:adore
+ektomieren:ectomise
 aufdrehen:up
-schmälern:belittle
 gebären:give birth
-malen:paint
-ausstrecken:crane
-ablehnen:reject
 torkeln:stagger
-abeisen:N/A
+ablozieren:N/A
 kacken:shit
-konkretisieren:concrete
-anpassen:adapt
-sauen:N/A
+verlachen:deride
 klatschen:clap
-modifizieren:modify
-vollscheißen:N/A
-rudern:row
-erfassen:comprehend
 definieren:define
-abbefehlen:N/A
-konkatenieren:concatenate
+montieren:assemble
 stoppen:stop
-erlauben:allow
-konkurrieren:compete
-feststellen:ascertain
-abriegeln:bar
-stattfinden:happen
-airbrushen:airbrush
+anschalten:switch on
 rüffeln:tick off
+abmachen:arrange
 forcieren:force
-vertauschen:swap
-hudeln:huddle
 artikulieren:articulate
 ausfratscheln:N/A
-stillen:nurse
-schimpfen:swear
-beckmessern:N/A
-hinrichten:execute
-kremieren:cremate
+einsagen:N/A
 ausixen:cross out
-raufen:romp
-negieren:negate
-bedeuten:mean
-stieren:goggle
 festigen:consolidate
-skandieren:scan
 stapfen:trudge
 bescheißen:swindle
-auferstehen:rise
 kribbeln:itch
 ihrzen:N/A
 versklaven:enslave
-abnehmen:take away
-saugen:suck
-vernachlässigen:neglect
 aufbahren:lay out
-exemplifizieren:N/A
-lugen:peek
-renommieren:boast
+wappnen:brace
+heißen:be called
 enteilen:to be excessive
-tummeln:hurry
 hudern:N/A
-ausgehen:to go out
-kriegen:get
-spalten:split
-backen:bake
+einwilligen:accede
+übertrumpfen:outdo
 abbiegen:turn
-formulieren:formulate
-fliesen:flag
-siegen:win
-beflocken:flock
 dönern:fart
-replizieren:replicate
-weihen:consecrate
-obligieren:N/A
-ertragen:bear
-zernieren:besiege
-kentern:capsize
-spechteln:N/A
-platzieren:place
-abhauen:skedaddle
-beherbergen:accommodate
 irren:err
-riechen:smell
-hassen:hate
+strangulieren:strangle
 abkindern:N/A
-ansagen:announce
-erniedrigen:abase
-fallen:collapse
-aufgehen:rise
-bekommen:obtain
 ablösen:change places
-abdrücken:clench
-anwenden:apply
-wagen:dare
-befleißigen:N/A
-bewaffnen:arm
-mausern:moult
-schiffen:rain
-emigrieren:emigrate
-taugen:be good for
-dingen:haggle
-frisieren:barber
+bescheinigen:attest
 fischen:fish
 scrollen:scroll
-dragieren:N/A
-plazieren:place
-sistieren:to suspend
-abblocken:block
-verbannen:banish
-umfahren:drive round
+verfehlen:miss
 gastieren:guest
-funzen:function
-flitschen:N/A
-abberufen:recall
-hamstern:absorb
-fortdenken:N/A
+kampieren:camp
+exzellieren:N/A
 funktionieren:function
 ditschen:skim
-nennen:name
-austrinken:drink up
-relativieren:put into perspective
-passen:fit
-glänzen:shine
 durchführen:perform
-knabbern:nibble
-bestellen:request
+aufraffen:pull oneself together
+draufkommen:N/A
 hochladen:upload
-schwächeln:weaken slightly
-sehnen:long
-schurigeln:carp at
 abseilen:abseil
-schinden:haze
-telefonieren:telephone
+flattern:flutter
 verdutzen:baffle
-bedenken:consider
-küren:choose
 maikäfern:N/A
-plumpsen:flop
-vergreisen:age
 abmessen:measure
-knistern:crackle
-werten:consider
 Vorlage:Formatvorlage (Verb):N/A
-benützen:use
-rubbeln:rub
-anschaffen:purchase
-durchhalten:persevere
-überreden:persuade
-gaumen:conserve
-protzen:flaunt
-höhnen:jeer
-dümpeln:to bob up and down
-ordern:order
-christianisieren:Christianize
+abdüsen:to shoot off
+erstarren:petrify
+abschmücken:N/A
 äußern:utter
-firmieren:to operate under a certain name
-überantworten:accord
 kobern:N/A
-passivieren:passivate
-vertun:spurn
-mitbringen:take
-austauschen:exchange
-besetzen:occupy
-umdrehen:upset
-aktualisieren:update
-trügen:deceive
-einpflegen:to update
-triagieren:triage
-arschen:N/A
-deportieren:deport
-poussieren:flirt
-verreisen:journey
-mangeln:lack
-rasieren:shave
-pflanzen:plant
-schlafen:sleep
-umreißen:delineate
-interviewen:interview
-abholen:pick up
-versteifen:stiffen
-nachbilden:emulate
-rumkriegen:N/A
-reiben:rub
-einschmeicheln:ingratiate
-ausdehnen:extend
-abweichen:differ
+flehmen:N/A
+garnieren:garnish
+untergehen:set
+einnässen:to drip
+heraufgehen:N/A
 abhandenkommen:get lost
-schlotzen:N/A
-degradieren:degrade
-aufkochen:boil
-bedrohen:threaten
-äsen:browse
-becircen:to bewitch
+wiedersehen:see again
 umfliegen:fly round
 pokulieren:booze
 schützen:protect
 unterdrücken:oppress
 überlassen:cede
-einsteigen:get in
-dölmern:N/A
-flambieren:N/A
-exekutieren:execute
+abfrühstücken:N/A
 xerographieren:N/A
-diluieren:dilute
-reden:speak
-nüffeln:nose
-erigieren:erect
-abschieben:deport
-vertragen:tolerate
-montieren:assemble
-krallen:claw
-ausschlachten:cannibalize
-verschreiben:prescribe
-abtreten:cede
-abdrucken:print
-schubsen:shove
-ausstatten:equip
-erkobern:N/A
-zerreißen:tear
-verscheiden:pass away
-repatriieren:repatriate
-divergieren:diverge
-geifern:salivate
-approbieren:approve
-elizitieren:elicit
-hageln:hail
-flirten:flirt
-genießen:enjoy
-fortschreiten:advance
-schreiten:step
-beklatschen:applaud
+verschulden:cause
+wegsehen:disregard
+wehen:blow
+herumlaufen:to run around
+tosen:bluster
+schnarchen:snore
+ausstehen:abide
+stalken:stalk
 ermüden:tire
+aufbrauchen:use up
+verherrlichen:glorify
 flicken:mend
-ködern:bait
-schnüffeln:sniff
-mimen:to act
-entleeren:empty
-küssen:kiss
-postulieren:posit
-vorwegnehmen:anticipate
-fortfallen:N/A
-abmahnen:to admonish
-harangieren:N/A
-glühen:glow
-aufdrängen:impose
-installieren:install
-knurren:growl
-subtrahieren:subtract
-rezyklieren:recycle
-spiegeln:reflect
-bannen:ban
-dahaben:N/A
-zurückkommen:return
-pellen:peel
-schwänzen:play hooky
-ballestern:N/A
+verschliefen:N/A
+hypen:hype
+pedden:N/A
 nuancieren:to shade subtly and gradually
-recherchieren:research
-erbleichen:blanch
-auftauchen:appear
 adoptieren:adopt
 anschwärzen:denigrate
-buddeln:dig
-lithographieren:litho
+abpipettieren:N/A
 zerschrammen:to bruise
-zappen:zap
-aufteen:to tee
 abwiegen:weigh
-entkräften:invalidate
-imkern:keep bees
-kichern:giggle
-läuten:ring
-deinstallieren:deinstall
-tanken:refuel
-wischen:wipe
 indoktrinieren:indoctrinate
-lachen:laugh
-bellen:bark
-rösten:roast
-kreieren:create
 beruhigen:assuage
-düpieren:con
-zehren:atrophy
-abdichten:calk
-rumoren:to make noise
-necken:banter
-umpolen:change
-tingeln:N/A
-hübsch machen:N/A
-zensieren:censor
-balancieren:balance
-treiben:propel
-scheuen:eschew
-erstellen:create
+nasführen:N/A
+herbeirufen:call
+miefen:to pong
+batiken:dye fast
 frappieren:dumbfound
-ausrasten:go postal
-abschneiden:cut
-justieren:justify
-versenden:send
+lynchen:lynch
 schwimmen:swim
-herstellen:produce
 reinigen:clean
-nominieren:nominate
 vermessen:foolhardy
-ponieren:N/A
-mensendiecken:N/A
-entzünden:ignite
-unterschreiben:sign
-erlesen:choice
-innervieren:innervate
-beseitigen:remove
+schlägern:brawl
 konfundieren:N/A
-verspeisen:consume
 einsperren:imprison
-radeln:bicycle
-empfangen:receive
 autorisieren:authorize
-strafen:punish
-aufsperren:to unlock
-altern:age
-löffeln:ladle out
-beweihräuchern:adulate
-befolgen:obey
-argumentieren:argue
-verfassen:write
-abböschen:slant
-jaulen:howl
-pissen:piss
-mitschneiden:film
-imitieren:imitate
-aushungern:starve
+zippen:zip
+auswählen:choose
+ranken:to ramble
 geißeln:flog
 modulieren:modulate
 auslösen:trigger
-usurpieren:usurp
-menscheln:N/A
-vidieren:N/A
-ebnen:level
+löten:solder
 voipen:to call over the Internet
-requirieren:commandeer
-konkludieren:N/A
-herausstellen:feature
-bedecken:cover
-abschreiben:write down
 drängen:urge
-ausschalten:turn off
+zerkauen:chew
 hunzen:N/A
 abbaggern:N/A
 kollidieren:collide
 offenbaren:reveal
-beweinen:mourn
-lechzen:be in love with
-transzendieren:transcend
-orientieren:orient
-wiederherstellen:restore
-scheppern:rattle
-peinigen:torment
-upgraden:upgrade
-kidnappen:kidnap
-quanteln:quantise
+liken:like
+manipulieren:manipulate
 panaschieren:N/A
-profitieren:profit
-despektieren:N/A
-kampeln:N/A
-verdoppeln:double
-rücken:push
-stürzen:overthrow
+vorlassen:N/A
+meliorieren:improve
 herausgeben:publish
 dislozieren:dislocate
 hoagaschten:N/A
-zwingen:compel
-verwandeln:change
 walten:rule over
-vergehen:pass
-screenen:screen
-verleben:experience
 wegmachen:disarrange
+mitfahren:accompany
 lauschen:listen
-recht haben:be right
-worfeln:winnow
-teilnehmen:participate
-versiegeln:seal
-erstehen:buy
+glotzen:goggle
+harmonisieren:harmonize
+verramschen:sell at a loss
 verpissen:piss off
-entsichern:N/A
-austreten:leave
-bestärken:strengthen
-chatten:chat
-ohrfeigen:slap
-ordnen:arrange
-welschen:N/A
-kabbeln:squabble
-injizieren:inject
 schüren:fuel
-evaluieren:evaluate
-besiegeln:seal
-intendieren:intend
-wabern:billow
-schwinden:dwindle
-weihnachten:christmas
-fortschicken:send away
 leimen:glue
-vagabundieren:stray
-zurren:lash
 richten:judge
-abernten:harvest
-nähen:sew
-fakturieren:bill
-stapeln:pile up
-schmatzen:smack
-abfertigen:dispatch
-aufklären:enlighten
 kündigen:can
-desertieren:desert
-bewahren:preserve
-beleidigen:insult
-wittern:scent
-verewigen:immortalize
 hegen:cherish
-belästigen:bother
-dissentieren:dissent
-einsalben:N/A
-pressen:squeeze
 zerfen:N/A
-zurückgeben:return
-werben:advertise
-fließen:flow
-ergrimmen:become angry
 bewegen:move
-wollen:want
-ausrechnen:calculate
-heranwachsen:grow up
-knechten:enslave
-arrangieren:arrange
-abdienen:serve out
-fortgehen:go away
-kungeln:fiddle
-andrehen:switch on
-vergewaltigen:rape
-hervorheben:highlight
-abfließen:exonerate
-zaudern:hesitate
-beweisen:prove
-verschrecken:N/A
-redhibieren:N/A
-dekompilieren:decompile
-leugnen:deny
-belabern:N/A
-verlassen:dreary
-ramifizieren:ramify
-schmoren:braise
+fortleben:live on
+überlaufen:overflow
+anpirschen:stalk
+decouvrieren:N/A
+analysieren:analyse
 sondieren:sound
-opfern:sacrifice
 fühlen:feel
-vorherrschen:prevail
-abrufen:fetch
 ennuyieren:bore
-anschauen:view
-ausweichen:dodge
-schiften:jibe
 vernehmen:hear
-abbekommen:get
-reisen:travel
 verspotten:flout
-zäunen:fence
 auflegen:apply
-kollabieren:collapse
-scheinen:seem
 liebhaben:be fond of
 schaukeln:rock
-schnuppern:sniff
 vozieren:appoint
-knittern:crinkle
 erweitern:extend
-titulieren:entitle
-abandonnieren:abandon
-flehen:beg
-aussitzen:to sit out
-verarbeiten:process
-sicherstellen:ensure
-aufpassen:pay attention
-besichtigen:visit
-bestrafen:punish
-stellen:apply
+anmahnen:dun
+fällen:N/A
+emendieren:emend
 pochen:throb
-verjagen:drive away
+beschäftigen:occupy
 ahnen:feel
-ankreiden:chalk up
-ausladen:unload
 aufwerten:revaluate
-hinstellen:stand
-schunkeln:swing
-perfektionieren:perfect
-beteuern:assert
-gelingen:succeed
-spähen:peer
-kujonieren:bully
-adressieren:address
-tanzen:dance
-hinnehmen:accept
-patentieren:patent
-einstellen:stop
-betütern:N/A
-brechen:break
-aufmachen:open
-zutragen:befall
+zaubern:conjure
+erben:inherit
+abholen:pick up
+vollziehen:implement
+demarkieren:demarcate
+morsen:N/A
+flimmern:flicker
 ersuchen:request
-malträtieren:maltreat
 wettmachen:balance
 vermuten:suppose
 fesseln:absorb
-stanzen:bore into
 abdämmen:dam
-anschneien:N/A
-auslaugen:exhaust
+unterheben:fold
 stänkern:bitch
-frischen:decarbonise
 pendeln:commute
 erschrecken:scare
-fortstoßen:to push away
-kleinschreiben:begin a word without a capital letter
-ausbessern:repair
 lemmatisieren:lemmatise
-verändern:change
-einpacken:box
-ritzen:scratch
-probieren:try
-herausfinden:find out
-exkulpieren:exculpate
-lästern:blaspheme
-buhlen:court
-lispeln:lisp
-absteigen:descend
-melken:milk
+sprinten:sprint
+encouragieren:encourage
 abweisen:reject
-bekämpfen:fight
-eulanisieren:N/A
 zerfleddern:tatter
-säubern:clean
-schonen:spare
-erwarten:expect
 lassen:let
-nerven:bug
-vorsorgen:be armed with
-arrivieren:to achieve
-verringern:diminish
-sitzen:sit
-iterieren:iterate
-abhaken:tick
-prosperieren:prosper
-verenden:perish
+abgenzern:N/A
+maßregeln:reprimand
 weinen:cry
-verklären:glorify
-vermeiden:avoid
-rechten:N/A
-lecken:lick
-zerstäuben:spray
-konzipieren:conceive
 umfassen:encompass
-grollen:regret
-markieren:mark
-philosophieren:philosophize
-ausschmücken:beautify
-quittieren:receipt
 mögen:like
-verknoten:tie
 schmähen:speak ill of
-abschauen:peek
 umsorgen:nurture
 umbestellen:N/A
 sorgen:care
 zufügen:inflict
-schwanken:rock
-abteufen:delve into
 zimmern:build
 nören:N/A
-fisseln:drizzle
+abebben:dry
 knausern:skimp
-navigieren:navigate
-beeindrucken:impress
+qualifizieren:qualify
+staunen:be amazed
 vorlesen:read
 verhaspeln:get muddled
-immatrikulieren:enroll
-schmachten:languish
-beschwindeln:bamboozle
-absenden:forward
-heraufkommen:approach
-hehlen:bury
-fabrizieren:fabricate
-veranstalten:develop symptoms of
+abscheiden:cable
+desodorieren:deodorize
+bölken:N/A
 enttarnen:disclose
 fuhrwerken:cart
 verstatten:to allow
-nachvollziehen:comprehend
-fokussieren:focus
-entwenden:steal
-besprechen:discuss
+ertöten:stifle
+verlustieren:amuse oneself
 bürsten:brush
 salzen:salt
-einbauen:build in
-predigen:preach
-unterzeichnen:sign
+aufhinschreiben:N/A
+novellieren:amend
+durchtrennen:sever
 festsetzen:decide
-ausschreiben:write out
-raiden:raid
-vibrieren:vibrate
-purzeln:drop
-vermitteln:mediate
-exerzieren:exercise
-gegenlesen:N/A
-wegtreten:to dismiss
-zwitschern:chirp
-herunternehmen:lower
 plombieren:fill
-shorten:N/A
-bewerben:apply
-pappen:be sticky
+schraffen:N/A
 anrühren:touch
-kalfatern:caulk
-schwatzen:chat
-erkälten:catch a cold
-dulden:tolerate
-deaktivieren:deactivate
-ermutigen:encourage
-fügen:submit
-respektieren:respect
-radebrechen:smatter
-zerstreuen:scatter
-rangeln:wrangle
-verführen:seduce
-entgleisen:derail
-schaffen:create
-krakeelen:brawl
-abhängen:depend
-verderben:hurt
-bedauern:regret
-zuteilwerden:be bestowed
-verdrücken:beat it
-misstrauen:suspect
+auftischen:dish up
+schleppen:drag
+abdreschen:trite
+deputieren:depute
+argwöhnen:suspect
 dauern:last
-nachsetzen:trail
-einweisen:admit
-möblieren:furnish
 angrenzen:border
-stagnieren:stagnate
-verursachen:cause
 ablassen:vent
-durchsetzen:enforce
-feilen:file
-ausbreiten:spread
-abhacken:chop
-aufpäppeln:cooker up
-instrumentalisieren:exploit
+kanten:cant
+resignieren:resign
 demoralisieren:demoralize
 gewähren:grant
 aggregieren:aggregate
 weggehen:leave
 besiegen:beat
-spaßen:joke
-zerbeulen:N/A
-editieren:edit
-gürten:gird
-gasen:gas
-zusagen:accept
-verschulden:cause
-quatschen:piffle
-drahten:N/A
-relaxen:chill
-wegsehen:disregard
-münden:disembogue
-bescheren:award to
-abbeeren:destem
-helfen:help
-gebieten:command
-besorgen:get
-lukrieren:lucrate
-affigieren:affix
-liebkosen:caress
-herleiten:deduce
-posten:post
-egalisieren:equalize
-tabuisieren:taboo
-amputieren:amputate
-aufdonnern:N/A
-buttern:butter
-touchieren:graze
-schielen:squint
-indizieren:index
+versumpfen:become marshy
+erlangen:obtain
+toben:rage
 behelligen:annoy
-pflügen:plough
-beisetzen:bury
-planen:plan
+verfilzen:become complicated
 vernadern:N/A
-verebben:ebb away
-dräuen:N/A
-bandagieren:bandage
-verbeamten:give the status of civil servant
-überfliegen:skim
-integrieren:integrate
-verwenden:use
-kürzen:abbreviate
-aussteigen:get off
-missachten:disregard
-bezichtigen:accuse
-kuratieren:curate
+unterbringen:accommodate
 irritieren:irritate
 auszeichnen:award
-parsen:parse
 verstärken:amplify
-sichern:save
-reglementieren:regulate
-weiterverleihen:N/A
-ficken:fuck
-absorbieren:absorb
-dominieren:dominate
-verwinden:get over
-abballern:blow away
 erteilen:grant
-zurücktreten:resign
-rehabilitieren:rehabilitate
-umsetzen:implement
+unterspülen:hollow out
 manifestieren:manifest
-dividieren:divide
-untergehen:set
-saldieren:balance
-einspringen:enter into
-gestalten:mold
-dringen:coerce
 merzerisieren:mercerize
-japsen:gasp
-prozessieren:litigate
-abzeichnen:check
 verfallen:expire
-exhumieren:exhume
-massakrieren:massacre
-zurückweisen:reject
-internalisieren:internalize
-vermissen:miss
 herauskristallisieren:to crystallise
-trippeln:trip
-herumlaufen:to run around
-abbröckeln:to wane
-druseln:N/A
+abfärben:to run
 abstrahieren:abstract
-dissen:diss
-ausschlagen:bud
-versemmeln:N/A
-verstrahlen:N/A
-gernhaben:be fond of
+überrumpeln:blindside
 operationalisieren:operationalize
-mitzählen:to be relevant
-abtun:snub
-gehen:go
-iahen:bray
-holen:fetch
-fädeln:baste
 entgräten:bone
-graben:dig
-stauben:N/A
-deckeln:cap
-befestigen:fasten
-schnarchen:snore
-erhausen:N/A
-verwirren:confuse
-absagen:call off
-abbleichen:fade
-lynchen:lynch
+dekomponieren:decompose
+dividieren:divide
+eintunken:dip
 aasen:splash about
 trüben:roil
-kommandieren:command
-bestuhlen:to provide with seating
-härten:harden
-durchhängen:to sag
+vollquarzen:N/A
+mitgeben:give
+hutschen:dandle
 rauben:rob
-belohnen:reward
+durchziehen:pervade
 hinweisen:portend
-schwätzen:babble
-initiieren:initiate
-obedieren:obey
-einschlafen:fall asleep
-schachern:haggle
-supponieren:suppose
+heroisieren:heroize
 ereignen:happen
-wohnen:live
-hasardieren:N/A
-geschehen:happen
-krängen:heel
+tschechern:N/A
 lügen:lie
-sieben:seven
-zuhören:listen
-abbaken:beacon
+geboren werden:be born
 reizen:irritate
 behändigen:N/A
-intensivieren:intensify
-anfertigen:make
-pflastern:pave
-verrichten:answer the purpose
-stocken:halt
-uploaden:upload
-daddeln:play
-anhören:listen
-zustimmen:agree
-verproviantieren:provision
-disponieren:dispatch
-begreifen:understand
-fortbilden:N/A
-kucken:look
-massieren:massage
-mahlen:grind
-spicken:lard
-erstreben:aim at
-tschechern:N/A
-paraphieren:initial
-jobben:job
+verschleppen:procrastinate
+rinnen:flow
+abkommandieren:draft
+bewenden:N/A
+einflößen:advance
 evaporisieren:evaporate
-schlauchen:N/A
-verlaufen:get lost
-bleiben:stay
-nachprüfen:recheck
-gegeneinander ausspielen:pit someone against someone
-redigieren:edit
 einmargerieren:N/A
 twittern:tweet
-verdanken:owe
-einziehen:collect
-dämpfen:damp
-begnügen:make do
-gratulieren:congratulate
-frotzeln:tease
-vereinigen:unite
-emulieren:emulate
-mustern:scrutinize
-zerlassen:dissolved
-quaken:croak
-läutern:purge
-blödeln:daff
-wanken:falter
-perhorreszieren:N/A
-anfechten:refute
-quantisieren:quantize
-gackern:cluck
-striezen:harass
-debütieren:debut
-verballhornen:bowdlerize
-genieren:annoy
-parametrisieren:parametrize
-auffassen:apprehend
-beulen:to warp
-explodieren:explode
+auswischen:wipe out
+hupen:honk
+bibliografieren:N/A
+auswickeln:unwrap
+gestehen:confess
+picken:peck
+konzentrieren:concentrate
 rotten:rotten
-prahlen:brag
-wachen:watch
-transponieren:transpose
 roboten:do
-wechseln:change
 kompilieren:compile
-glätten:smooth
 abgeben:give
-krepieren:croak
-konstituieren:constitute
-abstottern:N/A
-lamentieren:lament
 eskortieren:escort
-kondensieren:condense
-absahnen:skim
-sputen:spurt
+schanzen:N/A
 fusionieren:merge
-protrahieren:N/A
-anbeten:adore
+kidnappen:kidnap
+subjektivieren:subjectivize
 auslaufen:leak out
-bedürfen:need
-ergeben:loyal
+vrecken:N/A
+schleißen:to strip
+übernehmen:take over
+verspringen:N/A
+dekrementieren:decrement
+sprießen:sprout
+rumhuren:whore around
+verkasematuckeln:N/A
+jubilieren:jubilate
+erhoffen:desire
+entgehen:escape
+schwanken:rock
+bankrottieren:go bankrupt
+befehlen:command
+starten:start
+poppen:fuck
+zubringen:accord
+neigen:incline
+stilisieren:stylize
+zusammenkratzen:eke out
+abfackeln:flare
+blamieren:make an exhibition of oneself
+kranken:suffer
+entsagen:abandon
+auseinandersetzen:deal
+reimportieren:reimport
+feiern:celebrate
+säen:sow
+empfehlen:recommend
+stemmen:brace
+schnupfen:snort
+ergötzen:regale
+fremdschämen:N/A
+verbrüdern:fraternize
+auswandern:emigrate
+beklemmen:oppress
+schären:N/A
+ankotzen:piss off
+foulen:foul
+einordnen:place
+streifen:brush
+aufmandeln:act
+sympathisieren:sympathize
+durchnehmen:N/A
+duckmäusern:N/A
+eichen:calibrate
+öffnen:open
+ausherschliefen:N/A
+kritzeln:scrawl
+klarieren:clear
+nasalieren:nasalize
+abrutschen:to slip off
+stauen:dam
+getrauen:dare
+geren:N/A
+genieren:annoy
+anlächeln:smile
+verhehlen:conceal
+zerschneiden:cut
+erleiden:suffer
+herabstufen:N/A
+rennen:run
+abriegeln:bar
+entsendern:N/A
+zulassen:allow
+exorzieren:exorcise
+warten:wait
+huschen:scurry
+kleckern:blot
+einsparen:cut corners
+wandeln:change
+kopieren:copy
+werden:become
+prononcieren:emphasize
+drängeln:push
+absentieren:N/A
+ernten:harvest
+aufbauschen:exaggerate
+bestätigen:confirm
+erfreuen:delight
+bilden:form
+zugehen:aim at
+vergießen:shed
+überfallen:invade
+abästen:lop off a tree
+timen:time
+peilen:fathom
+niffeln:N/A
+wedeln:wag
+pütschern:N/A
+erdolchen:poniard
+bloggen:blog
+persuadieren:N/A
+interpretieren:interpret
+zufrieren:to freeze
+wildern:poach
+plissieren:pleat
+schief liegen:be off the mark
+dünken:seem
+aufhauben:N/A
+kraxeln:scramble
+beipflichten:accede
+abschalten:switch off
+verbinden:tie
+fuckeln:N/A
+plagen:badger
+aussprechen:pronounce
+schmettern:smash
+kastrieren:castrate
+niederschreiben:write down
+runterwirtschaften:N/A
+einleiten:usher in
+abfälschen:deflect
+herumfuhrwerken:bustle around
+verspielen:gamble away
+fußen:be based
+inhaftieren:arrest
+weisen:show
+bladen:blade
+betreffen:concern
+sublimieren:sublimate
+drucken:print
+fliegen:fly
+brühen:scald
+überwältigen:overwhelm
+campen:camp
+fisten:N/A
+einreichen:submit
+pauschalisieren:generalise
+abseihen:filter
+plaudern:chat
+verminen:mine
+inskribieren:register
+weitermachen:continue
+folgern:conclude
+erhören:grant
+honorieren:honour
+diagnostizieren:diagnose
+vergreifen:make a mistake
+zupacken:get down
+parken:park
+picheln:tipple
+schildern:depict
+herhören:listen
+komprimieren:compress
+leasen:lease
+granteln:N/A
+schnattern:bark
+leben:live
+schlauchen:N/A
+systematisieren:arrange
+schickern:drink
+schmöken:N/A
+erquicken:refresh
+bewachen:guard
+sanieren:itself back on an even keel
+umkommen:perish
+herbsten:to become autumnal
+ratzen:kip
+blinken:blink
+zagen:hesitate
+sparen:save
+zupasskommen:N/A
+umspannen:transform
+marachen:N/A
+hochhieven:denounce
+verkaufen:sell
+abbimsen:copy
+anfechten:refute
+kalibrieren:calibrate
+suchen:search
+betören:beguile
+abklemmen:disconnect
+verständigen:warn
+betreten:enter
+werkeln:potter about
+vertellen:N/A
+dicht machen:proof
+hypostasieren:N/A
+segnen:bless
+heraufbeschwören:evoke
+zumachen:close
+sensen:scythe
+hallen:echo
+entziehen:withdraw
+ausmerzen:eradicate
+lodern:burn
+durchschlafen:N/A
+abkündigen:discontinue
+überwintern:hibernate
+zusehen:watch
+verbreiten:broadcast
+brüllen:roar
+haschieren:hash
+ziehen:raise
+duschen:shower
+entdecken:discover
+einbläuen:drum
+durchgehen:go through
+tranchieren:carve
+tappen:grope
+impfen:vaccinate
+verlernen:forget
+verstellen:disguise
+enthaupten:behead
+schelten:chide
+diffamieren:defame
+abzäunen:fence off
+regalieren:entertain
+hinkacken:N/A
+marinieren:marinade
+glitzern:glisten
+erklimmen:scale
+dispergieren:disperse
+onanieren:masturbate
+gewärtigen:await
+lecken:lick
+auskennen:know
+lithographieren:litho
+erhängen:hang
+versenden:send
+beweihräuchern:adulate
+loggen:log
+mäkeln:kvetch
+vermählen:wed
+schubsen:shove
+sponsern:sponsor
+anstoßen:nudge
+quanteln:quantise
+verschließen:lock
+opalisieren:N/A
+besehen:had a look at
+heraufspringen:N/A
+eingreifen:intervene
+versagen:fail
+quittieren:receipt
+sagen:say
+mildern:alleviate
+interagieren:interact
+kommissionieren:commission
+abzählen:count
+beschlagnahmen:confiscate
+vermindern:diminish
+eindringen:invade
+abmustern:to pay off
+windeln:diaper
+aussteigen:get off
+kurbeln:film
+verposematuckeln:N/A
+kleinreden:play down
+vergolden:gild
+zuordnen:associate
+naschen:snack
+aufatmen:breathe again
+erzielen:score
+fretten:chafe
+präferieren:prefer
+elastifizieren:plasticise
+einprägen:etch
+stängeln:N/A
+gammeln:to bum
+rechtfertigen:justify
+staken:pole
+kursieren:circulate
+lautieren:N/A
+roden:stub
+anbandeln:to start an argument
+skalieren:scale
+entrappen:N/A
+anschreiben:notch
+aufstehen:get up
+bestreiten:deny
+erkennen:recognize
+trachten:aim
+beschützen:protect
+abbehalten:N/A
+eintauchen:immerse
+ästimieren:esteem
+abkönnen:N/A
+vereinfachen:simplify
+durchsagen:announce
+wecken:wake
+melden:report
+colorieren:color
+inspirieren:inspire
+tapern:N/A
+attrahieren:attract
+verweisen:refer
+aussterben:die out
+wringen:wring
+anstellen:employ
+eindieseln:N/A
+pumpen:pump
+piken:to prick
+zapfen:cancel
+flecken:blemish
+loben:praise
+vonstattengehen:N/A
+bonitieren:examine
+fouragieren:forage
+halbieren:halve
+einbringen:fetch
+losketten:to unchain
+frei lassen:leave a blank
+anfeuern:excite
+verzupfen:N/A
+porträtieren:portray
+verfügen:decree
+salutieren:salute
+hofieren:court
+schminken:null
+aufnötigen:coerce
+harschen:crust
+ausbomben:to bomb out
+faseln:prate
+exzerpieren:excerpt
+ergänzen:add
+scheiden:divorce
+schütten:pour
+einschätzen:judge
+schaben:scrape
+epilieren:epilate
+ergrauen:gray
+volltanken:to fill up
+komponieren:compose
+wegflexen:N/A
+schmauchen:N/A
+knutschen:smooch
+krängen:heel
+amtieren:officiate
+kategorisieren:categorize
+sich einen runterholen:jerk off
+sülzen:waffle
+allozieren:allocate
+verunstalten:disfigure
+verkippen:tilt
+aufstuhlen:N/A
+diffundieren:diffuse
+verwählen:misdial
+tölten:N/A
+winden:wind
+angleichen:adapt
+schillern:to aventurise
+saturieren:saturate
+abhandeln:deal
+wohlfühlen:N/A
+zinken:tines
+nachdenken:think
+eiern:to wobble
+florieren:prosper
+paginieren:paginate
+desistieren:to desist
+bezwingen:beat
+anerkennen:recognize
+satteln:saddle
+besagen:imply
+transferieren:to be transferred
+begasen:fumigation
+einbeziehen:include
+hadern:quarrel with
+zerstechen:prick all over
+tschalpen:N/A
+abliefern:deliver
+chiffrieren:encrypt
+hüpfen:hop
+reihern:puke
+spurten:sprint
+barmen:N/A
+einbetten:embed
+mithelfen:assist
+vernaschen:spend on sweets
+bevölkern:people
+einbrechen:break in
+terrorisieren:terrorise
+dirigieren:conduct
+heraufklettern:N/A
+trotzen:defy
+odeln:N/A
+exaltieren:N/A
+zerbersten:blow up
+kampeln:N/A
+exterminieren:N/A
+demolieren:break down
+verlautbaren:announce
+verfranzen:N/A
+lohnen:worth
+schwängern:impregnate
+enteisenen:N/A
+beschmieren:spread
+durchqueren:cross
+skalpieren:scalp
+hypnotisieren:hypnotize
+unterstellen:subjugate
+vereitern:ulcerate
+röntgen:N/A
+freihalten:entertain
+quillen:N/A
+etiolieren:etiolate
+umgraben:dig up
+mieten:rent
+weißeln:decorate
+festschrauben:screw tight
+vorschweben:have in mind
+umstellen:transpose
+fehlschlagen:abort
+versprechen:promise
+totmachen:N/A
+durchatmen:N/A
+einschieben:insert
+erzwingen:force
+levitieren:N/A
+schlachten:slaughter
+zupfen:pluck
+kaptivieren:N/A
+fringsen:steal
+exorzisieren:N/A
+bangen:to tremble
+defäkieren:defecate
+betten:embed
+brunzen:piss
+derkemmen:N/A
+frieren:freeze
+wimmeln:abound
+enteignen:expropriate
+frühstücken:breakfast
+verankern:anchor
+assimilieren:assimilate
+greinen:cry
+leiben:N/A
+entreißen:dispossess
+verzagen:despond
+verschanzen:entrench
+wägen:ponder
+verhöhnen:deride
+ermuntern:encourage
+einarbeiten:get used to the work
+verorten:file
+abziehen:subtract
+maiumen:N/A
+kruschteln:N/A
+reorganisieren:rearrange
+biwakieren:bivouac
+stunden:defer
+verhexen:bewitch
+unterlegen:been subject to
+quetschen:squeeze
+rekognoszieren:reconnoitre
+abfassen:compose
+entflechten:decartelize
+schleimen:brownnose
+duzen:thou
+kommerzialisieren:commercialize
+keppeln:nag
+köcheln:coddle
+finanzieren:finance
+überstürzen:rush
+schlecken:lap
+abkupfern:copy
+umkrempeln:loopback
+wulachen:N/A
+eitern:fester
+einen:compromise
+spritzen:inject
+verbeugen:bow
+resultieren:result
+kritteln:cavil
+verbannen:banish
+pichen:N/A
+sprengen:blow up
+pflanzen:plant
+verbieten:forbid
+abnützen:to outwear
+zünden:ignite
+schmulen:N/A
+wienern:to polish
+vergittern:grate
+freimachen:stamp
+extrudieren:extrude
+einrichten:arrange
+trenzen:N/A
+schnäuken:N/A
+bedecken:cover
+modern:modern
+kalligraphieren:N/A
+knoten:knot
+herrschen:reign
+abstellen:stand
+entlüften:vent
+tunneln:nutmeg
+aufpassen:pay attention
+taumeln:stagger
+abblättern:peel off
+kandidieren:stand
+fertigmachen:complete
+arrondieren:realign
+zunichtemachen:to dish
+schlingern:roll
+sperren:bar
+gabeln:fork
+amputieren:amputate
+komplimentieren:escort
+feuern:fire
+aberkennen:deprive
+herauskommen:emerge
+zusammenreißen:pull oneself together
+begatten:copulate
+staffieren:equip
+kerben:notches
+schenken:present
+chaptalisieren:N/A
+ochsen:cram
+knirschen:crunch
+grummeln:hurtle
+camouflieren:camouflage
+sammeln:pick
+aushingehen:N/A
+mitteilen:inform
+sinken:sink
+abbrechen:break
+stabilisieren:stabilize
+grillen:barbecue
+inkubieren:N/A
+verwetten:bet
+diskutieren:discuss
+abstürzen:crash
+aufwerfen:pose
+zusammenrechnen:add up
+entkommen:escape
+herabblicken:despise
+rufen:call
+erhalten:get
+berichtigen:correct
+erküren:choose
+erschleichen:creep
+verzücken:abduct
+fürchten:fear
+hinausfliegen:be beheaded
+verjüngen:rejuvenate
+enthalten:contain
+blitzen:flash
+knautschen:crease
+vergiften:poison
+schmieden:forge
+verzerren:distort
+einatmen:inhale
+schlingen:gobble
+zementieren:cement
+mittagessen:food
+schnäuzen:N/A
+auslosen:draw
+nageln:nail
+auserkiesen:choose
+drillen:drill
+pedalieren:N/A
+knatschen:N/A
+zermalmen:crush
+verwahrlosen:go seed
+tollen:romp
+giggeln:N/A
+abfedern:cushion
+entfliehen:flee
+entwässern:air concentrate
+eindecken:N/A
+bumsen:fuck
+watscheln:toddle
+knottern:N/A
+panieren:bread
+zerstampfen:stomp
+verletzen:violate
+chauffieren:chauffeur
+abbusseln:N/A
+faken:fake
+erzählen:tell
+pogen:pogo
+googeln:google
+verkacken:N/A
+besiedeln:people
+entschlagen:N/A
+welken:wither
+rentieren:worth
+hoagaschtn:N/A
+transformieren:transform
+obwalten:prevail
+verfetten:N/A
+prallen:bump
+löchern:fire questions at someone
+schwarzhören:N/A
+ankündigen:announce
+arrivieren:to achieve
+agitieren:agitate
+ausformulieren:N/A
+nuscheln:mumble
+abschachern:N/A
+stampfen:pitch
+krüllen:N/A
+borgen:borrow
+rumhüsern:N/A
+nitrieren:nitrate
+bügeln:iron
+insistieren:insist
+babbeln:babble
+beschwören:plead
+determinieren:determine
+rödeln:have sex
+plumpsen:flop
+füllen:fill
+wintern:to age
+ausschiffen:disembark
+einhinfahren:N/A
+widerfahren:befall
+aufscheinen:N/A
+shuttlen:N/A
+ausspucken:disgorge
+leichtern:lighten
+heiligen:hallow
+graupeln:sleet
+ersetzen:replace
+rotieren:rotate
+tracken:track
+aufspielen:put on airs
+verschreien:conjure up
+bedrängen:beleaguer
+verschwinden:disappear
+bewohnen:inhabit
+errichten:build
+spriten:N/A
+bostitchen:staple
+konspektieren:N/A
+entschärfen:defuse
+rallen:N/A
+rauchen:smoke
+assoziieren:associate
+missbrauchen:abuse
+nachweisen:prove
+zerschießen:brick
+vorliebnehmen:to get along
+hinken:limp
+vorkommen:occur
+präzisieren:specify
+dokumentieren:document
+zusammenbrechen:collapse
+einholen:overtake
+operieren:operate
+zählen:count
+beheimaten:N/A
+konspirieren:conspire
+knapsen:be stingy
+distanzieren:beat
+pennen:kip
+besudeln:sully
+zerren:drag
+denaturieren:denaturation
+vergaffen:be smitten with
+schattieren:shade
+derfrieren:N/A
+gelangen:arrive
+scharren:scrape
+covern:cover
+einiggehen:agree
+entkeimen:sterilize
+projektieren:project
+boomen:boom
+beistimmen:accede
+herabfallen:come out
+übernachten:spend the night
+disambiguieren:disambiguate
+erschließen:deduce
+bearbeiten:edit
+monetarisieren:N/A
+managen:manage
+regenerieren:regenerate
+erregen:excite
+reingrätschen:N/A
+rieseln:by ones and twos
+nächtigen:to pass the night
+bebaken:beacon
+zuzeln:lisp
+quieken:squeal
+tangieren:touch
+nachsagen:repeat
+gerben:tan
+annotieren:annotate
+erörtern:discuss
+enterben:disinherit
+wählen:choose
+sinnieren:ponder
+spiegeln:reflect
+entrinnen:escape from
+befrieden:assuage
+verrichten:answer the purpose
+blanchieren:blanch
+absaven:N/A
+löthen:N/A
+fortdenken:N/A
+aufringen:call
+klieben:cleave
+darlegen:explain
+aufzeigen:demonstrate
+ausbaldowern:case
+verhalten:behave
+stupsen:prod
+wiederholen:repeat
+bejammern:be sad
+fliehen:flee
+kreieren:create
+entflammen:inflame
+beherrschen:control
+revanchieren:pay back
+befolgen:obey
+betrachten:regard
+überblicken:overlook
+grassieren:rage
+Klinken putzen:sell from door to door
+besiegeln:seal
+schnackseln:have sex
+belustigen:amuse
+beschränken:limit
+konfigurieren:configure
+herausfinden:find out
+lesen:read
+schlummern:slumber
+aufdonnern:N/A
+skoptisieren:N/A
+grillieren:grill
+freilassen:release
+einkoppeln:couple into
+verhandeln:negotiate
+fensterln:N/A
+lockern:relax
+dispensieren:dispense
+verheeren:devastate
+verheben:N/A
+erfordern:require
+ausbrechen:break out
+monieren:criticize
+entfernen:delete
+abschicken:send
+schwoien:N/A
+chargieren:N/A
+wallen:undulate
+zusammentrommeln:round up
+versüßen:sugar
+protrahieren:N/A
+nachwürzen:spice up
+illuminieren:illuminate
+anschnallen:buckle on
+erbittern:exacerbate
+radebrechen:smatter
+vorspielen:audition
+schrammeln:strum
+basteln:tinker
+mumpeln:N/A
+zahnen:teethe
+bezeichnen:name
+abbilden:map
+zuraten:advise
+kniffen:to wrinkle
+zusammenfassen:summarize
+simulieren:simulate
+überschätzen:overestimate
+designen:design
+mokieren:mock
+nachtarocken:beat a dead horse
+konterminieren:N/A
+verlottern:go downhill
+abhängen:depend
+abrunden:round off
+ausbleiben:not to be forthcoming
+angrillen:N/A
+scheppern:rattle
+gliedern:divide
+intermittieren:intermittent
+fremdgehen:cheat
+entbehren:lack
+schwarzfahren:stowaway
+erneuern:renew
+hören:hear
+schimmern:shimmer
+antizipieren:anticipate
+knuscheln:N/A
+invadieren:invade
+bäumen:N/A
+erzen:N/A
+emailen:N/A
+killen:kill
+ruhen:rest
+blauen:N/A
+speichern:save
+anbeißen:bite
+zurückrufen:call back
+erbringen:bear
+abaasen:N/A
+betrinken:get drunk
+sezieren:dissect
+tauchen:dive
+näseln:N/A
+derbröseln:N/A
+versauen:dirty
+ersterben:N/A
+herüberfahren:N/A
+entrüsten:aggravate
+auftragen:spread
+konstruieren:construct
+verhätscheln:coddle
+rügen:reprove
+beleumden:N/A
+hemmen:dam
+verfestigen:strengthen
+durchixen:N/A
+beifügen:affiliate
+innewohnen:characteristic
+radieren:etch
+einwickeln:wrap
+umwehen:blow over
+kooperieren:cooperate
+verwaisen:become an orphan
+teufen:N/A
+beteiligen:participate
+krangeln:N/A
+wullacken:N/A
+korrigieren:correct
+übertragen:broadcast
+plazieren:place
+nachgehen:pursue
+erfragen:ask
+verbrauchen:consume
+abreißen:tear
+erpflegen:N/A
+erkunden:reconnoiter
+wühlen:rummage
+kappen:cut
+einheften:file
+einschränken:constrain
+murren:grumble
+behalten:keep
+anschwitzen:N/A
+schulen:school
+fieren:lower
+abpressen:extort
+befinden:be
+ätzen:etch
+schlagen:coin
+nutzen:utilize
+sezernieren:secrete
+verabreichen:administer
+abnabeln:become independent
+erröten:blush
+ermorden:kill
+auftreten:appear
+befruchten:fertilize
+verpixeln:pixelate
+dämmern:dawn
+erbitten:request
+abnutzen:wear out
+eruieren:elicit
+behagen:please
+booten:boot
+muffeln:stink
+vertikutieren:N/A
+adeln:ennoble
+drausbringen:N/A
+abzischen:N/A
+abkrüppeln:N/A
+morden:murder
+verriegeln:bar
+rosten:rust
+trotten:trot
+ausschließen:exclude
+lernen:learn
+botanisieren:botanize
+führen:control
+egalisieren:equalize
+präpeln:N/A
+fassen:catch
+ernähren:nourish
+häckseln:chaff
+koksen:N/A
+bringen:bring
+zusammenpressen:impact
+kneten:knead
+schmerzen:hurt
+erleichtern:facilitate
+abjagen:recover from
+avivieren:N/A
+unterbinden:deactivate
+katzbuckeln:fawn
+schlussfolgern:conclude
+hinterlassen:leave
+abblasen:blow away
+merken:notice
+erzürnen:inflame
+nachhaken:dig deeper
+geh:go
+subrogieren:N/A
+rasen:race
+zutschen:N/A
+entzünden:ignite
+anläuten:call
+beiseitelegen:stash
+schichten:layer
+äufnen:N/A
+zerstören:destroy
+unterbuttern:N/A
+zappeln:fidget
+verwildern:be rough
+freien:court
+fetten:grease
+rauschen:rustle
+niederknien:kneel down
+entrinden:barking
+zubuttern:chip in
+laben:refresh
+entstellen:disfigure
+weiden:pasture
+erstrecken:extend
+auspeitschen:whip
+bätzen:N/A
+auskehren:clean out
+reprivatisieren:denationalize
+tun:do
+rücken:push
+zertifizieren:certify
+herankommen:approach
+radotieren:drivel
+flunkern:lie
+stinken:stink
+begrüßen:greet
+einfallen:invade
+saufen:drink
+verhütten:smelt
+anrufen:call
+juckeln:N/A
+aufbessern:eke out
+aufführen:perform
+zustellen:deliver
+nachsprechen:to repeat after
+xerokopieren:xerox
+dergeben:N/A
+identifizieren:identify
+bereitstellen:provide
+mästen:fatten
+inlinern:N/A
+dreschen:thresh
+frohlocken:exult
+abladen:unload
+bezuschussen:to subsidise
+rammeln:fuck
+huldigen:embrace
+wahrnehmen:perceive
+heraufbefördern:N/A
+übersehen:overlook
+rammen:ram
+ausschlafen:sleep in
+betrüben:sadden
+vermaledeien:condemn
+versäumen:miss
+hinausführen:lead out
+entschleunigen:N/A
+plätschern:babble
+favorisieren:favor
+anspielen:allude
+fappieren:N/A
+okkupieren:occupy
+zelebrieren:celebrate
+elektrifizieren:electrify
+missfallen:displease
+plöddern:N/A
+dekantieren:decant
+verwehen:blow away
+planschen:flounder about
+tendieren:tend
+dragieren:N/A
+zittern:tremble
+heraufkriechen:N/A
+gewittern:N/A
+erschaffen:create
+ausstellen:exhibit
+medikamentieren:N/A
+zivilisieren:civilize
+mümmeln:to nibble
+depravieren:N/A
+schießen:shoot
+desaminieren:deaminate
+beachten:pay attention
+abbaken:beacon
+anpflanzen:cultivate
+simsen:text
+sägen:saw
+aliquotieren:N/A
+vorturnen:N/A
+longieren:N/A
+aushungern:starve
+frakturieren:N/A
+aufregen:excite
+dippen:dip
+protegieren:sponsor
+limitieren:constrain
+protestieren:protest
+anspeiben:puke
+ordnen:arrange
+abernten:harvest
+versaubeuteln:N/A
+kartographieren:N/A
+verzweigen:branch
+entschlafen:die
+verspüren:feel
+begegnen:meet
+inlineskaten:inline skate
+schonen:spare
+abkommen:deviate
+vergelten:requite
+kriechen:crawl
+ausklabüstern:N/A
+befördern:transport
+trielen:dribble
+substituieren:substitute
+schwafeln:waffle
+abkassieren:N/A
+meinen:think
+bemühen:trouble
+collagieren:collage
+auswirken:act
+synchronisieren:synchronize
+zurückkehren:return
+cremen:cream
+ausbaden:pay for
+anmieten:hire
+innehalten:pause
+hervorgehen:answer
+einstallen:N/A
+objektivieren:objectify
+gebrauchen:use
+beharren:persevere
+mixen:mix
+ausreden:discourage
+befreien:free
+reinchecken:N/A
+worfeln:winnow
+quacksalbern:quack
+prügeln:beat
+jucken:itch
+Vorlage:Formatvorlage (Verb vereinfacht)
+rühmen:praise
+konzedieren:concede
+entspringen:spring
+beschlabbern:N/A
+zürnen:be angry
+abschleppen:tow
+achten:esteem
+liften:N/A
+schwären:to fester
+maimeln:N/A
+investieren:invest
+verhaften:arrest
+wegloben:kick upstairs
+eingehen:shrink
+entstammen:be descended from
+interpungieren:N/A
+plustern:fluff
+bechern:booze
+liebäugeln:ogle
+emittieren:emit
+ausleben:act out
+zu Grunde liegen:to underlie
+verneinen:deny
+pochieren:poach
+erinnern:remind
+murksen:to skimp
+leaken:leak
+verdampfen:evaporate
+einnachten:N/A
+zanken:quarrel
+erpressen:blackmail
+paddeln:paddle
+dotieren:dope
+schätzen:appreciate
+aufwachen:awake
+schleifen:drag
+reprimieren:repress
+schnippeln:snip
+revidieren:revise
+darstellen:represent
+bespaßen:amuse
+verschlimmbessern:kill the patient with the cure
+verdreifachen:treble
+abarten:degenerate
+bezirzen:bewitch
+steinigen:stone
+zerfließen:melt
+abkonterfeien:N/A
+gefrieren:freeze
+gesundschrumpfen:rightsize
+stippen:dip
+edieren:edit
+drehen:turn around
+inhibieren:inhibit
+reinlassen:N/A
+begnadigen:pardon
+manschen:churn
+shanghaien:N/A
+schweißen:weld
+beeinflussen:influence
+erschallen:resound
+unterstehen:be subject to
+schmadern:N/A
+auflösen:dissolve
+malmen:grind
+befleißen:N/A
+abjurieren:N/A
+suggerieren:suggest
+trinken:drink
+einstehen:vouch
+dörren:dry
+nuten:flute
+vertreten:act for
+befassen:covered
+unterpflügen:plough in
+anflehen:beg
+erstechen:stab
+absprechen:arrange
+eingestehen:own
+beschälen:cover
+chippen:N/A
+besitzen:possess
+tapsen:plod
+paaren:mate
+begrenzen:limit
+ausmachen:turn off
+durchdenken:investigate thoroughly
+vorbeugen:prevent
+avancieren:advance
+französisieren:N/A
+abbedingen:exclude by convention
+heilen:heal
+entrauschen:N/A
+intrigieren:intrigue
+rächen:avenge
+zusammensetzen:compose
+lobsingen:N/A
+sondern:but
+meimeln:N/A
+zugrunde liegen:underlie
+herumdrucksen:hem and haw
+leidtun:regret
+fressen:eat
+verlieren:lose
+kneifen:pinch
+expandieren:expand
+streunen:stray
+bersten:burst
+verdonnern:condemn
+überragen:excel
+hinstellen:stand
+metabolisieren:metabolise
+überlisten:outwit
+abbrocken:N/A
+externalisieren:externalise
+zoffen:quarrel
+provozieren:provoke
+baggern:dig
+prophezeien:prophesy
+abrufen:fetch
+nachmachen:imitate
+kauderwelschen:N/A
+übergehen:overlook
+zirkulieren:circulate
+naheliegen:N/A
+krebsen:N/A
+versehen:provide
+klammern:claw
+kaufen:buy
+abpatrouillieren:N/A
+involvieren:involve
+zuschlagen:slam
+ausbaggern:dredge
+uzen:kid
+verschlingen:devour
+aufstellen:posit
+auskoffern:dig
+filtern:filter
+schallen:resound
+begründen:establish
+bewässern:irrigate
+messen:measure
+zubetonieren:N/A
+ansprechen:address
+scharwenzeln:mince
+kotzen:vomit
+herausnehmen:take out
+abflachen:flatten
+bereitstehen:be ready
+malen:paint
+bequemen:N/A
+besebeln:cheat
+abeisen:N/A
+missglücken:fail
+entwarnen:N/A
+anbraten:roast gently
+feststellen:ascertain
+ausdehnen:extend
+debridieren:debride
+schimpfen:swear
+hinrichten:execute
+verquicken:amalgamate
+stieren:goggle
+vorfühlen:N/A
+manndecken:N/A
+kriegen:get
+backen:bake
+abführen:discharge
+mitspielen:feature
+besprechen:discuss
+kommentieren:comment
+spechteln:N/A
+riechen:smell
+hassen:hate
+ansagen:announce
+erniedrigen:abase
+wagen:dare
+emigrieren:emigrate
+abstoßen:turn off
+empören:resent
+umfahren:drive round
+flitschen:N/A
+hamstern:absorb
+austrinken:drink up
+gaumen:conserve
+aufbrummen:N/A
+knabbern:nibble
+erschlaffen:flag
+galoppieren:gallop
+bedenken:consider
+knistern:crackle
+protzen:flaunt
+höhnen:jeer
+pusseln:N/A
+ordern:order
+kabbeln:squabble
+fortschicken:send away
+umdrehen:upset
+immortalisieren:immortalise
+abpacken:pack
+einpflegen:to update
+arschen:N/A
+verreisen:journey
+kollabieren:collapse
+knittern:crinkle
+erbauen:build
+versteifen:stiffen
+lausen:delouse
+abweichen:differ
+schlotzen:N/A
+stilllegen:quiesce
+spotten:jeer
+äsen:browse
+becircen:to bewitch
+praktizieren:practice
+nachvollziehen:comprehend
+abmalen:portray
+einsteigen:get in
+dölmern:N/A
+inlinen:to blade
+falzen:fold
+flambieren:N/A
+exekutieren:execute
+reden:speak
+umeinanderbeuteln:N/A
+abschieben:deport
+transzendieren:transcend
+erkobern:N/A
+elizitieren:elicit
+hageln:hail
+wegblasen:blow
+rebeln:N/A
+schnüffeln:sniff
+lamentieren:lament
+aufhübschen:N/A
+fortfallen:N/A
+ausbilden:educate
+subtrahieren:subtract
+rezyklieren:recycle
+botschen:N/A
+pellen:peel
+anöden:to bore stiff
+zappen:zap
+zetern:clamor
+läuten:ring
+hüllen:wrap
+düpieren:con
+zehren:atrophy
+grüßen:greet
+vollenden:accomplish
+zensieren:censor
+zerbeißen:chew
+abschneiden:cut
+siedeln:settle
+herstellen:produce
+schwurbeln:N/A
+gratinieren:gratin
+nachschärfen:N/A
+mensendiecken:N/A
+unterschreiben:sign
+beseitigen:remove
+verspeisen:consume
+empfangen:receive
+verprügeln:lambaste
+altern:age
+überhöhen:to bank
+abböschen:slant
+pissen:piss
+mitschneiden:film
+feuchten:humid
+draufstellen:N/A
+ausbätzen:N/A
+menscheln:N/A
+requirieren:commandeer
+brunchen:brunch
+hungern:hunger
+lechzen:be in love with
+upgraden:upgrade
+schwören:swear
+abjudizieren:N/A
+schrotten:total
+vergehen:pass
+screenen:screen
+mediatisieren:N/A
+streuen:scatter
+bewehren:arm
+ausschenken:pour out
+aus sein:to be over
+verlautern:N/A
+wabern:billow
+nähern:approach
+schlickern:N/A
+verdauen:digest
+heraufstarren:N/A
+durchsickern:leak
+schmatzen:smack
+emporsteigen:ascend
+wittern:scent
+verewigen:immortalize
+dissentieren:dissent
+hinziehen:go
+einsalben:N/A
+zurückgeben:return
+fließen:flow
+wollen:want
+ausrechnen:calculate
+knechten:enslave
+nützen:avail
+fortgehen:go away
+kungeln:fiddle
+abfließen:exonerate
+redhibieren:N/A
+verlassen:dreary
+verduften:beat it
+muddeln:potter about
+munizipalisieren:municipalize
+embetieren:N/A
+feilen:file
+häkeln:crochet
+sprudeln:gush
+strawanzen:N/A
+reisen:travel
+akkordieren:N/A
+scheinen:seem
+xerografieren:N/A
+köpfeln:N/A
+begünstigen:favour
+verweigern:refuse
+abandonnieren:abandon
+enteisen:deice
+sicherstellen:ensure
+besichtigen:visit
+stellen:apply
+ankreiden:chalk up
+perfektionieren:perfect
+gelingen:succeed
+spähen:peer
+patentieren:patent
+einstellen:stop
+betütern:N/A
+aufmachen:open
+zutragen:befall
+stanzen:bore into
+kiten:N/A
+seigern:to liquate
+ritzen:scratch
+unieren:unify
+lästern:blaspheme
+buhlen:court
+enthäuten:disrobe
+bekämpfen:fight
+säubern:clean
+verringern:diminish
+vergären:ferment
+bevormunden:patronize
+zerstäuben:spray
+grollen:regret
+beschleichen:steal up to
+verknoten:tie
+abschauen:peek
+finassieren:machinate
+abküssen:smother with kisses
+abteufen:delve into
+beeindrucken:impress
+beschwindeln:bamboozle
+verschmutzen:soil
+blöken:bleat
+akzentuieren:accentuate
+vergewaltigen:rape
+wurmen:to rankle
+ausschreiben:write out
+kieken:to look
+zwitschern:chirp
+bewerben:apply
+kalfatern:caulk
+absaugen:exhaust
+dulden:tolerate
+abbeten:N/A
+verschalken:N/A
+podcasten:podcast
+entgleisen:derail
+kennen:know
+verderben:hurt
+bedauern:regret
+nachsetzen:trail
+einweisen:admit
+durchsetzen:enforce
+verfahren:proceed
+servieren:serve
+editieren:edit
+derivieren:be adrift
+obsignieren:obsign
+zusammenziehen:contract
+anhäufen:amass
+abbeeren:destem
+owegeh:N/A
+besorgen:get
+affigieren:affix
+liebkosen:caress
+einfädeln:thread
+reponieren:restore
+verstreben:brace
+verkündigen:annunciate
+planen:plan
+verebben:ebb away
+profanieren:profane
+glucksen:chortle
+strippen:strip
+verwenden:use
+wichtigmachen:N/A
+kuratieren:curate
+auswuchten:balance
+dominieren:dominate
+entriegeln:unlock
+freigeben:release
+abballern:blow away
+andicken:thicken
+dringen:coerce
+prozessieren:litigate
+abzeichnen:check
+anbrennen:burn
+auffallen:stir
+Wiktionary:Meinungsbild/Archiv 2012-1:N/A
+grölen:bawl
+ausschlagen:bud
+verstrahlen:N/A
+zwiebeln:anguish
+mitzählen:to be relevant
+fahen:catch
+behaften:N/A
+loslassen:release
+tschentschen:N/A
+durchficken:N/A
+golfen:golf
+deklarieren:declare
+verpfänden:pawn
+dartun:explain
+verleihen:lend
+flitzen:breeze
+einschlafen:fall asleep
+schachern:haggle
+wohnen:live
+zuhören:listen
+beweiben:N/A
+anfertigen:make
+rekuperieren:N/A
+begreifen:understand
+kucken:look
+einkasteln:N/A
+spicken:lard
+erstreben:aim at
+verblüffen:flabbergast
+digitalisieren:digitalize
+verlaufen:get lost
+fliesen:flag
+lobhudeln:lionise
+dafür sein:to be in favour of it
+vereinigen:unite
+vertüdern:N/A
+quaken:croak
+blödeln:daff
+gackern:cluck
+elektrisieren:electrify
+beigen:pile
+wechseln:change
+treideln:barge hauling
+eskimotieren:N/A
+verdoppeln:double
+erstehen:buy
 brauen:brew
 heimzahlen:pay
-einlaufen:arrive
-übernehmen:take over
-einspeisen:inject
-irrigieren:irrigate
+stapeln:pile up
 fotzen:N/A
-umrechnen:convert
-haaren:lose hair
-erblassen:turn pale
-abkarten:conspire
+eindosen:tin
+verheißen:bode
 schummeln:cheat
-bereuen:regret
-abschmirgeln:sand down
-zurückziehen:withdraw
-blamieren:make an exhibition of oneself
-anhalten:stop
-formatieren:format
+looten:loot
+fracken:frac
 erkranken:fall ill
-kirren:bait
-rumhuren:whore around
+rüberkommen:N/A
 abtreiben:abort
-jubilieren:jubilate
-entgehen:escape
-ausbilden:educate
-kommissionieren:commission
-changieren:oscillate
-wimmern:whimper
-gammeln:to bum
 abfasen:chamfer
 haken:hook
 nachgrübeln:N/A
-schellen:jingle
 echauffieren:N/A
 polemisieren:polemize
-oszillieren:oscillate
-betreuen:administer
-zweckentfremden:to misuse
-einstallen:N/A
-ansalben:N/A
-erklären:explain
-rieseln:by ones and twos
-befehlen:command
-beisteuern:contribute
 anlocken:bait
-verknappen:run short
-rechtfertigen:justify
-objektivieren:objectify
-starten:start
-osten:east
-poppen:fuck
-fremdeln:N/A
-erben:inherit
-zerreiben:pulverise
-vorschlagen:suggest
+behumsen:N/A
 ausmalen:color
 sehen:see
-abbreviieren:abbreviate
-radizieren:root extraction
-stechen:sting
-derogieren:N/A
-neigen:incline
-knetschen:N/A
-furagieren:N/A
-verknallen:N/A
-Hilfe:Eintrag
-stilisieren:stylize
-kreuzigen:crucify
-rekeln:loll
-hinterfragen:question
-zusammenkratzen:eke out
-abfackeln:flare
+ausposaunen:blazon abroad
+grünen:green
+irrlichtern:N/A
+erschreiben:N/A
+salvieren:N/A
+abwandern:be transferred
+formatieren:format
+lammen:lamb
+verdreschen:lambaste
+konferieren:confer
 tropfen:drop
-klamüsern:N/A
-zufriedenstellen:satisfy
-kranken:suffer
-zinken:tines
-vortäuschen:feign
-auseinandersetzen:deal
-ruinieren:ruin
-surfen:surf
-schmeicheln:flatter
-herunterfallen:scatter
-kramen:to rummage about
-feiern:celebrate
-säen:sow
-quengeln:whine
-aufzwirbeln:twirl up
-schwofen:shake a leg
-mogeln:cheat
+hübsch machen:N/A
+abzwitschern:to goof off
 fortpflanzen:procreate
-empfehlen:recommend
-stemmen:brace
+liebbehalten:N/A
 abschaffen:abolish
-angreifen:charge
-ausreden:discourage
-fremdschämen:N/A
+verfremden:to alienate
 ausdenken:invent
-senken:lower
-danken:thank
-hochfahren:bootstrap
-hindern:hinder
-zelten:camp
-preisen:praise
-zupfen:pluck
-beifügen:affiliate
-wirbeln:roll
-wogen:undulate
-herunterladen:download
-desachalandieren:N/A
-verschlimmern:aggravate
-auswandern:emigrate
-beklemmen:oppress
 existieren:exist
-herzukommen:arrive
-schären:N/A
 illustrieren:illustrate
-foulen:foul
-halten:last
-paraphrasieren:paraphrase
-erstaunen:astonish
+hersollen:N/A
 veralten:obsolesce
 tackern:N/A
-abpimmeln:N/A
-gegenzeichnen:countersign
-windeln:diaper
-aufpflanzen:fix
-aufessen:eat up
-heischen:demand
-streifen:brush
+missraten:gone wrong
 schwadronieren:swagger
-schmarotzen:be parasitic
-addieren:add
-durchschauen:see through
-abkratzen:scrape
-aufmandeln:act
-erlöschen:expire
-duckmäusern:N/A
-quizzen:quiz
-mitreißen:carry away
-ächzen:groan
-verlangen:demand
-horchen:eavesdrop
-flöhen:N/A
+kleinkriegen:to break down
+rudimentieren:N/A
+vaporisieren:vaporise
 tschilpen:poor
-eichen:calibrate
-schweben:float
-optimieren:optimize
-öffnen:open
-täuschen:deceive
-beschmutzen:soil
-piepsen:cheep
 weben:weave
-verteidigen:defend
-wundern:surprise
-vertilgen:exterminate
-ergötzen:regale
-quadräteln:N/A
-hätscheln:indulge
 aufbrezeln:sex up
-destruieren:destroy
-kritzeln:scrawl
-klarieren:clear
-pfeffern:pepper
-spratzeln:N/A
-inhalieren:inhale
 rappeln:batter
-konsolidieren:consolidate
-stauen:dam
-abschenken:give the game away
-überfahren:run over
-ausrichten:align
-ausschaffen:N/A
-geren:N/A
-prügeln:beat
+anschaffen:purchase
+einlassen:admit
 abbleiben:get to
 hänseln:needle
-bewerten:value
-anlächeln:smile
-programmieren:program
-verhehlen:conceal
-abstützen:shore up
+danken:thank
 vertagen:defer
-verzocken:gamble away
-beispringen:accommodate
-erkalten:cool down
+näherbringen:N/A
+Laut geben:to give tongue
 einnisten:settle down
 warnen:warn
-rennen:run
-einwenden:object
-anstellen:employ
-überdenken:rethink
+einschläfern:euthanize
+beringen:band
 kreiden:chalk
 aufbauen:build
 beilegen:approach nearby
+abschlachten:slaughter
+entschließen:decide
+bepissen:bepiss
+winken:wave
+festquatschen:N/A
+annektieren:annex
+notwassern:ditch
+verabschieden:say goodbye
+untertauchen:submerge
+essen:eat
+ausnehmen:gut
+multiplizieren:multiply
+reißen:tear
+kontaminieren:contaminate
+losprusten:N/A
+verkürzen:shorten
+bewältigen:defeat
+nachladen:download
+improvisieren:ad lib
+aufschließen:unlock
+landen:land
+verkümmern:atrophy
+abaissieren:N/A
+quantifizieren:quantify
+enttäuschen:disappoint
+heraufstufen:N/A
+revieren:N/A
+wegschmeißen:throw away
+verbuchen:book
+abhäuten:skin
+heischen:demand
+erwähnen:mention
+kiffen:have a joint
+anzeigen:indicate
+ereilen:to overtake
+logarithmieren:logarithmize
+zurückgreifen:resort
+flüchten:flee
+auswerten:analyze
+entbinden:absolve
+nachkarten:N/A
+gefährden:endanger
+büffeln:swot
+flashen:N/A
+kauen:chew
+verpflichten:oblige
+überraschen:surprise
+überziehen:plate
+pracken:N/A
+belügen:lie to
+trischakeln:N/A
+verschriften:graphise
+wegnehmen:take away
+motivieren:motivate
+offerieren:offer
+abpflücken:pluck off
+verkommen:reprobate
+beackern:cultivate
+stranden:beach
+enthüllen:reveal
+standhalten:hold out
+guillotinieren:guillotine
+defilieren:defile
+auf sein:to be open
+verstauben:get dusty
+knattern:chatter
+erwecken:awake
+stibitzen:swipe
+befeuchten:moisten
+randalieren:rampage
+Vorlage:Formatvorlage (Verb vereinfacht):N/A
+bodigen:beat
+zerficken:crumble
+kumme:N/A
+wehtun:hurt
+kombinieren:combine
+zeigen:show
+kläffen:yap
+abgräbeln:N/A
+stimmen:tune
+fixen:fix
+zurückmelden:report back
+wärmen:warm
+bedachen:roof
+krankschreiben:N/A
+schweben:float
+gefallen:please
+bessern:ameliorate
+schwitzen:sweat
+verhohnepipeln:to send up
+notschlachten:destroy
+klönen:chat
+bepreisen:N/A
+zernagen:eat into
+forkeln:N/A
+entmilitarisieren:demilitarize
+verpflegen:feed
+anwärmen:heat
+buffieren:buff
+betuppen:cheat
+umbringen:kill
+diskriminieren:differentiate
+importieren:import
+beerdigen:bury
+strömen:stream
+überlegen:consider
+zumuten:ask
+pulverisieren:pulverize
+vollstrecken:carry out
+stehenbleiben:rest
+abhären:N/A
+dezimieren:decimate
+bewilligen:grant
+einfrieren:freeze
+dengeln:applaud
+festen:N/A
+widersetzen:defy
+entweichen:evade
+mausen:mouse
+scherzen:joke
+pludern:bag
+nachahmen:imitate
+stopfen:darn
+gieren:yaw
+rüsten:arm
+durchwachsen:fair to middling
+trassieren:trace out
+verkopfen:N/A
+jodeln:yodel
+zunähen:suture
+zwirnen:now
+outen:come out of the closet
+finishen:finish
+schielen:squint
+gniedeln:N/A
+deglacieren:deglaze
+verbessern:improve
+wegbegeben:N/A
+erschüttern:shake
+debattieren:debate
+abwerfen:throw off
+übertreiben:exaggerate
+Rad schlagen:do a cartwheel
+beraten:advise
+ändern:change
+helpen:N/A
+verhohnepiepeln:N/A
+kränken:offend
+belauschen:eavesdrop
+pönalisieren:penalize
+rülpsen:burp
+anblinzeln:blink at
+demokratisieren:democratize
+kleben:glue
+retten:save
+beherzigen:audit
+bahnen:clear
+verkorksen:botch
+bebauen:cultivate
+ertrügen:N/A
+vermehren:augment
+avisieren:announce
+abrasieren:shave off
+einfüllen:pour in
+abäsen:N/A
+internieren:intern
+klonen:clone
+referenzieren:reference
+löhnen:shell out
+orientieren:orient
+schuppen:scale
+resetten:N/A
+gegenzeichnen:countersign
+knacken:crack
+hintanstellen:disregard
+taxieren:appraise
+axiomatisieren:N/A
+frickeln:quickly put together an improvised solution
+unterbrechen:interrupt
+übersetzen:translate
+auskommentieren:comment out
+einbrocken:N/A
+beschließen:decide
+jäten:weed
+lorgnettieren:scrutinize
+verfechten:advocate
+panzern:armour
+bebildern:illustrate
+töpfern:do pottery
+nachgeben:give up
+residieren:reside
+kühlen:refrigerate
+knurren:growl
+beanspruchen:claim
+kontrahieren:contract
+trimmen:to trim
+abwiegeln:appease
+beziffern:amount
+fixieren:fix
+socken:N/A
+ausflippen:flip
+emanzipieren:emancipate
+verstreichen:elapse
+glimmen:smolder
+ablaufen:expire
+säugen:suckle
+klingeln:ring
+plempern:N/A
+insinuieren:insinuate
+verrechnen:clear
+raunen:whisper
+weiterverleihen:N/A
+ausarten:degenerate
+verschwistern:N/A
+anprangern:denounce
+fortlegen:N/A
+deponieren:deposit
+verschnaufen:N/A
+hinhalten:hold out
+pferchen:N/A
+benehmen:behave
+zweifeln:doubt
+missionieren:proselytize
+reinziehen:check out
+zudrängen:N/A
+sortieren:sort
+vergilben:turn yellow
+entpacken:unpack
+versteinern:petrify
+ertrinken:drown
+mähen:mow
+dressen:dress
+abperlen:to drip off
+ducken:duck
+verirren:get lost
+berlinern:N/A
+spondieren:N/A
+klettern:climb
+vereisen:ice over
+wiedererlangen:regain
+weilen:abide
+verhungern:starve
+tiefkühlen:N/A
+steigen:climb
+parlieren:converse
+brandschatzen:to pillage and threaten to burn
+schleusen:channel
+windsichten:N/A
+trollen:troll
+patchen:patch
+schnorren:scrounge
+anfallen:accrue
+knietschen:N/A
+vergessen:forget
+terminieren:time
+krachen:crack
+sieden:boil
+böllern:fire
+pflegen:nurse
+abnicken:N/A
+durchheizen:N/A
+zufallen:close
+abschmieren:grease
+donnern:thunder
+dehydratisieren:dehydrate
+aufliefern:N/A
+etablieren:establish
+gucken:look
+nutrieren:N/A
+frosten:N/A
+emaillieren:enamel
+abhorrieren:N/A
+verlinken:link
+delirieren:rave
+haselieren:N/A
+entwaffnen:disarm
+wegzappen:N/A
+beaten:beat
+abwerten:devalue
+feuerbestatten:N/A
+zischen:hiss
+filibustern:filibuster
+abhersagen:N/A
+kicken:kick
+überzeugen:convince
+güllen:N/A
+aufschütten:heap up
+abbrühen:scald
+einweihen:baptize
+wachrütteln:jolt
+sächseln:to speak in Saxon dialect
+aufmischen:rock
+putzen:clean
+abstrafen:punish
+funzeln:N/A
+konfligieren:conflict
+vergleichen:compare
+einkästen:N/A
+mäandern:meander
+räkeln:loll
+ausatmen:expire
+umeinanderstehen:N/A
+pulen:pod
+schnappen:nab
+überstrapazieren:to overwork
+annullieren:annul
+remisieren:draw
+atomisieren:atomize
+submittieren:N/A
+aufblitzen:flash
+festfahren:compact
+atzen:feed
+kommunizieren:communicate
+erbieten:bid
+reformieren:reform
+abstecken:stake out
+bemüßigen:N/A
+erschlagen:slay
+abändern:change
+hochkrempeln:roll up
+mitgehen:accompany
+kopulieren:copulate
+umziehen:move
+durchbrechen:break through
+unterhalten:entertain
+anstreben:aim
+normieren:norm
+rodeln:luge
+positionieren:position
+bohren:drill
+aufmerken:attend
+anfixen:N/A
+rekrutieren:recruit
+pudern:dust
+totschweigen:hush up
+schwäbeln:N/A
+vorbehalten:reserve
+anklagen:accuse
+entsaften:juice
+benedeien:bless
+meutern:mutiny
+raspeln:rasp
+plantschen:to dabble
+eindeutschen:Germanize
+ausrüsten:equip
+ausarbeiten:work out
+scharrieren:N/A
+casten:cast
+aufsitzen:straddle
+überarbeiten:overwork
+anlachen:N/A
+zuknöpfen:button up
+mitreißen:carry away
+renommieren:boast
+korrumpieren:corrupt
+inspizieren:inspect
+beklagen:bewail
+kickboxen:N/A
+gustieren:appreciate
+teilen:divide
+nachhelfen:N/A
+jähren:N/A
+braten:fry
+berühren:touch
+abreagieren:abreact
+laichen:spawn
+erzeugen:produce
+kalauern:N/A
+bescheinen:illuminate
+abnippeln:die
+ankern:anchor
+umwerfen:upset
+baumeln:dangle
+voraussetzen:presuppose
+einseifen:soap
+derfangen:N/A
+hospitieren:sit in on classes
+zugrunde legen:to take as a basis
+lupfen:lift
+auswürgen:N/A
+anlügen:lie to
+überladen:overload
+verreißen:pull to pieces
+schraffieren:hatch
+unterscheiden:distinguish
+nebeln:N/A
+vorbeifahren:pass
+anrichten:arrange
+erwahren:N/A
+abspecken:slim
+lullen:lull
+aufwickeln:wind
+spazieren:stroll
+herbsteln:to become autumnal
+traktieren:address
+kipplüften:N/A
+verkorken:N/A
+erreichen:accomplish
+säcken:N/A
+krauchen:N/A
+obsiegen:win
+befüllen:fill
+anstreichen:null
+gendern:N/A
+vereinbaren:agree
+ankreuzen:cross
+bosseln:emboss
+klicken:click
+ehren:honour
+satthaben:N/A
+einscheißen:N/A
+umgehen:avoid
+anfühlen:feel
+minimieren:minimize
+besuchen:visit
+schwelen:smolder
+läppen:lap
+verputzen:parget
+vorsehen:designate
+barabern:N/A
+einladen:invite
+pfeifen:whistle
+ausweichen:dodge
+indizieren:index
+bevorzugen:prefer
+speisen:eat
+beduften:N/A
+krächzen:caw
+subsumieren:subsume
+verhökern:sell off
+suggeln:N/A
+herausarbeiten:bring out
+reservieren:reserve
+schlichten:mediate
+elidieren:elide
+schwellen:swell
+adsorbieren:adsorb
+widmen:dedicate
+aushebeln:lever
+unterschätzen:underestimate
+verdünnen:dilute
+verteidigen:defend
+parieren:parry
+anhimmeln:fall in love with
+abgewöhnen:give up
+schämen:shame
+abkapiteln:N/A
+wachsen:grow
+kochen:cook
+erfinden:invent
+blicken:look
+relegieren:expel
+fortscheren:N/A
+ballern:bang
+aufkleben:affix
+trüffeln:N/A
+abspritzen:cum
+garteln:N/A
+reimen:rhyme
+überdauern:survive
+umlaufen:circulate
+wuppen:N/A
+türmen:skedaddle
+abqualifizieren:N/A
+zerfallen:decompose
+pfählen:impale
+verbürgen:vouch
+lädieren:damage
+fehlinterpretieren:misinterpret
+massolieren:club
+petzen:snitch
+überwachen:monitor
+unterteilen:classify
+aufwarten:serve
+gamen:N/A
+degoutieren:nauseate
+festnehmen:arrest
+teeren:tar
+einfetten:grease
+hochkommen:rise to the surface
+imaginieren:N/A
+kennen lernen:get to know
+verzweifeln:despair
+implementieren:implement
+grimassieren:grimace
+befragen:question
+abmagern:lose weight
+erleben:experience
+kartieren:chart
+abknutschen:N/A
+effektuieren:accomplish
+absetzen:dethrone
+restaurieren:renovate
+verwachsen:aggregated
+gräzisieren:N/A
+abgenicken:N/A
+anknüpfen:begin
+abkühlen:cool
+anfahren:pull away
+köpfen:behead
+erfoltern:N/A
+abbuchen:debit
+hämmern:hammer
+wissen:know
+lärmen:brawl
+koalisieren:N/A
+pokern:play poker
+gewöhnen:accustom
+verunsichern:make insecure
+luschern:N/A
+beuteln:N/A
+diversifizieren:diversify
+siezen:N/A
+prusten:snort
+verdunsten:evaporate
+dampfen:fume
+legen:put
+boxen:box
+mikroskopieren:N/A
+überbacken:scalloped
+deckeln:cap
+verbläuen:bash
+einzäunen:fence
+garantieren:guarantee
+brennen:burn
+verschießen:fade
+reinpfeifen:N/A
+verladen:load
+sollizitieren:solicit
+abhorreszieren:N/A
+korrelieren:correlate
+vornehmen:accomplish
+segregieren:segregate
+abchangieren:N/A
+falsifizieren:falsify
+spannen:stretch
+schalten:switch
+beäugen:eye
+pispern:N/A
+stoßen:knock
+schwanen:dread
+giften:rile
+verunzieren:disfigure
+andrehen:switch on
+bemitleiden:pity
+begehren:desire
+veräppeln:kid
+abisolieren:skin
+perennieren:N/A
+feien:immunize
+zupassekommen:N/A
+ellbögeln:elbow
+kodieren:code
+durchsuchen:search
+dehnen:stretch
+hebeln:lever
+steigern:increase
+reffen:reef
+entrahmen:to skim
+stiften:donate
+aufbäumen:rebel
+wallfahren:go on a pilgrimage
+stochen:stoke
+absondern:isolate
+legitimieren:legitimize
+koordinieren:coordinate
+gelüsten:covet
+auslöffeln:spoon up
+frommen:N/A
+stecken:stick
+herbringen:bring
+nachschlagen:look up
+verzieren:adorn
+abwürgen:stall
+vermengen:mix
+aalen:stretch out
+suspendieren:suspend
+überwinden:overcome
+entpuppen:eclose
+schauen:look
+speiben:vomit
+spengeln:N/A
+inventieren:invent
+verzinken:galvanize
+komplizieren:complicate
+filzen:felt
+knuddeln:cuddle
+lösen:solve
+ertüchtigen:N/A
+prüfen:examine
+erscheinen:appear
+entfallen:allot
+abbalgen:flay
+inserieren:advertise
+gegenüberstehen:be opposite
+aussagen:bear
+verstehen:see
+fehlen:lack
+bedonnern:N/A
+lagern:store
+reklamieren:complain
+fasten:fast
+stählen:steel
+einsetzen:appoint
+animieren:animate
+shukan:N/A
+vollstopfen:cram
+begeistern:enthuse
+rehabilitieren:rehabilitate
+anellieren:anellate
+benachrichtigen:notify
+anklopfen:call waiting
+zurren:lash
+einblasen:blow in
+schludern:skimp
+vergammeln:decay
+verarmen:impoverish
+mosern:to find fault
+fenzen:fence
+hinterfragen:question
+übergeben:hand over
+konjugieren:conjugate
+exemplifizieren:N/A
+hinlegen:lie down
+verschmähen:disdain
+lobpreisen:compliment
+bekochen:cook for
+benennen:name
+einführen:introduce
+generieren:generate
+abhintun:N/A
+vermöbeln:batter
+zeitigen:bring about
+abduzieren:abduce
+überwallen:N/A
+versuchen:try
+gleichtun:N/A
+pupen:fart
+französieren:N/A
+schlüpfen:hatch
+waten:wade
+abbrauchen:N/A
+besingen:express
+abfragen:query
+entwanzen:debug
+regnen:rain
+toupieren:tease
+päppeln:N/A
+demontieren:dismantle
+wegdrücken:N/A
+tradieren:hand down
+weigern:refuse
+optieren:opt
+wichsen:jerk off
+dazuschauen:N/A
+kauern:cower
+schaden:harm
+scheuchen:shoo
+verklappen:dump at sea
+bauchpinseln:feel flattered
+kontern:counter
+aufoktroyieren:N/A
+nachäffen:ape
+propagieren:propagandize
+verzollen:declare
+e-mailen:N/A
+großziehen:rear
+quietschen:squeak
+frotzeln:tease
+degorgieren:N/A
+titeln:N/A
+aushandeln:negotiate
+einkästeln:N/A
+lähmen:paralyze
+waleien:N/A
+tummeln:hurry
+schieben:push
+paktieren:N/A
+einzahlen:deposit
+zwangsbeglücken:N/A
+abtragen:wear out
+hoffen:hope
+beruhen:factual
+regeln:regulate
+atmen:breathe
+mitbringen:take
+durchackern:plough through
+abhinrutschen:N/A
+töten:kill
+crashen:N/A
+tippen:type
+ausrutschen:slip
+ärgern:annoy
+versteigern:auction
+knüpfen:tie
+süßen:sweeten
+fortloben:kick upstairs
+denken:think
+negoziieren:negotiate
+gneißen:N/A
+anstimmen:chant
+interpunktieren:punctuate
+beibringen:teach
+orten:locate
+blessieren:wound
+perforieren:perforate
+sonnen:sunbathe
+fasen:N/A
+schnökern:browse
+verordnen:prescribe
+unterminieren:undermine
+cutten:cut
+inkommodieren:bother
+beenden:finish
+beschaffen:procure
+unterrichten:teach
+verdrängen:oust
+grämen:afflict
+zusammenarbeiten:collaborate
+hochkriegen:N/A
+erodieren:erode
+einstimmen:tally
+appellieren:appeal
+erweisen:prove
+antreiben:drive
+drücken:press
+lauern:lurk
+belagern:besiege
+hlupan:N/A
+verwanzen:bug
+abschlagen:refuse
+rechtschreiben:N/A
+sich krümmen wie ein Aal:N/A
+auftakeln:rig
+zuschreiben:ascribe
+erdrosseln:choke
+klaffen:gape
+gaukeln:flit
+canceln:cancel
+hacken:chop
+tadeln:blame
+blasen:blow
+gurken:N/A
+anberaumen:appoint
+faszinieren:fascinate
+exportieren:export
+überhandnehmen:to get out of hand
+entgegenkommen:subtend
+verquirlen:to scramble
+umsehen:browse
+rasten:rest
+menstruieren:menstruate
+aufweisen:feature
+disziplinieren:discipline
+schauspielern:act
+vulkanisieren:vulcanize
+sündigen:sin
+unternehmen:undertake
+gratulieren:congratulate
+derblecken:N/A
+abbauen:mine
+meditieren:meditate
+bereedern:N/A
+trecken:to trek
+beiseitelassen:to set aside
+wispern:whisper
+unterschreiten:fall short of
+aufzwingen:bludgeon
+obduzieren:autopsy
+fordern:demand
+farcieren:fill
+pronieren:N/A
+tempern:discipline
+anvertrauen:entrust
+beschämen:abash
+initialisieren:initialize
+abbrennen:burn down
+vermelden:announce
+bestehen:consist
+entheben:clear
+entmachten:disperse
+verbraten:blow
+extemporieren:extemporize
+schrumpfen:shrink
+drahten:N/A
+proben:rehearse
+verfressen:gluttonous
+patrouillieren:patrol
+rotzen:N/A
+zubereiten:prepare
+demonstrieren:demonstrate
+verdienen:earn
+auftanken:gas
+posieren:pose
+delegieren:delegate
+fleddern:rob
+einsehen:have a look at
+inkrementieren:increment
+ansehen:watch
+abbummeln:N/A
+veröffentlichen:publish
+ausüben:exert
+versprengen:to disperse
+beabsichtigen:intend
+vollkotzen:N/A
+reversieren:to back
+beurteilen:judge
+verschlampen:get lost
+beheben:cash
+anflanschen:N/A
+kosen:caress
+grabschen:grab
+verachten:despise
+untermauern:underpin
+schlieren:streak
+ausstrahlen:emanate
+mindern:abate
+nölen:be slow
+pfupfern:N/A
+verschlechtern:worsen
+nominieren:nominate
+indulgieren:N/A
+mappen:map
+löcken:N/A
+beeilen:hurry
+nachstellen:keep watch on
+strapazieren:strain
+übergießen:douse
+exponieren:expose
+zügeln:moderate
+einschüchtern:intimidate
+erschießen:shoot
+chartern:affreight
+signalisieren:signal
+vorgeben:pretend
+stottern:stutter
+attentieren:N/A
+beichten:confess
+erwischen:catch
+sühnen:atone for
+verzeihen:pardon
+eröffnen:establish
+umwittern:N/A
+trampeln:trample
+wandern:walk
+supponieren:suppose
+zusammenstoßen:collide
+runden:round
+schmieren:lubricate
+verschneiden:neuter
+turteln:bill and coo
+abälardisieren:N/A
+schlackern:be baggy
+befriedigen:satisfy
+erlösen:deliver
+Rad fahren:cycle
+robben:crawl
+rempeln:push
+verloben:betroth
+flöckeln:N/A
+anschrauben:screw on
+ausmieten:N/A
+infundieren:infuse
+einschleppen:to introduce
+einpoldern:N/A
+zurückschicken:send back
+antreten:take on
+herausschneiden:resect
+tätowieren:tattoo
+zweckentfremden:to misuse
+umschließen:enclose
+abbalzen:N/A
+stornieren:cancel
+ergattern:get hold of
+betonen:stress
+auffrieren:N/A
+sautieren:N/A
+infiltrieren:infiltrate
+budgetieren:budget
+pantschen:N/A
+extubieren:extubate
+aufkreuzen:pop up
+verdeutschen:to translate into German
+keuchen:gasp
+lavieren:tack
+posaunen:blow
+einschleusen:send in
+sinnen:reflect
+weitergeben:impart
+flachsen:joke
+divergieren:diverge
+vergeigen:N/A
+zerstieben:disperse
+changieren:oscillate
+besteigen:mount
+entstehen:arise
+betreiben:carry on
+abreiben:rub
+jaulen:howl
+hecken:hatch
+balgen:scuffle
+schnüren:lace
+schnabulieren:N/A
+aufhinpicken:N/A
+verrosten:rust
+bekreuzigen:cross
+strotzen:cause to swell
+fungieren:function
+stylen:design
+trauern:mourn
+bekanntwerden:N/A
+abhaken:tick
+ausloben:offer a prize
+wurachen:N/A
+karikieren:caricature
+einteilen:divide
+einschließen:lock up
+garen:cook
+zerbeulen:N/A
+marschieren:march
+derwischen:N/A
+sollen:should
+umsetzen:implement
+auslegen:interpret
+durchfahren:break through
+versehren:hurt
+kommandieren:command
+gängeln:N/A
+archivieren:archive
+umhinspringen:N/A
+einkaufen:shop
+delogarithmieren:N/A
+scheppen:N/A
+gegeneinander ausspielen:pit someone against someone
+besänftigen:soothe
+anbiedern:flatter
+fechten:fight
+mehlieren:flour
+switchen:N/A
+heimleuchten:send away
+kuschen:knuckle under
+zitieren:quote
+zücken:breed
+vorknöpfen:take someone to task
+engagieren:engage
+ablöschen:blot
+schliefen:burrow
+ertränken:drown
+tottrampeln:N/A
+ausherbätzen:N/A
+destruieren:destroy
+vertäuen:moor
+promovieren:promote
+aufholen:catch up
+polarisieren:polarize
+regredieren:N/A
+anpingen:ping
+antichambrieren:N/A
+dirimieren:N/A
+versterben:die
+widerstehen:resist
+bestecken:N/A
+mahnen:urge
+verheimlichen:conceal
+kupieren:dock
+verdünnisieren:make oneself scarce
+abgeraten:discouraged
+befähigen:enable
+anstarren:stare
+einloggen:log in
+nachrechnen:recalculate
+entwickeln:develop
+umherspringen:cavort
+anastomosieren:anastomose
+beugen:bend
+blaumachen:play hooky
+alterieren:N/A
+kämmen:comb
+radikalisieren:radicalize
+exkulpieren:exculpate
+verfliegen:hit too much
+hineingehen:enter
+orgeln:to howl
+pesen:pace
+dienen:serve
+pharyngalisieren:pharyngealize
+abnudeln:N/A
+mampfen:munch
+anzünden:light
+zurückbekommen:get back
+geziemen:befit
+verflüchtigen:to volatilise
+affizieren:affect
+extrahieren:extract
+frittieren:N/A
+dolmetschen:interpret
+runterholen:jerk off
+weiterdenken:N/A
+beauftragen:commission
+zurechtkommen:cope
+oktavieren:N/A
+ventilieren:ventilate
+abbeereln:N/A
+glossieren:gloss
+feixen:smirk
+erfolgen:happen
+vortragen:recite
+verkehren:associate
+vermasseln:fuck up
+petrifizieren:petrify
+hauen:beat
+käsen:curdle
+titrieren:titrate
+registrieren:register
+präparieren:groom
+konsekrieren:consecrate
+generalüberholen:N/A
+unterpunkten:N/A
+verunfallen:accident
+entehren:dishonour
+rubrizieren:to categorise
+verschrotten:scrap
+ahnden:avenge
+missachten:disregard
+fluktuieren:fluctuate
+anvisieren:aim at
+stipulieren:stipulate
+gurgeln:gargle
+abhinschweiben:N/A
+kundtun:announce
+kaputtmachen:break
+dersaufen:N/A
+zurückhalten:withhold
+zedieren:cede
+pfuzgen:N/A
+strampeln:struggle
+branden:burn
+erheben:raise
+mitfühlen:empathize
+tarnen:camouflage
+einwechseln:exchange
+replizieren:replicate
+dilettieren:N/A
+nachforschen:investigate
+räuchern:smoke
+erhausen:N/A
+habitualisieren:N/A
+hissen:hoist
+strecken:stretch
+kümmern:care
+lohen:blaze
+kulminieren:culminate
+eincremen:to cream
+entschlüsseln:decipher
+demineralisieren:demineralise
+tröten:to hoot
+pinkeln:pee
+aquarellieren:watercolour
+sichten:sight
+anbringen:mount
+rigolen:N/A
+schanghaien:shanghai
+fabulieren:fable
+lizenzieren:license
+expedieren:send off
+tagen:meet
+spitzen:nib
+feilbieten:become popular
+urinieren:urinate
+ketteln:N/A
+bestimmen:determine
+fertigen:fashion
+vomieren:vomit
+kolorieren:colorize
+torpedieren:torpedo
+isolieren:isolate
+heiraten:marry
+separieren:separate
+schmirgeln:sand
+erfrechen:N/A
+abgewinnen:take pleasure in
+unterteufen:N/A
+schmalten:N/A
+ülmen:N/A
+profilieren:distinguish
+faulen:putrefy
+substantivieren:substantivise
+belassen:leave
+verbuddeln:N/A
+schwojen:N/A
+tachinieren:N/A
+ausstrecken:crane
+aufrichten:rear
+anpassen:adapt
+umhinschauen:N/A
+rudern:row
+nötigen:compel
+erlauben:allow
+konkurrieren:compete
+stattfinden:happen
+airbrushen:airbrush
+fadisieren:N/A
+mitessen:to partake
+herumballern:N/A
+anlieben:N/A
+stillen:nurse
+abheben:withdraw
+pressieren:accelerate
+raufen:romp
+negieren:negate
+bedeuten:mean
+vormachen:feign
+abnehmen:take away
+vernachlässigen:neglect
+lugen:peek
+hinabblicken:N/A
+glattstellen:N/A
+platzieren:place
+rollerbladen:rollerblade
+fallen:collapse
+aufgehen:rise
+bekommen:obtain
+abdrücken:clench
+anwenden:apply
+abprotzen:unlimber
+auswringen:wring
+vollscheißen:N/A
+beckmessern:N/A
+guffeln:N/A
+ausgehen:to go out
+funzen:function
+vorbeischauen:stop by
+herumwuseln:N/A
+nennen:name
+passen:fit
+bestellen:request
+poussieren:flirt
+sehnen:long
+telefonieren:telephone
+küren:choose
+werten:consider
+benützen:use
+eislaufen:N/A
+aufschneiden:cut
+sabbeln:dote
+implantieren:implant
+christianisieren:Christianize
+firmieren:to operate under a certain name
+überantworten:accord
+vertun:spurn
+austauschen:exchange
+deportieren:deport
+schweifen:rove
+schlafen:sleep
+schwächeln:weaken slightly
+durchleiden:N/A
+zerpflücken:pick to pieces
+verenden:perish
+bedrohen:threaten
+adden:add
+schulden:owe
+krallen:claw
+ausschlachten:cannibalize
+abtreten:cede
+zerreißen:tear
+druseln:N/A
+approbieren:approve
+wetteifern:emulate
+erbosen:exasperate
+aufklären:enlighten
+mimen:to act
+küssen:kiss
+glühen:glow
+ballestern:N/A
+recherchieren:research
+triagieren:triage
+transkribieren:transcribe
+hätscheln:indulge
+schmälern:belittle
+deinstallieren:deinstall
+durchschauen:see through
+plötern:N/A
+sensibilisieren:sensitize
+bandagieren:bandage
+drechseln:turn
+abdichten:calk
+necken:banter
+erkaufen:buy
+treiben:propel
+eignen:to appertain
+ausrasten:go postal
+verhängen:inflict
+ausklammern:factor out
+betonieren:concrete
+aufschlagen:pitch
+verpetzen:snitch
+pampern:pamper
+dedizieren:consecrate
+verfassen:write
+ausbügeln:iron out
+deformieren:contort
+imitieren:imitate
+induzieren:induce
+usurpieren:usurp
+auspowern:N/A
+schlagzeilen:N/A
+herausstellen:feature
+abschreiben:write down
+wuchern:mushroom
+durchseihen:filter
+beweinen:mourn
+peinigen:torment
+anhaben:wear
+majorisieren:N/A
+stoßlüften:N/A
+despektieren:N/A
+einkriegen:N/A
+zerbätzen:N/A
+tünchen:null
+zwingen:compel
+teilnehmen:participate
+versiegeln:seal
+rußen:smoke
+bestärken:strengthen
+ohrfeigen:slap
+injizieren:inject
+wulacken:N/A
+intendieren:intend
+dübeln:dowel
+schwinden:dwindle
+weihnachten:christmas
+aufarbeiten:collate
+schuften:toil
+abfertigen:dispatch
+abern:N/A
+teleportieren:teleport
+werben:advertise
+säumen:hem
+arrangieren:arrange
+abdienen:serve out
+beweisen:prove
+verschrecken:N/A
+dekompilieren:decompile
+argumentieren:argue
+einlegen:pickle
+neutralisieren:neutralise
+opfern:sacrifice
+vorherrschen:prevail
+anschauen:view
+abbekommen:get
+bändigen:curb
+auszahlen:pay
+schnuppern:sniff
+verklagen:sue
+schunkeln:swing
+abschärfen:N/A
+beteuern:assert
+gehren:miter
+hinnehmen:accept
+mäßigen:moderate
+mählen:N/A
+übervorteilen:cheat
+brechen:break
+verfrühen:to accelerate
+finden:find
+beiseiteschieben:N/A
+anschneien:N/A
+abblocken:block
+frischen:decarbonise
+kleinschreiben:begin a word without a capital letter
+abtelefonieren:N/A
+probieren:try
+einigeln:N/A
+absteigen:descend
+erwarten:expect
+aufrechterhalten:buoy up
+vorsorgen:be armed with
+richtigliegen:N/A
+ziemen:beseem
+regulieren:govern
+wegtolerieren:N/A
+hausieren:hawk
+navigieren:navigate
+schmachten:languish
+hehlen:bury
+verziehen:twist
+abreisen:depart
+abwechseln:alternate
+raiden:raid
+vermitteln:mediate
+exerzieren:exercise
+gegenlesen:N/A
+wegtreten:to dismiss
+herunternehmen:lower
+auflehnen:rebel
+einleuchten:appear
+schwatzen:chat
+fügen:submit
+respektieren:respect
+urlauben:N/A
+stricken:knit
+rangeln:wrangle
+schaffen:create
+deprimieren:depress
+anleuchten:N/A
+verdrücken:beat it
+misstrauen:suspect
+erdreisten:N/A
+möblieren:furnish
+stagnieren:stagnate
+driften:drift
+instrumentalisieren:exploit
+spaßen:joke
+inventarisieren:inventory
+quatschen:piffle
+münden:disembogue
+helfen:help
+herleiten:deduce
+bewirken:cause
+verbeamten:give the status of civil servant
+überfliegen:skim
+föhnen:N/A
+kürzen:abbreviate
+zerschlagen:defeat
+hofmeistern:N/A
+reglementieren:regulate
+saldieren:balance
+einspringen:enter into
+rekeln:loll
+degraissieren:N/A
+vermissen:miss
+versemmeln:N/A
+gernhaben:be fond of
+verwerfen:reject
+gehen:go
+müffeln:stink
+taugen:be good for
+miterleben:attend
+verwirren:confuse
+hinreichen:suffice
+härten:harden
+belohnen:reward
+durchzählen:enumerate
+durchstarten:to overshoot
+initiieren:initiate
+obedieren:obey
+lenken:channel
+hasardieren:N/A
+erforschen:explore
+zerschmettern:smash
+entfahren:N/A
+verproviantieren:provision
+grübeln:ponder
+massieren:massage
+verscheißen:N/A
+nässen:wet
+bleiben:stay
+verdanken:owe
+einziehen:collect
+begnügen:make do
+eintüten:wrap up
+zerlassen:dissolved
+wanken:falter
+quantisieren:quantize
+striezen:harass
+auffassen:apprehend
+transponieren:transpose
+entspannen:relax
+erstellen:create
+krepieren:croak
+konstituieren:constitute
+depeschieren:N/A
+wiederherstellen:restore
+anbeten:adore
+ergeben:loyal
+anbauen:cultivate
+einlaufen:arrive
+umrechnen:convert
+beknabbern:N/A
+erblassen:turn pale
+niedertreten:bilk
+zurückziehen:withdraw
+anhalten:stop
+kirren:bait
+schweinigeln:have a foul mouth
+derdürren:N/A
+oszillieren:oscillate
+betreuen:administer
+wässern:water
+metzgen:N/A
+frottieren:rub
+beisteuern:contribute
+osten:east
+anfinden:N/A
+Hilfe:Eintrag
+kreuzigen:crucify
+entlogarithmieren:N/A
+vergraben:bury
+wümmen:N/A
+abquatschen:N/A
+schnellen:dart
+vortäuschen:feign
+schmeicheln:flatter
+herunterfallen:scatter
+quengeln:whine
+mogeln:cheat
+asphaltieren:asphalt
+zusammenstellen:compose
+aufsagen:declaim
+mauscheln:Yiddish
+hochfahren:bootstrap
+revolvieren:N/A
+hindern:hinder
+zelten:camp
+preisen:praise
+sanktionieren:sanction
+umwandeln:convert
+desachalandieren:N/A
+ausdrücken:express
+veranschaulichen:illustrate
+vernarben:scar over
+lackieren:lacquer
+grausen:to shudder
+schmarotzen:be parasitic
+abkratzen:scrape
+herausschmuggeln:N/A
+ächzen:groan
+verlangen:demand
+horchen:eavesdrop
+motzen:grouch
+piepsen:cheep
+totprügeln:N/A
+inhalieren:inhale
+abschenken:give the game away
+verleisern:N/A
+ausrichten:align
+supplizieren:N/A
+triezen:pester
+verschachteln:interlace
+verzocken:gamble away
+beispringen:accommodate
+erkalten:cool down
+umzäunen:fence
+einwenden:object
+kriminalisieren:criminalize
 furzen:fart
-unterfertigen:to sign
-zulassen:allow
-interessieren:interest
+fundieren:erect
+abfallen:fall off
 aufkommen:arise
 erneuen:N/A
-sensibilisieren:sensitize
-warten:wait
-winken:wave
-sanktionieren:sanction
+lachen:laugh
 ergießen:gush
 abbasten:N/A
 geigen:fiddle
 erläutern:explain
-verkippen:tilt
-annektieren:annex
-liegen:lie
-kleckern:blot
-verabschieden:say goodbye
+abortieren:abort
 balkanisieren:Balkanize
-fluchen:curse
 masturbieren:masturbate
-auflassen:leave open
-wandeln:change
-ausnehmen:gut
-multiplizieren:multiply
-ackern:plod
-kopieren:copy
-reißen:tear
-werden:become
-ermitteln:detect
-grüßen:greet
-prononcieren:emphasize
-kontaminieren:contaminate
-regulieren:govern
+losschlagen:dispose of
+wassern:land on water
 feilhalten:hawk
-ernten:harvest
+krähen:crow
 kapieren:get
 verstoffwechseln:N/A
-verkürzen:shorten
-beschicken:load
+jüdeln:N/A
 untertreiben:understate
 geizen:stint
-aufbauschen:exaggerate
 ondulieren:crimp
-kolportieren:hawk
-vorlegen:exhibit
-raunen:whisper
-erfreuen:delight
-gerieren:N/A
-bilden:form
-improvisieren:ad lib
+nacktbaden:N/A
+besabbern:N/A
 geraten:panic
-schwindeln:swindle
-zugehen:aim at
-ausdrücken:express
-verkümmern:atrophy
-ziepen:to tweak
-zurückbekommen:get back
-überfallen:invade
-abästen:lop off a tree
-rapportieren:give an account
-enttäuschen:disappoint
-dämmen:dam
-timen:time
-klammern:claw
-verschaffen:procure
+düngen:fertilize
+liieren:hook up
+abtupfen:dab
+erwürgen:strangle
+koalieren:form a coalition
 beeinträchtigen:impair
 panschen:adulterate
 indossieren:endorse
-musizieren:make music
-glimmen:smolder
 lenzen:pump
 kippen:cant
 brüten:brood
-ownen:own
-peilen:fathom
-zunähen:suture
-niffeln:N/A
-wedeln:wag
-erwähnen:mention
+ermutigen:encourage
 einnehmen:take
-erdolchen:poniard
-abnippeln:die
-spüren:feel
-ausmustern:sift out
-kiffen:have a joint
+aufschieben:postpone
+maischen:mashing
+aufbetten:N/A
 gedenken:commemorate
 forschen:research
-kapitalisieren:capitalize
-interpretieren:interpret
-hersollen:N/A
-anzeigen:indicate
 blankziehen:draw
-vernarben:scar over
-wildern:poach
-aufgeben:forsake
-logarithmieren:logarithmize
 glauben:believe
-plissieren:pleat
-lackieren:lacquer
 dünsten:steam
-schnitzen:carve
-klopfen:knock
-tippen:type
-abfotografieren:take a photo
-flüchten:flee
-verdächtigen:suspect
-auswerten:analyze
-erwachsen:adult
-aberrieren:N/A
-fortscheren:N/A
-dünken:seem
-verputzen:parget
-ausrutschen:slip
-ratifizieren:ratify
-kraxeln:scramble
-umwittern:N/A
-nachkarten:N/A
-vermischen:mix
-beipflichten:accede
-gefährden:endanger
+gallen:N/A
+aufstoßen:overcome
+mitmischen:to get involved
+nachalarmieren:N/A
 fortschreiben:to adjust
-büffeln:swot
-kennen:know
-säugen:suckle
-abknicken:break
-kauen:chew
-verbinden:tie
+seihen:filter
 gelten:be valid
 entfesseln:unleash
-aussprechen:pronounce
-flechten:braid
 labern:blather
-niederschreiben:write down
-kleinkriegen:to break down
-investieren:invest
-umgestalten:remodel
 aushändigen:hand over
-abwickeln:unwind
-abspritzen:cum
-verpflichten:oblige
-wecken:wake
-versieren:N/A
-ausklammern:factor out
-überraschen:surprise
-herumfuhrwerken:bustle around
+einbilden:imagine
+beschlafen:N/A
 bestatten:bury
 verabreden:make an appointment
-einlenken:give in
-belügen:lie to
 ringen:wrestle
-pasteurisieren:pasteurize
-trischakeln:N/A
-fußen:be based
+linken:link
+weiterleiten:forward
+schokolieren:N/A
 beten:pray
-weisen:show
-dirimieren:N/A
-verschriften:graphise
-herunterspielen:belittle
-betreffen:concern
-huschen:scurry
 weglassen:omit
-kokettieren:coquet
-sublimieren:sublimate
 mitsegeln:crew
 firnen:N/A
-tuchen:N/A
-drucken:print
-fliegen:fly
+verbleichen:fade
 kassibern:N/A
-abonnieren:subscribe
-anschwitzen:N/A
-wegnehmen:take away
-applizieren:administer
-schachten:N/A
-campen:camp
-urgieren:to send a reminder
-krökeln:N/A
-pauschalisieren:generalise
-aufmucken:protest
-offerieren:offer
-abseihen:filter
+zündeln:play with fire
 spuken:haunt
-verkommen:reprobate
-plaudern:chat
-verkuppeln:pander
-enthüllen:reveal
-turteln:bill and coo
-beziehen:refer
-inskribieren:register
-marodieren:maraud
-beistehen:assist
-sträuben:ruffle
-guillotinieren:guillotine
-defilieren:defile
-mundieren:N/A
+verschmerzen:get over
 dimmen:N/A
-folgern:conclude
-erhören:grant
 leuchten:shine
-schlägern:brawl
-stehen:stand
-derangieren:disarrange
-ermöglichen:enable
-erstatten:reimburse
-schädigen:damage
-einmischen:meddle
-diagnostizieren:diagnose
-vergreifen:make a mistake
 perzipieren:apprehend
-knattern:chatter
-ziemen:beseem
-parken:park
-aufprallen:thud
-schwurbeln:N/A
 kontrollieren:control
-randalieren:rampage
+sororisieren:sororise
 filmen:film
-vorstellen:introduce
-basieren:base
-Vorlage:Formatvorlage (Verb vereinfacht):N/A
-schmökern:browse
-picheln:tipple
-anbauen:cultivate
-wiegen:weigh
-schildern:depict
+dentelieren:indent
 drangsalieren:bully
 begehen:commit
-deklinieren:decline
-herhören:listen
-schönreden:blandish
-experimentieren:experiment
-behelfen:make do
-komprimieren:compress
-schminken:null
-aufwärmen:limber up
-entführen:kidnap
-wuppen:N/A
+abolieren:abolish
 zuschütten:fill up
-akkumulieren:accumulate
-tönen:resound
+notoperieren:N/A
 kreischen:shriek
-kumme:N/A
-beibringen:teach
-kombinieren:combine
-ausarten:degenerate
-zeigen:show
-benutzen:use
-kläffen:yap
-abgräbeln:N/A
-orten:locate
+abhertun:N/A
+proklamieren:proclaim
 streben:strive
-krähen:crow
-stimmen:tune
-rappen:rachis
-fixen:fix
-zurückmelden:report back
-kassieren:abolish
+verzaubern:enchant
 ausweisen:expel
-verprügeln:lambaste
-klappen:bang
-feilschen:haggle
-motzen:grouch
-einreichen:submit
+abbetteln:to wheedle
 entsorgen:dispose
 verschallen:to die away
-trauen:wed
-bessern:ameliorate
-einwerben:acquire
 setzen:put
-systematisieren:arrange
-schickern:drink
-rechen:rake
-liebäugeln:ogle
-schwitzen:sweat
-umgehen:avoid
 klappern:clatter
-packen:pack
-schmöken:N/A
-lädieren:damage
 verpachten:lease
-enden:end
 adjungieren:adjoin
-schleichen:creep
+hampeln:fidget
 wippen:seesaw
 bereifen:N/A
-akkommodieren:accommodate
-opponieren:oppose
-verpflegen:feed
-aufhören:stop
+verschenken:offer
 gerinnen:coagulate
-dedizieren:consecrate
-zeichnen:draw
-verhindern:prevent
-bestechen:bribe
-umbringen:kill
-bolzen:quarrel
+chambrieren:N/A
+ausbluten:bleed white
 hinreißen:enrapture
-pferchen:N/A
+einbürgern:naturalize
 wegbringen:take away
-importieren:import
 vorrücken:advance
-beerdigen:bury
-blinken:blink
-scheißen:shit
-sparen:save
-strömen:stream
-siechen:to waste away
-überlegen:consider
-karden:card
-umspannen:transform
-zumuten:ask
-konvergieren:converge
+aushelfen:help out
 beinhalten:contain
-hinkommen:arrive at
-pulverisieren:pulverize
-marachen:N/A
-gleichen:resemble
-quarzen:smoke
-verkaufen:sell
-abbimsen:copy
-auswählen:choose
-kalibrieren:calibrate
-suchen:search
-niedermetzeln:butcher
+an sein:be burning
+rekonstruieren:reconstruct
 prolongieren:extend
-dezimieren:decimate
-beschaffen:procure
-einfrieren:freeze
-dengeln:applaud
-abbummeln:N/A
-würfeln:cube
 besinnen:bethink
-abklemmen:disconnect
-verständigen:warn
-nivellieren:level
-haselieren:N/A
-betreten:enter
-pilotieren:pilot
-splittern:splinter
+verschlagen:wily
 wegfahren:drive away
-abspinnen:N/A
 abbaden:N/A
-interpellieren:interpellate
-abgeraten:discouraged
-ärschen:N/A
-werkeln:potter about
-entschlüsseln:decipher
+stupfen:N/A
+naturalisieren:naturalize
 vierteilen:quarter
-mausen:mouse
-dicht machen:proof
-pludern:bag
-stopfen:darn
-hypostasieren:N/A
-gieren:yaw
-rüsten:arm
+flechten:braid
+dekuvrieren:expose
 malochen:drudge
-trassieren:trace out
 beliefern:distribute
 nicken:nod
-koten:defecate
-alterieren:N/A
-jodeln:yodel
-fortsetzen:continue
-anstarren:stare
-zwirnen:now
+schieflaufen:N/A
+daheimbleiben:stay at home
+malträtieren:maltreat
+einfangen:capture
 exkommunizieren:excommunicate
-zumachen:close
-finishen:finish
+stauchen:clinch
 fortfahren:continue
-evozieren:evoke
 traktandieren:put on the agenda
-wiedergeben:render
-gniedeln:N/A
-konterkarieren:cross
-hallen:echo
-entziehen:withdraw
-ausmerzen:eradicate
+verlöten:solder
 herabsetzen:belittle
-abfinden:compensate
-verbessern:improve
-wegbegeben:N/A
-überweisen:transfer
-hapern:to lack
 streicheln:stroke
-abrücken:dissociate
-abkündigen:discontinue
-veranschlagen:estimate
-erschüttern:shake
-verunfallen:accident
-verbreiten:broadcast
-ausreißen:run away
-brüllen:roar
-abwerfen:throw off
-eintreten:enter
+abbüßen:serve
 genehmigen:permit
-haschieren:hash
-ledern:leathern
-ziehen:raise
-Rad schlagen:do a cartwheel
-erschließen:deduce
-beraten:advise
-duschen:shower
-manövrieren:maneuver
-ändern:change
-helpen:N/A
-teeren:tar
-färben:dye
-verhohnepiepeln:N/A
-entdecken:discover
-kränken:offend
-glaren:N/A
-greifen:seize
-pönalisieren:penalize
-hervorbringen:produce
+henken:hang
+beleuchten:illuminate
 beschreiben:describe
-pfuzgen:N/A
-einordnen:place
-rülpsen:burp
-anblinzeln:blink at
-abatmen:N/A
-abdrehen:switch off
-verlernen:forget
-abheben:withdraw
-oxidieren:oxidize
-bücken:stoop
-anmelden:announce
-kleben:glue
-wuchern:mushroom
-driften:drift
-bewundern:admire
-retten:save
-schelten:chide
-diffamieren:defame
-appellieren:appeal
-versifizieren:versify
-bebauen:cultivate
-klirren:buzz
-verehren:adore
+interponieren:N/A
+einsauen:bedaub
+buddeln:dig
+aufdröseln:unravel
+derogieren:N/A
 untersuchen:examine
-vermehren:augment
+wiedervereinigen:reunite
 nahen:draw near
-avisieren:announce
-marinieren:marinade
-erklimmen:scale
-dispergieren:disperse
-onanieren:masturbate
-boykottieren:boycott
-wehen:blow
+verschreiben:prescribe
 mitkommen:accompany
-genesen:recover
-verwehren:reprobate
-eliminieren:eliminate
-verfluchen:curse
-abäsen:N/A
-abbangen:N/A
-abholzen:chop down
-tratschen:gossip
+festfragen:N/A
 plädieren:plead
-internieren:intern
-signieren:sign
-auskommen:get by
-abwarten:await
-verpixeln:pixelate
-klonen:clone
-pampern:pamper
-referenzieren:reference
-löhnen:shell out
-bergsteigen:go mountaineering
-loggen:log
-mäkeln:kvetch
-fläzen:flop
-spinnen:spin
-meliorieren:improve
-verwechseln:confuse
-vermählen:wed
+marodieren:maraud
+scheuen:eschew
+rocken:rock
+letzen:N/A
 umkehren:upset
-verscherbeln:N/A
-resetten:N/A
-bepflanzen:plant
-befriedigen:satisfy
-anmachen:light
-erobern:conquer
-sponsern:sponsor
-betätigen:operate
-schwören:swear
-verschließen:lock
-opalisieren:N/A
-pflücken:pick
-knacken:crack
-gereichen:N/A
-hintanstellen:disregard
-taxieren:appraise
-eingreifen:intervene
-majorisieren:N/A
-bummeln:slack
+bekiffen:N/A
+vagabundieren:stray
+fakturieren:bill
+optimieren:optimize
+auslaugen:exhaust
+wriggeln:scull
+abrogieren:N/A
 abendessen:supper
-frei lassen:leave a blank
-anbellen:call
 bewerkstelligen:bring about
 starren:stare
-zurückrufen:call back
 losen:draw lots
-sagen:say
-abtauschen:N/A
-ernennen:appoint
+fokussieren:focus
+weglaufen:run away
 flektieren:inflect
-unterbrechen:interrupt
-übersetzen:translate
-interagieren:interact
-sedieren:sedate
-vermindern:diminish
-beschließen:decide
-eindringen:invade
-jäten:weed
-nieseln:drizzle
-eintragen:fill out
-lorgnettieren:scrutinize
+anbändeln:flirt with
+handeln:act
 jubeln:cheer
 fuchteln:brandish
-haschen:catch
-streichen:paint
-giften:rile
-kurbeln:film
-kämmen:comb
-beantragen:propose
 realisieren:realize
-blühen:bloom
 wünschen:wish
-verfechten:advocate
-mäandern:meander
-vergolden:gild
-zuordnen:associate
-naschen:snack
-kartografieren:map
-verposematuckeln:N/A
 puschen:pee
-wiehern:neigh
-zwinkern:blink
-panzern:armour
 konfektionieren:to manufacture
-fretten:chafe
-töpfern:do pottery
-nachgeben:give up
-präferieren:prefer
-wetten:bet
+betäuben:anesthetize
 schälen:peel
 rippen:rip
-kühlen:refrigerate
-fundieren:erect
-subventionieren:subsidize
-konzentrieren:concentrate
-einprägen:etch
-entnehmen:take from
-stängeln:N/A
-schmausen:banquet
-fahren:drive
-beanspruchen:claim
-näseln:N/A
-einwickeln:wrap
-abdecken:cover
-enttabuisieren:N/A
-kontrahieren:contract
-entschließen:decide
-abwiegeln:appease
+entmündigen:incapacitate
 diktieren:dictate
-beziffern:amount
-fixieren:fix
 vorschießen:advance
-vergällen:denature
 abkacken:crash
-langen:be enough
-qualifizieren:qualify
 lallen:speaking inarticulately
-grammatikalisieren:N/A
-enervieren:enervate
-weh tun:hurt
-aufstehen:get up
-socken:N/A
-zerstreiten:to fall out
+herausbrüllen:N/A
+entrichten:ante up
 mitschwingen:contain
-erkennen:recognize
-fluten:flood
-referieren:give an account
+bewerten:value
 einwecken:can
-trachten:aim
-beschützen:protect
-emanzipieren:emancipate
-verstreichen:elapse
-abbehalten:N/A
-ästimieren:esteem
+würzen:season
 schmücken:adorn
-dorren:dry
-befristen:limit
-aufbetten:N/A
-ablaufen:expire
-quäken:mewl
-trocknen:dry
 flankieren:flank
-vereinfachen:simplify
-streuen:scatter
-rochieren:castle
-klingeln:ring
-aufdecken:expose
-melden:report
-abmalen:portray
-inspirieren:inspire
-plempern:N/A
-attrahieren:attract
+riestern:N/A
+verkuppeln:pander
 hängen:hang
-verweisen:refer
-delektieren:disport
-erbrechen:vomit
+beibleiben:N/A
 heulen:howl
 zusammenfließen:coalesce
 mailen:N/A
-konnotieren:connote
 ansiedeln:colonize
-wringen:wring
-anprangern:denounce
-fortlegen:N/A
-rechtschreiben:N/A
-gießen:pour
-herüberfahren:N/A
-hinhalten:hold out
-bewältigen:defeat
-widerspiegeln:reflect
-benehmen:behave
-entrüsten:aggravate
-zweifeln:doubt
-verbrennen:burn
-reinziehen:check out
+allergisieren:N/A
 entlohnen:compensate
-waten:wade
-bewehren:arm
-treten:kick
-würgen:retch
-sortieren:sort
-vergilben:turn yellow
+chatten:chat
 studieren:study
-entpacken:unpack
-zapfen:cancel
-versteinern:petrify
-ertrinken:drown
 verdichten:squeeze
-loben:praise
-übersehen:overlook
-abschöpfen:skim
 meiden:avoid
-forteilen:to hurry away
-mähen:mow
-beginnen:begin
-konterfeien:N/A
-refüsieren:refuse
-halbieren:halve
-verzeigen:report
+ablästern:N/A
+abtrennen:cut
 zurückzucken:recoil
 abfieseln:N/A
-fetzen:shred
 ignorieren:ignore
-einbringen:fetch
-pinseln:brush
 amalgamieren:amalgamate
-versagen:fail
-ducken:duck
-losketten:to unchain
+touren:N/A
 abchoppen:be for the chop
-anfeuern:excite
-spülen:rinse
 durchlassen:let pass
-erlassen:enact
-verirren:get lost
+schocken:to shock
+parzellieren:tile
 komparieren:N/A
-berlinern:N/A
-kriseln:to go through a crisis
-wulacken:N/A
-verhökern:sell off
-gebühren:pay
+vorbeizwängen:N/A
+aufribbeln:N/A
 ergetzen:N/A
 prangen:show off
-porträtieren:portray
 vertreiben:drive away
-degenerieren:degenerate
-firnissen:varnish
-reagieren:react
-verteufeln:vilify
-verfügen:decree
-wuracken:N/A
-ausreizen:milk
-kniffen:to wrinkle
-hausen:dwell
-salutieren:salute
-schlickern:N/A
-aufnötigen:coerce
-klettern:climb
+zernieren:besiege
+würgen:retch
+anwackeln:N/A
 anreden:address
-erraten:guess
-harschen:crust
+wuracken:N/A
