@@ -61,6 +61,7 @@
 			index = null
 			for (i = 0; i < data.length; i++) {
 				if (data[i]['root'].localeCompare('halten') == 0) {
+				if (data[i]['root'].localeCompare('gehen') == 0) {
 					index = i
 					console.log("GOT IT")
 				}
@@ -77,7 +78,7 @@
 			nodes = [];
 			i = 1;
 			// Get length of root
-			rootLength = preTree.root.length - 1;
+			rootLength = preTree.root.length;
 
 			// Create hub node
 			nodes.push({"name":preTree.root, "group":i++, "hub":true,"trans":preTree.trans})
