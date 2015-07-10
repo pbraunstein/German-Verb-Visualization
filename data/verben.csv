@@ -1,15 +1,18 @@
 #Verb,Root,Sep,Trans
+,lieben,n,to love
 ,brechen,n,to break
-abbrechen,brechen,y,to cancel
-anbrechen,brechen,y,to broach
-aufbrechen,brechen,y,to break open
-ausbrechen,brechen,y,to escape
-einbrechen,brechen,y,to crack
-zerbrechen,brechen,n,to crack
-,winken,n,to wave
-,machen,n,to render [formal: to make]
-untersuchen,suchen,n,to determine
-,wohnen,n,to be in residence
+abbrechen,brechen,y,to break
+anbrechen,brechen,y,to break
+aufbrechen,brechen,y,to start
+ausbrechen,brechen,y,to break out
+einbrechen,brechen,y,to break in
+verbrechen,brechen,n,to break
+zerbrechen,brechen,n,to break
+,machen,n,to go
+,schmeißen,n,to throw
+untersuchen,suchen,n,to examine
+,kaufen,n,to buy
+,wohnen,n,to live
 ,sehen,n,to see
 ,essen,n,to eat
 ,trinken,n,to drink
@@ -17,1532 +20,1953 @@ untersuchen,suchen,n,to determine
 ,wandeln,n,to change
 ,lecken,n,to lick
 ,kochen,n,to cook
-,sprechen,n,to talk
-,liegen,n,to be recumbent
-ausscheiden,scheiden,y,to withdraw
-abschmieren,schmieren,y,to degrease
+,sprechen,n,to speak
+,liegen,n,to lie
+ausscheiden,scheiden,y,to excrete
+,zocken,n,to gamble
+abschmieren,schmieren,y,to grease
+,sparen,n,to save
 ,fliegen,n,to fly
-verstehen,stehen,n,to understand
+verstehen,stehen,n,to see
 ,hören,n,to hear
-,lesen,n,to muzz [br.] [public school sl.]
+,lesen,n,to read
 ,haben,n,to have
 fernsehen,sehen,y,to teleview
 ,arbeiten,n,to work
 ,denken,n,to think
-,billigen,n,to grant
+,kriegen,n,to get
+,billigen,n,to approve
 ,sitzen,n,to sit
 ,laufen,n,to run
 ,schreiben,n,to write
-verzweifeln,zweifeln,n,to become desperate
-,schlagen,n,to kill
+verzweifeln,zweifeln,n,to despair
+,schlagen,n,to coin
 ,blasen,n,to blow
+ausrichten,richten,y,to align
 ,lernen,n,to learn
 ,stehen,n,to stand
-ansagen,sagen,y,to announce [radio, airport etc.]
-ausreizen,reizen,y,to exhaust
+,flügeln,n,to wing
+ansagen,sagen,y,to announce
+ausreizen,reizen,y,to milk
 ,sterben,n,to die
-,weinen,n,to weep
-,dehnen,n,to expand
-,sammeln,n,to collect
-,fressen,n,to devour
-fressen,essen,n,to devour
-,schmieren,n,to daub
+,weinen,n,to cry
+,dehnen,n,to stretch
+,sammeln,n,to pick
+,fressen,n,to eat
+fressen,essen,n,to eat
+,schmieren,n,to lubricate
+vermeinen,meinen,n,to suppose
 aufhören,hören,y,to stop
-,schenken,n,to donate
-,reden,n,to talk
-,packen,n,to clutch
-,reizen,n,to stir
-,suchen,n,to seek
-,hindern,n,to prevent
-anstellen,stellen,y,to hire
-,lassen,n,to leave
-aufstehen,stehen,y,to rise
-unterhalten,halten,n,to keep
-anbieten,bieten,y,to provide
+,schenken,n,to present
+,reden,n,to speak
+,packen,n,to pack
+,reizen,n,to irritate
+,suchen,n,to search
+,hindern,n,to hinder
+anstellen,stellen,y,to employ
+,lassen,n,to let
+aufstehen,stehen,y,to get up
+unterhalten,halten,n,to entertain
+anbieten,bieten,y,to offer
 ,schlafen,n,to sleep
-bekommen,kommen,n,to have
-,geben,n,to deal
-,ziehen,n,to pull
-antreten,treten,y,to fall in
-,zeichnen,n,to design
-,handeln,n,to deal
-,wirken,n,to function
+bekommen,kommen,n,to obtain
+,geben,n,to pass
+,ziehen,n,to raise
+,lachen,n,to laugh
+bekriegen,kriegen,n,to battle
+erregen,regen,n,to excite
+antreten,treten,y,to take on
+zunehmen,nehmen,y,to increase
+abnehmen,nehmen,y,to take away
+,zeichnen,n,to draw
+,handeln,n,to act
+,wirken,n,to work
+,saufen,n,to drink
 ,backen,n,to bake
-überlegen,legen,n,to think
+,scheißen,n,to shit
+,schöpfen,n,to draw
+überlegen,legen,n,to consider
 ,spielen,n,to play
-,gewinnen,n,to achieve
-,fallen,n,to fall
+,gewinnen,n,to earn
+,fallen,n,to collapse
 ,reiten,n,to ride
 besuchen,suchen,n,to visit
 ,frieren,n,to freeze
 ,leben,n,to live
-auseinandersetzen,setzen,y,to expose
+auseinandersetzen,setzen,y,to deal
 ,saugen,n,to suck
 ,ändern,n,to change
 ,zahlen,n,to pay
+,dingen,n,to haggle
 verklären,klären,n,to glorify
-,streichen,n,to strike out
+,streichen,n,to paint
 ,reisen,n,to travel
-abändern,ändern,y,to vary
+abändern,ändern,y,to change
 abbeißen,beißen,y,to bite off
 abbeizen,beizen,y,to strip
 übersetzen,setzen,n,to translate
-abschmirgeln,schmirgeln,y,to rub down [sandpaper]
-,schmirgeln,n,to emery
+,finden,n,to find
+abschmirgeln,schmirgeln,y,to sand down
+,schmirgeln,n,to sand
 konzedieren,zedieren,n,to concede
+gebrechen,brechen,n,to lack
 ,sagen,n,to say
+,kacken,n,to shit
 ,loben,n,to praise
+,schmecken,n,to taste
 ,singen,n,to sing
-,bringen,n,to take
-,schimpfen,n,to offend
-widersprechen,sprechen,n,to object
+,bringen,n,to bring
+,schimpfen,n,to swear
+,tragen,n,to transport
+vorstellen,stellen,y,to introduce
+widersprechen,sprechen,n,to contradict
 ,brennen,n,to burn
 evozieren,vozieren,n,to evoke
 ,kennen,n,to know
-,zapfen,n,to draw [beer]
+,zapfen,n,to cancel
+revozieren,vozieren,n,to revoke
 ,bitten,n,to ask
 ,wenden,n,to turn
 ,fahren,n,to drive
 ,tun,n,to do
-erfahren,fahren,n,to come to a person's knowledge
+erfahren,fahren,n,to experienced
 versalzen,salzen,n,to oversalt
 herbringen,bringen,y,to bring
 verspüren,spüren,n,to feel
-,leeren,n,to drink off
-,rüsten,n,to mount
-,rücken,n,to move
-,fechten,n,to battle
-,zwingen,n,to force
+,leeren,n,to empty
+,rüsten,n,to arm
+,rücken,n,to push
+,pissen,n,to piss
+,fechten,n,to fight
+,zwingen,n,to compel
 ,messen,n,to measure
-verzapfen,zapfen,n,to mortise (into)
-anziehen,ziehen,y,to grow
-,segeln,n,to soar
-ankreuzen,kreuzen,y,to tick
-ausstrahlen,strahlen,y,to broadcast
+verzapfen,zapfen,n,to mortise
+anziehen,ziehen,y,to tighten
+,segeln,n,to sail
+,schweben,n,to float
+ankreuzen,kreuzen,y,to cross
+ausstrahlen,strahlen,y,to emanate
 ,speichern,n,to save
-,holen,n,to get [fetch]
+,formen,n,to form
+,holen,n,to fetch
 ,atmen,n,to breathe
 ,fühlen,n,to feel
 ,schwimmen,n,to swim
-ankommen,kommen,y,to come
-,laden,n,to lade [archaic]
-,wachsen,n,to increase
+ankommen,kommen,y,to arrive
+,laden,n,to load
+,wachsen,n,to grow
+,waschen,n,to wash
+,baden,n,to bathe
 ,regnen,n,to rain
 betreffen,treffen,n,to concern
-,tauchen,n,to plunge
-,springen,n,to leap
-,prüfen,n,to try
+,reiben,n,to rub
+,tauchen,n,to dive
+,springen,n,to jump
+,prüfen,n,to examine
 überprüfen,prüfen,n,to check
 umbrechen,brechen,y,to make up
 ,kauen,n,to chew
-,fluchen,n,to swear
-überdenken,denken,n,to review
+unterfertigen,fertigen,n,to sign
+,fluchen,n,to curse
+überdenken,denken,n,to rethink
 ,merken,n,to notice
-abbestellen,bestellen,y,to cancel
-erlegen,legen,n,to kill
+abbauen,bauen,y,to mine
+abbestellen,bestellen,y,to unsubscribe
+erlegen,legen,n,to bag
 abbiegen,biegen,y,to turn
-abbilden,bilden,y,to describe
-abbinden,binden,y,to bind off
-abbröckeln,bröckeln,y,to crumble away
+abbilden,bilden,y,to map
+abbinden,binden,y,to bond
+abblitzen,blitzen,y,to rebuff
+abbröckeln,bröckeln,y,to wane
+abbrennen,brennen,y,to burn down
 abbringen,bringen,y,to dissuade
-abdecken,decken,y,to conceal
+abbuchen,buchen,y,to debit
+abdecken,decken,y,to cover
 ,werben,n,to advertise
-missachten,achten,n,to neglect
+missachten,achten,n,to disregard
 aussehen,sehen,y,to look
+ausschauen,schauen,y,to be after
+zubuttern,buttern,y,to chip in
+,buttern,n,to butter
+,schleichen,n,to creep
+herumfuhrwerken,fuhrwerken,y,to bustle around
 ,helfen,n,to help
-,sondern,n,to abstract
+,sondern,n,to but
 ,teilen,n,to divide
 ,kommen,n,to come
-,prügeln,n,to beat with a cudgel
-verscheiden,scheiden,n,to decease
-schwarzsehen,sehen,y,to be pessimistic
+,schreien,n,to shout
+,jammern,n,to lament
+,prügeln,n,to beat
+verscheiden,scheiden,n,to pass away
+verweilen,weilen,n,to linger
+schwarzsehen,sehen,y,to dodge the TV license
 ,schauen,n,to look
+abschauen,schauen,y,to peek
 ,dampfen,n,to fume
-bestechen,stechen,n,to boodle
-aussprechen,sprechen,y,to say
-abdriften,driften,y,to make leeway
-abdrucken,drucken,y,to replicate
-abdrücken,drücken,y,to shoot
-,tauschen,n,to switch
-,leihen,n,to lend
+bestechen,stechen,n,to bribe
+aussprechen,sprechen,y,to pronounce
+abdriften,driften,y,to drift
+abdrucken,drucken,y,to print
+abdrücken,drücken,y,to clench
+,speiben,n,to vomit
+anspeiben,speiben,y,to puke
+,kümmern,n,to care
+,nehmen,n,to take
+annehmen,nehmen,y,to answer
+,tauschen,n,to exchange
+,petzen,n,to snitch
+,leihen,n,to borrow
 ,öffnen,n,to open
-anlegen,legen,y,to invest
+kleinschreiben,schreiben,y,to begin a word without a capital letter
+,schwärzen,n,to blacken
+anschwärzen,schwärzen,y,to denigrate
+anlegen,legen,y,to create
 ,schießen,n,to shoot
-abarbeiten,arbeiten,y,to handle
+abarbeiten,arbeiten,y,to execute
 ,wiegen,n,to weigh
-verschießen,schießen,n,to misplay
-gerinnen,rinnen,n,to clot
-,wechseln,n,to vary
-erröten,röten,n,to blush at a thing
+verschießen,schießen,n,to fade
+gerinnen,rinnen,n,to coagulate
+,wechseln,n,to change
+erröten,röten,n,to blush
 ,gleichen,n,to resemble
-,kündigen,n,to recall
+,kündigen,n,to can
 verschwinden,schwinden,n,to disappear
 ,rechnen,n,to calculate
-eindringen,dringen,y,to penetrate
-eingeben,geben,y,to read
-,ehren,n,to glorify
-hinterlassen,lassen,n,to consign
-,braten,n,to bake
-belegen,legen,n,to use
-aufgeben,geben,y,to dismiss
+eindringen,dringen,y,to invade
+eingeben,geben,y,to enter
+,ehren,n,to honour
+hinterlassen,lassen,n,to leave
+,braten,n,to fry
+belegen,legen,n,to floor
+aufgeben,geben,y,to forsake
+widerfahren,fahren,n,to befall
 ,schrauben,n,to screw
-,decken,n,to defray
-anwenden,wenden,y,to use
-,treten,n,to step
-abfasen,fasen,y,to chamfer
+erfinden,finden,n,to invent
+,decken,n,to cover
+anwenden,wenden,y,to apply
+,treten,n,to kick
+erholen,holen,n,to rally
+verlieben,lieben,n,to fall in love
+,raten,n,to guess
+anmachen,machen,y,to light
 gefrieren,frieren,n,to freeze
-einfrieren,frieren,y,to lock up
-aberkennen,erkennen,y,to deny
+einfrieren,frieren,y,to freeze
+aberkennen,erkennen,y,to deprive
 ,fliehen,n,to flee
+bedenken,denken,n,to consider
+umfahren,fahren,n,to drive round
 ,bauen,n,to build
-abreisen,reisen,y,to start
-anfangen,fangen,y,to become
-anhalten,halten,y,to block
+abreisen,reisen,y,to depart
+anfangen,fangen,y,to begin
+anhalten,halten,y,to stop
+,kotzen,n,to vomit
 ,rufen,n,to call
 ,legen,n,to put
+erschleichen,schleichen,n,to creep
 ,fragen,n,to ask
-erfragen,fragen,n,to enquire
-befragen,fragen,n,to interview
-,erhalten,n,to receive
-erhalten,halten,n,to receive
-,führen,n,to lead
+erfragen,fragen,n,to ask
+befragen,fragen,n,to question
+,erhalten,n,to get
+erhalten,halten,n,to get
+,führen,n,to control
 einschlafen,schlafen,y,to fall asleep
-,bilden,n,to cultivate
-,schwinden,n,to fade
+,bilden,n,to form
+befinden,finden,n,to be
+,schwinden,n,to dwindle
 ,antworten,n,to answer
-,stellen,n,to put
+bestehen,stehen,n,to consist
+erreichen,reichen,n,to accomplish
+,stellen,n,to apply
 bedeuten,deuten,n,to mean
 anhören,hören,y,to listen
-anzünden,zünden,y,to ignite
-ausruhen,ruhen,y,to relax
-darstellen,stellen,y,to describe
-,schleppen,n,to pull
-enthalten,halten,n,to hold
-entstehen,stehen,n,to develop
-,zeigen,n,to offer
-,gelten,n,to be effective
-,dienen,n,to conduce
-,bleiben,n,to continue
-besitzen,sitzen,n,to have
-,dürfen,n,to dare
-,halten,n,to save [football]
+anzünden,zünden,y,to light
+ausruhen,ruhen,y,to rest
+darstellen,stellen,y,to represent
+,schleppen,n,to drag
+enthalten,halten,n,to contain
+entstehen,stehen,n,to arise
+,zeigen,n,to show
+,gelten,n,to be valid
+,dienen,n,to serve
+,bleiben,n,to stay
+besitzen,sitzen,n,to possess
+,dürfen,n,to may
+,halten,n,to last
 unterscheiden,scheiden,n,to distinguish
-,erkennen,n,to identify
-erkennen,kennen,n,to identify
-vertreten,treten,n,to advocate
-,stammen,n,to be descended
+,erkennen,n,to recognize
+erkennen,kennen,n,to recognize
+vertreten,treten,n,to act for
+,stammen,n,to stem
 ,zählen,n,to count
-gebrauchen,brauchen,n,to employ [to use]
+gebrauchen,brauchen,n,to use
 ,brauchen,n,to need
-,bieten,n,to provide
-entsprechen,sprechen,n,to answer
-bezeichnen,zeichnen,n,to describe
+,bieten,n,to bid
+entsprechen,sprechen,n,to correspond
+bezeichnen,zeichnen,n,to name
 erscheinen,scheinen,n,to appear
 verwenden,wenden,n,to use
-verlassen,lassen,n,to evacuate
-verhindern,hindern,n,to stop
-entwickeln,wickeln,n,to design
+verlassen,lassen,n,to dreary
+verhindern,hindern,n,to prevent
+entwickeln,wickeln,n,to develop
 ,setzen,n,to put
-,nutzen,n,to exploit
-erfolgen,folgen,n,to follow
+,nutzen,n,to utilize
+erfolgen,folgen,n,to happen
 versuchen,suchen,n,to try
-aufkommen,kommen,y,to come up [topic, idea, etc.]
-,treffen,n,to hit
+aufkommen,kommen,y,to arise
+,treffen,n,to strike
 ,biegen,n,to bend
-,binden,n,to link
+,binden,n,to tie
 ,folgen,n,to follow
 versehen,sehen,n,to provide
-,nennen,n,to mention
+,nennen,n,to name
 auftreten,treten,y,to appear
 ,falten,n,to fold
-beenden,enden,n,to stop
+beenden,enden,n,to finish
 ,werfen,n,to throw
 beschließen,schließen,n,to decide
-anschmieren,schmieren,y,to bedaub
+anschmieren,schmieren,y,to con
 verlernen,lernen,n,to forget
-,pflegen,n,to maintain
+,pflegen,n,to nurse
+aufwerfen,werfen,y,to pose
+,regen,n,to stir
 ,schneiden,n,to cut
+,danken,n,to thank
 ,spucken,n,to spit
 ,klagen,n,to complain
 ,fassen,n,to catch
-erklären,klären,n,to give an account of
-ableiten,leiten,y,to derive
-,losen,n,to cast lots
-,lauschen,n,to be listening
+erklären,klären,n,to explain
+ableiten,leiten,y,to deduce
+verdenken,denken,n,to resent
+,losen,n,to draw lots
+,lauschen,n,to listen
 erwachen,wachen,n,to awake
+,erkiesen,n,to choose
 ,putzen,n,to clean
 verbergen,bergen,n,to hide
 ,drucken,n,to print
 benutzen,nutzen,n,to use
-,dreschen,n,to flail
+berühren,rühren,n,touch
+,dreschen,n,to thresh
 ,lächeln,n,to smile
-,fließen,n,to pour
+,fließen,n,to flow
+,lügen,n,to lie
 ,beten,n,to pray
 ,heilen,n,to heal
-,treiben,n,to drive [animals, people, leaves]
-,schätzen,n,to regard
-entlassen,lassen,n,to boot out [coll.] [to fire]
+,treiben,n,to propel
+,freuen,n,to rejoice
+verschlimmbessern,bessern,n,to kill the patient with the cure
+,schätzen,n,to appreciate
+entlassen,lassen,n,to dismiss
 ,heißen,n,to be called
-eintreten,treten,y,to tread into
+eintreten,treten,y,to enter
 versprechen,sprechen,n,to promise
-besprechen,sprechen,n,to critique
-versagen,sagen,n,to break down
+besprechen,sprechen,n,to discuss
+versagen,sagen,n,to fail
 ,siegen,n,to win
-anfassen,fassen,y,to touch
+anfassen,fassen,y,touch
 anspielen,spielen,y,to allude
-einstellen,stellen,y,to position
-,heben,n,to raise
-abnutzen,nutzen,y,to fray
-,drehen,n,to turn
-,schwitzen,n,to be in a sweat
+einstellen,stellen,y,to stop
+,heben,n,to lift
+verwinden,winden,n,to get over
+abnutzen,nutzen,y,to wear out
+,drehen,n,to turn around
 ,schieben,n,to push
 abbezahlen,bezahlen,y,to pay off
 abbitten,bitten,y,to apologize
-abblasen,blasen,y,to blow down
-auslösen,lösen,y,to cause
-zusammenfassen,fassen,y,to sum
-,wandern,n,to move
-unterschätzen,schätzen,n,to underrate
+abblasen,blasen,y,to blow away
+auslösen,lösen,y,to trigger
+zusammenfassen,fassen,y,to summarize
+,wandern,n,to walk
+unterschätzen,schätzen,n,to underestimate
+abkaufen,kaufen,y,to buy
 überschätzen,schätzen,n,to overestimate
-,punktieren,n,to tap
-vertauschen,tauschen,n,to change
+,löffeln,n,to ladle out
+auslöffeln,löffeln,y,to spoon up
+,punktieren,n,to puncture
+verkaufen,kaufen,n,to sell
+vertauschen,tauschen,n,to swap
+,walten,n,to rule over
 ,leiden,n,to suffer
+,wackeln,n,to waggle
 bedürfen,dürfen,n,to need
+überreichen,reichen,n,to hand over
 ,hängen,n,to hang
-,täuschen,n,to fool
-,kleben,n,to stick
-,lösen,n,to disengage
-,bergen,n,to save
-einfallen,fallen,y,to break in upon
-hereinkommen,kommen,y,to come in
-,scheiden,n,to divide
-verholen,holen,n,to shift
-aufrechnen,rechnen,y,to add
-bestärken,stärken,n,to confirm
+,täuschen,n,to deceive
+,kleben,n,to glue
+,lösen,n,to solve
+ergießen,gießen,n,to gush
+,bergen,n,to salvage
+einfallen,fallen,y,to invade
+hereinkommen,kommen,y,to enter
+,scheiden,n,to divorce
+aufbringen,bringen,y,to broach
+verholen,holen,n,to warp
+,klarieren,n,to clear
+aufmerken,merken,y,to attend
+,stillen,n,to nurse
+aufrechnen,rechnen,y,to count up
+bestärken,stärken,n,to strengthen
 zumachen,machen,y,to close
-,stimmen,n,to add up
-,weisen,n,to indicate
-,schließen,n,to close
-auferstehen,erstehen,y,to arise
+,stimmen,n,to tune
+abkacken,kacken,y,to crash
+,weisen,n,to show
+,schließen,n,to lock
+auferstehen,erstehen,y,to rise
 ,malen,n,to paint
-ausfallen,fallen,y,to become inoperative
-abweisen,weisen,y,to refuse
-beinhalten,halten,n,to include
-,hungern,n,to be hungry
-verhungern,hungern,n,to die of hunger
-aushungern,hungern,y,to famish
-,stampfen,n,to stomp
-,schalten,n,to control
+ausfallen,fallen,y,to fail
+abweisen,weisen,y,to reject
+beinhalten,halten,n,to contain
+,hungern,n,to hunger
+verhungern,hungern,n,to starve
+aushungern,hungern,y,to starve
+erpressen,pressen,n,to blackmail
+,stampfen,n,to pitch
+,schalten,n,to switch
+betrinken,trinken,n,to get drunk
 herunterladen,laden,y,to download
-einpflegen,pflegen,y,to populate
+,filzen,n,to felt
+einpflegen,pflegen,y,to update
 erwerben,werben,n,to acquire
-aufdecken,decken,y,to reveal
+aufdecken,decken,y,to expose
+aufhalten,halten,y,to stay
+,quetschen,n,to squeeze
 ,flehen,n,to beg
-besiegen,siegen,n,to overcome
-anpassen,passen,y,to fit
-,zucken,n,to shrug
+besiegen,siegen,n,to beat
+,gaffen,n,to rubberneck
+anpassen,passen,y,to adapt
+,zucken,n,to jerk
 ,wünschen,n,to wish
-verfluchen,fluchen,n,to accurse
-erlöschen,löschen,n,to die out
-zurückkehren,kehren,y,to revert
+verfluchen,fluchen,n,to curse
+erlöschen,löschen,n,to expire
+zurückkehren,kehren,y,to return
+,küren,n,to choose
 ,bezahlen,n,to pay
 bezahlen,zahlen,n,to pay
-erstaunen,staunen,n,to amaze
-absenden,senden,y,to post
+erstaunen,staunen,n,to astonish
+aufnehmen,nehmen,y,to record
+absenden,senden,y,to forward
 verstecken,stecken,n,to hide
-zerstreuen,streuen,n,to disperse
+zerstreuen,streuen,n,to scatter
 schönreden,reden,y,to blandish
-,leiten,n,to lead
-,schmähen,n,to blaspheme
-,gießen,n,to cast
+,füllen,n,to fill
+,leiten,n,to control
+,schmähen,n,to speak ill of
+,gießen,n,to pour
 ,beißen,n,to bite
 zerstören,stören,n,to destroy
-umstellen,stellen,n,to surround
-entwerfen,werfen,n,to plan
-herstellen,stellen,y,to make
+umstellen,stellen,n,to transpose
+,pellen,n,to peel
+entwerfen,werfen,n,to design
+entfesseln,fesseln,n,to unleash
+herstellen,stellen,y,to produce
 ,klopfen,n,to knock
-einsetzen,setzen,y,to install
-widerlegen,legen,n,to confute
-aufgehen,gehen,y,to add up
+einsetzen,setzen,y,to appoint
+widerlegen,legen,n,to refute
+,harren,n,to await
+benehmen,nehmen,n,to behave
+aufgehen,gehen,y,to rise
+,behalten,n,to keep
 behalten,halten,n,to keep
-,stieben,n,to drift [chaff, snow]
-nottun,tun,n,to be essential
+,stieben,n,to scatter
 aufwachsen,wachsen,y,to grow up
-,äsen,n,to browse
-verbinden,binden,n,to join
+verbinden,binden,n,to tie
 zustimmen,stimmen,y,to agree
-auslaufen,laufen,y,to discharge
-ausziehen,ziehen,y,to extract
+entnehmen,nehmen,n,to take from
+auslaufen,laufen,y,to leak out
+ausziehen,ziehen,y,to undress
 ,wählen,n,to choose
+verjagen,jagen,n,to drive away
 vergleichen,gleichen,n,to compare
 ,rinnen,n,to flow
-abbremsen,bremsen,y,to apply the brake
-abziehen,ziehen,y,to remove
+abbremsen,bremsen,y,to brake
+abziehen,ziehen,y,to subtract
 ,fangen,n,to catch
-verschmähen,schmähen,n,to despise
-abdichten,dichten,y,to tighten
-ablehnen,lehnen,y,to refuse
-,stechen,n,to stick
-einladen,laden,y,to load into
+verschmähen,schmähen,n,to disdain
+abdichten,dichten,y,to calk
+abdienen,dienen,y,to serve out
+blankziehen,ziehen,y,to draw
+ablehnen,lehnen,y,to reject
+,malmen,n,to grind
+,stechen,n,to sting
+benützen,nützen,n,to use
+einladen,laden,y,to invite
 entdecken,decken,n,to discover
-fortfahren,fahren,y,to pursue
+verlegen,legen,n,to misplace
+fortfahren,fahren,y,to continue
 spazieren gehen,gehen,y,to walk
-ergreifen,greifen,n,to take
-aussaugen,saugen,y,to suck
+,fesseln,n,to absorb
+ergreifen,greifen,n,to seize
+aussaugen,saugen,y,to deplete
 zuhören,hören,y,to listen
-verteilen,teilen,n,to arrange
-erzählen,zählen,n,to talk
-,trennen,n,to separate
+verpissen,pissen,n,to piss off
+ankreiden,kreiden,y,to chalk up
+verteilen,teilen,n,to distribute
+erzählen,zählen,n,to tell
+,trennen,n,to divide
 vernaschen,naschen,n,to spend on sweets
-vergehen,gehen,n,to slide
+vergehen,gehen,n,to pass
+,schachern,n,to haggle
 heranwachsen,wachsen,y,to grow up
-bestimmen,stimmen,n,to provide
+bestimmen,stimmen,n,to determine
 ,senden,n,to send
-umfallen,fallen,y,to fall over
-verbleiben,bleiben,n,to continue
-vorgeben,geben,y,to specify
-beleben,leben,n,to stimulate
-,steigen,n,to increase
+bemustern,mustern,n,to take sample
+,gasen,n,to gas
+umfallen,fallen,y,to be overturned
+,schämen,n,to shame
+verbleiben,bleiben,n,to dwell
+vorgeben,geben,y,to pretend
+beleben,leben,n,to animate
+,steigen,n,to climb
+mittagessen,essen,n,to food
+,meinen,n,to think
 erheben,heben,n,to raise
-anschließen,schließen,y,to link
-kundtun,tun,y,to communicate
+anschließen,schließen,y,to connect
+kundtun,tun,y,to announce
+einnehmen,nehmen,y,to take
+ausnehmen,nehmen,y,to gut
 nachschlagen,schlagen,y,to look up
-unterstehen,stehen,n,to be subordinate to
-,passen,n,to be suitable
-,schiffen,n,to navigate
-aufräumen,räumen,y,to clean house
-,wickeln,n,to roll
-aufwickeln,wickeln,y,to coil
+angeben,geben,y,to declare
+unterstehen,stehen,n,to be subject to
+,passen,n,to fit
+,schiffen,n,to rain
+aufräumen,räumen,y,to clean
+,wickeln,n,to wrap
+aufwickeln,wickeln,y,to wind
 aufwachen,wachen,y,to awake
-verfassen,fassen,n,to draft
+verfassen,fassen,n,to write
 ,richten,n,to judge
-aufrichten,richten,y,to raise
-verreisen,reisen,n,to go away on a trip
-wegfahren,fahren,y,to back away
-vermieten,mieten,n,to charter
-,fordern,n,to ask
-verehren,ehren,n,to admire
-umziehen,ziehen,y,to change lodgings
+aufrichten,richten,y,to rear
+verreisen,reisen,n,to journey
+wegfahren,fahren,y,to drive away
+vermieten,mieten,n,to let
+,fordern,n,to demand
+verehren,ehren,n,to adore
+umziehen,ziehen,y,to move
 ,transportieren,n,to transport
-entgegenkommen,kommen,y,to approach
-,überholen,n,to forereach
-überholen,holen,n,to forereach
-besteigen,steigen,n,to climb
-auspacken,packen,y,to do one's unpacking
-einpacken,packen,y,to pack
+entgegenkommen,kommen,y,to subtend
+überholen,holen,n,to overtake
+besteigen,steigen,n,to mount
+,zagen,n,to hesitate
+,buchen,n,to book
+auspacken,packen,y,to unwrap
+einpacken,packen,y,to box
 verbringen,bringen,n,to spend
+lustwandeln,wandeln,n,to stroll
 ,nagen,n,to gnaw
-verbieten,bieten,n,to ban
+verbieten,bieten,n,to forbid
 einführen,führen,y,to introduce
+auskehren,kehren,y,to clean out
 beschädigen,schädigen,n,to damage
-zurückgeben,geben,y,to give back
+zurückgeben,geben,y,to return
 ,leuchten,n,to shine
 fortsetzen,setzen,y,to continue
-,zünden,n,to fire
-bedienen,dienen,n,to manage
-,bannen,n,to allay
-vergeben,geben,n,to allot
-,schicken,n,to dispatch
-,drücken,n,to push
-,stecken,n,to put
-übergeben,geben,n,to deliver
-,lenken,n,to lead
+,reichen,n,to hand
+,klatschen,n,to clap
+,zünden,n,to ignite
+,seifen,n,to soap
+bedienen,dienen,n,to serve
+,bannen,n,to ban
+vergeben,geben,n,to forgive
+,schicken,n,to send
+,drücken,n,to press
+,stecken,n,to stick
+übergeben,geben,n,to hand over
+,lenken,n,to channel
+begehen,gehen,n,to commit
 angreifen,greifen,y,to charge
 ,schützen,n,to protect
-versorgen,sorgen,n,to provide
+versorgen,sorgen,n,to supply
 ,kämpfen,n,to fight
 ,mischen,n,to mix
-aufheben,heben,y,to make void
-,scheinen,n,to glisten
-abschließen,schließen,y,to end
+aufheben,heben,y,to abolish
+,scheinen,n,to seem
+abschließen,schließen,y,to lock
 entscheiden,scheiden,n,to decide
-ansehen,sehen,y,to face
+ansehen,sehen,y,to watch
 ,schreiten,n,to step
 ,reißen,n,to tear
-,tagen,n,to be in session
-weggehen,gehen,y,to depart
-aushalten,halten,y,to bear
-ansprechen,sprechen,y,to trip
-,isolieren,n,to insulate
-vertreiben,treiben,n,to market
-ausstellen,stellen,y,to show
+,tagen,n,to meet
+,jagen,n,to hunt
+weggehen,gehen,y,to leave
+aushalten,halten,y,to endure
+ansprechen,sprechen,y,to address
+,isolieren,n,to isolate
+abdingen,dingen,y,to cede
+,gammeln,n,to bum
+vertreiben,treiben,n,to drive away
+ausstellen,stellen,y,to exhibit
 anschauen,schauen,y,to view
-,gären,n,to brew
+,gären,n,to ferment
 abstürzen,stürzen,y,to crash
-umkehren,kehren,y,to revert
-,spülen,n,to douche
-behandeln,handeln,y,to deal
-erbrechen,brechen,n,to heave up
-,stoßen,n,to push
-,eilen,n,to rush
-ausgehen,gehen,y,to come off
-,anbringen,n,to add
-anbringen,bringen,y,to add
-,dringen,n,to get through
-vortäuschen,täuschen,y,to pretend
-abbedingen,bedingen,y,to waive
-,greifen,n,to grab
+umkehren,kehren,y,to upset
+,spülen,n,to rinse
+behandeln,handeln,y,to treat
+erbrechen,brechen,n,to vomit
+,stoßen,n,to knock
+,eilen,n,to hurry
+ausgehen,gehen,y,to go out
+erbieten,bieten,n,to bid
+,anbringen,n,to mount
+anbringen,bringen,y,to mount
+,dringen,n,to coerce
+vortäuschen,täuschen,y,to feign
+,hauen,n,to beat
+abbedingen,bedingen,y,to exclude by convention
+,greifen,n,to seize
 abkommen,kommen,y,to deviate
-,wehen,n,to wave
-aussortieren,sortieren,y,to reject
-vorkommen,kommen,y,to happen
-begrüßen,grüßen,n,to welcome
+beneiden,neiden,n,to envy
+,wehen,n,to blow
+aussortieren,sortieren,y,to sort out
+vorkommen,kommen,y,to occur
+begrüßen,grüßen,n,to greet
 enttäuschen,täuschen,n,to disappoint
-anrufen,rufen,y,to invoke
-belohnen,lohnen,n,to award
-bestrafen,strafen,n,to sentence
-vertilgen,tilgen,n,to destroy
-,bedingen,n,to determine
-aufzeigen,zeigen,y,to show
-unterweisen,weisen,n,to instruct
+anrufen,rufen,y,to call
+belohnen,lohnen,n,to reward
+bestrafen,strafen,n,to punish
+vertilgen,tilgen,n,to exterminate
+aufziehen,ziehen,y,to raise
+,bedingen,n,to bring about
+bedingen,dingen,n,to bring about
+aufzeigen,zeigen,y,to demonstrate
+unterweisen,weisen,n,to teach
 eingehen,gehen,y,to shrink
-unterstützen,stützen,n,to provide
+unterstützen,stützen,n,to help
 verbessern,bessern,n,to improve
-,streiten,n,to argue
-durchführen,führen,y,to complete
-zerlegen,legen,n,to resolve
+,streiten,n,to fight
+durchführen,führen,y,to perform
+zerlegen,legen,n,to decompose
 bedauern,dauern,n,to regret
+,melden,n,to report
 ,warten,n,to wait
-,stürzen,n,to fall [from a height or badly]
-beweisen,weisen,n,to establish
-,ernten,n,to crop
+,stürzen,n,to overthrow
+beweisen,weisen,n,to prove
+,ernten,n,to harvest
+ausreichen,reichen,y,to suffice
+hinreichen,reichen,y,to suffice
 ,hoffen,n,to hope
-abschneiden,schneiden,y,to strip
+,wehren,n,to defend
+abschneiden,schneiden,y,to cut
+wegnehmen,nehmen,y,to take away
+,fuhrwerken,n,to cart
 ,ruhen,n,to rest
-erläutern,läutern,n,to outline
-,bestellen,n,to order
-bestellen,stellen,n,to order
-verhöhnen,höhnen,n,to boo
-bemerken,merken,n,to observe
-,harschen,n,to freeze over
-verharschen,harschen,n,to form a crust [snow]
+erläutern,läutern,n,to explain
+,bestellen,n,to request
+bestellen,stellen,n,to request
+verhöhnen,höhnen,n,to deride
+bemerken,merken,n,to notice
+,harschen,n,to crust
+verharschen,harschen,n,to become caked
 verändern,ändern,n,to change
-beachten,achten,n,to follow
+erfüllen,füllen,n,to fulfil
+beachten,achten,n,to pay attention
+anzeigen,zeigen,y,to indicate
 ,winden,n,to wind
-,löschen,n,to remove
+,gewöhnen,n,to accustom
+,löschen,n,to extinguish
 verdienen,dienen,n,to earn
 ,platzen,n,to burst
+hinausfliegen,fliegen,y,to be beheaded
 gehören,hören,n,to belong
-,vereinigen,n,to join
-vereinigen,einigen,n,to join
-ausführen,führen,y,to take out
+,rühren,n,to stir
+,vereinigen,n,to unite
+vereinigen,einigen,n,to unite
+ausführen,führen,y,to perform
 beschreiben,schreiben,n,to describe
-entwenden,wenden,n,to make away with
-,hacken,n,to pick
-enterben,erben,n,to cut off with a shilling
+entwenden,wenden,n,to steal
+,hacken,n,to chop
+enteilen,eilen,n,to be excessive
+enterben,erben,n,to disinherit
 ,haken,n,to hook
-entsichern,sichern,n,to release the safety catch
-fortfallen,fallen,y,to cease to exist
-forteilen,eilen,y,to hasten away
-fortschreiben,schreiben,y,to update
-beifügen,fügen,y,to include
+verraten,raten,n,to betray
+forteilen,eilen,y,to hurry away
+fortschreiben,schreiben,y,to adjust
+beifügen,fügen,y,to affiliate
 beisetzen,setzen,y,to bury
-anweisen,weisen,y,to order
-hinweisen,weisen,y,to suggest
-erweisen,weisen,n,to argue
+anweisen,weisen,y,to indicate
+ausweisen,weisen,y,to expel
+hinweisen,weisen,y,to portend
+erweisen,weisen,n,to prove
 abspeichern,speichern,y,to save
-zernagen,nagen,n,to gnaw away
+,ziemen,n,to beseem
+zernagen,nagen,n,to eat into
 zerplatzen,platzen,n,to burst
-beibringen,bringen,y,to produce
-beispringen,springen,y,to assist
-beistimmen,stimmen,y,to agree
+zerreden,reden,n,to discuss to death
+beibringen,bringen,y,to teach
+beispringen,springen,y,to accommodate
+beistimmen,stimmen,y,to accede
 beistehen,stehen,y,to assist
 beitreten,treten,y,to join
 unterrichten,richten,n,to teach
-ausschalten,schalten,y,to deactivate
+eintragen,tragen,y,to fill out
+ausschalten,schalten,y,to turn off
 verpachten,pachten,n,to lease
-einschalten,schalten,y,to activate
+bergsteigen,steigen,n,to go mountaineering
+einschalten,schalten,y,to turn on
 zulassen,lassen,y,to allow
-,stören,n,to upset
+,stören,n,to disturb
 ,zielen,n,to aim
-ablegen,legen,y,to store
-nachdenken,denken,y,to reflect
+ablegen,legen,y,to file
+nachdenken,denken,y,to think
 mitteilen,teilen,y,to inform
-hervorbringen,bringen,y,to bear
-,vollziehen,n,to perform
-vollziehen,ziehen,n,to perform
-aussitzen,sitzen,y,to ride out [to attempt to survive by waiting and hoping for the best]
-betreten,treten,n,to tread
+hervorbringen,bringen,y,to produce
+,vollziehen,n,to implement
+vollziehen,ziehen,n,to implement
+aussitzen,sitzen,y,to sit out
+betreten,treten,n,to enter
 ,vertrauen,n,to trust
 vertrauen,trauen,n,to trust
 verwechseln,wechseln,n,to confuse
-erzielen,zielen,n,to reach
-überkommen,kommen,n,to overcome
-umfassen,fassen,n,to include
-vergießen,gießen,n,to cast
-umschließen,schließen,n,to include
+erzielen,zielen,n,to score
+überkommen,kommen,n,to come down
+umfassen,fassen,n,to encompass
+vergießen,gießen,n,to shed
+umschließen,schließen,n,to enclose
+vornehmen,nehmen,y,to accomplish
+verweisen,weisen,n,to refer
+verwehren,wehren,n,to reprobate
 ,zerren,n,to drag
-vorsehen,sehen,y,to provide
-abwarten,warten,y,to wait
-abzielen,zielen,y,to tend [incline]
-herabblicken,blicken,y,to look down
-auskommen,kommen,y,to manage
+vorsehen,sehen,y,to designate
+abwarten,warten,y,to await
+abzielen,zielen,y,to aim
+ausdrücken,drücken,y,to express
+herabblicken,blicken,y,to despise
+verhaspeln,haspeln,n,to get muddled
+auskommen,kommen,y,to get by
 erwarten,warten,n,to expect
-verbrennen,brennen,n,to combust
-überlassen,lassen,n,to leave
-ablassen,lassen,y,to sink
-anlassen,lassen,y,to activate
-ausgeben,geben,y,to put
+verbrennen,brennen,n,to burn
+verziehen,ziehen,n,to twist
+überlassen,lassen,n,to cede
+ablassen,lassen,y,to vent
+anlassen,lassen,y,to animadvert
+ausgeben,geben,y,to spend
 abmahnen,mahnen,y,to admonish
-bearbeiten,arbeiten,n,to treat
-nachprüfen,prüfen,y,to check
-,tanken,n,to fuel
-verfügen,fügen,n,to command
-bewahren,wahren,n,to save
-umgehen,gehen,n,to bypass
-durchlassen,lassen,y,to allow
-abfertigen,fertigen,y,to ship
-aussagen,sagen,y,to reveal
-gehorchen,horchen,n,to be obedient
+bearbeiten,arbeiten,n,to edit
+nachprüfen,prüfen,y,to recheck
+auflassen,lassen,y,to leave open
+,tanken,n,to refuel
+auslassen,lassen,y,to omit
+verfügen,fügen,n,to decree
+verdingen,dingen,n,to hire out
+bewahren,wahren,n,to preserve
+umgehen,gehen,n,to avoid
+durchlassen,lassen,y,to let pass
+einlassen,lassen,y,to admit
+abfertigen,fertigen,y,to dispatch
+bedecken,decken,n,to cover
+einholen,holen,y,to overtake
+herausarbeiten,arbeiten,y,to bring out
+herausschmecken,schmecken,y,to taste
+aussagen,sagen,y,to bear
+anrühren,rühren,y,touch
+gehorchen,horchen,n,to obey
+belassen,lassen,n,to leave
 unterschreiben,schreiben,n,to sign
 bebauen,bauen,n,to cultivate
-,dichten,n,to versify
-erlassen,lassen,n,to cancel
+,dichten,n,to write
+erlassen,lassen,n,to enact
 ,vozieren,n,to appoint
-zerstampfen,stampfen,n,to bruise
-ablöschen,löschen,y,to deglaze
-anschwitzen,schwitzen,y,to (lightly) sautée
-herhören,hören,y,to pay attention by listening
-freilassen,lassen,y,to emancipate
-,pfeifen,n,to blast on the whistle
+zerstampfen,stampfen,n,to stomp
+ablöschen,löschen,y,to blot
+herhören,hören,y,to listen
+freilassen,lassen,y,to release
+,pfeifen,n,to whistle
 verpflegen,pflegen,n,to feed
 ertrinken,trinken,n,to drown
 begraben,graben,n,to bury
-verscharren,scharren,n,to hide / bury in the ground
+verscharren,scharren,n,to bury
 ,erlangen,n,to obtain
 erlangen,langen,n,to obtain
-,langen,n,to be sufficient
-zubereiten,bereiten,y,to make
-anerkennen,erkennen,y,to allow
-,bereiten,n,to prepare
-bereiten,reiten,n,to prepare
-abstellen,stellen,y,to stable
-behindern,hindern,n,to interfere
-entführen,führen,n,to carry off
-,horchen,n,to listen
-unterbrechen,brechen,n,to stop
+,langen,n,to be enough
+zubereiten,bereiten,y,to prepare
+anerkennen,erkennen,y,to recognize
+,bereiten,n,to cause
+bereiten,reiten,n,to cause
+,irren,n,to err
+abstellen,stellen,y,to stand
+umbringen,bringen,y,to kill
+behindern,hindern,n,to hinder
+entführen,führen,n,to kidnap
+,horchen,n,to eavesdrop
+übernehmen,nehmen,n,to take over
+unterbrechen,brechen,n,to interrupt
+,motivieren,n,to motivate
 ,eitern,n,to fester
-besetzen,setzen,n,to cast
-bewerten,werten,n,to assess
-untergehen,gehen,y,to sink
+besetzen,setzen,n,to occupy
+bewerten,werten,n,to value
+ausmachen,machen,y,to turn off
+verweigern,weigern,n,to refuse
+untergehen,gehen,y,to set
 verleihen,leihen,n,to lend
-einrichten,richten,y,to construct
-,achten,n,to respect
-festhalten,halten,y,to hold
-absondern,sondern,y,to exclude
-verschieben,schieben,n,to move
-beilegen,legen,y,to settle
-abweichen,weichen,y,to vary [differ]
-herauskommen,kommen,y,to result
-betreiben,treiben,n,to conduct
-durchhalten,halten,y,to bear up
+einrichten,richten,y,to arrange
+,achten,n,to esteem
+festhalten,halten,y,to grip
+absondern,sondern,y,to isolate
+verschieben,schieben,n,to postpone
+beilegen,legen,y,to approach nearby
+abweichen,weichen,y,to differ
+herauskommen,kommen,y,to emerge
+betreiben,treiben,n,to carry on
+durchhalten,halten,y,to persevere
 hochladen,laden,y,to upload
-einschließen,schließen,y,to include
-unterbinden,binden,n,to stop
+einschließen,schließen,y,to lock up
+hinnehmen,nehmen,y,to accept
+unterbinden,binden,n,to deactivate
 vermeiden,meiden,n,to avoid
-verloben,loben,n,to affiance
+verloben,loben,n,to betroth
+abhauen,hauen,y,to skedaddle
+beantragen,tragen,n,to propose
+,kreiden,n,to chalk
 abschlagen,schlagen,y,to refuse
 ,lehnen,n,to lean
-ausarbeiten,arbeiten,y,to develop
-erschließen,schließen,n,to index
-ausmustern,mustern,y,to reject
-abstimmen,stimmen,y,to tune
-verfolgen,folgen,n,to track
-kennzeichnen,zeichnen,n,to identify
+ausarbeiten,arbeiten,y,to work out
+erschließen,schließen,n,to deduce
+ausmustern,mustern,y,to sift out
+abstimmen,stimmen,y,to vote
+verzeihen,zeihen,n,to pardon
+verfolgen,folgen,n,to pursue
+kennzeichnen,zeichnen,n,to mark
 ,wischen,n,to wipe
-verschließen,schließen,n,to close
+teilnehmen,nehmen,y,to participate
+verschließen,schließen,n,to lock
 austauschen,tauschen,y,to exchange
-umsetzen,setzen,y,to convert
-verfallen,fallen,n,to decline
+umsetzen,setzen,y,to implement
+verfallen,fallen,n,to expire
 aufmachen,machen,y,to open
-,klappern,n,to clack
-auffallen,fallen,y,to attract attention
-ausrasten,rasten,y,to blow one's lid
-übertreiben,treiben,n,to boast
+,klappern,n,to clatter
+hineindenken,denken,y,to try to understand
+reinziehen,ziehen,y,to check out
+auffallen,fallen,y,to stir
+ausrasten,rasten,y,to go postal
+verbitten,bitten,n,to refuse to tolerate
+erraten,raten,n,to guess
+nachsagen,sagen,y,to repeat
+übertreiben,treiben,n,to exaggerate
 ,grüßen,n,to greet
-vorziehen,ziehen,y,to choose
-beackern,ackern,n,to plough [br.]
-ausschlafen,schlafen,y,to lie in
-,speisen,n,to supply
-einsehen,sehen,y,to understand
-umbenennen,benennen,y,to re-brand
+vorziehen,ziehen,y,to prefer
+beackern,ackern,n,to cultivate
+ausschlafen,schlafen,y,to sleep in
+,speisen,n,to eat
+einsehen,sehen,y,to have a look at
+umbenennen,benennen,y,to rename
 übersteigen,steigen,n,to exceed
 einlaufen,laufen,y,to arrive
-herüberfahren,fahren,y,to come across
-zurückzucken,zucken,y,to flinch
-,mahnen,n,to warn
-ausschlachten,schlachten,y,to cut up carcasses
-herumlaufen,laufen,y,to kick around
-aufdrängen,drängen,y,to obtrude
-zusammenleben,leben,y,to coexist
-,starren,n,to goggle
-anlächeln,lächeln,y,to smile at
+zurückzucken,zucken,y,to recoil
+,mahnen,n,to urge
+ausschlachten,schlachten,y,to cannibalize
+fortloben,loben,y,to kick upstairs
+herumlaufen,laufen,y,to run around
+aufdrängen,drängen,y,to impose
+zusammenleben,leben,y,to cohabit
+,starren,n,to stare
+einprägen,prägen,y,to etch
+anlächeln,lächeln,y,to smile
 zerreißen,reißen,n,to tear
-einweihen,weihen,y,to consecrate
-abrücken,rücken,y,to depart
-abwerfen,werfen,y,to buck off
-eingreifen,greifen,y,to interfere
+einweihen,weihen,y,to baptize
+abrücken,rücken,y,to dissociate
+auftakeln,takeln,y,to rig
+abwerfen,werfen,y,to throw off
+zugehen,gehen,y,to aim at
+eingreifen,greifen,y,to intervene
 anflehen,flehen,y,to beg
-,stopfen,n,to stuff
-verstrahlen,strahlen,n,to contaminate with radiation
-,rasieren,n,to barber
-,locken,n,to attract
-,schmücken,n,to decorate
-,härten,n,to anneal
+auslachen,lachen,y,to laugh
+,geraten,n,to panic
+,stopfen,n,to darn
+abwägen,wägen,y,to weigh
+versprengen,sprengen,n,to disperse
+,rasieren,n,to shave
+,erleben,n,to experience
+erleben,leben,n,to experience
+,locken,n,to lure
+,schmücken,n,to adorn
+,härten,n,to harden
+aufkleben,kleben,y,to affix
 durchhängen,hängen,y,to sag
-verpacken,packen,n,to pack
-,begehren,n,to seek
+verpacken,packen,n,to box
+anfahren,fahren,y,to pull away
+,begehren,n,to desire
+verfilzen,filzen,n,to become complicated
 ,kreuzen,n,to cross
-vereitern,eitern,n,to fester
+,flechten,n,to braid
+vereitern,eitern,n,to ulcerate
+verkümmern,kümmern,n,to atrophy
 vorbereiten,bereiten,y,to prepare
 ,bügeln,n,to iron
-,klären,n,to clear [football]
+,klären,n,to clear
 ,zweifeln,n,to doubt
+vermissen,missen,n,to miss
 abschicken,schicken,y,to send
-,liefern,n,to provide
-absetzen,setzen,y,to sell
-feststellen,stellen,y,to establish
-erstellen,stellen,n,to build
-verhören,hören,n,to examine
-abhalten,halten,y,to discourage
+,liefern,n,to deliver
+absetzen,setzen,y,to dethrone
+feststellen,stellen,y,to ascertain
+erstellen,stellen,n,to create
+verhören,hören,n,to interrogate
+abhalten,halten,y,to deter
 abkühlen,kühlen,y,to cool
-einräumen,räumen,y,to grant
-vorrücken,rücken,y,to proceed
-,preisen,n,to advertise
-anheben,heben,y,to raise
-,rutschen,n,to slip
-,spannen,n,to brace
+einräumen,räumen,y,to concede
+vorrücken,rücken,y,to advance
+,preisen,n,to praise
+anheben,heben,y,to lift
+,rutschen,n,to slide
+,spannen,n,to stretch
+erstechen,stechen,n,to stab
 ,warnen,n,to warn
 vermischen,mischen,n,to mix
-abgrenzen,grenzen,y,to define
+abgrenzen,grenzen,y,to demarcate
 ,ordnen,n,to arrange
-verstreichen,streichen,n,to spread [on food]
-,formulieren,n,to shape
-einweisen,weisen,y,to indoctrinate
-,montieren,n,to fit
-verordnen,ordnen,n,to provide
-wegräumen,räumen,y,to clear away
-erschrecken,schrecken,n,to frighten
-zusammenrechnen,rechnen,y,to total
-überfahren,fahren,n,to drive over
-,deuten,n,to divine [discover]
-abstützen,stützen,y,to brace
-abschrecken,schrecken,y,to discourage
-angehen,gehen,y,to address [problem]
-andauern,dauern,y,to stand
-ausladen,laden,y,to land
-absagen,sagen,y,to cancel
+verstreichen,streichen,n,to elapse
+einweisen,weisen,y,to admit
+,montieren,n,to assemble
+verirren,irren,y,to get lost
+verordnen,ordnen,n,to prescribe
+wegräumen,räumen,y,to put away
+erschrecken,schrecken,n,to scare
+bedanken,danken,n,to thank
+zusammenrechnen,rechnen,y,to add up
+überfahren,fahren,n,to run over
+,deuten,n,to interpret
+verfressen,fressen,n,to gluttonous
+zusammensparen,sparen,y,to save up
+anstehen,stehen,y,to form a line
+abstützen,stützen,y,to shore up
+abschrecken,schrecken,y,to chill
+angehen,gehen,y,to concern
+andauern,dauern,y,to last
+ausladen,laden,y,to unload
+ausschließen,schließen,y,to exclude
+absagen,sagen,y,to call off
 abwiegen,wiegen,y,to weigh
-gegenlesen,lesen,y,to revise
 ,salzen,n,to salt
-,glücken,n,to succeed
-herunterfallen,fallen,y,to plunge
-,kreisen,n,to circulate
+aufhängen,hängen,y,to hang
+,prägen,n,to coin
+vermaledeien,maledeien,n,to condemn
+,glücken,n,to be succesful
+herunterfallen,fallen,y,to scatter
+,maledeien,n,to condemn
+,kreisen,n,to circle
 wehtun,tun,y,to hurt
 errichten,richten,n,to build
-,bremsen,n,to stop
-entfalten,falten,n,to develop
-aufweisen,weisen,y,to show
+,bremsen,n,to brake
+verschreien,schreien,n,to conjure up
+miterleben,erleben,y,to attend
+entfalten,falten,n,to unfold
+aufweisen,weisen,y,to feature
 einwickeln,wickeln,y,to wrap
-anstreben,streben,y,to seek
+anstreben,streben,y,to aim
 ,streben,n,to strive
-anvertrauen,vertrauen,y,to confide
+anvertrauen,vertrauen,y,to entrust
 aufwenden,wenden,y,to spend
 ausrutschen,rutschen,y,to slip
-versammeln,sammeln,n,to congregate
-überwachen,wachen,n,to watch
+aufkreuzen,kreuzen,y,to pop up
+versammeln,sammeln,n,to assemble
+überwachen,wachen,n,to monitor
 abschieben,schieben,y,to deport
-aufprallen,prallen,y,to hit
-abgehen,gehen,y,to leave
+ausbaden,baden,y,to pay for
+aufprallen,prallen,y,to thud
+bewerben,werben,n,to apply
+abgehen,gehen,y,to exit
 einspeisen,speisen,y,to inject
 ,bröckeln,n,to crumble
 verfechten,fechten,n,to advocate
-hervorgehen,gehen,y,to proceed [originate, issue]
-zurückhalten,halten,y,to hold
-fortschicken,schicken,y,to order away
+bewundern,wundern,n,to admire
+abtragen,tragen,y,to wear out
+hervorgehen,gehen,y,to answer
+zurückhalten,halten,y,to withhold
+fortschicken,schicken,y,to send away
+,weigern,n,to refuse
 umfangen,fangen,n,to clasp
-austrinken,trinken,y,to drink off
-entweihen,weihen,n,to deconsecrate
-befolgen,folgen,n,to abide (by)
-zusprechen,sprechen,y,to award
-einimpfen,impfen,y,to inject
-,drängen,n,to push
-,schwören,n,to pledge
+austrinken,trinken,y,to drink up
+entweihen,weihen,n,to desecrate
+einmahnen,mahnen,y,to ask
+befolgen,folgen,n,to obey
+zusprechen,sprechen,y,to assign
+einimpfen,impfen,y,to inculcate
+,drängen,n,to urge
+,schwören,n,to swear
 überwinden,winden,n,to overcome
-einatmen,atmen,y,to breathe
-ausatmen,atmen,y,to breathe out
-ausloben,loben,y,to offer as a prize
-,baggern,n,to dredge
-verarbeiten,arbeiten,n,to handle
-einbringen,bringen,y,to bring
-,erstehen,n,to acquire
-erstehen,stehen,n,to acquire
-antreiben,treiben,y,to push on
+einatmen,atmen,y,to inhale
+ausatmen,atmen,y,to expire
+ausloben,loben,y,to offer a prize
+,baggern,n,to dig
+verarbeiten,arbeiten,n,to process
+,siechen,n,to waste away
+einschmeicheln,schmeicheln,y,to ingratiate
+einbringen,bringen,y,to fetch
+,erstehen,n,to buy
+erstehen,stehen,n,to buy
+antreiben,treiben,y,to drive
 misstrauen,trauen,n,to suspect
-aufdrehen,drehen,y,to untwist
-einwirken,wirken,y,to operate
-aufladen,laden,y,to charge
-wegdrücken,drücken,y,to push away
-übergehen,gehen,y,to ignore
-einstimmen,stimmen,y,to tune
+abfinden,finden,y,to compensate
+bewehren,wehren,n,to arm
+aufdrehen,drehen,y,to up
+einwirken,wirken,y,to impact
+aufladen,laden,y,to give a ride
+übergehen,gehen,y,to overlook
+einstimmen,stimmen,y,to tally
 hinterfragen,fragen,n,to question
-hinsetzen,setzen,y,to sit down
-hinhalten,halten,y,to delay
-bezwingen,zwingen,n,to control
+hinsetzen,setzen,y,to sit
+hinhalten,halten,y,to hold out
+bezwingen,zwingen,n,to beat
 umgeben,geben,n,to surround
-abschreiben,schreiben,y,to amortize
-geloben,loben,n,to make a vow
-vorherrschen,herrschen,y,to dominate
-,brüten,n,to breed
+betragen,tragen,n,to amount to
+abschreiben,schreiben,y,to write down
+geloben,loben,n,to vow
+vorherrschen,herrschen,y,to prevail
+,brüten,n,to brood
+aufreiben,reiben,y,to pulverise
+behelfen,helfen,n,to make do
+zurückbilden,bilden,y,to form back
 ,blitzen,n,to flash
-verspielen,spielen,n,to lose
-abäsen,äsen,y,to crop [of deer]
-anlocken,locken,y,to allure
-abätzen,ätzen,y,to cauterize
+verspielen,spielen,n,to gamble away
+anlocken,locken,y,to bait
+abätzen,ätzen,y,to cauterise
 ,thronen,n,to be enthroned
 versenden,senden,n,to send
 einschieben,schieben,y,to insert
-entspringen,springen,n,to arise
-durchfließen,fließen,n,to flow through
-abheben,heben,y,to raise
+beeilen,eilen,n,to hurry
+entspringen,springen,n,to spring
+durchfließen,fließen,n,to cross
+abheben,heben,y,to withdraw
 auswählen,wählen,y,to choose
 ,enden,n,to end
-abtreten,treten,y,to convey
-erteilen,teilen,n,to award
-gefallen,fallen,n,to oblige
-aufstellen,stellen,y,to set
-befestigen,festigen,n,to stick
-,festigen,n,to tighten
-zusammensetzen,setzen,y,to combine
-anordnen,ordnen,y,to arrange
-entlohnen,lohnen,n,to remunerate
+abtreten,treten,y,to cede
+beziehen,ziehen,n,to refer
+erteilen,teilen,n,to grant
+stattfinden,finden,y,to happen
+gefallen,fallen,n,to please
+aufstellen,stellen,y,to posit
+beraten,raten,n,to advise
+befestigen,festigen,n,to fasten
+,festigen,n,to consolidate
+zusammensetzen,setzen,y,to compose
+anordnen,ordnen,y,to order
+entlohnen,lohnen,n,to compensate
 ,schlucken,n,to swallow
-einbauen,bauen,y,to incorporate
-,strafen,n,to chastise
+einbauen,bauen,y,to build in
+,strafen,n,to punish
 berichten,richten,n,to report
-zurückgehen,gehen,y,to reduce
+zurückgehen,gehen,y,to decline
 ankündigen,kündigen,y,to announce
 anfertigen,fertigen,y,to make
-,fertigen,n,to manufacture
-,forschen,n,to search
-,herrschen,n,to dominate
-ausbleiben,bleiben,y,to be absent
+,fertigen,n,to fashion
+vorlegen,legen,y,to exhibit
+,forschen,n,to research
+,herrschen,n,to reign
+ausbleiben,bleiben,y,to not to be forthcoming
 beherrschen,herrschen,n,to control
-,gründen,n,to build
-begründen,gründen,n,to constitute
+,gründen,n,to establish
+begründen,gründen,n,to establish
 zugeben,geben,y,to admit
-aufbauen,bauen,y,to form
-,wahren,n,to maintain
-versetzen,setzen,n,to add
+aufbauen,bauen,y,to build
+,schmeicheln,n,to flatter
+,wahren,n,to keep
+versetzen,setzen,n,to alarm
 vorgehen,gehen,y,to advance
-berechnen,rechnen,n,to charge
+berechnen,rechnen,n,to calculate
+,komponieren,n,to compose
 ersetzen,setzen,n,to replace
 begreifen,greifen,n,to understand
-aussetzen,setzen,y,to abate legal proceedings
-,sorgen,n,to worry
-umsorgen,sorgen,n,to shepherd
-entsorgen,sorgen,n,to dispose of
-besorgen,sorgen,n,to provide
-vorsorgen,sorgen,y,to provide
-,mieten,n,to hire
-eröffnen,öffnen,n,to open
+aussetzen,setzen,y,to abandon
+,sorgen,n,to care
+umsorgen,sorgen,n,to nurture
+entsorgen,sorgen,n,to dispose
+besorgen,sorgen,n,to get
+vorsorgen,sorgen,y,to be armed with
+bewirken,wirken,n,to cause
+,mieten,n,to rent
+eröffnen,öffnen,n,to establish
+verhalten,halten,n,to behave
 entthronen,thronen,n,to dethrone
-zurückbleiben,bleiben,y,to remain
+zurückbleiben,bleiben,y,to fall behind
 vorschlagen,schlagen,y,to suggest
-abholen,holen,y,to fetch
-wiedererlangen,erlangen,y,to recover
-wegsehen,sehen,y,to look away
-ausschreiben,schreiben,y,to advertise
-ausreden,reden,y,to finish speaking
-einordnen,ordnen,y,to sort
-zurücktreten,treten,y,to retire
-einschlagen,schlagen,y,to batter
-einkreisen,kreisen,y,to surround
-weglegen,legen,y,to lay aside
-darlegen,legen,y,to describe
-verlaufen,laufen,n,to proceed
-zusagen,sagen,y,to confirm
-ausdehnen,dehnen,y,to continue
-wegziehen,ziehen,y,to adjourn to another place
-,erziehen,n,to educate
+abholen,holen,y,to pick up
+wiedererlangen,erlangen,y,to regain
+wegsehen,sehen,y,to disregard
+ausschreiben,schreiben,y,to write out
+ausreden,reden,y,to discourage
+verschreiben,schreiben,n,to prescribe
+einordnen,ordnen,y,to place
+zurücktreten,treten,y,to resign
+einschlagen,schlagen,y,to bang
+einkreisen,kreisen,y,to circle
+weglegen,legen,y,to put away
+darlegen,legen,y,to explain
+verlaufen,laufen,n,to get lost
+zusagen,sagen,y,to accept
+ausdehnen,dehnen,y,to extend
+wegziehen,ziehen,y,to pull away
 erziehen,ziehen,n,to educate
-fortgehen,gehen,y,to depart
+fortgehen,gehen,y,to go away
+,weilen,n,to abide
 entkommen,kommen,n,to escape
-durchsetzen,setzen,y,to force through
+durchsetzen,setzen,y,to enforce
 zurückweisen,weisen,y,to reject
+deklarieren,klarieren,n,to declare
 mitkommen,kommen,y,to accompany
-umkommen,kommen,y,to be killed
-verkommen,kommen,n,to deteriorate
-,graben,n,to sink
-umdrehen,drehen,y,to turn
+umkommen,kommen,y,to perish
+verkommen,kommen,n,to reprobate
+auffassen,fassen,y,to apprehend
+nachsetzen,setzen,y,to trail
+,graben,n,to dig
+umdrehen,drehen,y,to upset
+vorwegnehmen,nehmen,y,to anticipate
 ausdenken,denken,y,to invent
-erdenken,denken,n,to construct
-durchdenken,denken,n,to reason out
-wegdenken,denken,y,to think away
-wiedergeben,geben,y,to perform
-abfallen,fallen,y,to bear away
-abhandeln,handeln,y,to treat [a topic or subject]
-aushandeln,handeln,y,to strike [a bargain]
+erdenken,denken,n,to devise
+gedenken,denken,y,to commemorate
+entheben,heben,n,to clear
+durchdenken,denken,n,to investigate thoroughly
+,kranken,n,to suffer
+wiedergeben,geben,y,to render
+abfallen,fallen,y,to fall off
+abhandeln,handeln,y,to deal
+aushandeln,handeln,y,to negotiate
 verhandeln,handeln,n,to negotiate
-vorfallen,fallen,n,to herniate
+vorfallen,fallen,n,to happen
+herabfallen,fallen,y,to come out
 absegeln,segeln,y,to sail away
 anschrauben,schrauben,y,to screw on
-durchbrechen,brechen,y,to breach
-ausbrüten,brüten,y,to breed
-abzeichnen,zeichnen,y,to delineate
+abtakeln,takeln,y,to unrig
+mitnehmen,nehmen,y,to take
+,takeln,n,to rig
+durchbrechen,brechen,y,to break through
+ausbrüten,brüten,y,to hatch
+abzeichnen,zeichnen,y,to check
+,nützen,n,to avail
 ,interpretieren,n,to interpret
-verdichten,dichten,n,to concentrate
-,fügen,n,to mate
-heraufkommen,kommen,y,to come up [via stairs etc.]
-herausstellen,stellen,y,to expose
-zerkauen,kauen,n,to masticate
+verdichten,dichten,n,to squeeze
+,fügen,n,to submit
+heraufkommen,kommen,y,to approach
+herausstellen,stellen,y,to feature
+zerkauen,kauen,n,to chew
 überleben,leben,n,to survive
 andrehen,drehen,y,to switch on
-,lohnen,n,to remunerate
+,lohnen,n,to worth
+einkaufen,kaufen,y,to shop
+,fürchten,n,to fear
+beklatschen,klatschen,n,to applaud
 ,meiden,n,to avoid
-verschlagen,schlagen,n,to drive out of her course [ship]
-umbinden,binden,y,to tie round
-einlenken,lenken,y,to back down
-,trauen,n,to marry [priest, registrar]
-erwachsen,wachsen,n,to arise
-freisetzen,setzen,y,to break loose
-unterstellen,stellen,n,to assume
-unterlassen,lassen,n,to neglect
+verschlagen,schlagen,n,to wily
+umbinden,binden,y,to cut down on
+einlenken,lenken,y,to give in
+,trauen,n,to wed
+abspritzen,spritzen,y,to cum
+erwachsen,wachsen,n,to adult
+freisetzen,setzen,y,to release
+unterstellen,stellen,n,to subjugate
+unterlassen,lassen,n,to abandon
 verankern,ankern,n,to anchor
+vermelden,melden,n,to announce
+verdrücken,drücken,n,to beat it
 ,reagieren,n,to react
-,wecken,n,to excite
-,tropfen,n,to drip
-überfliegen,fliegen,n,to scan
-entpacken,packen,n,to extract
-anhaben,haben,y,to sport [wear]
+,murksen,n,to skimp
+abgeraten,geraten,y,to discouraged
+,wecken,n,to wake
+obliegen,liegen,n,to behoove
+,tropfen,n,to drop
+überfliegen,fliegen,n,to skim
+entpacken,packen,n,to unpack
+anhaben,haben,y,to wear
 ,spüren,n,to feel
 einziehen,ziehen,y,to collect
 ,stärken,n,to strengthen
-,kühlen,n,to cool
-,streuen,n,to spread
+,kühlen,n,to refrigerate
+,heischen,n,to demand
+,streuen,n,to scatter
 provozieren,vozieren,n,to provoke
-mitdenken,denken,y,to think
-bewohnen,wohnen,n,to indwell
-,konstruieren,n,to build
+mitdenken,denken,y,to help think
+bewohnen,wohnen,n,to inhabit
+,konstruieren,n,to construct
 ,kippen,n,to cant
-überweisen,weisen,n,to assign
+überweisen,weisen,n,to transfer
 aushärten,härten,y,to cure
-umschreiben,schreiben,n,to compile
-verschulden,schulden,n,to encumber with debts
+umschreiben,schreiben,n,to paraphrase
+verschulden,schulden,n,to cause
 beschützen,schützen,n,to protect
-,tilgen,n,to settle
-niederschlagen,schlagen,y,to deposit
-innehalten,halten,y,to hold
+,tilgen,n,to extinguish
+niederschlagen,schlagen,y,to knock down
+innehalten,halten,y,to pause
+herausfinden,finden,y,to find out
 ,rasten,n,to rest
-,leimen,n,to glue
-,löten,n,to braze
-verkürzen,kürzen,n,to decrease
+zuknöpfen,knöpfen,y,to button up
+,neiden,n,to be jealous
+,löten,n,to solder
+verkürzen,kürzen,n,to shorten
+hinrichten,richten,y,to execute
+auserkiesen,erkiesen,y,to choose
 ,würzen,n,to season
-,regeln,n,to arrange
+,regeln,n,to regulate
 ,pachten,n,to lease
-,schrecken,n,to daunt
-,rütteln,n,to shake
+,schrecken,n,to frighten
+,rütteln,n,to jolt
+zerreiben,reiben,n,to pulverise
 ,blinzeln,n,to blink
-vermessen,messen,n,to measure
-hochfahren,fahren,y,to boot up
-aufwerten,werten,y,to enhance
-abwerten,werten,y,to depreciate
-,werten,n,to assess
-,bessern,n,to amend
-umfliegen,fliegen,n,to circuit
-entgehen,gehen,n,to avoid
+,scheuchen,n,to shoo
+vermessen,messen,n,to foolhardy
+hochfahren,fahren,y,to bootstrap
+aufwerten,werten,y,to revaluate
+abwerten,werten,y,to devalue
+,werten,n,to consider
+,bessern,n,to ameliorate
+,fleddern,n,to rob
+verlachen,lachen,n,to deride
+verspeisen,speisen,n,to consume
+umfliegen,fliegen,n,to fly round
+entgehen,gehen,n,to escape
 ,stempeln,n,to stamp
-übersehen,sehen,n,to overlook [to fail to see]
-nachvollziehen,vollziehen,y,to understand
+übersehen,sehen,n,to overlook
+nachvollziehen,vollziehen,y,to comprehend
 ,höhnen,n,to jeer
-,rosten,n,to corrode
-,mustern,n,to examine
-,kehren,n,to sweep [with a broom]
+verlesen,lesen,n,to call a roll
+,rosten,n,to rust
+,mustern,n,to scrutinize
+aufregen,regen,y,to excite
+,kehren,n,to sweep
 ,migrieren,n,to migrate
-mitbringen,bringen,y,to bring
-aufwecken,wecken,y,to arouse
-,schlingen,n,to gulp
+mitbringen,bringen,y,to take
+aufwecken,wecken,y,to wake
+,schlingen,n,to gobble
+demotivieren,motivieren,n,to demotivate
+erkranken,kranken,n,to fall ill
+beschickern,schickern,y,to get
 ausgrenzen,grenzen,y,to exclude
-herunterkommen,kommen,y,to deteriorate
-verkehren,kehren,n,to communicate
-,pflücken,n,to harvest
-entleihen,leihen,n,to borrow
-abladen,laden,y,to discharge
-anzweifeln,zweifeln,y,to discredit [rumour]
-bekennen,kennen,n,to admit
+herunterkommen,kommen,y,to descend
+verkehren,kehren,n,to associate
+,pflücken,n,to pick
+entleihen,leihen,n,to rent
+abladen,laden,y,to unload
+anzweifeln,zweifeln,y,to question
+bekennen,kennen,n,to confess
 zusehen,sehen,y,to watch
 verschwimmen,schwimmen,n,to become blurred
-einblasen,blasen,y,to blow into
-nachgeben,geben,y,to fall
-verstärken,stärken,n,to add
-abschminken,schminken,y,to remove the make-up
-angrenzen,grenzen,y,to abut
-auffahren,fahren,y,to ascend to
-,spotten,n,to gibe
-einfügen,fügen,y,to include
+einblasen,blasen,y,to blow in
+nachgeben,geben,y,to give up
+einbezahlen,bezahlen,y,to pay in
+wegmachen,machen,y,to disarrange
+beschämen,schämen,n,to abash
+liebhaben,haben,y,to be fond of
+geziemen,ziemen,n,to befit
+verstärken,stärken,n,to amplify
+abschminken,schminken,y,to remove make up
+angrenzen,grenzen,y,to border
+auffahren,fahren,y,to ascend
+,spotten,n,to jeer
+einfügen,fügen,y,to insert
+,färben,n,to dye
 ,wildern,n,to poach
-,kürzen,n,to reduce
+,donnern,n,to thunder
+,kürzen,n,to abbreviate
 ,ankern,n,to anchor
-entleeren,leeren,n,to drain
-absägen,sägen,y,to cut away
-,grenzen,n,to abut
+entleeren,leeren,n,to empty
+absägen,sägen,y,to saw off
+,duften,n,to smell
+hochkommen,kommen,y,to rise to the surface
+,grenzen,n,to border
+belügen,lügen,n,to lie to
 abhandenkommen,kommen,y,to get lost
-,folgern,n,to argue
-abmalen,malen,y,to depict
-,klicken,n,to clack
+,folgern,n,to conclude
+abmalen,malen,y,to portray
+vergammeln,gammeln,n,to decay
+,klicken,n,to click
 entziehen,ziehen,n,to withdraw
 ,dauern,n,to last
-,knüpfen,n,to make
-verabreden,reden,n,to arrange
-,impfen,n,to inject
-unterdrücken,drücken,n,to eliminate
-ausbauen,bauen,y,to convert [attic etc.]
-hinreißen,reißen,y,to carry away
-anbauen,bauen,y,to add onto a house
-andeuten,deuten,y,to suggest
-einschätzen,schätzen,y,to assess
-verwandeln,wandeln,n,to convert
-auszeichnen,zeichnen,y,to tag
-abfragen,fragen,y,to request
-ersuchen,suchen,n,to ask
-ausweichen,weichen,y,to avoid
-beliefern,liefern,n,to supply
-bewachen,wachen,n,to watch
-,sichern,n,to ensure
-umsteigen,steigen,y,to change trains
+,latschen,n,to traipse
+auslatschen,latschen,y,to wear out of shape
+,knüpfen,n,to tie
+verabreden,reden,n,to make an appointment
+,impfen,n,to vaccinate
+unterdrücken,drücken,n,to oppress
+ausbauen,bauen,y,to complete
+hinreißen,reißen,y,to enrapture
+anbauen,bauen,y,to cultivate
+andeuten,deuten,y,to indicate
+einschätzen,schätzen,y,to judge
+verwandeln,wandeln,n,to change
+auszeichnen,zeichnen,y,to award
+vernehmen,nehmen,n,to hear
+abfragen,fragen,y,to query
+ersuchen,suchen,n,to request
+ausweichen,weichen,y,to dodge
+beliefern,liefern,n,to distribute
+bewachen,wachen,n,to guard
+,sichern,n,to save
+umsteigen,steigen,y,to change
 unterzeichnen,zeichnen,n,to sign
-,fädeln,n,to floss
-,kassieren,n,to cashier
+verwalten,walten,n,to manage
+,fädeln,n,to baste
+verschachern,schachern,n,to barter away
 ausrechnen,rechnen,y,to calculate
 besagen,sagen,n,to imply
-durchdrehen,drehen,y,to spin
+durchdrehen,drehen,y,to freak out
 ,sägen,n,to saw
 rechtfertigen,fertigen,n,to justify
-verspotten,spotten,n,to deride
+verspotten,spotten,n,to flout
 ,einigen,n,to unite
-,läutern,n,to chasten
-nachlassen,lassen,y,to relax
-ertappen,tappen,n,to cop
-,sortieren,n,to arrange
-aussteigen,steigen,y,to alight
-einsteigen,steigen,y,to climb in
-zusteigen,steigen,y,to board [bus, tram etc.]
-ansteigen,steigen,y,to increase
-absteigen,steigen,y,to alight
-einleuchten,leuchten,y,to be apparent
-aufsteigen,steigen,y,to come
-ersteigen,steigen,n,to climb
-,schädigen,n,to cause harm
-beschneiden,schneiden,n,to clip
+ersorgen,sorgen,n,to await
+,läutern,n,to purge
+verzocken,zocken,n,to gamble away
+nachlassen,lassen,y,to abate
+befürchten,fürchten,n,to fear
+zurückziehen,ziehen,y,to withdraw
+ertappen,tappen,n,to catch
+,sortieren,n,to sort
+aussteigen,steigen,y,to get off
+vorbehalten,behalten,y,to reserve
+einsteigen,steigen,y,to get in
+ansteigen,steigen,y,to rise
+absteigen,steigen,y,to descend
+einleuchten,leuchten,y,to appear
+aufsteigen,steigen,y,to rise
+ersteigen,steigen,n,to come up
+,sprengen,n,to blow up
+abnützen,nützen,y,to outwear
+,schädigen,n,to damage
+beschneiden,schneiden,n,to circumcise
+,zehren,n,to atrophy
+,wundern,n,to surprise
 ,blicken,n,to look
-,weichen,n,to vanish
-,strapazieren,n,to stress
-aufschlagen,schlagen,y,to hit
+,weichen,n,to give way
+,strapazieren,n,to strain
+aufschlagen,schlagen,y,to pitch
 ,wachen,n,to watch
 ,erben,n,to inherit
-ausschmücken,schmücken,y,to decorate
-,zäumen,n,to bridle
+ausschmücken,schmücken,y,to beautify
+unternehmen,nehmen,n,to undertake
+einseifen,seifen,y,to soap
+,wetten,n,to bet
 emigrieren,migrieren,n,to emigrate
-ablaufen,laufen,y,to proceed
+vertragen,tragen,n,tolerate
+ablaufen,laufen,y,to expire
 innehaben,haben,y,to hold
 verschlafen,schlafen,n,to oversleep
-anklopfen,klopfen,y,to knock at [door etc.]
+anklopfen,klopfen,y,to call waiting
 ausschlagen,schlagen,y,to bud
-hinlegen,legen,y,to lay down
-umkippen,kippen,y,to capsize
-herausgeben,geben,y,to issue
-verschlingen,schlingen,n,to engulf
+hinlegen,legen,y,to lie down
+umkippen,kippen,y,to upset
+herausgeben,geben,y,to publish
+verschlingen,schlingen,n,to devour
 widerstehen,stehen,n,to resist
-vorhaben,haben,y,to mean
-,benennen,n,to label
-benennen,nennen,n,to label
+,hätscheln,n,to indulge
+vorhaben,haben,y,to intend
+anschicken,schicken,y,to prepare
+,schmachten,n,to languish
+verschmachten,schmachten,n,to languish
+,benennen,n,to name
+benennen,nennen,n,to name
 entzünden,zünden,n,to ignite
 umrechnen,rechnen,y,to convert
 ausbessern,bessern,y,to repair
-entfallen,fallen,n,to be cancelled
-übersiedeln,siedeln,y,to transfer
-überfallen,fallen,n,to attack
-versichern,sichern,n,to cover
-anstarren,starren,y,to gaze
-,sperren,n,to stop
-einsperren,sperren,y,to confine
-,naschen,n,to eat sweets on the sly
-hervorheben,heben,y,to signalize
-aushebeln,hebeln,y,to leverage
-,hebeln,n,to leverage
-verprügeln,prügeln,y,to batter
+erheischen,heischen,n,to ask
+,zeihen,n,to accuse
+entfallen,fallen,n,to allot
+erhören,hören,n,to grant
+übersiedeln,siedeln,y,to move
+überfallen,fallen,n,to invade
+versichern,sichern,n,to insure
+anstarren,starren,y,to stare
+anreden,reden,y,to address
+,sperren,n,to bar
+einsperren,sperren,y,to imprison
+,naschen,n,to snack
+hervorheben,heben,y,to highlight
+aushebeln,hebeln,y,to lever
+,hebeln,n,to lever
+absprechen,sprechen,y,to arrange
+verprügeln,prügeln,y,to lambaste
 abfeuern,feuern,y,to fire
-abwickeln,wickeln,y,to handle
-ansiedeln,siedeln,y,to settle [colonize]
+abwickeln,wickeln,y,to unwind
+ansiedeln,siedeln,y,to colonize
 vorschießen,schießen,y,to advance
-verstimmen,stimmen,n,to upset
-beantworten,antworten,n,to reply
-besingen,singen,n,to sing about
-einwenden,wenden,y,to argue
+abschöpfen,schöpfen,y,to skim
+verstimmen,stimmen,n,to contravene
+verhätscheln,hätscheln,n,to coddle
+beantworten,antworten,n,to answer
+besingen,singen,n,to express
+einwenden,wenden,y,to object
 versteigern,steigern,n,to auction
-anfechten,fechten,y,to challenge
+anfechten,fechten,y,to refute
 auswandern,wandern,y,to emigrate
-,stützen,n,to support
-vertagen,tagen,n,to prorogue
-verschanzen,schanzen,n,to fortify
-aufsitzen,sitzen,y,to mount
-beschicken,schicken,n,to charge
-,ackern,n,to plough [br.]
+,stützen,n,to sustain
+erlesen,lesen,n,to choice
+vertagen,tagen,n,to defer
+aufsitzen,sitzen,y,to straddle
+beschicken,schicken,n,to load
+,rackern,n,to drudge
+,ackern,n,to plod
 erleiden,leiden,n,to suffer
-beschimpfen,schimpfen,n,to attack
-überwiegen,wiegen,n,to outbalance
-ausmalen,malen,y,to paint in
-aufführen,führen,y,to present
-abschleppen,schleppen,y,to haul off
-wegtreten,treten,y,to stand down
-bekämpfen,kämpfen,n,to oppose
-verführen,führen,n,to allure
-beschmieren,schmieren,n,to bedaub
-versterben,sterben,n,to pass away [to die]
-verrichten,richten,n,to achieve
-abrufen,rufen,y,to call
-durchfahren,fahren,n,to pass through
-,ätzen,n,to acid-treat
-anfeuern,feuern,y,to encourage
-durchbrennen,brennen,y,to melt
-eintreffen,treffen,y,to reach
-herankommen,kommen,y,to close in
+abformen,formen,y,to molding
+beschimpfen,schimpfen,n,to abuse
+feilhalten,halten,y,to hawk
+überwiegen,wiegen,n,to preponderate
+einwerben,werben,y,to acquire
+verwählen,wählen,n,to misdial
+ausmalen,malen,y,to color
+aufführen,führen,y,to perform
+abschleppen,schleppen,y,tow
+wegtreten,treten,y,to dismiss
+bekämpfen,kämpfen,n,to fight
+verführen,führen,n,to seduce
+beschmieren,schmieren,n,to spread
+versterben,sterben,n,to die
+verrichten,richten,n,to answer the purpose
+abrufen,rufen,y,to fetch
+durchfahren,fahren,n,to break through
+,ätzen,n,to etch
+anfeuern,feuern,y,to excite
+beschleichen,schleichen,n,to steal up to
+durchbrennen,brennen,y,to elope
+eintreffen,treffen,y,to arrive
+herankommen,kommen,y,to approach
+kleinkriegen,kriegen,y,to break down
 aufbegehren,begehren,y,to protest
+entrinnen,rinnen,n,to escape from
 mitreißen,reißen,y,to carry away
 auftauchen,tauchen,y,to appear
-zufügen,fügen,y,to cause [injuries]
+mitgeben,geben,y,to give
+zufügen,fügen,y,to inflict
+ersitzen,sitzen,n,to acquire by adverse possession
+fremdgehen,gehen,y,to cheat
 ,zaubern,n,to conjure
-erstreben,streben,n,to strive
-umlaufen,laufen,y,to float
-anklagen,klagen,y,to charge
+,zäunen,n,to fence
+erstreben,streben,n,to aim at
+umlaufen,laufen,y,to circulate
+abmurksen,murksen,y,to drygulch
+anklagen,klagen,y,to accuse
+bescheißen,scheißen,n,to swindle
 abhaken,haken,y,to tick
 abhacken,hacken,y,to chop
-herabsetzen,setzen,y,to reduce
-zerstieben,stieben,n,to scatter
+herabsetzen,setzen,y,to belittle
+auflehnen,lehnen,y,to rebel
+zerstieben,stieben,n,to disperse
 anbeten,beten,y,to adore
+erfreuen,freuen,n,to delight
 vergreifen,greifen,n,to make a mistake
-,weihen,n,to dedicate
-einteilen,teilen,y,to arrange
+,weihen,n,to consecrate
+einteilen,teilen,y,to divide
 ,steigern,n,to increase
-durchsuchen,suchen,n,to examine
+durchsuchen,suchen,n,to search
 ausrüsten,rüsten,y,to equip
-vorlesen,lesen,y,to read aloud
+vorlesen,lesen,y,to read
 zerpflücken,pflücken,n,to pick to pieces
-freistellen,stellen,y,to release
-wegbringen,bringen,y,to bring away
+freistellen,stellen,y,to exonerate
+wegbringen,bringen,y,to take away
 ,nicken,n,to nod
-einzeichnen,zeichnen,y,to draw in
-verbrauchen,brauchen,n,to use
-gernhaben,haben,y,to appreciate [enjoy]
-ergründen,gründen,n,to sound
-missbilligen,billigen,n,to deprecate
-ablösen,lösen,y,to clear off
+einzeichnen,zeichnen,y,to brand
+verbrauchen,brauchen,n,to consume
+gernhaben,haben,y,to be fond of
+ergründen,gründen,n,to fathom
+verzehren,zehren,n,to consume
+missbilligen,billigen,n,to disapprove
+ablösen,lösen,y,to change places
+,schickern,n,to drink
 ,schleusen,n,to channel
-auflegen,legen,y,to issue
-aufwärmen,wärmen,y,to warm
+auflegen,legen,y,to apply
+aufwärmen,wärmen,y,to limber up
 ,kommandieren,n,to command
 erarbeiten,arbeiten,n,to acquire
-nachrechnen,rechnen,y,to add up again
-abhobeln,hobeln,y,to plane off
-umlegen,legen,y,to shift
-umerziehen,erziehen,y,to re-educate
-verputzen,putzen,n,to buff
-erlösen,lösen,n,to save
-,schminken,n,to make up
-abstecken,stecken,y,to define
-zurechtkommen,kommen,y,to manage
+gebieten,bieten,n,to command
+nachrechnen,rechnen,y,to recalculate
+abhobeln,hobeln,y,to cross out
+umlegen,legen,y,to apply
+verputzen,putzen,n,to parget
+erlösen,lösen,n,to deliver
+,schminken,n,to null
+,tupfen,n,to dab
+abstecken,stecken,y,to stake out
+abgewöhnen,gewöhnen,y,to give up
+zurechtkommen,kommen,y,to cope
 herziehen,ziehen,y,to pull near
-einspringen,springen,y,to act as a stand-in
-erbringen,bringen,n,to bring
-austreten,treten,y,to escape
-ausfragen,fragen,y,to interrogate
-abisolieren,isolieren,y,to strip
-überreden,reden,n,to argue
+einspringen,springen,y,to enter into
+erbringen,bringen,n,to bear
+austreten,treten,y,to leave
+ausfragen,fragen,y,to quiz
+zerstreiten,streiten,n,to fall out
+abisolieren,isolieren,y,to skin
+überreden,reden,n,to persuade
 ernennen,nennen,n,to appoint
-einfangen,fangen,y,to catch
+einfangen,fangen,y,to capture
 ,wringen,n,to wring
 ,scherzen,n,to joke
-,sickern,n,to soak
-,stauben,n,to make dust
-absichern,sichern,y,to ensure
-verbannen,bannen,n,to ban
-zerfallen,fallen,n,to be falling to pieces
+,sickern,n,to ooze
+absichern,sichern,y,to fuse
+überführen,führen,n,to rearrange
+verbannen,bannen,n,to banish
+zerfallen,fallen,n,to decompose
 abernten,ernten,y,to harvest
-abfliegen,fliegen,y,to start
-abfließen,fließen,y,to drain off
-demontieren,montieren,n,to strip
+abfliegen,fliegen,y,to take off
+abfließen,fließen,y,to exonerate
+demontieren,montieren,n,to dismantle
 aufessen,essen,y,to eat up
-beweinen,weinen,n,to beweep
-abfangen,fangen,y,to retain
-aufkochen,kochen,y,to boil up
-überarbeiten,arbeiten,n,to edit
-verschneiden,schneiden,n,to adulterate
+beweinen,weinen,n,to mourn
+abfangen,fangen,y,to intercept
+aufkochen,kochen,y,to boil
+abstillen,stillen,y,to wean
+anlügen,lügen,y,to lie to
+überarbeiten,arbeiten,n,to overwork
+abfärben,färben,y,to run
+verschneiden,schneiden,n,to neuter
+,knöpfen,n,to button
+ausfüllen,füllen,y,to fill out
 ,driften,n,to drift
 abtransportieren,transportieren,y,to evacuate
-verwünschen,wünschen,n,to cuss
-entreißen,reißen,n,to wrest from
-verschenken,schenken,n,to give as a present
-umreiten,reiten,n,to ride down [trample]
-,würgen,n,to suffocate
-anmalen,malen,y,to colour [br.]
-abdämmen,dämmen,y,to dam up
+verwünschen,wünschen,n,to bewitch
+entreißen,reißen,n,to dispossess
+verenden,enden,n,to perish
+verschenken,schenken,n,to offer
+umreiten,reiten,n,to ride down
+,pressen,n,to squeeze
+,würgen,n,to retch
+anmalen,malen,y,to paint
+abdämmen,dämmen,y,to dam
 ,dämmen,n,to dam
-abmessen,messen,y,to measure (off)
+abmessen,messen,y,to measure
+zerfleddern,fleddern,n,to tatter
 ankleben,kleben,y,to stick
-unterteilen,teilen,n,to divide
-freigeben,geben,y,to share
+unterteilen,teilen,n,to classify
+verfangen,fangen,n,to be caught
+,texten,n,to write
+freigeben,geben,y,to release
 missfallen,fallen,n,to displease
-ausspucken,spucken,y,to spit (out)
-anrichten,richten,y,to dress [food for table]
-ausbilden,bilden,y,to form
-vorschreiben,schreiben,y,to provide
-entehren,ehren,n,to brand
-umwandeln,wandeln,y,to change
-aufklären,klären,y,to brighten
-nachweisen,weisen,y,to establish
-gegenzeichnen,zeichnen,y,to counter-sign
-niederschreiben,schreiben,y,to commit to paper
-hinkommen,kommen,y,to reach it
+ausspucken,spucken,y,to disgorge
+stattgeben,geben,y,to accede
+anrichten,richten,y,to arrange
+,spritzen,n,to inject
+ausbilden,bilden,y,to educate
+beflügeln,flügeln,n,to buoy
+vorschreiben,schreiben,y,to prescribe
+entehren,ehren,n,to dishonour
+umwandeln,wandeln,y,to convert
+aufklären,klären,y,to enlighten
+nachweisen,weisen,y,to prove
+gegenzeichnen,zeichnen,y,to countersign
+niederschreiben,schreiben,y,to write down
+hinkommen,kommen,y,to arrive at
+herzukommen,kommen,y,to arrive
 vorzeigen,zeigen,y,to show
-zuschreiben,schreiben,y,to attribute
-einnässen,nässen,y,to wet the bed
-verleben,leben,n,to spend [one's time / life]
+zuschreiben,schreiben,y,to ascribe
+einnässen,nässen,y,to drip
+umsehen,sehen,y,to browse
+verleben,leben,n,to experience
 anblinzeln,blinzeln,y,to blink at
-vorübergehen,gehen,y,to blow over
-hinziehen,ziehen,y,to protract
-wehklagen,klagen,n,to moan
-befühlen,fühlen,n,to palpate
-mitfühlen,fühlen,y,to feel for
-aufrufen,rufen,y,to call
+vorübergehen,gehen,y,to elapse
+hinziehen,ziehen,y,to go
+eingrenzen,grenzen,y,to determine
+wehklagen,klagen,n,to lament
+nachfühlen,fühlen,y,to feel
+befühlen,fühlen,n,to feel
+mitfühlen,fühlen,y,to empathize
+anfühlen,fühlen,y,to feel
+erfühlen,fühlen,n,to sense
+feilbieten,bieten,y,to become popular
+leidtun,tun,y,to regret
+aufrufen,rufen,y,to invoke
 nachforschen,forschen,y,to investigate
-abräumen,räumen,y,to clean up
-,räumen,n,to deplete
-weglaufen,laufen,y,to elope
-mitessen,essen,y,to partake (of)
-anstecken,stecken,y,to stick
-,schlachten,n,to butcher
-anbeißen,beißen,y,to bite into
-aufblasen,blasen,y,to bloat
+abräumen,räumen,y,to abstract
+,räumen,n,to clear
+weglaufen,laufen,y,to run away
+mitessen,essen,y,to partake
+anstecken,stecken,y,to infect
+,schlachten,n,to slaughter
+anbeißen,beißen,y,to bite
+aufblasen,blasen,y,to inflate
 aufbleiben,bleiben,y,to sit up
+erschießen,schießen,n,to shoot
 nachgehen,gehen,y,to pursue
-lobpreisen,preisen,n,to praise
-ausliefern,liefern,y,to deliver
-aussterben,sterben,y,to become extinct
-festschreiben,schreiben,y,to codify
-überlaufen,laufen,y,to bubble over with
-beklagen,klagen,n,to moan
-heraufbeschwören,beschwören,y,to provoke
-,beschwören,n,to augur
-beschwören,schwören,n,to augur
-einschreiben,schreiben,y,to book
+herausnehmen,nehmen,y,to take out
+verstellen,stellen,n,to disguise
+ausbacken,backen,y,to fry
+einreiben,reiben,y,to rub
+lobpreisen,preisen,n,to compliment
+ausliefern,liefern,y,to distribute
+aussterben,sterben,y,to die out
+festschreiben,schreiben,y,to lay down
+überlaufen,laufen,y,to overflow
+beklagen,klagen,n,to bewail
+heraufbeschwören,beschwören,y,to evoke
+erwägen,wägen,n,to consider
+,beschwören,n,to plead
+beschwören,schwören,n,to plead
+einschreiben,schreiben,y,to register
 zerbröseln,bröseln,n,to crumble
 ,bröseln,n,to crumble
-abspülen,spülen,y,to rinse out
+verwackeln,wackeln,n,to blur
+abspülen,spülen,y,to gargle
 verwehen,wehen,n,to blow away
 ,schrumpfen,n,to shrink
+bekochen,kochen,n,to cook for
 aufteilen,teilen,y,to divide
-erfordern,fordern,n,to involve
-haushalten,halten,n,to economize
-absterben,sterben,y,to die away
-,feuern,n,to loose
-zuschließen,schließen,y,to shut
+erfordern,fordern,n,to require
+haushalten,halten,n,to budget
+verwahren,wahren,n,to cable
+absterben,sterben,y,to atrophy
+,feuern,n,to fire
+kleinreden,reden,y,to play down
+aufschließen,schließen,y,to unlock
+zuschließen,schließen,y,to lock
 großziehen,ziehen,y,to rear
-einkochen,kochen,y,to bottle
-einmachen,machen,y,to confect
-einbrennen,brennen,y,to brand
-kaputtmachen,machen,y,to ruinate
-dastehen,stehen,y,to stand there
-maßregeln,regeln,y,to proctorize
-durchwinken,winken,y,to wave through
-verreißen,reißen,n,to tear to shreds
-auslegen,legen,y,to disengage [gears]
+verschlampen,schlampen,n,to get lost
+,schlampen,n,to lollygag
+einkochen,kochen,y,to boil down
+einmachen,machen,y,to can
+einbrennen,brennen,y,to etch
+kaputtmachen,machen,y,to break
+dastehen,stehen,y,to loiter
+maßregeln,regeln,y,to reprimand
+dartun,tun,y,to explain
+erschlagen,schlagen,n,to slay
+vergasen,gasen,n,to gas
+zuraten,raten,y,to advise
+aufplustern,plustern,y,to fluff
+verreißen,reißen,n,to pull to pieces
+aufstoßen,stoßen,y,to overcome
+auslegen,legen,y,to interpret
 verwässern,wässern,n,to dilute
 ,scharren,n,to scrape
-nachsehen,sehen,y,to peek
+nachsehen,sehen,y,to look up
 großschreiben,schreiben,y,to capitalize
-begeben,geben,n,to issue
-aufsehen,sehen,y,to look up
+begeben,geben,n,to betake
+aufsehen,sehen,y,to look upward
 rekonstruieren,konstruieren,n,to reconstruct
-volltanken,tanken,y,to fill up (the fuel tank)
-überziehen,ziehen,y,to cover
-anschalten,schalten,y,to connect
-überbacken,backen,n,to bake over again
+volltanken,tanken,y,to fill up
+antun,tun,y,to accept
+überziehen,ziehen,y,to plate
+heimleuchten,leuchten,y,to send away
+anschalten,schalten,y,to switch on
+überbacken,backen,n,to scalloped
 begrenzen,grenzen,n,to limit
-begleichen,gleichen,n,to meet
-nachhaken,haken,y,to broach the subject again
-verdreschen,dreschen,n,to thresh
-erbauen,bauen,n,to construct
-abwürgen,würgen,y,to burke
+begleichen,gleichen,n,to acquit
+nachhaken,haken,y,to dig deeper
+entrichten,richten,n,to ante up
+verdreschen,dreschen,n,to lambaste
+erbauen,bauen,n,to build
+abwürgen,würgen,y,to stall
 preisgeben,geben,y,to abandon
-entzweibrechen,brechen,y,to shatter
-beiwohnen,wohnen,y,to witness
+entzweibrechen,brechen,y,to break
+verduften,duften,n,to beat it
+widersetzen,setzen,n,to defy
+beiwohnen,wohnen,y,to attend
 ausstopfen,stopfen,y,to stuff
+vergraben,graben,n,to bury
 ehebrechen,brechen,n,to commit adultery
-aufschreiben,schreiben,y,to record
-voranbringen,anbringen,y,to promote
-darniederliegen,liegen,y,to be laid low [ill]
-aufarbeiten,arbeiten,y,to recondition
-stillstehen,stehen,y,to stop
-verfliegen,fliegen,n,to fly away
-durchmachen,machen,y,to run through
-durchgehen,gehen,y,to pass
-staubsaugen,saugen,n,to do the hoovering
+aufschreiben,schreiben,y,to write down
+voranbringen,anbringen,y,to advance
+aufarbeiten,arbeiten,y,to collate
+ersaufen,saufen,n,to drown
+stillstehen,stehen,y,to be at standstill
+eincremen,cremen,y,to cream
+verfliegen,fliegen,n,to hit too much
+durchmachen,machen,y,to undergo
+durchgehen,gehen,y,to go through
+staubsaugen,saugen,n,to vacuum
 interpunktieren,punktieren,n,to punctuate
-gutheißen,heißen,y,to ratify
+gutheißen,heißen,y,to approve
 anbrennen,brennen,y,to burn
-eintauchen,tauchen,y,to plunge
-standhalten,halten,y,to resist
+eintauchen,tauchen,y,to immerse
+standhalten,halten,y,to hold out
 ,komplizieren,n,to complicate
 ausgraben,graben,y,to dig out
-abwandern,wandern,y,to vary
-verfahren,fahren,n,to move
+abwandern,wandern,y,to be transferred
+verfahren,fahren,n,to proceed
 ,knien,n,to kneel
 fehlinterpretieren,interpretieren,y,to misinterpret
-verschlucken,schlucken,n,to absorb
-aufscheinen,scheinen,y,to appear
+verschlucken,schlucken,n,to swallow
 aufblitzen,blitzen,y,to flash
+getrauen,trauen,n,to dare
 verwerfen,werfen,n,to reject
-beleuchten,leuchten,n,to illumine
-eislaufen,laufen,y,to ice-skate
-durchziehen,ziehen,y,to draw through
+beleuchten,leuchten,n,to illuminate
+durchziehen,ziehen,y,to pervade
+durchwachsen,wachsen,y,to fair to middling
 durchsagen,sagen,y,to announce
 mitgehen,gehen,y,to accompany
-eingestehen,gestehen,y,to concede
-entstammen,stammen,n,to derive from
-nachstellen,stellen,y,to adjust
-auslosen,losen,y,to draw by lot
-umwerfen,werfen,y,to bowl over
+eingestehen,gestehen,y,to own
+entstammen,stammen,n,to be descended from
+nachstellen,stellen,y,to keep watch on
+auslosen,losen,y,to draw
+umwerfen,werfen,y,to upset
 schlussfolgern,folgern,n,to conclude
-verkündigen,kündigen,n,to declare
-zerschlagen,schlagen,n,to shatter
-abpflücken,pflücken,y,to pick
-herausschneiden,schneiden,y,to excise
+verkündigen,kündigen,n,to annunciate
+zerschlagen,schlagen,n,to defeat
+abpflücken,pflücken,y,to pluck off
+herausschneiden,schneiden,y,to resect
 erzwingen,zwingen,n,to force
-berufen,rufen,n,to convene
+berufen,rufen,n,to appoint
 ,zedieren,n,to cede
-beheben,heben,n,to remove
-freihalten,halten,y,to keep clear
-abrutschen,rutschen,y,to slide
+zusammenreißen,reißen,y,to pull oneself together
+beheben,heben,n,to cash
+abwehren,wehren,y,to ward off
+freihalten,halten,y,to entertain
+abrutschen,rutschen,y,to slip off
 zusammenbrechen,brechen,y,to collapse
-zusammenschrauben,schrauben,y,to screw together
-mitspielen,spielen,y,to join the game
-abbrühen,brühen,y,to blanch
-festschrauben,schrauben,y,to screw down
-umgraben,graben,y,to dig
-ausbaggern,baggern,y,to clean out
-einwechseln,wechseln,y,to convert
+mitspielen,spielen,y,to feature
+abbrühen,brühen,y,to scald
+abrackern,rackern,y,to drudge
+festschrauben,schrauben,y,to screw tight
+umgraben,graben,y,to dig up
+ausbaggern,baggern,y,to dredge
+einwechseln,wechseln,y,to exchange
 ausbitten,bitten,y,to ask for
-durchschlafen,schlafen,y,to sleep through the night
-wegwerfen,werfen,y,to discard
-zusammenleimen,leimen,y,to agglutinate
-aufrechterhalten,erhalten,y,to maintain
-durchlaufen,laufen,y,to pass
+abtupfen,tupfen,y,to dab
+wegwerfen,werfen,y,to throw away
+aufrechterhalten,erhalten,y,to buoy up
+durchlaufen,laufen,y,to run through
+flachlegen,legen,y,to lay
+schwarzfahren,fahren,y,to stowaway
 schwarzarbeiten,arbeiten,y,to do illicit work
 notschlachten,schlachten,n,to destroy
-anfallen,fallen,y,to assail
+anfallen,fallen,y,to accrue
+reinwaschen,waschen,y,to purge
 ausbügeln,bügeln,y,to iron out
-ausposaunen,posaunen,y,to broadcast
-,posaunen,n,to proclaim loudly
+ausposaunen,posaunen,y,to blazon abroad
+,posaunen,n,to blow
 abfassen,fassen,y,to compose
-anbraten,braten,y,to brown
-bestreuen,streuen,n,to bespread
-aufgießen,gießen,y,to infuse
+anbraten,braten,y,to roast gently
+bestreuen,streuen,n,to cover
+einfüllen,füllen,y,to pour in
+übergießen,gießen,y,to douse
+aufgießen,gießen,y,to brew
 abtropfen,tropfen,y,to drip off
-aufwarten,warten,y,to attend
-anreißen,reißen,n,to mark
+aufwarten,warten,y,to serve
+anreißen,reißen,n,to forfeit
 verzerren,zerren,n,to distort
-anknüpfen,knüpfen,y,to contact
-bezweifeln,zweifeln,n,to suspect
-aufzwingen,zwingen,y,to force
-verlöten,löten,n,to solder (up)
-aufschieben,schieben,y,to delay
-verachten,achten,n,to condemn
-lobsingen,singen,n,to chant the praises of
+anknüpfen,knüpfen,y,to begin
+bezweifeln,zweifeln,n,to doubt
+aufzwingen,zwingen,y,to bludgeon
+,plustern,n,to fluff
+verlöten,löten,n,to solder
+aufschieben,schieben,y,to postpone
+verachten,achten,n,to despise
+warmhalten,halten,y,to keep warm
+zustellen,stellen,y,to deliver
 überstrapazieren,strapazieren,n,to overwork
-niederknien,knien,y,to genuflect
+niederknien,knien,y,to kneel down
 einschreiten,schreiten,y,to intervene
-erforschen,forschen,n,to investigate
+erforschen,forschen,n,to explore
 ,strahlen,n,to shine
-einlegen,legen,y,to insert
+einlegen,legen,y,to pickle
+zubringen,bringen,y,to accord
+austragen,tragen,y,to settle
 ,schulden,n,to owe
 entspannen,spannen,n,to relax
-verstauben,stauben,n,to gather dust
-wegkommen,kommen,y,to get away
-weitergeben,geben,y,to hand down
-bestreiten,streiten,n,to argue
-bestaunen,staunen,n,to gaze
-durchtrennen,trennen,n,to cut through
-,staunen,n,to marvel
-entstauben,stauben,n,to dust
-,gestehen,n,to admit
-gestehen,stehen,n,to admit
-besiedeln,siedeln,n,to colonialize
+wegkommen,kommen,y,to walk
+weitergeben,geben,y,to impart
+aufsagen,sagen,y,to declaim
+bestreiten,streiten,n,to deny
+bestaunen,staunen,n,to gape
+durchtrennen,trennen,n,to sever
+,staunen,n,to be amazed
+,gestehen,n,to confess
+gestehen,stehen,n,to confess
+besiedeln,siedeln,n,to people
 bekehren,kehren,n,to proselytize
-nachsprechen,sprechen,y,to repeat [sth. said]
+nachsprechen,sprechen,y,to repeat after
+befeuchten,feuchten,n,to moisten
 überschreiben,schreiben,n,to overwrite
-verwachsen,wachsen,n,to coalesce
-ausstehen,stehen,y,to bear
-,prallen,n,to bounce
-vorspielen,spielen,y,to play aloud
+vorknöpfen,knöpfen,y,to take someone to task
+verwachsen,wachsen,n,to aggregated
+ausstehen,stehen,y,to abide
+,prallen,n,to bump
+vorspielen,spielen,y,to audition
 abklappern,klappern,y,to canvass
-einnicken,nicken,y,to doze off [coll.]
-verrechnen,rechnen,n,to settle
-einfädeln,fädeln,y,to arrange
-zerfließen,fließen,n,to dissolve
-untertauchen,tauchen,y,to plunge
-durchatmen,atmen,y,to catch a breath
-freisprechen,sprechen,y,to discharge
-vorbeischauen,schauen,y,to call in
+einnicken,nicken,y,to doze off
+verrechnen,rechnen,n,to clear
+abwaschen,waschen,y,to do the dishes
+einfädeln,fädeln,y,to thread
+zerfließen,fließen,n,to melt
+untertauchen,tauchen,y,to submerge
+freisprechen,sprechen,y,to absolve
+dahinsiechen,siechen,y,to languish
+vorbeischauen,schauen,y,to stop by
 verscherzen,scherzen,n,to throw away
-einrücken,rücken,y,to insert
+,wägen,n,to ponder
+einstehen,stehen,y,to vouch
+einrücken,rücken,y,to indent
 verladen,laden,n,to load
-zupacken,packen,y,to grab
-vergelten,gelten,n,to repay
-unterbringen,bringen,y,to place
-,fasen,n,to bevel
-verklagen,klagen,n,to indict
-,wässern,n,to soak
+zupacken,packen,y,to get down
+vergelten,gelten,n,to requite
+unterbringen,bringen,y,to accommodate
+verklagen,klagen,n,to sue
+,wässern,n,to water
 ,wärmen,n,to warm
-verdampfen,dampfen,n,to become vaporized
+,haspeln,n,to reel
+verzagen,zagen,n,to despond
+verdampfen,dampfen,n,to evaporate
 zerschneiden,schneiden,n,to cut
+umzäunen,zäunen,n,to fence
+einleben,leben,y,to immerse oneself
 ,brühen,n,to scald
-verbraten,braten,n,to overcook [meat, etc.]
-einschiffen,schiffen,y,to ship
-auftanken,tanken,y,to fill up
-erwecken,wecken,n,to inspire
+verbraten,braten,n,to blow
+dekomponieren,komponieren,n,to decompose
+einschiffen,schiffen,y,to embark
+auftanken,tanken,y,to gas
+ausschiffen,schiffen,y,to disembark
+erwecken,wecken,n,to awake
 belecken,lecken,n,to lick
-entstellen,stellen,n,to distort
-gesundschrumpfen,schrumpfen,y,to downsize
-entwarnen,warnen,n,to give the all-clear
-überladen,laden,n,to clutter
-entweichen,weichen,n,to get out of reach
-verstoßen,stoßen,n,to offend
-umstoßen,stoßen,y,to annihilate
-zurückschicken,schicken,y,to remit
-zusammenziehen,ziehen,y,to concentrate
-erachten,achten,n,to consider [deem]
-,tappen,n,to pad
-errechnen,rechnen,n,to generate
+zutrauen,trauen,y,to commend
+entstellen,stellen,n,to disfigure
+gesundschrumpfen,schrumpfen,y,to rightsize
+überladen,laden,n,to overload
+verhängen,hängen,n,to inflict
+entweichen,weichen,n,to evade
+verstoßen,stoßen,n,to disown
+umstoßen,stoßen,y,to subvert
+abmustern,mustern,y,to pay off
+zurückschicken,schicken,y,to send back
+zusammenziehen,ziehen,y,to contract
+erachten,achten,n,to deem
+einbilden,bilden,y,to imagine
+,tappen,n,to grope
+errechnen,rechnen,n,to compute
 anreisen,reisen,y,to arrive
-zusammenstellen,stellen,y,to arrange
+zusammenstellen,stellen,y,to compose
 herbeirufen,rufen,y,to call
-abtrennen,trennen,y,to clip
-anhängen,hängen,y,to stick
+abtrennen,trennen,y,to cut
+anhängen,hängen,y,to append
 zerstechen,stechen,n,to prick all over
-abreagieren,reagieren,y,to work off
-stehenbleiben,bleiben,y,to stop
+zermalmen,malmen,n,to crush
+abreagieren,reagieren,y,to abreact
+stehenbleiben,bleiben,y,to rest
 missglücken,glücken,n,to fail
-,rauen,n,to roughen
-generalüberholen,überholen,n,to refurbish
+wegloben,loben,y,to kick upstairs
+zutexten,texten,y,to at
+,rauen,n,to nap
+vergaffen,gaffen,n,to be smitten with
 vergären,gären,n,to ferment
-hineingehen,gehen,y,to go inside
+hineingehen,gehen,y,to enter
+bepissen,pissen,n,to bepiss
 überschreiten,schreiten,n,to exceed
-,schlüpfen,n,to eclose
-anklicken,klicken,y,to click (on)
-entfahren,fahren,n,to escape
-unterlegen,legen,n,to place underneath
+,feuchten,n,to humid
+,schlüpfen,n,to hatch
+aufscheuchen,scheuchen,y,to scare up
+anklicken,klicken,y,to click
+unterlegen,legen,n,to been subject to
 unterliegen,liegen,n,to be defeated
-einsitzen,sitzen,y,to be in gaol [br.]
-abfressen,fressen,y,to browse
+verwetten,wetten,n,to bet
 abkommandieren,kommandieren,y,to draft
-abstauben,stauben,y,to brush the dust off
-abpacken,packen,y,to pack [fish, meat in tin, etc]
+anfeuchten,feuchten,y,to moisten
+beharren,harren,n,to persevere
+bescheinen,scheinen,n,to illuminate
+abpacken,packen,y,to pack
 abrasieren,rasieren,y,to shave off
-abpfeifen,pfeifen,y,to blow the final whistle
-abzäumen,zäumen,y,to take the bridle off
-entsagen,sagen,n,to abdicate
-entschlafen,schlafen,n,to pass over [euphemistic: to die]
-,siedeln,n,to colonize
-wachrütteln,rütteln,y,to arouse
+abquetschen,quetschen,y,to squeezing
+abpellen,pellen,y,to peel
+abpfeifen,pfeifen,y,to whistle to a close
+abzäunen,zäunen,y,to fence off
+entsagen,sagen,n,to abandon
+entschlafen,schlafen,n,to die
+abjagen,jagen,y,to recover from
+,siedeln,n,to settle
+wachrütteln,rütteln,y,to jolt
 mithelfen,helfen,y,to assist
+abpressen,pressen,y,to extort
 absaugen,saugen,y,to exhaust
-abscheiden,scheiden,y,to eliminate
+abscheiden,scheiden,y,to cable
 erbitten,bitten,n,to request
-zurückgewinnen,gewinnen,y,to regain
-abwechseln,wechseln,y,to change
-einschleppen,schleppen,y,to import [viruses etc.]
-irreführen,führen,y,to bewilder
-mitfahren,fahren,y,to go with
-umwehen,wehen,y,to blow down
+zurückgewinnen,gewinnen,y,to recuperate
+abwechseln,wechseln,y,to alternate
+einschleppen,schleppen,y,to introduce
+irreführen,führen,y,to mislead
+mitfahren,fahren,y,to accompany
+umwehen,wehen,y,to blow over
+ereilen,eilen,n,to overtake
+verwundern,wundern,n,to amaze
+anmahnen,mahnen,y,to dun
+vorschweben,schweben,y,to have in mind
+entflechten,flechten,n,to decartelize
 verfestigen,festigen,n,to strengthen
-durchsickern,sickern,y,to soak
-befahren,fahren,n,to drive along
-einschleusen,schleusen,y,to channel in
-vorankommen,kommen,y,to succeed
-aufbrauchen,brauchen,y,to spend
-einwerfen,werfen,y,to interject
-entschwinden,schwinden,n,to vanish
-aushelfen,helfen,y,to assist
-zurückliegen,liegen,y,to be down
-achtgeben,geben,y,to be careful
-anschreiben,schreiben,y,to score
+besehen,sehen,n,to had a look at
+durchsickern,sickern,y,to leak
+befahren,fahren,n,to frequented
+einschleusen,schleusen,y,to send in
+befüllen,füllen,n,to fill
+verschleppen,schleppen,n,to procrastinate
+vorankommen,kommen,y,to advance
+aufbrauchen,brauchen,y,to use up
+einwerfen,werfen,y,to insert
+entschwinden,schwinden,n,to disappear
+begasen,gasen,n,to fumigation
+aushelfen,helfen,y,to help out
+zurückliegen,liegen,y,to be delayed
+achtgeben,geben,y,to pay attention
+wegschmeißen,schmeißen,y,to throw away
+anschreiben,schreiben,y,to notch
 vorhersagen,sagen,y,to predict
-angleichen,gleichen,y,to adjust
+angleichen,gleichen,y,to adapt
+abfüllen,füllen,y,to get drunk
+verpetzen,petzen,n,to snitch
 weiterbauen,bauen,y,to continue building
-erhoffen,hoffen,n,to anticipate
-nachwürzen,würzen,y,to spice up [make tastier]
-nachsalzen,salzen,y,to add more salt
-verwildern,wildern,n,to barbarize
+erhoffen,hoffen,n,to desire
+,missen,n,to miss
+nachwürzen,würzen,y,to spice up
+verwildern,wildern,n,to be rough
 ,hobeln,n,to plane
+ankotzen,kotzen,y,to piss off
+unterspülen,spülen,n,to hollow out
 ausschenken,schenken,y,to pour out
-auszahlen,zahlen,y,to cash out
-auswringen,wringen,y,to wring out
-auswickeln,wickeln,y,to untuck
+auszahlen,zahlen,y,to pay
+auswringen,wringen,y,to wring
+auswickeln,wickeln,y,to unwrap
 draufzahlen,zahlen,y,to pay extra
-verkennen,kennen,n,to fail to recognize
+verkennen,kennen,n,to misread
 überdauern,dauern,n,to survive
-,nässen,n,to ooze
-einarbeiten,arbeiten,y,to include
-belauschen,lauschen,n,to overhear
-verstören,stören,n,to unsettle
+,nässen,n,to wet
+erküren,küren,n,to choose
+einarbeiten,arbeiten,y,to get used to the work
+belauschen,lauschen,n,to eavesdrop
+verstören,stören,n,to derail
 aufrauen,rauen,y,to roughen
 ,röten,n,to redden
-verheißen,heißen,n,to promise
-überstellen,stellen,n,to transfer
+bejammern,jammern,n,to be sad
+verheißen,heißen,n,to bode
 abliefern,liefern,y,to deliver
-anstoßen,stoßen,y,to push
-abmachen,machen,y,to settle
-abstempeln,stempeln,y,to stamp
-voraussetzen,setzen,y,to require
-wiedervereinigen,vereinigen,y,to come together again
+anstoßen,stoßen,y,to nudge
+abmachen,machen,y,to arrange
+abstempeln,stempeln,y,to cancel
+voraussetzen,setzen,y,to presuppose
+wiedervereinigen,vereinigen,y,to reunite
 abgewinnen,gewinnen,y,to take pleasure in
-abkassieren,kassieren,y,to cash up
-abschalten,schalten,y,to clear
-ausformulieren,formulieren,y,to formulate
+abreiben,reiben,y,to rub
+abschalten,schalten,y,to switch off
 zuschlagen,schlagen,y,to slam
 verkomplizieren,komplizieren,n,to complicate
-entfliehen,fliehen,n,to escape
-nachholen,holen,y,to fetch later
-wegblasen,blasen,y,to blow away
-fertigstellen,stellen,y,to accomplish
+verdonnern,donnern,n,to condemn
+entfliehen,fliehen,n,to flee
+nachholen,holen,y,to catch up
+wegblasen,blasen,y,to blow
+fertigstellen,stellen,y,to complete
+wiederfinden,finden,y,to find again
 verrosten,rosten,n,to rust
+umschauen,schauen,y,to look round
 verstreben,streben,n,to brace
-verwarnen,warnen,n,to warn
+,cremen,n,to cream
+verwarnen,warnen,n,to caution
 wiedersehen,sehen,y,to see again
-heimführen,führen,y,to take home
+anschleichen,schleichen,y,to sneak up on
+heimführen,führen,y,to marry
 nachladen,laden,y,to download
-näherbringen,bringen,y,to bring close
+auskennen,kennen,y,to know
+erwürgen,würgen,n,to strangle
+zurückgreifen,greifen,y,to resort
 beglücken,glücken,n,to delight
 verzeichnen,zeichnen,n,to enter
-aufbessern,bessern,y,to improve
-,schanzen,n,to dig (trenches)
-verzaubern,zaubern,n,to becharm
-bedrücken,drücken,n,to bear down
-ausschlüpfen,schlüpfen,y,to come out
-,beizen,n,to baste
-zufrieren,frieren,y,to freeze over
-entbinden,binden,n,to release
-beregnen,regnen,n,to water
-abstoßen,stoßen,y,to push
+aufbessern,bessern,y,to eke out
+verzaubern,zaubern,n,to enchant
+bedrücken,drücken,n,to oppress
+ausschlüpfen,schlüpfen,y,to hatch
+,beizen,n,to etch
+zufrieren,frieren,y,to freeze
+entbinden,binden,n,to absolve
+beregnen,regnen,n,to dampen
+abstoßen,stoßen,y,to turn off
 verheilen,heilen,n,to heal
-aufatmen,atmen,y,to sigh
-emporsteigen,steigen,y,to rise
-nachmachen,machen,y,to clone
+aufatmen,atmen,y,to breathe again
+emporsteigen,steigen,y,to ascend
+nachmachen,machen,y,to imitate
 abzählen,zählen,y,to count
 zufallen,fallen,y,to close
-zergehen,gehen,n,to dissolve
-aufzählen,zählen,y,to list
+zersägen,sägen,n,to saw up
+zergehen,gehen,n,to deliquesce
+aufzählen,zählen,y,to enumerate
 abwischen,wischen,y,to wipe
-ausschimpfen,schimpfen,y,to berate
-zurechtweisen,weisen,y,to carpet [br.] [coll.]
-umändern,ändern,y,to alter
+ausschimpfen,schimpfen,y,to scold
+zurechtweisen,weisen,y,to reprimand
+umändern,ändern,y,to change
+auskotzen,kotzen,y,to be sick
+hinarbeiten,arbeiten,y,to aiming at

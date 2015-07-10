@@ -38,10 +38,18 @@ class xmlRecord:
         return self.name.encode(CODE) + "\n" + self.trans.encode(CODE) +\
                 "\n" + separ + "\nRoot:" + r.encode(CODE) + "\n"
 
+    # Shouldn't need to make any API calls, so it just makes note
+    # if the dicionary look up fails
+    # Also makes sure that it has the to prepended to the verb
     def getEnTrans(self, dictionary):
         try:
-            return dictionary[self.name]
+            trans = dictionary[self.name]
+            if not trans.startswith(u'to') and trans != NA:
+                trans = u'to ' + trans
+            return trans
         except KeyError:
+            print self.name.encode(CODE)
+            return NA
             try:
                 link = "https://glosbe.com/gapi/translate?from=deu&dest=eng" +\
                             "&format=json&phrase=" +\
@@ -173,10 +181,6 @@ def main():
 
     print "Writing Out Results...."
     writeOut(records)
-    print "Complete."
-
-    print "Saving Cache"
-    writeOutDict(wordTrans)
     print "Complete."
 
 

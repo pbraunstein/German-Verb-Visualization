@@ -1,17 +1,28 @@
 [
 {
+	"root": "weilen",
+	"trans": "to abide",
+	"childWords": [
+		{
+			"verb": "verweilen",
+			"separ": false,
+			"trans": "to linger"
+		}
+	]
+},
+{
 	"root": "scheiden",
-	"trans": "to divide",
+	"trans": "to divorce",
 	"childWords": [
 		{
 			"verb": "ausscheiden",
 			"separ": true,
-			"trans": "to withdraw"
+			"trans": "to excrete"
 		},
 		{
 			"verb": "verscheiden",
 			"separ": false,
-			"trans": "to decease"
+			"trans": "to pass away"
 		},
 		{
 			"verb": "unterscheiden",
@@ -26,18 +37,34 @@
 		{
 			"verb": "abscheiden",
 			"separ": true,
-			"trans": "to eliminate"
+			"trans": "to cable"
+		}
+	]
+},
+{
+	"root": "seifen",
+	"trans": "to soap",
+	"childWords": [
+		{
+			"verb": "einseifen",
+			"separ": true,
+			"trans": "to soap"
 		}
 	]
 },
 {
 	"root": "dienen",
-	"trans": "to conduce",
+	"trans": "to serve",
 	"childWords": [
+		{
+			"verb": "abdienen",
+			"separ": true,
+			"trans": "to serve out"
+		},
 		{
 			"verb": "bedienen",
 			"separ": false,
-			"trans": "to manage"
+			"trans": "to serve"
 		},
 		{
 			"verb": "verdienen",
@@ -48,12 +75,17 @@
 },
 {
 	"root": "steigen",
-	"trans": "to increase",
+	"trans": "to climb",
 	"childWords": [
 		{
 			"verb": "besteigen",
 			"separ": false,
-			"trans": "to climb"
+			"trans": "to mount"
+		},
+		{
+			"verb": "bergsteigen",
+			"separ": false,
+			"trans": "to go mountaineering"
 		},
 		{
 			"verb": "übersteigen",
@@ -63,53 +95,92 @@
 		{
 			"verb": "umsteigen",
 			"separ": true,
-			"trans": "to change trains"
+			"trans": "to change"
 		},
 		{
 			"verb": "aussteigen",
 			"separ": true,
-			"trans": "to alight"
+			"trans": "to get off"
 		},
 		{
 			"verb": "einsteigen",
 			"separ": true,
-			"trans": "to climb in"
-		},
-		{
-			"verb": "zusteigen",
-			"separ": true,
-			"trans": "to board [bus"
+			"trans": "to get in"
 		},
 		{
 			"verb": "ansteigen",
 			"separ": true,
-			"trans": "to increase"
+			"trans": "to rise"
 		},
 		{
 			"verb": "absteigen",
 			"separ": true,
-			"trans": "to alight"
+			"trans": "to descend"
 		},
 		{
 			"verb": "aufsteigen",
 			"separ": true,
-			"trans": "to come"
+			"trans": "to rise"
 		},
 		{
 			"verb": "ersteigen",
 			"separ": false,
-			"trans": "to climb"
+			"trans": "to come up"
 		},
 		{
 			"verb": "emporsteigen",
 			"separ": true,
-			"trans": "to rise"
+			"trans": "to ascend"
+		}
+	]
+},
+{
+	"root": "steigern",
+	"trans": "to increase",
+	"childWords": [
+		{
+			"verb": "versteigern",
+			"separ": false,
+			"trans": "to auction"
+		}
+	]
+},
+{
+	"root": "kreiden",
+	"trans": "to chalk",
+	"childWords": [
+		{
+			"verb": "ankreiden",
+			"separ": true,
+			"trans": "to chalk up"
+		}
+	]
+},
+{
+	"root": "schachern",
+	"trans": "to haggle",
+	"childWords": [
+		{
+			"verb": "verschachern",
+			"separ": false,
+			"trans": "to barter away"
+		}
+	]
+},
+{
+	"root": "schwärzen",
+	"trans": "to blacken",
+	"childWords": [
+		{
+			"verb": "anschwärzen",
+			"separ": true,
+			"trans": "to denigrate"
 		}
 	]
 },
 {
 	"root": "rüsten",
-	"trans": "to mount",
+	"trans": "to arm",
 	"childWords": [
 		{
 			"verb": "ausrüsten",
@@ -120,34 +191,45 @@
 },
 {
 	"root": "lenken",
-	"trans": "to lead",
+	"trans": "to channel",
 	"childWords": [
 		{
 			"verb": "einlenken",
 			"separ": true,
-			"trans": "to back down"
+			"trans": "to give in"
+		}
+	]
+},
+{
+	"root": "komponieren",
+	"trans": "to compose",
+	"childWords": [
+		{
+			"verb": "dekomponieren",
+			"separ": false,
+			"trans": "to decompose"
 		}
 	]
 },
 {
 	"root": "tilgen",
-	"trans": "to settle",
+	"trans": "to extinguish",
 	"childWords": [
 		{
 			"verb": "vertilgen",
 			"separ": false,
-			"trans": "to destroy"
+			"trans": "to exterminate"
 		}
 	]
 },
 {
 	"root": "reizen",
-	"trans": "to stir",
+	"trans": "to irritate",
 	"childWords": [
 		{
 			"verb": "ausreizen",
 			"separ": true,
-			"trans": "to exhaust"
+			"trans": "to milk"
 		}
 	]
 },
@@ -158,40 +240,34 @@
 		{
 			"verb": "gerinnen",
 			"separ": false,
-			"trans": "to clot"
-		}
-	]
-},
-{
-	"root": "strapazieren",
-	"trans": "to stress",
-	"childWords": [
+			"trans": "to coagulate"
+		},
 		{
-			"verb": "überstrapazieren",
+			"verb": "entrinnen",
 			"separ": false,
-			"trans": "to overwork"
+			"trans": "to escape from"
 		}
 	]
 },
 {
 	"root": "beschwören",
-	"trans": "to augur",
+	"trans": "to plead",
 	"childWords": [
 		{
 			"verb": "heraufbeschwören",
 			"separ": true,
-			"trans": "to provoke"
+			"trans": "to evoke"
 		}
 	]
 },
 {
 	"root": "pflegen",
-	"trans": "to maintain",
+	"trans": "to nurse",
 	"childWords": [
 		{
 			"verb": "einpflegen",
 			"separ": true,
-			"trans": "to populate"
+			"trans": "to update"
 		},
 		{
 			"verb": "verpflegen",
@@ -201,50 +277,93 @@
 	]
 },
 {
-	"root": "gründen",
-	"trans": "to build",
+	"root": "begehren",
+	"trans": "to desire",
 	"childWords": [
 		{
-			"verb": "begründen",
-			"separ": false,
-			"trans": "to constitute"
-		},
-		{
-			"verb": "ergründen",
-			"separ": false,
-			"trans": "to sound"
+			"verb": "aufbegehren",
+			"separ": true,
+			"trans": "to protest"
 		}
 	]
 },
 {
-	"root": "lohnen",
-	"trans": "to remunerate",
+	"root": "kümmern",
+	"trans": "to care",
 	"childWords": [
 		{
-			"verb": "belohnen",
+			"verb": "verkümmern",
 			"separ": false,
-			"trans": "to award"
+			"trans": "to atrophy"
+		}
+	]
+},
+{
+	"root": "gründen",
+	"trans": "to establish",
+	"childWords": [
+		{
+			"verb": "begründen",
+			"separ": false,
+			"trans": "to establish"
 		},
 		{
-			"verb": "entlohnen",
+			"verb": "ergründen",
 			"separ": false,
-			"trans": "to remunerate"
+			"trans": "to fathom"
+		}
+	]
+},
+{
+	"root": "küren",
+	"trans": "to choose",
+	"childWords": [
+		{
+			"verb": "erküren",
+			"separ": false,
+			"trans": "to choose"
+		}
+	]
+},
+{
+	"root": "klagen",
+	"trans": "to complain",
+	"childWords": [
+		{
+			"verb": "anklagen",
+			"separ": true,
+			"trans": "to accuse"
+		},
+		{
+			"verb": "wehklagen",
+			"separ": false,
+			"trans": "to lament"
+		},
+		{
+			"verb": "beklagen",
+			"separ": false,
+			"trans": "to bewail"
+		},
+		{
+			"verb": "verklagen",
+			"separ": false,
+			"trans": "to sue"
 		}
 	]
 },
 {
 	"root": "drehen",
-	"trans": "to turn",
+	"trans": "to turn around",
 	"childWords": [
 		{
 			"verb": "aufdrehen",
 			"separ": true,
-			"trans": "to untwist"
+			"trans": "to up"
 		},
 		{
 			"verb": "umdrehen",
 			"separ": true,
-			"trans": "to turn"
+			"trans": "to upset"
 		},
 		{
 			"verb": "andrehen",
@@ -254,13 +373,13 @@
 		{
 			"verb": "durchdrehen",
 			"separ": true,
-			"trans": "to spin"
+			"trans": "to freak out"
 		}
 	]
 },
 {
 	"root": "hacken",
-	"trans": "to pick",
+	"trans": "to chop",
 	"childWords": [
 		{
 			"verb": "abhacken",
@@ -276,7 +395,7 @@
 		{
 			"verb": "zernagen",
 			"separ": false,
-			"trans": "to gnaw away"
+			"trans": "to eat into"
 		}
 	]
 },
@@ -287,7 +406,12 @@
 		{
 			"verb": "anhaben",
 			"separ": true,
-			"trans": "to sport [wear]"
+			"trans": "to wear"
+		},
+		{
+			"verb": "liebhaben",
+			"separ": true,
+			"trans": "to be fond of"
 		},
 		{
 			"verb": "innehaben",
@@ -297,49 +421,49 @@
 		{
 			"verb": "vorhaben",
 			"separ": true,
-			"trans": "to mean"
+			"trans": "to intend"
 		},
 		{
 			"verb": "gernhaben",
 			"separ": true,
-			"trans": "to appreciate [enjoy]"
+			"trans": "to be fond of"
 		}
 	]
 },
 {
 	"root": "trennen",
-	"trans": "to separate",
+	"trans": "to divide",
 	"childWords": [
 		{
 			"verb": "durchtrennen",
 			"separ": false,
-			"trans": "to cut through"
+			"trans": "to sever"
 		},
 		{
 			"verb": "abtrennen",
 			"separ": true,
-			"trans": "to clip"
+			"trans": "to cut"
 		}
 	]
 },
 {
 	"root": "bleiben",
-	"trans": "to continue",
+	"trans": "to stay",
 	"childWords": [
 		{
 			"verb": "verbleiben",
 			"separ": false,
-			"trans": "to continue"
+			"trans": "to dwell"
 		},
 		{
 			"verb": "ausbleiben",
 			"separ": true,
-			"trans": "to be absent"
+			"trans": "to not to be forthcoming"
 		},
 		{
 			"verb": "zurückbleiben",
 			"separ": true,
-			"trans": "to remain"
+			"trans": "to fall behind"
 		},
 		{
 			"verb": "aufbleiben",
@@ -349,18 +473,23 @@
 		{
 			"verb": "stehenbleiben",
 			"separ": true,
-			"trans": "to stop"
+			"trans": "to rest"
 		}
 	]
 },
 {
 	"root": "schiffen",
-	"trans": "to navigate",
+	"trans": "to rain",
 	"childWords": [
 		{
 			"verb": "einschiffen",
 			"separ": true,
-			"trans": "to ship"
+			"trans": "to embark"
+		},
+		{
+			"verb": "ausschiffen",
+			"separ": true,
+			"trans": "to disembark"
 		}
 	]
 },
@@ -368,6 +497,11 @@
 	"root": "winden",
 	"trans": "to wind",
 	"childWords": [
+		{
+			"verb": "verwinden",
+			"separ": false,
+			"trans": "to get over"
+		},
 		{
 			"verb": "überwinden",
 			"separ": false,
@@ -377,45 +511,45 @@
 },
 {
 	"root": "vereinigen",
-	"trans": "to join",
+	"trans": "to unite",
 	"childWords": [
 		{
 			"verb": "wiedervereinigen",
 			"separ": true,
-			"trans": "to come together again"
+			"trans": "to reunite"
 		}
 	]
 },
 {
 	"root": "bestellen",
-	"trans": "to order",
+	"trans": "to request",
 	"childWords": [
 		{
 			"verb": "abbestellen",
 			"separ": true,
-			"trans": "to cancel"
+			"trans": "to unsubscribe"
 		}
 	]
 },
 {
 	"root": "benennen",
-	"trans": "to label",
+	"trans": "to name",
 	"childWords": [
 		{
 			"verb": "umbenennen",
 			"separ": true,
-			"trans": "to re-brand"
+			"trans": "to rename"
 		}
 	]
 },
 {
 	"root": "gestehen",
-	"trans": "to admit",
+	"trans": "to confess",
 	"childWords": [
 		{
 			"verb": "eingestehen",
 			"separ": true,
-			"trans": "to concede"
+			"trans": "to own"
 		}
 	]
 },
@@ -431,75 +565,77 @@
 	]
 },
 {
+	"root": "harren",
+	"trans": "to await",
+	"childWords": [
+		{
+			"verb": "beharren",
+			"separ": false,
+			"trans": "to persevere"
+		}
+	]
+},
+{
 	"root": "nässen",
-	"trans": "to ooze",
+	"trans": "to wet",
 	"childWords": [
 		{
 			"verb": "einnässen",
 			"separ": true,
-			"trans": "to wet the bed"
+			"trans": "to drip"
+		}
+	]
+},
+{
+	"root": "malmen",
+	"trans": "to grind",
+	"childWords": [
+		{
+			"verb": "zermalmen",
+			"separ": false,
+			"trans": "to crush"
 		}
 	]
 },
 {
 	"root": "brüten",
-	"trans": "to breed",
+	"trans": "to brood",
 	"childWords": [
 		{
 			"verb": "ausbrüten",
 			"separ": true,
-			"trans": "to breed"
+			"trans": "to hatch"
 		}
 	]
 },
 {
-	"root": "arbeiten",
-	"trans": "to work",
+	"root": "füllen",
+	"trans": "to fill",
 	"childWords": [
 		{
-			"verb": "abarbeiten",
-			"separ": true,
-			"trans": "to handle"
-		},
-		{
-			"verb": "bearbeiten",
+			"verb": "erfüllen",
 			"separ": false,
-			"trans": "to treat"
+			"trans": "to fulfil"
 		},
 		{
-			"verb": "ausarbeiten",
+			"verb": "ausfüllen",
 			"separ": true,
-			"trans": "to develop"
+			"trans": "to fill out"
 		},
 		{
-			"verb": "verarbeiten",
+			"verb": "einfüllen",
+			"separ": true,
+			"trans": "to pour in"
+		},
+		{
+			"verb": "befüllen",
 			"separ": false,
-			"trans": "to handle"
+			"trans": "to fill"
 		},
 		{
-			"verb": "erarbeiten",
-			"separ": false,
-			"trans": "to acquire"
-		},
-		{
-			"verb": "überarbeiten",
-			"separ": false,
-			"trans": "to edit"
-		},
-		{
-			"verb": "aufarbeiten",
+			"verb": "abfüllen",
 			"separ": true,
-			"trans": "to recondition"
-		},
-		{
-			"verb": "schwarzarbeiten",
-			"separ": true,
-			"trans": "to do illicit work"
-		},
-		{
-			"verb": "einarbeiten",
-			"separ": true,
-			"trans": "to include"
+			"trans": "to get drunk"
 		}
 	]
 },
@@ -508,6 +644,11 @@
 	"trans": "to drink",
 	"childWords": [
 		{
+			"verb": "betrinken",
+			"separ": false,
+			"trans": "to get drunk"
+		},
+		{
 			"verb": "ertrinken",
 			"separ": false,
 			"trans": "to drown"
@@ -515,7 +656,7 @@
 		{
 			"verb": "austrinken",
 			"separ": true,
-			"trans": "to drink off"
+			"trans": "to drink up"
 		}
 	]
 },
@@ -536,12 +677,12 @@
 		{
 			"verb": "überwachen",
 			"separ": false,
-			"trans": "to watch"
+			"trans": "to monitor"
 		},
 		{
 			"verb": "bewachen",
 			"separ": false,
-			"trans": "to watch"
+			"trans": "to guard"
 		}
 	]
 },
@@ -552,18 +693,18 @@
 		{
 			"verb": "entfliehen",
 			"separ": false,
-			"trans": "to escape"
+			"trans": "to flee"
 		}
 	]
 },
 {
 	"root": "schätzen",
-	"trans": "to regard",
+	"trans": "to appreciate",
 	"childWords": [
 		{
 			"verb": "unterschätzen",
 			"separ": false,
-			"trans": "to underrate"
+			"trans": "to underestimate"
 		},
 		{
 			"verb": "überschätzen",
@@ -573,13 +714,13 @@
 		{
 			"verb": "einschätzen",
 			"separ": true,
-			"trans": "to assess"
+			"trans": "to judge"
 		}
 	]
 },
 {
 	"root": "wechseln",
-	"trans": "to vary",
+	"trans": "to change",
 	"childWords": [
 		{
 			"verb": "verwechseln",
@@ -589,12 +730,23 @@
 		{
 			"verb": "einwechseln",
 			"separ": true,
-			"trans": "to convert"
+			"trans": "to exchange"
 		},
 		{
 			"verb": "abwechseln",
 			"separ": true,
-			"trans": "to change"
+			"trans": "to alternate"
+		}
+	]
+},
+{
+	"root": "hätscheln",
+	"trans": "to indulge",
+	"childWords": [
+		{
+			"verb": "verhätscheln",
+			"separ": false,
+			"trans": "to coddle"
 		}
 	]
 },
@@ -606,17 +758,11 @@
 			"verb": "abbezahlen",
 			"separ": true,
 			"trans": "to pay off"
-		}
-	]
-},
-{
-	"root": "schanzen",
-	"trans": "to dig (trenches)",
-	"childWords": [
+		},
 		{
-			"verb": "verschanzen",
-			"separ": false,
-			"trans": "to fortify"
+			"verb": "einbezahlen",
+			"separ": true,
+			"trans": "to pay in"
 		}
 	]
 },
@@ -627,13 +773,13 @@
 		{
 			"verb": "verschlucken",
 			"separ": false,
-			"trans": "to absorb"
+			"trans": "to swallow"
 		}
 	]
 },
 {
 	"root": "treffen",
-	"trans": "to hit",
+	"trans": "to strike",
 	"childWords": [
 		{
 			"verb": "betreffen",
@@ -643,29 +789,29 @@
 		{
 			"verb": "eintreffen",
 			"separ": true,
-			"trans": "to reach"
+			"trans": "to arrive"
 		}
 	]
 },
 {
 	"root": "bremsen",
-	"trans": "to stop",
+	"trans": "to brake",
 	"childWords": [
 		{
 			"verb": "abbremsen",
 			"separ": true,
-			"trans": "to apply the brake"
+			"trans": "to brake"
 		}
 	]
 },
 {
 	"root": "erstehen",
-	"trans": "to acquire",
+	"trans": "to buy",
 	"childWords": [
 		{
 			"verb": "auferstehen",
 			"separ": true,
-			"trans": "to arise"
+			"trans": "to rise"
 		}
 	]
 },
@@ -676,29 +822,44 @@
 		{
 			"verb": "beregnen",
 			"separ": false,
-			"trans": "to water"
+			"trans": "to dampen"
 		}
 	]
 },
 {
 	"root": "bedingen",
-	"trans": "to determine",
+	"trans": "to bring about",
 	"childWords": [
 		{
 			"verb": "abbedingen",
 			"separ": true,
-			"trans": "to waive"
+			"trans": "to exclude by convention"
 		}
 	]
 },
 {
 	"root": "eilen",
-	"trans": "to rush",
+	"trans": "to hurry",
 	"childWords": [
+		{
+			"verb": "enteilen",
+			"separ": false,
+			"trans": "to be excessive"
+		},
 		{
 			"verb": "forteilen",
 			"separ": true,
-			"trans": "to hasten away"
+			"trans": "to hurry away"
+		},
+		{
+			"verb": "beeilen",
+			"separ": false,
+			"trans": "to hurry"
+		},
+		{
+			"verb": "ereilen",
+			"separ": false,
+			"trans": "to overtake"
 		}
 	]
 },
@@ -709,7 +870,7 @@
 		{
 			"verb": "absenden",
 			"separ": true,
-			"trans": "to post"
+			"trans": "to forward"
 		},
 		{
 			"verb": "versenden",
@@ -720,17 +881,17 @@
 },
 {
 	"root": "wohnen",
-	"trans": "to be in residence",
+	"trans": "to live",
 	"childWords": [
 		{
 			"verb": "bewohnen",
 			"separ": false,
-			"trans": "to indwell"
+			"trans": "to inhabit"
 		},
 		{
 			"verb": "beiwohnen",
 			"separ": true,
-			"trans": "to witness"
+			"trans": "to attend"
 		}
 	]
 },
@@ -741,34 +902,92 @@
 		{
 			"verb": "verputzen",
 			"separ": false,
-			"trans": "to buff"
+			"trans": "to parget"
+		}
+	]
+},
+{
+	"root": "weigern",
+	"trans": "to refuse",
+	"childWords": [
+		{
+			"verb": "verweigern",
+			"separ": false,
+			"trans": "to refuse"
+		}
+	]
+},
+{
+	"root": "reichen",
+	"trans": "to hand",
+	"childWords": [
+		{
+			"verb": "erreichen",
+			"separ": false,
+			"trans": "to accomplish"
+		},
+		{
+			"verb": "überreichen",
+			"separ": false,
+			"trans": "to hand over"
+		},
+		{
+			"verb": "ausreichen",
+			"separ": true,
+			"trans": "to suffice"
+		},
+		{
+			"verb": "hinreichen",
+			"separ": true,
+			"trans": "to suffice"
 		}
 	]
 },
 {
 	"root": "lesen",
-	"trans": "to muzz [br.] [public school sl.]",
+	"trans": "to read",
 	"childWords": [
 		{
-			"verb": "gegenlesen",
-			"separ": true,
-			"trans": "to revise"
+			"verb": "verlesen",
+			"separ": false,
+			"trans": "to call a roll"
+		},
+		{
+			"verb": "erlesen",
+			"separ": false,
+			"trans": "to choice"
 		},
 		{
 			"verb": "vorlesen",
 			"separ": true,
-			"trans": "to read aloud"
+			"trans": "to read"
 		}
 	]
 },
 {
-	"root": "reagieren",
-	"trans": "to react",
+	"root": "takeln",
+	"trans": "to rig",
 	"childWords": [
 		{
-			"verb": "abreagieren",
+			"verb": "auftakeln",
 			"separ": true,
-			"trans": "to work off"
+			"trans": "to rig"
+		},
+		{
+			"verb": "abtakeln",
+			"separ": true,
+			"trans": "to unrig"
+		}
+	]
+},
+{
+	"root": "gammeln",
+	"trans": "to bum",
+	"childWords": [
+		{
+			"verb": "vergammeln",
+			"separ": false,
+			"trans": "to decay"
 		}
 	]
 },
@@ -784,7 +1003,7 @@
 		{
 			"verb": "nachhaken",
 			"separ": true,
-			"trans": "to broach the subject again"
+			"trans": "to dig deeper"
 		}
 	]
 },
@@ -795,7 +1014,7 @@
 		{
 			"verb": "eröffnen",
 			"separ": false,
-			"trans": "to open"
+			"trans": "to establish"
 		}
 	]
 },
@@ -812,17 +1031,22 @@
 },
 {
 	"root": "schleppen",
-	"trans": "to pull",
+	"trans": "to drag",
 	"childWords": [
 		{
 			"verb": "abschleppen",
 			"separ": true,
-			"trans": "to haul off"
+			"trans": "tow"
 		},
 		{
 			"verb": "einschleppen",
 			"separ": true,
-			"trans": "to import [viruses etc.]"
+			"trans": "to introduce"
+		},
+		{
+			"verb": "verschleppen",
+			"separ": false,
+			"trans": "to procrastinate"
 		}
 	]
 },
@@ -833,56 +1057,71 @@
 		{
 			"verb": "einleuchten",
 			"separ": true,
-			"trans": "to be apparent"
+			"trans": "to appear"
+		},
+		{
+			"verb": "heimleuchten",
+			"separ": true,
+			"trans": "to send away"
 		},
 		{
 			"verb": "beleuchten",
 			"separ": false,
-			"trans": "to illumine"
+			"trans": "to illuminate"
 		}
 	]
 },
 {
 	"root": "fädeln",
-	"trans": "to floss",
+	"trans": "to baste",
 	"childWords": [
 		{
 			"verb": "einfädeln",
 			"separ": true,
-			"trans": "to arrange"
+			"trans": "to thread"
 		}
 	]
 },
 {
 	"root": "streiten",
-	"trans": "to argue",
+	"trans": "to fight",
 	"childWords": [
+		{
+			"verb": "zerstreiten",
+			"separ": false,
+			"trans": "to fall out"
+		},
 		{
 			"verb": "bestreiten",
 			"separ": false,
-			"trans": "to argue"
+			"trans": "to deny"
 		}
 	]
 },
 {
-	"root": "einigen",
-	"trans": "to unite",
+	"root": "regen",
+	"trans": "to stir",
 	"childWords": [
 		{
-			"verb": "vereinigen",
+			"verb": "erregen",
 			"separ": false,
-			"trans": "to join"
+			"trans": "to excite"
+		},
+		{
+			"verb": "aufregen",
+			"separ": true,
+			"trans": "to excite"
 		}
 	]
 },
 {
 	"root": "sondern",
-	"trans": "to abstract",
+	"trans": "to but",
 	"childWords": [
 		{
 			"verb": "absondern",
 			"separ": true,
-			"trans": "to exclude"
+			"trans": "to isolate"
 		}
 	]
 },
@@ -893,39 +1132,61 @@
 		{
 			"verb": "abbrühen",
 			"separ": true,
-			"trans": "to blanch"
+			"trans": "to scald"
+		}
+	]
+},
+{
+	"root": "zäunen",
+	"trans": "to fence",
+	"childWords": [
+		{
+			"verb": "umzäunen",
+			"separ": false,
+			"trans": "to fence"
+		},
+		{
+			"verb": "abzäunen",
+			"separ": true,
+			"trans": "to fence off"
 		}
 	]
 },
 {
 	"root": "stützen",
-	"trans": "to support",
+	"trans": "to sustain",
 	"childWords": [
 		{
 			"verb": "unterstützen",
 			"separ": false,
-			"trans": "to provide"
+			"trans": "to help"
 		},
 		{
 			"verb": "abstützen",
 			"separ": true,
-			"trans": "to brace"
+			"trans": "to shore up"
 		}
 	]
 },
 {
-	"root": "stechen",
-	"trans": "to stick",
+	"root": "fressen",
+	"trans": "to eat",
 	"childWords": [
 		{
-			"verb": "bestechen",
+			"verb": "verfressen",
 			"separ": false,
-			"trans": "to boodle"
-		},
+			"trans": "to gluttonous"
+		}
+	]
+},
+{
+	"root": "duften",
+	"trans": "to smell",
+	"childWords": [
 		{
-			"verb": "zerstechen",
+			"verb": "verduften",
 			"separ": false,
-			"trans": "to prick all over"
+			"trans": "to beat it"
 		}
 	]
 },
@@ -936,128 +1197,171 @@
 		{
 			"verb": "erfolgen",
 			"separ": false,
-			"trans": "to follow"
+			"trans": "to happen"
 		},
 		{
 			"verb": "verfolgen",
 			"separ": false,
-			"trans": "to track"
+			"trans": "to pursue"
 		},
 		{
 			"verb": "befolgen",
 			"separ": false,
-			"trans": "to abide (by)"
+			"trans": "to obey"
 		}
 	]
 },
 {
-	"root": "klagen",
-	"trans": "to complain",
+	"root": "zocken",
+	"trans": "to gamble",
 	"childWords": [
 		{
-			"verb": "anklagen",
-			"separ": true,
-			"trans": "to charge"
-		},
-		{
-			"verb": "wehklagen",
+			"verb": "verzocken",
 			"separ": false,
-			"trans": "to moan"
-		},
-		{
-			"verb": "beklagen",
-			"separ": false,
-			"trans": "to moan"
-		},
-		{
-			"verb": "verklagen",
-			"separ": false,
-			"trans": "to indict"
+			"trans": "to gamble away"
 		}
 	]
 },
 {
-	"root": "zählen",
-	"trans": "to count",
+	"root": "lohnen",
+	"trans": "to worth",
 	"childWords": [
 		{
-			"verb": "erzählen",
+			"verb": "belohnen",
 			"separ": false,
-			"trans": "to talk"
+			"trans": "to reward"
 		},
 		{
-			"verb": "abzählen",
-			"separ": true,
-			"trans": "to count"
+			"verb": "entlohnen",
+			"separ": false,
+			"trans": "to compensate"
+		}
+	]
+},
+{
+	"root": "gießen",
+	"trans": "to pour",
+	"childWords": [
+		{
+			"verb": "ergießen",
+			"separ": false,
+			"trans": "to gush"
 		},
 		{
-			"verb": "aufzählen",
+			"verb": "vergießen",
+			"separ": false,
+			"trans": "to shed"
+		},
+		{
+			"verb": "übergießen",
 			"separ": true,
-			"trans": "to list"
+			"trans": "to douse"
+		},
+		{
+			"verb": "aufgießen",
+			"separ": true,
+			"trans": "to brew"
 		}
 	]
 },
 {
 	"root": "decken",
-	"trans": "to defray",
+	"trans": "to cover",
 	"childWords": [
 		{
 			"verb": "abdecken",
 			"separ": true,
-			"trans": "to conceal"
+			"trans": "to cover"
 		},
 		{
 			"verb": "aufdecken",
 			"separ": true,
-			"trans": "to reveal"
+			"trans": "to expose"
 		},
 		{
 			"verb": "entdecken",
 			"separ": false,
 			"trans": "to discover"
+		},
+		{
+			"verb": "bedecken",
+			"separ": false,
+			"trans": "to cover"
 		}
 	]
 },
 {
 	"root": "locken",
-	"trans": "to attract",
+	"trans": "to lure",
 	"childWords": [
 		{
 			"verb": "anlocken",
 			"separ": true,
-			"trans": "to allure"
+			"trans": "to bait"
+		}
+	]
+},
+{
+	"root": "sterben",
+	"trans": "to die",
+	"childWords": [
+		{
+			"verb": "versterben",
+			"separ": false,
+			"trans": "to die"
+		},
+		{
+			"verb": "aussterben",
+			"separ": true,
+			"trans": "to die out"
+		},
+		{
+			"verb": "absterben",
+			"separ": true,
+			"trans": "to atrophy"
 		}
 	]
 },
 {
 	"root": "schwören",
-	"trans": "to pledge",
+	"trans": "to swear",
 	"childWords": [
 		{
 			"verb": "beschwören",
 			"separ": false,
-			"trans": "to augur"
+			"trans": "to plead"
 		}
 	]
 },
 {
 	"root": "springen",
-	"trans": "to leap",
+	"trans": "to jump",
 	"childWords": [
 		{
 			"verb": "beispringen",
 			"separ": true,
-			"trans": "to assist"
+			"trans": "to accommodate"
 		},
 		{
 			"verb": "entspringen",
 			"separ": false,
-			"trans": "to arise"
+			"trans": "to spring"
 		},
 		{
 			"verb": "einspringen",
 			"separ": true,
-			"trans": "to act as a stand-in"
+			"trans": "to enter into"
+		}
+	]
+},
+{
+	"root": "kranken",
+	"trans": "to suffer",
+	"childWords": [
+		{
+			"verb": "erkranken",
+			"separ": false,
+			"trans": "to fall ill"
 		}
 	]
 },
@@ -1073,59 +1377,69 @@
 	]
 },
 {
-	"root": "gießen",
-	"trans": "to cast",
+	"root": "zählen",
+	"trans": "to count",
 	"childWords": [
 		{
-			"verb": "vergießen",
+			"verb": "erzählen",
 			"separ": false,
-			"trans": "to cast"
+			"trans": "to tell"
 		},
 		{
-			"verb": "aufgießen",
+			"verb": "abzählen",
 			"separ": true,
-			"trans": "to infuse"
+			"trans": "to count"
+		},
+		{
+			"verb": "aufzählen",
+			"separ": true,
+			"trans": "to enumerate"
 		}
 	]
 },
 {
 	"root": "geben",
-	"trans": "to deal",
+	"trans": "to pass",
 	"childWords": [
 		{
 			"verb": "eingeben",
 			"separ": true,
-			"trans": "to read"
+			"trans": "to enter"
 		},
 		{
 			"verb": "aufgeben",
 			"separ": true,
-			"trans": "to dismiss"
+			"trans": "to forsake"
 		},
 		{
 			"verb": "vorgeben",
 			"separ": true,
-			"trans": "to specify"
+			"trans": "to pretend"
+		},
+		{
+			"verb": "angeben",
+			"separ": true,
+			"trans": "to declare"
 		},
 		{
 			"verb": "zurückgeben",
 			"separ": true,
-			"trans": "to give back"
+			"trans": "to return"
 		},
 		{
 			"verb": "vergeben",
 			"separ": false,
-			"trans": "to allot"
+			"trans": "to forgive"
 		},
 		{
 			"verb": "übergeben",
 			"separ": false,
-			"trans": "to deliver"
+			"trans": "to hand over"
 		},
 		{
 			"verb": "ausgeben",
 			"separ": true,
-			"trans": "to put"
+			"trans": "to spend"
 		},
 		{
 			"verb": "umgeben",
@@ -1140,27 +1454,37 @@
 		{
 			"verb": "wiedergeben",
 			"separ": true,
-			"trans": "to perform"
+			"trans": "to render"
 		},
 		{
 			"verb": "nachgeben",
 			"separ": true,
-			"trans": "to fall"
+			"trans": "to give up"
 		},
 		{
 			"verb": "herausgeben",
 			"separ": true,
-			"trans": "to issue"
+			"trans": "to publish"
+		},
+		{
+			"verb": "mitgeben",
+			"separ": true,
+			"trans": "to give"
 		},
 		{
 			"verb": "freigeben",
 			"separ": true,
-			"trans": "to share"
+			"trans": "to release"
+		},
+		{
+			"verb": "stattgeben",
+			"separ": true,
+			"trans": "to accede"
 		},
 		{
 			"verb": "begeben",
 			"separ": false,
-			"trans": "to issue"
+			"trans": "to betake"
 		},
 		{
 			"verb": "preisgeben",
@@ -1170,39 +1494,50 @@
 		{
 			"verb": "weitergeben",
 			"separ": true,
-			"trans": "to hand down"
+			"trans": "to impart"
 		},
 		{
 			"verb": "achtgeben",
 			"separ": true,
-			"trans": "to be careful"
+			"trans": "to pay attention"
 		}
 	]
 },
 {
-	"root": "sterben",
-	"trans": "to die",
+	"root": "mahnen",
+	"trans": "to urge",
 	"childWords": [
 		{
-			"verb": "versterben",
-			"separ": false,
-			"trans": "to pass away [to die]"
+			"verb": "abmahnen",
+			"separ": true,
+			"trans": "to admonish"
 		},
 		{
-			"verb": "aussterben",
+			"verb": "einmahnen",
 			"separ": true,
-			"trans": "to become extinct"
+			"trans": "to ask"
 		},
 		{
-			"verb": "absterben",
+			"verb": "anmahnen",
 			"separ": true,
-			"trans": "to die away"
+			"trans": "to dun"
+		}
+	]
+},
+{
+	"root": "schmeicheln",
+	"trans": "to flatter",
+	"childWords": [
+		{
+			"verb": "einschmeicheln",
+			"separ": true,
+			"trans": "to ingratiate"
 		}
 	]
 },
 {
 	"root": "tropfen",
-	"trans": "to drip",
+	"trans": "to drop",
 	"childWords": [
 		{
 			"verb": "abtropfen",
@@ -1213,12 +1548,44 @@
 },
 {
 	"root": "baggern",
-	"trans": "to dredge",
+	"trans": "to dig",
 	"childWords": [
 		{
 			"verb": "ausbaggern",
 			"separ": true,
-			"trans": "to clean out"
+			"trans": "to dredge"
+		}
+	]
+},
+{
+	"root": "zielen",
+	"trans": "to aim",
+	"childWords": [
+		{
+			"verb": "erzielen",
+			"separ": false,
+			"trans": "to score"
+		},
+		{
+			"verb": "abzielen",
+			"separ": true,
+			"trans": "to aim"
+		}
+	]
+},
+{
+	"root": "schrecken",
+	"trans": "to frighten",
+	"childWords": [
+		{
+			"verb": "erschrecken",
+			"separ": false,
+			"trans": "to scare"
+		},
+		{
+			"verb": "abschrecken",
+			"separ": true,
+			"trans": "to chill"
 		}
 	]
 },
@@ -1229,7 +1596,7 @@
 		{
 			"verb": "verschieben",
 			"separ": false,
-			"trans": "to move"
+			"trans": "to postpone"
 		},
 		{
 			"verb": "abschieben",
@@ -1244,39 +1611,18 @@
 		{
 			"verb": "aufschieben",
 			"separ": true,
-			"trans": "to delay"
+			"trans": "to postpone"
 		}
 	]
 },
 {
-	"root": "schrecken",
-	"trans": "to daunt",
+	"root": "pellen",
+	"trans": "to peel",
 	"childWords": [
 		{
-			"verb": "erschrecken",
-			"separ": false,
-			"trans": "to frighten"
-		},
-		{
-			"verb": "abschrecken",
+			"verb": "abpellen",
 			"separ": true,
-			"trans": "to discourage"
-		}
-	]
-},
-{
-	"root": "zielen",
-	"trans": "to aim",
-	"childWords": [
-		{
-			"verb": "erzielen",
-			"separ": false,
-			"trans": "to reach"
-		},
-		{
-			"verb": "abzielen",
-			"separ": true,
-			"trans": "to tend [incline]"
+			"trans": "to peel"
 		}
 	]
 },
@@ -1287,28 +1633,33 @@
 		{
 			"verb": "erhoffen",
 			"separ": false,
-			"trans": "to anticipate"
+			"trans": "to desire"
 		}
 	]
 },
 {
 	"root": "kehren",
-	"trans": "to sweep [with a broom]",
+	"trans": "to sweep",
 	"childWords": [
 		{
 			"verb": "zurückkehren",
 			"separ": true,
-			"trans": "to revert"
+			"trans": "to return"
+		},
+		{
+			"verb": "auskehren",
+			"separ": true,
+			"trans": "to clean out"
 		},
 		{
 			"verb": "umkehren",
 			"separ": true,
-			"trans": "to revert"
+			"trans": "to upset"
 		},
 		{
 			"verb": "verkehren",
 			"separ": false,
-			"trans": "to communicate"
+			"trans": "to associate"
 		},
 		{
 			"verb": "bekehren",
@@ -1329,38 +1680,13 @@
 	]
 },
 {
-	"root": "werfen",
-	"trans": "to throw",
+	"root": "danken",
+	"trans": "to thank",
 	"childWords": [
 		{
-			"verb": "entwerfen",
+			"verb": "bedanken",
 			"separ": false,
-			"trans": "to plan"
-		},
-		{
-			"verb": "abwerfen",
-			"separ": true,
-			"trans": "to buck off"
-		},
-		{
-			"verb": "verwerfen",
-			"separ": false,
-			"trans": "to reject"
-		},
-		{
-			"verb": "umwerfen",
-			"separ": true,
-			"trans": "to bowl over"
-		},
-		{
-			"verb": "wegwerfen",
-			"separ": true,
-			"trans": "to discard"
-		},
-		{
-			"verb": "einwerfen",
-			"separ": true,
-			"trans": "to interject"
+			"trans": "to thank"
 		}
 	]
 },
@@ -1377,17 +1703,17 @@
 },
 {
 	"root": "hindern",
-	"trans": "to prevent",
+	"trans": "to hinder",
 	"childWords": [
 		{
 			"verb": "verhindern",
 			"separ": false,
-			"trans": "to stop"
+			"trans": "to prevent"
 		},
 		{
 			"verb": "behindern",
 			"separ": false,
-			"trans": "to interfere"
+			"trans": "to hinder"
 		}
 	]
 },
@@ -1398,44 +1724,50 @@
 		{
 			"verb": "einatmen",
 			"separ": true,
-			"trans": "to breathe"
+			"trans": "to inhale"
 		},
 		{
 			"verb": "ausatmen",
 			"separ": true,
-			"trans": "to breathe out"
-		},
-		{
-			"verb": "durchatmen",
-			"separ": true,
-			"trans": "to catch a breath"
+			"trans": "to expire"
 		},
 		{
 			"verb": "aufatmen",
 			"separ": true,
-			"trans": "to sigh"
+			"trans": "to breathe again"
 		}
 	]
 },
 {
 	"root": "preisen",
-	"trans": "to advertise",
+	"trans": "to praise",
 	"childWords": [
 		{
 			"verb": "lobpreisen",
 			"separ": false,
-			"trans": "to praise"
+			"trans": "to compliment"
+		}
+	]
+},
+{
+	"root": "gaffen",
+	"trans": "to rubberneck",
+	"childWords": [
+		{
+			"verb": "vergaffen",
+			"separ": false,
+			"trans": "to be smitten with"
 		}
 	]
 },
 {
 	"root": "mieten",
-	"trans": "to hire",
+	"trans": "to rent",
 	"childWords": [
 		{
 			"verb": "vermieten",
 			"separ": false,
-			"trans": "to charter"
+			"trans": "to let"
 		}
 	]
 },
@@ -1446,24 +1778,29 @@
 		{
 			"verb": "ankreuzen",
 			"separ": true,
-			"trans": "to tick"
+			"trans": "to cross"
+		},
+		{
+			"verb": "aufkreuzen",
+			"separ": true,
+			"trans": "to pop up"
 		}
 	]
 },
 {
 	"root": "tagen",
-	"trans": "to be in session",
+	"trans": "to meet",
 	"childWords": [
 		{
 			"verb": "vertagen",
 			"separ": false,
-			"trans": "to prorogue"
+			"trans": "to defer"
 		}
 	]
 },
 {
 	"root": "dürfen",
-	"trans": "to dare",
+	"trans": "to may",
 	"childWords": [
 		{
 			"verb": "bedürfen",
@@ -1474,32 +1811,37 @@
 },
 {
 	"root": "halten",
-	"trans": "to save [football]",
+	"trans": "to last",
 	"childWords": [
 		{
 			"verb": "unterhalten",
 			"separ": false,
-			"trans": "to keep"
+			"trans": "to entertain"
 		},
 		{
 			"verb": "anhalten",
 			"separ": true,
-			"trans": "to block"
+			"trans": "to stop"
 		},
 		{
 			"verb": "erhalten",
 			"separ": false,
-			"trans": "to receive"
+			"trans": "to get"
 		},
 		{
 			"verb": "enthalten",
 			"separ": false,
-			"trans": "to hold"
+			"trans": "to contain"
 		},
 		{
 			"verb": "beinhalten",
 			"separ": false,
-			"trans": "to include"
+			"trans": "to contain"
+		},
+		{
+			"verb": "aufhalten",
+			"separ": true,
+			"trans": "to stay"
 		},
 		{
 			"verb": "behalten",
@@ -1509,63 +1851,88 @@
 		{
 			"verb": "aushalten",
 			"separ": true,
-			"trans": "to bear"
+			"trans": "to endure"
 		},
 		{
 			"verb": "festhalten",
 			"separ": true,
-			"trans": "to hold"
+			"trans": "to grip"
 		},
 		{
 			"verb": "durchhalten",
 			"separ": true,
-			"trans": "to bear up"
+			"trans": "to persevere"
 		},
 		{
 			"verb": "abhalten",
 			"separ": true,
-			"trans": "to discourage"
+			"trans": "to deter"
 		},
 		{
 			"verb": "zurückhalten",
 			"separ": true,
-			"trans": "to hold"
+			"trans": "to withhold"
 		},
 		{
 			"verb": "hinhalten",
 			"separ": true,
-			"trans": "to delay"
+			"trans": "to hold out"
+		},
+		{
+			"verb": "verhalten",
+			"separ": false,
+			"trans": "to behave"
 		},
 		{
 			"verb": "innehalten",
 			"separ": true,
-			"trans": "to hold"
+			"trans": "to pause"
+		},
+		{
+			"verb": "feilhalten",
+			"separ": true,
+			"trans": "to hawk"
 		},
 		{
 			"verb": "haushalten",
 			"separ": false,
-			"trans": "to economize"
+			"trans": "to budget"
 		},
 		{
 			"verb": "standhalten",
 			"separ": true,
-			"trans": "to resist"
+			"trans": "to hold out"
 		},
 		{
 			"verb": "freihalten",
 			"separ": true,
-			"trans": "to keep clear"
+			"trans": "to entertain"
+		},
+		{
+			"verb": "warmhalten",
+			"separ": true,
+			"trans": "to keep warm"
 		}
 	]
 },
 {
-	"root": "transportieren",
-	"trans": "to transport",
+	"root": "kaufen",
+	"trans": "to buy",
 	"childWords": [
 		{
-			"verb": "abtransportieren",
+			"verb": "abkaufen",
 			"separ": true,
-			"trans": "to evacuate"
+			"trans": "to buy"
+		},
+		{
+			"verb": "verkaufen",
+			"separ": false,
+			"trans": "to sell"
+		},
+		{
+			"verb": "einkaufen",
+			"separ": true,
+			"trans": "to shop"
 		}
 	]
 },
@@ -1576,7 +1943,7 @@
 		{
 			"verb": "abändern",
 			"separ": true,
-			"trans": "to vary"
+			"trans": "to change"
 		},
 		{
 			"verb": "verändern",
@@ -1586,39 +1953,40 @@
 		{
 			"verb": "umändern",
 			"separ": true,
-			"trans": "to alter"
+			"trans": "to change"
 		}
 	]
 },
 {
 	"root": "sickern",
-	"trans": "to soak",
+	"trans": "to ooze",
 	"childWords": [
 		{
 			"verb": "durchsickern",
 			"separ": true,
-			"trans": "to soak"
+			"trans": "to leak"
 		}
 	]
 },
 {
-	"root": "liefern",
-	"trans": "to provide",
+	"root": "schmeißen",
+	"trans": "to throw",
 	"childWords": [
 		{
-			"verb": "beliefern",
+			"verb": "wegschmeißen",
+			"separ": true,
+			"trans": "to throw away"
+		}
+	]
+},
+{
+	"root": "wünschen",
+	"trans": "to wish",
+	"childWords": [
+		{
+			"verb": "verwünschen",
 			"separ": false,
-			"trans": "to supply"
-		},
-		{
-			"verb": "ausliefern",
-			"separ": true,
-			"trans": "to deliver"
-		},
-		{
-			"verb": "abliefern",
-			"separ": true,
-			"trans": "to deliver"
+			"trans": "to bewitch"
 		}
 	]
 },
@@ -1629,22 +1997,22 @@
 		{
 			"verb": "abschneiden",
 			"separ": true,
-			"trans": "to strip"
+			"trans": "to cut"
 		},
 		{
 			"verb": "beschneiden",
 			"separ": false,
-			"trans": "to clip"
+			"trans": "to circumcise"
 		},
 		{
 			"verb": "verschneiden",
 			"separ": false,
-			"trans": "to adulterate"
+			"trans": "to neuter"
 		},
 		{
 			"verb": "herausschneiden",
 			"separ": true,
-			"trans": "to excise"
+			"trans": "to resect"
 		},
 		{
 			"verb": "zerschneiden",
@@ -1655,38 +2023,43 @@
 },
 {
 	"root": "fügen",
-	"trans": "to mate",
+	"trans": "to submit",
 	"childWords": [
 		{
 			"verb": "beifügen",
 			"separ": true,
-			"trans": "to include"
+			"trans": "to affiliate"
 		},
 		{
 			"verb": "verfügen",
 			"separ": false,
-			"trans": "to command"
+			"trans": "to decree"
 		},
 		{
 			"verb": "einfügen",
 			"separ": true,
-			"trans": "to include"
+			"trans": "to insert"
 		},
 		{
 			"verb": "zufügen",
 			"separ": true,
-			"trans": "to cause [injuries]"
+			"trans": "to inflict"
 		}
 	]
 },
 {
 	"root": "fertigen",
-	"trans": "to manufacture",
+	"trans": "to fashion",
 	"childWords": [
+		{
+			"verb": "unterfertigen",
+			"separ": false,
+			"trans": "to sign"
+		},
 		{
 			"verb": "abfertigen",
 			"separ": true,
-			"trans": "to ship"
+			"trans": "to dispatch"
 		},
 		{
 			"verb": "anfertigen",
@@ -1707,12 +2080,27 @@
 		{
 			"verb": "überdenken",
 			"separ": false,
-			"trans": "to review"
+			"trans": "to rethink"
+		},
+		{
+			"verb": "bedenken",
+			"separ": false,
+			"trans": "to consider"
+		},
+		{
+			"verb": "verdenken",
+			"separ": false,
+			"trans": "to resent"
 		},
 		{
 			"verb": "nachdenken",
 			"separ": true,
-			"trans": "to reflect"
+			"trans": "to think"
+		},
+		{
+			"verb": "hineindenken",
+			"separ": true,
+			"trans": "to try to understand"
 		},
 		{
 			"verb": "ausdenken",
@@ -1722,28 +2110,28 @@
 		{
 			"verb": "erdenken",
 			"separ": false,
-			"trans": "to construct"
+			"trans": "to devise"
+		},
+		{
+			"verb": "gedenken",
+			"separ": true,
+			"trans": "to commemorate"
 		},
 		{
 			"verb": "durchdenken",
 			"separ": false,
-			"trans": "to reason out"
-		},
-		{
-			"verb": "wegdenken",
-			"separ": true,
-			"trans": "to think away"
+			"trans": "to investigate thoroughly"
 		},
 		{
 			"verb": "mitdenken",
 			"separ": true,
-			"trans": "to think"
+			"trans": "to help think"
 		}
 	]
 },
 {
 	"root": "glücken",
-	"trans": "to succeed",
+	"trans": "to be succesful",
 	"childWords": [
 		{
 			"verb": "missglücken",
@@ -1759,23 +2147,23 @@
 },
 {
 	"root": "horchen",
-	"trans": "to listen",
+	"trans": "to eavesdrop",
 	"childWords": [
 		{
 			"verb": "gehorchen",
 			"separ": false,
-			"trans": "to be obedient"
+			"trans": "to obey"
 		}
 	]
 },
 {
 	"root": "schlachten",
-	"trans": "to butcher",
+	"trans": "to slaughter",
 	"childWords": [
 		{
 			"verb": "ausschlachten",
 			"separ": true,
-			"trans": "to cut up carcasses"
+			"trans": "to cannibalize"
 		},
 		{
 			"verb": "notschlachten",
@@ -1786,12 +2174,23 @@
 },
 {
 	"root": "isolieren",
-	"trans": "to insulate",
+	"trans": "to isolate",
 	"childWords": [
 		{
 			"verb": "abisolieren",
 			"separ": true,
-			"trans": "to strip"
+			"trans": "to skin"
+		}
+	]
+},
+{
+	"root": "schweben",
+	"trans": "to float",
+	"childWords": [
+		{
+			"verb": "vorschweben",
+			"separ": true,
+			"trans": "to have in mind"
 		}
 	]
 },
@@ -1808,12 +2207,12 @@
 },
 {
 	"root": "schmirgeln",
-	"trans": "to emery",
+	"trans": "to sand",
 	"childWords": [
 		{
 			"verb": "abschmirgeln",
 			"separ": true,
-			"trans": "to rub down [sandpaper]"
+			"trans": "to sand down"
 		}
 	]
 },
@@ -1824,13 +2223,34 @@
 		{
 			"verb": "beenden",
 			"separ": false,
-			"trans": "to stop"
+			"trans": "to finish"
+		},
+		{
+			"verb": "verenden",
+			"separ": false,
+			"trans": "to perish"
+		}
+	]
+},
+{
+	"root": "wundern",
+	"trans": "to surprise",
+	"childWords": [
+		{
+			"verb": "bewundern",
+			"separ": false,
+			"trans": "to admire"
+		},
+		{
+			"verb": "verwundern",
+			"separ": false,
+			"trans": "to amaze"
 		}
 	]
 },
 {
 	"root": "schließen",
-	"trans": "to close",
+	"trans": "to lock",
 	"childWords": [
 		{
 			"verb": "beschließen",
@@ -1840,48 +2260,47 @@
 		{
 			"verb": "anschließen",
 			"separ": true,
-			"trans": "to link"
+			"trans": "to connect"
 		},
 		{
 			"verb": "abschließen",
 			"separ": true,
-			"trans": "to end"
+			"trans": "to lock"
 		},
 		{
 			"verb": "umschließen",
 			"separ": false,
-			"trans": "to include"
+			"trans": "to enclose"
 		},
 		{
 			"verb": "einschließen",
 			"separ": true,
-			"trans": "to include"
+			"trans": "to lock up"
 		},
 		{
 			"verb": "erschließen",
 			"separ": false,
-			"trans": "to index"
+			"trans": "to deduce"
 		},
 		{
 			"verb": "verschließen",
 			"separ": false,
-			"trans": "to close"
+			"trans": "to lock"
+		},
+		{
+			"verb": "ausschließen",
+			"separ": true,
+			"trans": "to exclude"
+		},
+		{
+			"verb": "aufschließen",
+			"separ": true,
+			"trans": "to unlock"
 		},
 		{
 			"verb": "zuschließen",
 			"separ": true,
-			"trans": "to shut"
-		}
-	]
-},
-{
-	"root": "lernen",
-	"trans": "to learn",
-	"childWords": [
-		{
-			"verb": "verlernen",
-			"separ": false,
-			"trans": "to forget"
+			"trans": "to lock"
 		}
 	]
 },
@@ -1892,34 +2311,54 @@
 		{
 			"verb": "vermessen",
 			"separ": false,
-			"trans": "to measure"
+			"trans": "to foolhardy"
 		},
 		{
 			"verb": "abmessen",
 			"separ": true,
-			"trans": "to measure (off)"
+			"trans": "to measure"
 		}
 	]
 },
 {
-	"root": "fühlen",
-	"trans": "to feel",
+	"root": "tragen",
+	"trans": "to transport",
 	"childWords": [
 		{
-			"verb": "befühlen",
-			"separ": false,
-			"trans": "to palpate"
+			"verb": "eintragen",
+			"separ": true,
+			"trans": "to fill out"
 		},
 		{
-			"verb": "mitfühlen",
+			"verb": "beantragen",
+			"separ": false,
+			"trans": "to propose"
+		},
+		{
+			"verb": "abtragen",
 			"separ": true,
-			"trans": "to feel for"
+			"trans": "to wear out"
+		},
+		{
+			"verb": "betragen",
+			"separ": false,
+			"trans": "to amount to"
+		},
+		{
+			"verb": "vertragen",
+			"separ": false,
+			"trans": "tolerate"
+		},
+		{
+			"verb": "austragen",
+			"separ": true,
+			"trans": "to settle"
 		}
 	]
 },
 {
 	"root": "kündigen",
-	"trans": "to recall",
+	"trans": "to can",
 	"childWords": [
 		{
 			"verb": "ankündigen",
@@ -1929,13 +2368,13 @@
 		{
 			"verb": "verkündigen",
 			"separ": false,
-			"trans": "to declare"
+			"trans": "to annunciate"
 		}
 	]
 },
 {
 	"root": "deuten",
-	"trans": "to divine [discover]",
+	"trans": "to interpret",
 	"childWords": [
 		{
 			"verb": "bedeuten",
@@ -1945,23 +2384,23 @@
 		{
 			"verb": "andeuten",
 			"separ": true,
-			"trans": "to suggest"
+			"trans": "to indicate"
 		}
 	]
 },
 {
 	"root": "dichten",
-	"trans": "to versify",
+	"trans": "to write",
 	"childWords": [
 		{
 			"verb": "abdichten",
 			"separ": true,
-			"trans": "to tighten"
+			"trans": "to calk"
 		},
 		{
 			"verb": "verdichten",
 			"separ": false,
-			"trans": "to concentrate"
+			"trans": "to squeeze"
 		}
 	]
 },
@@ -1972,7 +2411,7 @@
 		{
 			"verb": "verteilen",
 			"separ": false,
-			"trans": "to arrange"
+			"trans": "to distribute"
 		},
 		{
 			"verb": "mitteilen",
@@ -1982,17 +2421,17 @@
 		{
 			"verb": "erteilen",
 			"separ": false,
-			"trans": "to award"
+			"trans": "to grant"
 		},
 		{
 			"verb": "einteilen",
 			"separ": true,
-			"trans": "to arrange"
+			"trans": "to divide"
 		},
 		{
 			"verb": "unterteilen",
 			"separ": false,
-			"trans": "to divide"
+			"trans": "to classify"
 		},
 		{
 			"verb": "aufteilen",
@@ -2013,18 +2452,34 @@
 		{
 			"verb": "einfrieren",
 			"separ": true,
-			"trans": "to lock up"
+			"trans": "to freeze"
 		},
 		{
 			"verb": "zufrieren",
 			"separ": true,
-			"trans": "to freeze over"
+			"trans": "to freeze"
+		}
+	]
+},
+{
+	"root": "nützen",
+	"trans": "to avail",
+	"childWords": [
+		{
+			"verb": "benützen",
+			"separ": false,
+			"trans": "to use"
+		},
+		{
+			"verb": "abnützen",
+			"separ": true,
+			"trans": "to outwear"
 		}
 	]
 },
 {
 	"root": "rasieren",
-	"trans": "to barber",
+	"trans": "to shave",
 	"childWords": [
 		{
 			"verb": "abrasieren",
@@ -2034,18 +2489,59 @@
 	]
 },
 {
+	"root": "werfen",
+	"trans": "to throw",
+	"childWords": [
+		{
+			"verb": "aufwerfen",
+			"separ": true,
+			"trans": "to pose"
+		},
+		{
+			"verb": "entwerfen",
+			"separ": false,
+			"trans": "to design"
+		},
+		{
+			"verb": "abwerfen",
+			"separ": true,
+			"trans": "to throw off"
+		},
+		{
+			"verb": "verwerfen",
+			"separ": false,
+			"trans": "to reject"
+		},
+		{
+			"verb": "umwerfen",
+			"separ": true,
+			"trans": "to upset"
+		},
+		{
+			"verb": "wegwerfen",
+			"separ": true,
+			"trans": "to throw away"
+		},
+		{
+			"verb": "einwerfen",
+			"separ": true,
+			"trans": "to insert"
+		}
+	]
+},
+{
 	"root": "braten",
-	"trans": "to bake",
+	"trans": "to fry",
 	"childWords": [
 		{
 			"verb": "anbraten",
 			"separ": true,
-			"trans": "to brown"
+			"trans": "to roast gently"
 		},
 		{
 			"verb": "verbraten",
 			"separ": false,
-			"trans": "to overcook [meat"
+			"trans": "to blow"
 		}
 	]
 },
@@ -2057,6 +2553,22 @@
 			"verb": "auswählen",
 			"separ": true,
 			"trans": "to choose"
+		},
+		{
+			"verb": "verwählen",
+			"separ": false,
+			"trans": "to misdial"
+		}
+	]
+},
+{
+	"root": "donnern",
+	"trans": "to thunder",
+	"childWords": [
+		{
+			"verb": "verdonnern",
+			"separ": false,
+			"trans": "to condemn"
 		}
 	]
 },
@@ -2067,17 +2579,17 @@
 		{
 			"verb": "abmalen",
 			"separ": true,
-			"trans": "to depict"
+			"trans": "to portray"
 		},
 		{
 			"verb": "ausmalen",
 			"separ": true,
-			"trans": "to paint in"
+			"trans": "to color"
 		},
 		{
 			"verb": "anmalen",
 			"separ": true,
-			"trans": "to colour [br.]"
+			"trans": "to paint"
 		}
 	]
 },
@@ -2088,7 +2600,7 @@
 		{
 			"verb": "ausruhen",
 			"separ": true,
-			"trans": "to relax"
+			"trans": "to rest"
 		}
 	]
 },
@@ -2105,17 +2617,17 @@
 },
 {
 	"root": "wickeln",
-	"trans": "to roll",
+	"trans": "to wrap",
 	"childWords": [
 		{
 			"verb": "entwickeln",
 			"separ": false,
-			"trans": "to design"
+			"trans": "to develop"
 		},
 		{
 			"verb": "aufwickeln",
 			"separ": true,
-			"trans": "to coil"
+			"trans": "to wind"
 		},
 		{
 			"verb": "einwickeln",
@@ -2125,23 +2637,45 @@
 		{
 			"verb": "abwickeln",
 			"separ": true,
-			"trans": "to handle"
+			"trans": "to unwind"
 		},
 		{
 			"verb": "auswickeln",
 			"separ": true,
-			"trans": "to untuck"
+			"trans": "to unwrap"
 		}
 	]
 },
 {
 	"root": "zucken",
-	"trans": "to shrug",
+	"trans": "to jerk",
 	"childWords": [
 		{
 			"verb": "zurückzucken",
 			"separ": true,
-			"trans": "to flinch"
+			"trans": "to recoil"
+		}
+	]
+},
+{
+	"root": "jammern",
+	"trans": "to lament",
+	"childWords": [
+		{
+			"verb": "bejammern",
+			"separ": false,
+			"trans": "to be sad"
+		}
+	]
+},
+{
+	"root": "kacken",
+	"trans": "to shit",
+	"childWords": [
+		{
+			"verb": "abkacken",
+			"separ": true,
+			"trans": "to crash"
 		}
 	]
 },
@@ -2158,12 +2692,12 @@
 },
 {
 	"root": "regeln",
-	"trans": "to arrange",
+	"trans": "to regulate",
 	"childWords": [
 		{
 			"verb": "maßregeln",
 			"separ": true,
-			"trans": "to proctorize"
+			"trans": "to reprimand"
 		}
 	]
 },
@@ -2179,33 +2713,55 @@
 		{
 			"verb": "verspielen",
 			"separ": false,
-			"trans": "to lose"
+			"trans": "to gamble away"
 		},
 		{
 			"verb": "mitspielen",
 			"separ": true,
-			"trans": "to join the game"
+			"trans": "to feature"
 		},
 		{
 			"verb": "vorspielen",
 			"separ": true,
-			"trans": "to play aloud"
+			"trans": "to audition"
+		}
+	]
+},
+{
+	"root": "haspeln",
+	"trans": "to reel",
+	"childWords": [
+		{
+			"verb": "verhaspeln",
+			"separ": false,
+			"trans": "to get muddled"
+		}
+	]
+},
+{
+	"root": "flügeln",
+	"trans": "to wing",
+	"childWords": [
+		{
+			"verb": "beflügeln",
+			"separ": false,
+			"trans": "to buoy"
 		}
 	]
 },
 {
 	"root": "tanken",
-	"trans": "to fuel",
+	"trans": "to refuel",
 	"childWords": [
 		{
 			"verb": "volltanken",
 			"separ": true,
-			"trans": "to fill up (the fuel tank)"
+			"trans": "to fill up"
 		},
 		{
 			"verb": "auftanken",
 			"separ": true,
-			"trans": "to fill up"
+			"trans": "to gas"
 		}
 	]
 },
@@ -2221,7 +2777,7 @@
 		{
 			"verb": "hinreißen",
 			"separ": true,
-			"trans": "to carry away"
+			"trans": "to enrapture"
 		},
 		{
 			"verb": "mitreißen",
@@ -2231,17 +2787,22 @@
 		{
 			"verb": "entreißen",
 			"separ": false,
-			"trans": "to wrest from"
+			"trans": "to dispossess"
 		},
 		{
 			"verb": "verreißen",
 			"separ": false,
-			"trans": "to tear to shreds"
+			"trans": "to pull to pieces"
+		},
+		{
+			"verb": "zusammenreißen",
+			"separ": true,
+			"trans": "to pull oneself together"
 		},
 		{
 			"verb": "anreißen",
 			"separ": false,
-			"trans": "to mark"
+			"trans": "to forfeit"
 		}
 	]
 },
@@ -2252,12 +2813,28 @@
 		{
 			"verb": "verschießen",
 			"separ": false,
-			"trans": "to misplay"
+			"trans": "to fade"
 		},
 		{
 			"verb": "vorschießen",
 			"separ": true,
 			"trans": "to advance"
+		},
+		{
+			"verb": "erschießen",
+			"separ": false,
+			"trans": "to shoot"
+		}
+	]
+},
+{
+	"root": "klatschen",
+	"trans": "to clap",
+	"childWords": [
+		{
+			"verb": "beklatschen",
+			"separ": false,
+			"trans": "to applaud"
 		}
 	]
 },
@@ -2273,8 +2850,19 @@
 	]
 },
 {
+	"root": "driften",
+	"trans": "to drift",
+	"childWords": [
+		{
+			"verb": "abdriften",
+			"separ": true,
+			"trans": "to drift"
+		}
+	]
+},
+{
 	"root": "kühlen",
-	"trans": "to cool",
+	"trans": "to refrigerate",
 	"childWords": [
 		{
 			"verb": "abkühlen",
@@ -2296,7 +2884,7 @@
 },
 {
 	"root": "tauchen",
-	"trans": "to plunge",
+	"trans": "to dive",
 	"childWords": [
 		{
 			"verb": "auftauchen",
@@ -2306,23 +2894,23 @@
 		{
 			"verb": "eintauchen",
 			"separ": true,
-			"trans": "to plunge"
+			"trans": "to immerse"
 		},
 		{
 			"verb": "untertauchen",
 			"separ": true,
-			"trans": "to plunge"
+			"trans": "to submerge"
 		}
 	]
 },
 {
 	"root": "montieren",
-	"trans": "to fit",
+	"trans": "to assemble",
 	"childWords": [
 		{
 			"verb": "demontieren",
 			"separ": false,
-			"trans": "to strip"
+			"trans": "to dismantle"
 		}
 	]
 },
@@ -2344,7 +2932,7 @@
 		{
 			"verb": "abwarten",
 			"separ": true,
-			"trans": "to wait"
+			"trans": "to await"
 		},
 		{
 			"verb": "erwarten",
@@ -2354,51 +2942,51 @@
 		{
 			"verb": "aufwarten",
 			"separ": true,
-			"trans": "to attend"
-		}
-	]
-},
-{
-	"root": "winken",
-	"trans": "to wave",
-	"childWords": [
-		{
-			"verb": "durchwinken",
-			"separ": true,
-			"trans": "to wave through"
+			"trans": "to serve"
 		}
 	]
 },
 {
 	"root": "stieben",
-	"trans": "to drift [chaff",
+	"trans": "to scatter",
 	"childWords": [
 		{
 			"verb": "zerstieben",
 			"separ": false,
-			"trans": "to scatter"
+			"trans": "to disperse"
+		}
+	]
+},
+{
+	"root": "stillen",
+	"trans": "to nurse",
+	"childWords": [
+		{
+			"verb": "abstillen",
+			"separ": true,
+			"trans": "to wean"
 		}
 	]
 },
 {
 	"root": "schimpfen",
-	"trans": "to offend",
+	"trans": "to swear",
 	"childWords": [
 		{
 			"verb": "beschimpfen",
 			"separ": false,
-			"trans": "to attack"
+			"trans": "to abuse"
 		},
 		{
 			"verb": "ausschimpfen",
 			"separ": true,
-			"trans": "to berate"
+			"trans": "to scold"
 		}
 	]
 },
 {
 	"root": "konstruieren",
-	"trans": "to build",
+	"trans": "to construct",
 	"childWords": [
 		{
 			"verb": "rekonstruieren",
@@ -2409,12 +2997,12 @@
 },
 {
 	"root": "liegen",
-	"trans": "to be recumbent",
+	"trans": "to lie",
 	"childWords": [
 		{
-			"verb": "darniederliegen",
-			"separ": true,
-			"trans": "to be laid low [ill]"
+			"verb": "obliegen",
+			"separ": false,
+			"trans": "to behoove"
 		},
 		{
 			"verb": "unterliegen",
@@ -2424,29 +3012,29 @@
 		{
 			"verb": "zurückliegen",
 			"separ": true,
-			"trans": "to be down"
+			"trans": "to be delayed"
 		}
 	]
 },
 {
 	"root": "fluchen",
-	"trans": "to swear",
+	"trans": "to curse",
 	"childWords": [
 		{
 			"verb": "verfluchen",
 			"separ": false,
-			"trans": "to accurse"
+			"trans": "to curse"
 		}
 	]
 },
 {
 	"root": "festigen",
-	"trans": "to tighten",
+	"trans": "to consolidate",
 	"childWords": [
 		{
 			"verb": "befestigen",
 			"separ": false,
-			"trans": "to stick"
+			"trans": "to fasten"
 		},
 		{
 			"verb": "verfestigen",
@@ -2460,14 +3048,63 @@
 	"trans": "to change",
 	"childWords": [
 		{
+			"verb": "lustwandeln",
+			"separ": false,
+			"trans": "to stroll"
+		},
+		{
 			"verb": "verwandeln",
 			"separ": false,
-			"trans": "to convert"
+			"trans": "to change"
 		},
 		{
 			"verb": "umwandeln",
 			"separ": true,
-			"trans": "to change"
+			"trans": "to convert"
+		}
+	]
+},
+{
+	"root": "zehren",
+	"trans": "to atrophy",
+	"childWords": [
+		{
+			"verb": "verzehren",
+			"separ": false,
+			"trans": "to consume"
+		}
+	]
+},
+{
+	"root": "missen",
+	"trans": "to miss",
+	"childWords": [
+		{
+			"verb": "vermissen",
+			"separ": false,
+			"trans": "to miss"
+		}
+	]
+},
+{
+	"root": "quetschen",
+	"trans": "to squeeze",
+	"childWords": [
+		{
+			"verb": "abquetschen",
+			"separ": true,
+			"trans": "to squeezing"
+		}
+	]
+},
+{
+	"root": "schmecken",
+	"trans": "to taste",
+	"childWords": [
+		{
+			"verb": "herausschmecken",
+			"separ": true,
+			"trans": "to taste"
 		}
 	]
 },
@@ -2478,12 +3115,12 @@
 		{
 			"verb": "aussaugen",
 			"separ": true,
-			"trans": "to suck"
+			"trans": "to deplete"
 		},
 		{
 			"verb": "staubsaugen",
 			"separ": false,
-			"trans": "to do the hoovering"
+			"trans": "to vacuum"
 		},
 		{
 			"verb": "absaugen",
@@ -2493,13 +3130,24 @@
 	]
 },
 {
-	"root": "erziehen",
-	"trans": "to educate",
+	"root": "erkiesen",
+	"trans": "to choose",
 	"childWords": [
 		{
-			"verb": "umerziehen",
+			"verb": "auserkiesen",
 			"separ": true,
-			"trans": "to re-educate"
+			"trans": "to choose"
+		}
+	]
+},
+{
+	"root": "schöpfen",
+	"trans": "to draw",
+	"childWords": [
+		{
+			"verb": "abschöpfen",
+			"separ": true,
+			"trans": "to skim"
 		}
 	]
 },
@@ -2515,13 +3163,13 @@
 		{
 			"verb": "anbeißen",
 			"separ": true,
-			"trans": "to bite into"
+			"trans": "to bite"
 		}
 	]
 },
 {
 	"root": "ernten",
-	"trans": "to crop",
+	"trans": "to harvest",
 	"childWords": [
 		{
 			"verb": "abernten",
@@ -2531,34 +3179,29 @@
 	]
 },
 {
-	"root": "bitten",
-	"trans": "to ask",
+	"root": "forschen",
+	"trans": "to research",
 	"childWords": [
 		{
-			"verb": "abbitten",
+			"verb": "nachforschen",
 			"separ": true,
-			"trans": "to apologize"
+			"trans": "to investigate"
 		},
 		{
-			"verb": "ausbitten",
-			"separ": true,
-			"trans": "to ask for"
-		},
-		{
-			"verb": "erbitten",
+			"verb": "erforschen",
 			"separ": false,
-			"trans": "to request"
+			"trans": "to explore"
 		}
 	]
 },
 {
 	"root": "zünden",
-	"trans": "to fire",
+	"trans": "to ignite",
 	"childWords": [
 		{
 			"verb": "anzünden",
 			"separ": true,
-			"trans": "to ignite"
+			"trans": "to light"
 		},
 		{
 			"verb": "entzünden",
@@ -2574,22 +3217,38 @@
 		{
 			"verb": "abblasen",
 			"separ": true,
-			"trans": "to blow down"
+			"trans": "to blow away"
 		},
 		{
 			"verb": "einblasen",
 			"separ": true,
-			"trans": "to blow into"
+			"trans": "to blow in"
 		},
 		{
 			"verb": "aufblasen",
 			"separ": true,
-			"trans": "to bloat"
+			"trans": "to inflate"
 		},
 		{
 			"verb": "wegblasen",
 			"separ": true,
-			"trans": "to blow away"
+			"trans": "to blow"
+		}
+	]
+},
+{
+	"root": "kriegen",
+	"trans": "to get",
+	"childWords": [
+		{
+			"verb": "bekriegen",
+			"separ": false,
+			"trans": "to battle"
+		},
+		{
+			"verb": "kleinkriegen",
+			"separ": true,
+			"trans": "to break down"
 		}
 	]
 },
@@ -2598,20 +3257,14 @@
 	"trans": "to bake",
 	"childWords": [
 		{
+			"verb": "ausbacken",
+			"separ": true,
+			"trans": "to fry"
+		},
+		{
 			"verb": "überbacken",
 			"separ": false,
-			"trans": "to bake over again"
-		}
-	]
-},
-{
-	"root": "formulieren",
-	"trans": "to shape",
-	"childWords": [
-		{
-			"verb": "ausformulieren",
-			"separ": true,
-			"trans": "to formulate"
+			"trans": "to scalloped"
 		}
 	]
 },
@@ -2622,33 +3275,54 @@
 		{
 			"verb": "gebrauchen",
 			"separ": false,
-			"trans": "to employ [to use]"
+			"trans": "to use"
 		},
 		{
 			"verb": "verbrauchen",
 			"separ": false,
-			"trans": "to use"
+			"trans": "to consume"
 		},
 		{
 			"verb": "aufbrauchen",
 			"separ": true,
-			"trans": "to spend"
+			"trans": "to use up"
 		}
 	]
 },
 {
 	"root": "bilden",
-	"trans": "to cultivate",
+	"trans": "to form",
 	"childWords": [
 		{
 			"verb": "abbilden",
 			"separ": true,
-			"trans": "to describe"
+			"trans": "to map"
+		},
+		{
+			"verb": "zurückbilden",
+			"separ": true,
+			"trans": "to form back"
 		},
 		{
 			"verb": "ausbilden",
 			"separ": true,
-			"trans": "to form"
+			"trans": "to educate"
+		},
+		{
+			"verb": "einbilden",
+			"separ": true,
+			"trans": "to imagine"
+		}
+	]
+},
+{
+	"root": "geraten",
+	"trans": "to panic",
+	"childWords": [
+		{
+			"verb": "abgeraten",
+			"separ": true,
+			"trans": "to discouraged"
 		}
 	]
 },
@@ -2659,164 +3333,211 @@
 		{
 			"verb": "überlegen",
 			"separ": false,
-			"trans": "to think"
+			"trans": "to consider"
 		},
 		{
 			"verb": "erlegen",
 			"separ": false,
-			"trans": "to kill"
+			"trans": "to bag"
 		},
 		{
 			"verb": "anlegen",
 			"separ": true,
-			"trans": "to invest"
+			"trans": "to create"
 		},
 		{
 			"verb": "belegen",
 			"separ": false,
-			"trans": "to use"
+			"trans": "to floor"
 		},
 		{
 			"verb": "widerlegen",
 			"separ": false,
-			"trans": "to confute"
+			"trans": "to refute"
+		},
+		{
+			"verb": "verlegen",
+			"separ": false,
+			"trans": "to misplace"
 		},
 		{
 			"verb": "zerlegen",
 			"separ": false,
-			"trans": "to resolve"
+			"trans": "to decompose"
 		},
 		{
 			"verb": "ablegen",
 			"separ": true,
-			"trans": "to store"
+			"trans": "to file"
 		},
 		{
 			"verb": "beilegen",
 			"separ": true,
-			"trans": "to settle"
+			"trans": "to approach nearby"
+		},
+		{
+			"verb": "vorlegen",
+			"separ": true,
+			"trans": "to exhibit"
 		},
 		{
 			"verb": "weglegen",
 			"separ": true,
-			"trans": "to lay aside"
+			"trans": "to put away"
 		},
 		{
 			"verb": "darlegen",
 			"separ": true,
-			"trans": "to describe"
+			"trans": "to explain"
 		},
 		{
 			"verb": "hinlegen",
 			"separ": true,
-			"trans": "to lay down"
+			"trans": "to lie down"
 		},
 		{
 			"verb": "auflegen",
 			"separ": true,
-			"trans": "to issue"
+			"trans": "to apply"
 		},
 		{
 			"verb": "umlegen",
 			"separ": true,
-			"trans": "to shift"
+			"trans": "to apply"
 		},
 		{
 			"verb": "auslegen",
 			"separ": true,
-			"trans": "to disengage [gears]"
+			"trans": "to interpret"
+		},
+		{
+			"verb": "flachlegen",
+			"separ": true,
+			"trans": "to lay"
 		},
 		{
 			"verb": "einlegen",
 			"separ": true,
-			"trans": "to insert"
+			"trans": "to pickle"
 		},
 		{
 			"verb": "unterlegen",
 			"separ": false,
-			"trans": "to place underneath"
+			"trans": "to been subject to"
+		}
+	]
+},
+{
+	"root": "fechten",
+	"trans": "to fight",
+	"childWords": [
+		{
+			"verb": "verfechten",
+			"separ": false,
+			"trans": "to advocate"
+		},
+		{
+			"verb": "anfechten",
+			"separ": true,
+			"trans": "to refute"
+		}
+	]
+},
+{
+	"root": "irren",
+	"trans": "to err",
+	"childWords": [
+		{
+			"verb": "verirren",
+			"separ": true,
+			"trans": "to get lost"
 		}
 	]
 },
 {
 	"root": "wirken",
-	"trans": "to function",
+	"trans": "to work",
 	"childWords": [
 		{
 			"verb": "einwirken",
 			"separ": true,
-			"trans": "to operate"
+			"trans": "to impact"
+		},
+		{
+			"verb": "bewirken",
+			"separ": false,
+			"trans": "to cause"
 		}
 	]
 },
 {
 	"root": "fallen",
-	"trans": "to fall",
+	"trans": "to collapse",
 	"childWords": [
 		{
 			"verb": "einfallen",
 			"separ": true,
-			"trans": "to break in upon"
+			"trans": "to invade"
 		},
 		{
 			"verb": "ausfallen",
 			"separ": true,
-			"trans": "to become inoperative"
+			"trans": "to fail"
 		},
 		{
 			"verb": "umfallen",
 			"separ": true,
-			"trans": "to fall over"
-		},
-		{
-			"verb": "fortfallen",
-			"separ": true,
-			"trans": "to cease to exist"
+			"trans": "to be overturned"
 		},
 		{
 			"verb": "verfallen",
 			"separ": false,
-			"trans": "to decline"
+			"trans": "to expire"
 		},
 		{
 			"verb": "auffallen",
 			"separ": true,
-			"trans": "to attract attention"
+			"trans": "to stir"
 		},
 		{
 			"verb": "herunterfallen",
 			"separ": true,
-			"trans": "to plunge"
+			"trans": "to scatter"
 		},
 		{
 			"verb": "gefallen",
 			"separ": false,
-			"trans": "to oblige"
+			"trans": "to please"
 		},
 		{
 			"verb": "abfallen",
 			"separ": true,
-			"trans": "to bear away"
+			"trans": "to fall off"
 		},
 		{
 			"verb": "vorfallen",
 			"separ": false,
-			"trans": "to herniate"
+			"trans": "to happen"
+		},
+		{
+			"verb": "herabfallen",
+			"separ": true,
+			"trans": "to come out"
 		},
 		{
 			"verb": "entfallen",
 			"separ": false,
-			"trans": "to be cancelled"
+			"trans": "to allot"
 		},
 		{
 			"verb": "überfallen",
 			"separ": false,
-			"trans": "to attack"
+			"trans": "to invade"
 		},
 		{
 			"verb": "zerfallen",
 			"separ": false,
-			"trans": "to be falling to pieces"
+			"trans": "to decompose"
 		},
 		{
 			"verb": "missfallen",
@@ -2826,7 +3547,7 @@
 		{
 			"verb": "anfallen",
 			"separ": true,
-			"trans": "to assail"
+			"trans": "to accrue"
 		},
 		{
 			"verb": "zufallen",
@@ -2842,18 +3563,28 @@
 		{
 			"verb": "ausrasten",
 			"separ": true,
-			"trans": "to blow one's lid"
+			"trans": "to go postal"
 		}
 	]
 },
 {
-	"root": "wünschen",
-	"trans": "to wish",
+	"root": "liefern",
+	"trans": "to deliver",
 	"childWords": [
 		{
-			"verb": "verwünschen",
+			"verb": "beliefern",
 			"separ": false,
-			"trans": "to cuss"
+			"trans": "to distribute"
+		},
+		{
+			"verb": "ausliefern",
+			"separ": true,
+			"trans": "to distribute"
+		},
+		{
+			"verb": "abliefern",
+			"separ": true,
+			"trans": "to deliver"
 		}
 	]
 },
@@ -2864,18 +3595,29 @@
 		{
 			"verb": "umkippen",
 			"separ": true,
-			"trans": "to capsize"
+			"trans": "to upset"
+		}
+	]
+},
+{
+	"root": "heischen",
+	"trans": "to demand",
+	"childWords": [
+		{
+			"verb": "erheischen",
+			"separ": false,
+			"trans": "to ask"
 		}
 	]
 },
 {
 	"root": "ätzen",
-	"trans": "to acid-treat",
+	"trans": "to etch",
 	"childWords": [
 		{
 			"verb": "abätzen",
 			"separ": true,
-			"trans": "to cauterize"
+			"trans": "to cauterise"
 		}
 	]
 },
@@ -2886,7 +3628,7 @@
 		{
 			"verb": "vereitern",
 			"separ": false,
-			"trans": "to fester"
+			"trans": "to ulcerate"
 		}
 	]
 },
@@ -2897,7 +3639,29 @@
 		{
 			"verb": "herabblicken",
 			"separ": true,
-			"trans": "to look down"
+			"trans": "to despise"
+		}
+	]
+},
+{
+	"root": "latschen",
+	"trans": "to traipse",
+	"childWords": [
+		{
+			"verb": "auslatschen",
+			"separ": true,
+			"trans": "to wear out of shape"
+		}
+	]
+},
+{
+	"root": "behalten",
+	"trans": "to keep",
+	"childWords": [
+		{
+			"verb": "vorbehalten",
+			"separ": true,
+			"trans": "to reserve"
 		}
 	]
 },
@@ -2914,17 +3678,17 @@
 },
 {
 	"root": "löschen",
-	"trans": "to remove",
+	"trans": "to extinguish",
 	"childWords": [
 		{
 			"verb": "erlöschen",
 			"separ": false,
-			"trans": "to die out"
+			"trans": "to expire"
 		},
 		{
 			"verb": "ablöschen",
 			"separ": true,
-			"trans": "to deglaze"
+			"trans": "to blot"
 		}
 	]
 },
@@ -2940,18 +3704,28 @@
 	]
 },
 {
-	"root": "forschen",
-	"trans": "to search",
+	"root": "bitten",
+	"trans": "to ask",
 	"childWords": [
 		{
-			"verb": "nachforschen",
+			"verb": "abbitten",
 			"separ": true,
-			"trans": "to investigate"
+			"trans": "to apologize"
 		},
 		{
-			"verb": "erforschen",
+			"verb": "verbitten",
 			"separ": false,
-			"trans": "to investigate"
+			"trans": "to refuse to tolerate"
+		},
+		{
+			"verb": "ausbitten",
+			"separ": true,
+			"trans": "to ask for"
+		},
+		{
+			"verb": "erbitten",
+			"separ": false,
+			"trans": "to request"
 		}
 	]
 },
@@ -2967,13 +3741,39 @@
 	]
 },
 {
+	"root": "raten",
+	"trans": "to guess",
+	"childWords": [
+		{
+			"verb": "verraten",
+			"separ": false,
+			"trans": "to betray"
+		},
+		{
+			"verb": "erraten",
+			"separ": false,
+			"trans": "to guess"
+		},
+		{
+			"verb": "beraten",
+			"separ": false,
+			"trans": "to advise"
+		},
+		{
+			"verb": "zuraten",
+			"separ": true,
+			"trans": "to advise"
+		}
+	]
+},
+{
 	"root": "wildern",
 	"trans": "to poach",
 	"childWords": [
 		{
 			"verb": "verwildern",
 			"separ": false,
-			"trans": "to barbarize"
+			"trans": "to be rough"
 		}
 	]
 },
@@ -2984,13 +3784,13 @@
 		{
 			"verb": "nachwürzen",
 			"separ": true,
-			"trans": "to spice up [make tastier]"
+			"trans": "to spice up"
 		}
 	]
 },
 {
 	"root": "schlagen",
-	"trans": "to kill",
+	"trans": "to coin",
 	"childWords": [
 		{
 			"verb": "nachschlagen",
@@ -3010,22 +3810,22 @@
 		{
 			"verb": "einschlagen",
 			"separ": true,
-			"trans": "to batter"
+			"trans": "to bang"
 		},
 		{
 			"verb": "verschlagen",
 			"separ": false,
-			"trans": "to drive out of her course [ship]"
+			"trans": "to wily"
 		},
 		{
 			"verb": "niederschlagen",
 			"separ": true,
-			"trans": "to deposit"
+			"trans": "to knock down"
 		},
 		{
 			"verb": "aufschlagen",
 			"separ": true,
-			"trans": "to hit"
+			"trans": "to pitch"
 		},
 		{
 			"verb": "ausschlagen",
@@ -3033,9 +3833,14 @@
 			"trans": "to bud"
 		},
 		{
+			"verb": "erschlagen",
+			"separ": false,
+			"trans": "to slay"
+		},
+		{
 			"verb": "zerschlagen",
 			"separ": false,
-			"trans": "to shatter"
+			"trans": "to defeat"
 		},
 		{
 			"verb": "zuschlagen",
@@ -3051,18 +3856,18 @@
 		{
 			"verb": "anklopfen",
 			"separ": true,
-			"trans": "to knock at [door etc.]"
+			"trans": "to call waiting"
 		}
 	]
 },
 {
 	"root": "nennen",
-	"trans": "to mention",
+	"trans": "to name",
 	"childWords": [
 		{
 			"verb": "benennen",
 			"separ": false,
-			"trans": "to label"
+			"trans": "to name"
 		},
 		{
 			"verb": "ernennen",
@@ -3072,40 +3877,51 @@
 	]
 },
 {
-	"root": "nutzen",
-	"trans": "to exploit",
+	"root": "sprengen",
+	"trans": "to blow up",
 	"childWords": [
 		{
-			"verb": "benutzen",
+			"verb": "versprengen",
 			"separ": false,
-			"trans": "to use"
+			"trans": "to disperse"
+		}
+	]
+},
+{
+	"root": "lügen",
+	"trans": "to lie",
+	"childWords": [
+		{
+			"verb": "belügen",
+			"separ": false,
+			"trans": "to lie to"
 		},
 		{
-			"verb": "abnutzen",
+			"verb": "anlügen",
 			"separ": true,
-			"trans": "to fray"
+			"trans": "to lie to"
 		}
 	]
 },
 {
 	"root": "passen",
-	"trans": "to be suitable",
+	"trans": "to fit",
 	"childWords": [
 		{
 			"verb": "anpassen",
 			"separ": true,
-			"trans": "to fit"
+			"trans": "to adapt"
 		}
 	]
 },
 {
 	"root": "schmähen",
-	"trans": "to blaspheme",
+	"trans": "to speak ill of",
 	"childWords": [
 		{
 			"verb": "verschmähen",
 			"separ": false,
-			"trans": "to despise"
+			"trans": "to disdain"
 		}
 	]
 },
@@ -3116,7 +3932,7 @@
 		{
 			"verb": "auslaufen",
 			"separ": true,
-			"trans": "to discharge"
+			"trans": "to leak out"
 		},
 		{
 			"verb": "einlaufen",
@@ -3126,42 +3942,133 @@
 		{
 			"verb": "herumlaufen",
 			"separ": true,
-			"trans": "to kick around"
+			"trans": "to run around"
 		},
 		{
 			"verb": "verlaufen",
 			"separ": false,
-			"trans": "to proceed"
+			"trans": "to get lost"
 		},
 		{
 			"verb": "ablaufen",
 			"separ": true,
-			"trans": "to proceed"
+			"trans": "to expire"
 		},
 		{
 			"verb": "umlaufen",
 			"separ": true,
-			"trans": "to float"
+			"trans": "to circulate"
 		},
 		{
 			"verb": "weglaufen",
 			"separ": true,
-			"trans": "to elope"
+			"trans": "to run away"
 		},
 		{
 			"verb": "überlaufen",
 			"separ": true,
-			"trans": "to bubble over with"
-		},
-		{
-			"verb": "eislaufen",
-			"separ": true,
-			"trans": "to ice-skate"
+			"trans": "to overflow"
 		},
 		{
 			"verb": "durchlaufen",
 			"separ": true,
-			"trans": "to pass"
+			"trans": "to run through"
+		}
+	]
+},
+{
+	"root": "nehmen",
+	"trans": "to take",
+	"childWords": [
+		{
+			"verb": "zunehmen",
+			"separ": true,
+			"trans": "to increase"
+		},
+		{
+			"verb": "abnehmen",
+			"separ": true,
+			"trans": "to take away"
+		},
+		{
+			"verb": "annehmen",
+			"separ": true,
+			"trans": "to answer"
+		},
+		{
+			"verb": "aufnehmen",
+			"separ": true,
+			"trans": "to record"
+		},
+		{
+			"verb": "benehmen",
+			"separ": false,
+			"trans": "to behave"
+		},
+		{
+			"verb": "entnehmen",
+			"separ": false,
+			"trans": "to take from"
+		},
+		{
+			"verb": "einnehmen",
+			"separ": true,
+			"trans": "to take"
+		},
+		{
+			"verb": "ausnehmen",
+			"separ": true,
+			"trans": "to gut"
+		},
+		{
+			"verb": "wegnehmen",
+			"separ": true,
+			"trans": "to take away"
+		},
+		{
+			"verb": "vornehmen",
+			"separ": true,
+			"trans": "to accomplish"
+		},
+		{
+			"verb": "übernehmen",
+			"separ": false,
+			"trans": "to take over"
+		},
+		{
+			"verb": "hinnehmen",
+			"separ": true,
+			"trans": "to accept"
+		},
+		{
+			"verb": "teilnehmen",
+			"separ": true,
+			"trans": "to participate"
+		},
+		{
+			"verb": "vorwegnehmen",
+			"separ": true,
+			"trans": "to anticipate"
+		},
+		{
+			"verb": "mitnehmen",
+			"separ": true,
+			"trans": "to take"
+		},
+		{
+			"verb": "vernehmen",
+			"separ": false,
+			"trans": "to hear"
+		},
+		{
+			"verb": "unternehmen",
+			"separ": false,
+			"trans": "to undertake"
+		},
+		{
+			"verb": "herausnehmen",
+			"separ": true,
+			"trans": "to take out"
 		}
 	]
 },
@@ -3172,39 +4079,66 @@
 		{
 			"verb": "anlächeln",
 			"separ": true,
-			"trans": "to smile at"
+			"trans": "to smile"
+		}
+	]
+},
+{
+	"root": "transportieren",
+	"trans": "to transport",
+	"childWords": [
+		{
+			"verb": "abtransportieren",
+			"separ": true,
+			"trans": "to evacuate"
 		}
 	]
 },
 {
 	"root": "fordern",
-	"trans": "to ask",
+	"trans": "to demand",
 	"childWords": [
 		{
 			"verb": "erfordern",
 			"separ": false,
-			"trans": "to involve"
+			"trans": "to require"
+		}
+	]
+},
+{
+	"root": "nutzen",
+	"trans": "to utilize",
+	"childWords": [
+		{
+			"verb": "benutzen",
+			"separ": false,
+			"trans": "to use"
+		},
+		{
+			"verb": "abnutzen",
+			"separ": true,
+			"trans": "to wear out"
 		}
 	]
 },
 {
 	"root": "werten",
-	"trans": "to assess",
+	"trans": "to consider",
 	"childWords": [
 		{
 			"verb": "bewerten",
 			"separ": false,
-			"trans": "to assess"
+			"trans": "to value"
 		},
 		{
 			"verb": "aufwerten",
 			"separ": true,
-			"trans": "to enhance"
+			"trans": "to revaluate"
 		},
 		{
 			"verb": "abwerten",
 			"separ": true,
-			"trans": "to depreciate"
+			"trans": "to devalue"
 		}
 	]
 },
@@ -3213,6 +4147,11 @@
 	"trans": "to build",
 	"childWords": [
 		{
+			"verb": "abbauen",
+			"separ": true,
+			"trans": "to mine"
+		},
+		{
 			"verb": "bebauen",
 			"separ": false,
 			"trans": "to cultivate"
@@ -3220,27 +4159,27 @@
 		{
 			"verb": "einbauen",
 			"separ": true,
-			"trans": "to incorporate"
+			"trans": "to build in"
 		},
 		{
 			"verb": "aufbauen",
 			"separ": true,
-			"trans": "to form"
+			"trans": "to build"
 		},
 		{
 			"verb": "ausbauen",
 			"separ": true,
-			"trans": "to convert [attic etc.]"
+			"trans": "to complete"
 		},
 		{
 			"verb": "anbauen",
 			"separ": true,
-			"trans": "to add onto a house"
+			"trans": "to cultivate"
 		},
 		{
 			"verb": "erbauen",
 			"separ": false,
-			"trans": "to construct"
+			"trans": "to build"
 		},
 		{
 			"verb": "weiterbauen",
@@ -3256,24 +4195,35 @@
 		{
 			"verb": "zerkauen",
 			"separ": false,
-			"trans": "to masticate"
+			"trans": "to chew"
 		}
 	]
 },
 {
 	"root": "gelten",
-	"trans": "to be effective",
+	"trans": "to be valid",
 	"childWords": [
 		{
 			"verb": "vergelten",
 			"separ": false,
-			"trans": "to repay"
+			"trans": "to requite"
+		}
+	]
+},
+{
+	"root": "freuen",
+	"trans": "to rejoice",
+	"childWords": [
+		{
+			"verb": "erfreuen",
+			"separ": false,
+			"trans": "to delight"
 		}
 	]
 },
 {
 	"root": "gären",
-	"trans": "to brew",
+	"trans": "to ferment",
 	"childWords": [
 		{
 			"verb": "vergären",
@@ -3284,12 +4234,12 @@
 },
 {
 	"root": "stammen",
-	"trans": "to be descended",
+	"trans": "to stem",
 	"childWords": [
 		{
 			"verb": "entstammen",
 			"separ": false,
-			"trans": "to derive from"
+			"trans": "to be descended from"
 		}
 	]
 },
@@ -3306,7 +4256,7 @@
 },
 {
 	"root": "leihen",
-	"trans": "to lend",
+	"trans": "to borrow",
 	"childWords": [
 		{
 			"verb": "verleihen",
@@ -3316,13 +4266,13 @@
 		{
 			"verb": "entleihen",
 			"separ": false,
-			"trans": "to borrow"
+			"trans": "to rent"
 		}
 	]
 },
 {
 	"root": "prüfen",
-	"trans": "to try",
+	"trans": "to examine",
 	"childWords": [
 		{
 			"verb": "überprüfen",
@@ -3332,7 +4282,7 @@
 		{
 			"verb": "nachprüfen",
 			"separ": true,
-			"trans": "to check"
+			"trans": "to recheck"
 		}
 	]
 },
@@ -3343,7 +4293,7 @@
 		{
 			"verb": "anvertrauen",
 			"separ": true,
-			"trans": "to confide"
+			"trans": "to entrust"
 		}
 	]
 },
@@ -3354,110 +4304,66 @@
 		{
 			"verb": "gesundschrumpfen",
 			"separ": true,
-			"trans": "to downsize"
+			"trans": "to rightsize"
 		}
 	]
 },
 {
-	"root": "schreiben",
-	"trans": "to write",
+	"root": "klären",
+	"trans": "to clear",
 	"childWords": [
 		{
-			"verb": "beschreiben",
+			"verb": "verklären",
 			"separ": false,
-			"trans": "to describe"
+			"trans": "to glorify"
 		},
 		{
-			"verb": "fortschreiben",
-			"separ": true,
-			"trans": "to update"
-		},
-		{
-			"verb": "unterschreiben",
+			"verb": "erklären",
 			"separ": false,
-			"trans": "to sign"
+			"trans": "to explain"
 		},
 		{
-			"verb": "abschreiben",
+			"verb": "aufklären",
 			"separ": true,
-			"trans": "to amortize"
-		},
-		{
-			"verb": "ausschreiben",
-			"separ": true,
-			"trans": "to advertise"
-		},
-		{
-			"verb": "umschreiben",
-			"separ": false,
-			"trans": "to compile"
-		},
-		{
-			"verb": "vorschreiben",
-			"separ": true,
-			"trans": "to provide"
-		},
-		{
-			"verb": "niederschreiben",
-			"separ": true,
-			"trans": "to commit to paper"
-		},
-		{
-			"verb": "zuschreiben",
-			"separ": true,
-			"trans": "to attribute"
-		},
-		{
-			"verb": "festschreiben",
-			"separ": true,
-			"trans": "to codify"
-		},
-		{
-			"verb": "einschreiben",
-			"separ": true,
-			"trans": "to book"
-		},
-		{
-			"verb": "großschreiben",
-			"separ": true,
-			"trans": "to capitalize"
-		},
-		{
-			"verb": "aufschreiben",
-			"separ": true,
-			"trans": "to record"
-		},
-		{
-			"verb": "überschreiben",
-			"separ": false,
-			"trans": "to overwrite"
-		},
-		{
-			"verb": "anschreiben",
-			"separ": true,
-			"trans": "to score"
+			"trans": "to enlighten"
 		}
 	]
 },
 {
 	"root": "klicken",
-	"trans": "to clack",
+	"trans": "to click",
 	"childWords": [
 		{
 			"verb": "anklicken",
 			"separ": true,
-			"trans": "to click (on)"
+			"trans": "to click"
+		}
+	]
+},
+{
+	"root": "knöpfen",
+	"trans": "to button",
+	"childWords": [
+		{
+			"verb": "zuknöpfen",
+			"separ": true,
+			"trans": "to button up"
+		},
+		{
+			"verb": "vorknöpfen",
+			"separ": true,
+			"trans": "to take someone to task"
 		}
 	]
 },
 {
 	"root": "herrschen",
-	"trans": "to dominate",
+	"trans": "to reign",
 	"childWords": [
 		{
 			"verb": "vorherrschen",
 			"separ": true,
-			"trans": "to dominate"
+			"trans": "to prevail"
 		},
 		{
 			"verb": "beherrschen",
@@ -3468,17 +4374,17 @@
 },
 {
 	"root": "ehren",
-	"trans": "to glorify",
+	"trans": "to honour",
 	"childWords": [
 		{
 			"verb": "verehren",
 			"separ": false,
-			"trans": "to admire"
+			"trans": "to adore"
 		},
 		{
 			"verb": "entehren",
 			"separ": false,
-			"trans": "to brand"
+			"trans": "to dishonour"
 		}
 	]
 },
@@ -3494,13 +4400,100 @@
 	]
 },
 {
-	"root": "wärmen",
-	"trans": "to warm",
+	"root": "wackeln",
+	"trans": "to waggle",
 	"childWords": [
 		{
-			"verb": "aufwärmen",
+			"verb": "verwackeln",
+			"separ": false,
+			"trans": "to blur"
+		}
+	]
+},
+{
+	"root": "weisen",
+	"trans": "to show",
+	"childWords": [
+		{
+			"verb": "abweisen",
 			"separ": true,
-			"trans": "to warm"
+			"trans": "to reject"
+		},
+		{
+			"verb": "unterweisen",
+			"separ": false,
+			"trans": "to teach"
+		},
+		{
+			"verb": "beweisen",
+			"separ": false,
+			"trans": "to prove"
+		},
+		{
+			"verb": "anweisen",
+			"separ": true,
+			"trans": "to indicate"
+		},
+		{
+			"verb": "ausweisen",
+			"separ": true,
+			"trans": "to expel"
+		},
+		{
+			"verb": "hinweisen",
+			"separ": true,
+			"trans": "to portend"
+		},
+		{
+			"verb": "erweisen",
+			"separ": false,
+			"trans": "to prove"
+		},
+		{
+			"verb": "verweisen",
+			"separ": false,
+			"trans": "to refer"
+		},
+		{
+			"verb": "einweisen",
+			"separ": true,
+			"trans": "to admit"
+		},
+		{
+			"verb": "aufweisen",
+			"separ": true,
+			"trans": "to feature"
+		},
+		{
+			"verb": "zurückweisen",
+			"separ": true,
+			"trans": "to reject"
+		},
+		{
+			"verb": "überweisen",
+			"separ": false,
+			"trans": "to transfer"
+		},
+		{
+			"verb": "nachweisen",
+			"separ": true,
+			"trans": "to prove"
+		},
+		{
+			"verb": "zurechtweisen",
+			"separ": true,
+			"trans": "to reprimand"
+		}
+	]
+},
+{
+	"root": "rackern",
+	"trans": "to drudge",
+	"childWords": [
+		{
+			"verb": "abrackern",
+			"separ": true,
+			"trans": "to drudge"
 		}
 	]
 },
@@ -3511,7 +4504,7 @@
 		{
 			"verb": "beantworten",
 			"separ": false,
-			"trans": "to reply"
+			"trans": "to answer"
 		}
 	]
 },
@@ -3527,7 +4520,7 @@
 		{
 			"verb": "ausschlafen",
 			"separ": true,
-			"trans": "to lie in"
+			"trans": "to sleep in"
 		},
 		{
 			"verb": "verschlafen",
@@ -3535,20 +4528,15 @@
 			"trans": "to oversleep"
 		},
 		{
-			"verb": "durchschlafen",
-			"separ": true,
-			"trans": "to sleep through the night"
-		},
-		{
 			"verb": "entschlafen",
 			"separ": false,
-			"trans": "to pass over [euphemistic: to die]"
+			"trans": "to die"
 		}
 	]
 },
 {
 	"root": "laden",
-	"trans": "to lade [archaic]",
+	"trans": "to load",
 	"childWords": [
 		{
 			"verb": "herunterladen",
@@ -3558,7 +4546,7 @@
 		{
 			"verb": "einladen",
 			"separ": true,
-			"trans": "to load into"
+			"trans": "to invite"
 		},
 		{
 			"verb": "hochladen",
@@ -3568,17 +4556,17 @@
 		{
 			"verb": "ausladen",
 			"separ": true,
-			"trans": "to land"
+			"trans": "to unload"
 		},
 		{
 			"verb": "aufladen",
 			"separ": true,
-			"trans": "to charge"
+			"trans": "to give a ride"
 		},
 		{
 			"verb": "abladen",
 			"separ": true,
-			"trans": "to discharge"
+			"trans": "to unload"
 		},
 		{
 			"verb": "verladen",
@@ -3588,12 +4576,49 @@
 		{
 			"verb": "überladen",
 			"separ": false,
-			"trans": "to clutter"
+			"trans": "to overload"
 		},
 		{
 			"verb": "nachladen",
 			"separ": true,
 			"trans": "to download"
+		}
+	]
+},
+{
+	"root": "reiben",
+	"trans": "to rub",
+	"childWords": [
+		{
+			"verb": "aufreiben",
+			"separ": true,
+			"trans": "to pulverise"
+		},
+		{
+			"verb": "zerreiben",
+			"separ": false,
+			"trans": "to pulverise"
+		},
+		{
+			"verb": "einreiben",
+			"separ": true,
+			"trans": "to rub"
+		},
+		{
+			"verb": "abreiben",
+			"separ": true,
+			"trans": "to rub"
+		}
+	]
+},
+{
+	"root": "leiden",
+	"trans": "to suffer",
+	"childWords": [
+		{
+			"verb": "erleiden",
+			"separ": false,
+			"trans": "to suffer"
 		}
 	]
 },
@@ -3604,7 +4629,7 @@
 		{
 			"verb": "abdrucken",
 			"separ": true,
-			"trans": "to replicate"
+			"trans": "to print"
 		}
 	]
 },
@@ -3613,30 +4638,35 @@
 	"trans": "to fly",
 	"childWords": [
 		{
+			"verb": "hinausfliegen",
+			"separ": true,
+			"trans": "to be beheaded"
+		},
+		{
 			"verb": "überfliegen",
 			"separ": false,
-			"trans": "to scan"
+			"trans": "to skim"
 		},
 		{
 			"verb": "umfliegen",
 			"separ": false,
-			"trans": "to circuit"
+			"trans": "to fly round"
 		},
 		{
 			"verb": "abfliegen",
 			"separ": true,
-			"trans": "to start"
+			"trans": "to take off"
 		},
 		{
 			"verb": "verfliegen",
 			"separ": false,
-			"trans": "to fly away"
+			"trans": "to hit too much"
 		}
 	]
 },
 {
 	"root": "segeln",
-	"trans": "to soar",
+	"trans": "to sail",
 	"childWords": [
 		{
 			"verb": "absegeln",
@@ -3646,19 +4676,19 @@
 	]
 },
 {
-	"root": "pfeifen",
-	"trans": "to blast on the whistle",
+	"root": "motivieren",
+	"trans": "to motivate",
 	"childWords": [
 		{
-			"verb": "abpfeifen",
-			"separ": true,
-			"trans": "to blow the final whistle"
+			"verb": "demotivieren",
+			"separ": false,
+			"trans": "to demotivate"
 		}
 	]
 },
 {
 	"root": "rauen",
-	"trans": "to roughen",
+	"trans": "to nap",
 	"childWords": [
 		{
 			"verb": "aufrauen",
@@ -3669,18 +4699,18 @@
 },
 {
 	"root": "sperren",
-	"trans": "to stop",
+	"trans": "to bar",
 	"childWords": [
 		{
 			"verb": "einsperren",
 			"separ": true,
-			"trans": "to confine"
+			"trans": "to imprison"
 		}
 	]
 },
 {
 	"root": "rosten",
-	"trans": "to corrode",
+	"trans": "to rust",
 	"childWords": [
 		{
 			"verb": "verrosten",
@@ -3691,7 +4721,7 @@
 },
 {
 	"root": "reden",
-	"trans": "to talk",
+	"trans": "to speak",
 	"childWords": [
 		{
 			"verb": "schönreden",
@@ -3699,19 +4729,34 @@
 			"trans": "to blandish"
 		},
 		{
+			"verb": "zerreden",
+			"separ": false,
+			"trans": "to discuss to death"
+		},
+		{
 			"verb": "ausreden",
 			"separ": true,
-			"trans": "to finish speaking"
+			"trans": "to discourage"
 		},
 		{
 			"verb": "verabreden",
 			"separ": false,
-			"trans": "to arrange"
+			"trans": "to make an appointment"
+		},
+		{
+			"verb": "anreden",
+			"separ": true,
+			"trans": "to address"
 		},
 		{
 			"verb": "überreden",
 			"separ": false,
-			"trans": "to argue"
+			"trans": "to persuade"
+		},
+		{
+			"verb": "kleinreden",
+			"separ": true,
+			"trans": "to play down"
 		}
 	]
 },
@@ -3722,29 +4767,29 @@
 		{
 			"verb": "verschulden",
 			"separ": false,
-			"trans": "to encumber with debts"
+			"trans": "to cause"
 		}
 	]
 },
 {
 	"root": "läutern",
-	"trans": "to chasten",
+	"trans": "to purge",
 	"childWords": [
 		{
 			"verb": "erläutern",
 			"separ": false,
-			"trans": "to outline"
+			"trans": "to explain"
 		}
 	]
 },
 {
 	"root": "täuschen",
-	"trans": "to fool",
+	"trans": "to deceive",
 	"childWords": [
 		{
 			"verb": "vortäuschen",
 			"separ": true,
-			"trans": "to pretend"
+			"trans": "to feign"
 		},
 		{
 			"verb": "enttäuschen",
@@ -3755,7 +4800,7 @@
 },
 {
 	"root": "feuern",
-	"trans": "to loose",
+	"trans": "to fire",
 	"childWords": [
 		{
 			"verb": "abfeuern",
@@ -3765,7 +4810,7 @@
 		{
 			"verb": "anfeuern",
 			"separ": true,
-			"trans": "to encourage"
+			"trans": "to excite"
 		}
 	]
 },
@@ -3782,18 +4827,23 @@
 },
 {
 	"root": "speisen",
-	"trans": "to supply",
+	"trans": "to eat",
 	"childWords": [
 		{
 			"verb": "einspeisen",
 			"separ": true,
 			"trans": "to inject"
+		},
+		{
+			"verb": "verspeisen",
+			"separ": false,
+			"trans": "to consume"
 		}
 	]
 },
 {
 	"root": "folgern",
-	"trans": "to argue",
+	"trans": "to conclude",
 	"childWords": [
 		{
 			"verb": "schlussfolgern",
@@ -3803,18 +4853,13 @@
 	]
 },
 {
-	"root": "singen",
-	"trans": "to sing",
+	"root": "lernen",
+	"trans": "to learn",
 	"childWords": [
 		{
-			"verb": "besingen",
+			"verb": "verlernen",
 			"separ": false,
-			"trans": "to sing about"
-		},
-		{
-			"verb": "lobsingen",
-			"separ": false,
-			"trans": "to chant the praises of"
+			"trans": "to forget"
 		}
 	]
 },
@@ -3825,22 +4870,27 @@
 		{
 			"verb": "verstehen",
 			"separ": false,
-			"trans": "to understand"
+			"trans": "to see"
 		},
 		{
 			"verb": "aufstehen",
 			"separ": true,
-			"trans": "to rise"
+			"trans": "to get up"
+		},
+		{
+			"verb": "bestehen",
+			"separ": false,
+			"trans": "to consist"
 		},
 		{
 			"verb": "entstehen",
 			"separ": false,
-			"trans": "to develop"
+			"trans": "to arise"
 		},
 		{
 			"verb": "unterstehen",
 			"separ": false,
-			"trans": "to be subordinate to"
+			"trans": "to be subject to"
 		},
 		{
 			"verb": "beistehen",
@@ -3848,9 +4898,14 @@
 			"trans": "to assist"
 		},
 		{
+			"verb": "anstehen",
+			"separ": true,
+			"trans": "to form a line"
+		},
+		{
 			"verb": "erstehen",
 			"separ": false,
-			"trans": "to acquire"
+			"trans": "to buy"
 		},
 		{
 			"verb": "widerstehen",
@@ -3860,22 +4915,27 @@
 		{
 			"verb": "dastehen",
 			"separ": true,
-			"trans": "to stand there"
+			"trans": "to loiter"
 		},
 		{
 			"verb": "stillstehen",
 			"separ": true,
-			"trans": "to stop"
+			"trans": "to be at standstill"
 		},
 		{
 			"verb": "gestehen",
 			"separ": false,
-			"trans": "to admit"
+			"trans": "to confess"
 		},
 		{
 			"verb": "ausstehen",
 			"separ": true,
-			"trans": "to bear"
+			"trans": "to abide"
+		},
+		{
+			"verb": "einstehen",
+			"separ": true,
+			"trans": "to vouch"
 		}
 	]
 },
@@ -3902,22 +4962,27 @@
 		{
 			"verb": "anfassen",
 			"separ": true,
-			"trans": "to touch"
+			"trans": "touch"
 		},
 		{
 			"verb": "zusammenfassen",
 			"separ": true,
-			"trans": "to sum"
+			"trans": "to summarize"
 		},
 		{
 			"verb": "verfassen",
 			"separ": false,
-			"trans": "to draft"
+			"trans": "to write"
 		},
 		{
 			"verb": "umfassen",
 			"separ": false,
-			"trans": "to include"
+			"trans": "to encompass"
+		},
+		{
+			"verb": "auffassen",
+			"separ": true,
+			"trans": "to apprehend"
 		},
 		{
 			"verb": "abfassen",
@@ -3933,18 +4998,18 @@
 		{
 			"verb": "einschleusen",
 			"separ": true,
-			"trans": "to channel in"
+			"trans": "to send in"
 		}
 	]
 },
 {
 	"root": "schenken",
-	"trans": "to donate",
+	"trans": "to present",
 	"childWords": [
 		{
 			"verb": "verschenken",
 			"separ": false,
-			"trans": "to give as a present"
+			"trans": "to offer"
 		},
 		{
 			"verb": "ausschenken",
@@ -3980,18 +5045,45 @@
 		{
 			"verb": "herhören",
 			"separ": true,
-			"trans": "to pay attention by listening"
+			"trans": "to listen"
 		},
 		{
 			"verb": "verhören",
 			"separ": false,
-			"trans": "to examine"
+			"trans": "to interrogate"
+		},
+		{
+			"verb": "erhören",
+			"separ": false,
+			"trans": "to grant"
+		}
+	]
+},
+{
+	"root": "schlampen",
+	"trans": "to lollygag",
+	"childWords": [
+		{
+			"verb": "verschlampen",
+			"separ": false,
+			"trans": "to get lost"
+		}
+	]
+},
+{
+	"root": "ziemen",
+	"trans": "to beseem",
+	"childWords": [
+		{
+			"verb": "geziemen",
+			"separ": false,
+			"trans": "to befit"
 		}
 	]
 },
 {
 	"root": "bringen",
-	"trans": "to take",
+	"trans": "to bring",
 	"childWords": [
 		{
 			"verb": "herbringen",
@@ -4004,6 +5096,11 @@
 			"trans": "to dissuade"
 		},
 		{
+			"verb": "aufbringen",
+			"separ": true,
+			"trans": "to broach"
+		},
+		{
 			"verb": "verbringen",
 			"separ": false,
 			"trans": "to spend"
@@ -4011,47 +5108,52 @@
 		{
 			"verb": "anbringen",
 			"separ": true,
-			"trans": "to add"
+			"trans": "to mount"
 		},
 		{
 			"verb": "beibringen",
 			"separ": true,
-			"trans": "to produce"
+			"trans": "to teach"
 		},
 		{
 			"verb": "hervorbringen",
 			"separ": true,
-			"trans": "to bear"
+			"trans": "to produce"
+		},
+		{
+			"verb": "umbringen",
+			"separ": true,
+			"trans": "to kill"
 		},
 		{
 			"verb": "einbringen",
 			"separ": true,
-			"trans": "to bring"
+			"trans": "to fetch"
 		},
 		{
 			"verb": "mitbringen",
 			"separ": true,
-			"trans": "to bring"
+			"trans": "to take"
 		},
 		{
 			"verb": "wegbringen",
 			"separ": true,
-			"trans": "to bring away"
+			"trans": "to take away"
 		},
 		{
 			"verb": "erbringen",
 			"separ": false,
-			"trans": "to bring"
+			"trans": "to bear"
+		},
+		{
+			"verb": "zubringen",
+			"separ": true,
+			"trans": "to accord"
 		},
 		{
 			"verb": "unterbringen",
 			"separ": true,
-			"trans": "to place"
-		},
-		{
-			"verb": "näherbringen",
-			"separ": true,
-			"trans": "to bring close"
+			"trans": "to accommodate"
 		}
 	]
 },
@@ -4067,7 +5169,7 @@
 		{
 			"verb": "überwiegen",
 			"separ": false,
-			"trans": "to outbalance"
+			"trans": "to preponderate"
 		}
 	]
 },
@@ -4088,7 +5190,7 @@
 		{
 			"verb": "schwarzsehen",
 			"separ": true,
-			"trans": "to be pessimistic"
+			"trans": "to dodge the TV license"
 		},
 		{
 			"verb": "versehen",
@@ -4098,27 +5200,27 @@
 		{
 			"verb": "ansehen",
 			"separ": true,
-			"trans": "to face"
+			"trans": "to watch"
 		},
 		{
 			"verb": "vorsehen",
 			"separ": true,
-			"trans": "to provide"
+			"trans": "to designate"
 		},
 		{
 			"verb": "einsehen",
 			"separ": true,
-			"trans": "to understand"
+			"trans": "to have a look at"
 		},
 		{
 			"verb": "wegsehen",
 			"separ": true,
-			"trans": "to look away"
+			"trans": "to disregard"
 		},
 		{
 			"verb": "übersehen",
 			"separ": false,
-			"trans": "to overlook [to fail to see]"
+			"trans": "to overlook"
 		},
 		{
 			"verb": "zusehen",
@@ -4126,14 +5228,24 @@
 			"trans": "to watch"
 		},
 		{
+			"verb": "umsehen",
+			"separ": true,
+			"trans": "to browse"
+		},
+		{
 			"verb": "nachsehen",
 			"separ": true,
-			"trans": "to peek"
+			"trans": "to look up"
 		},
 		{
 			"verb": "aufsehen",
 			"separ": true,
-			"trans": "to look up"
+			"trans": "to look upward"
+		},
+		{
+			"verb": "besehen",
+			"separ": false,
+			"trans": "to had a look at"
 		},
 		{
 			"verb": "wiedersehen",
@@ -4144,34 +5256,45 @@
 },
 {
 	"root": "löten",
-	"trans": "to braze",
+	"trans": "to solder",
 	"childWords": [
 		{
 			"verb": "verlöten",
 			"separ": false,
-			"trans": "to solder (up)"
+			"trans": "to solder"
 		}
 	]
 },
 {
 	"root": "bannen",
-	"trans": "to allay",
+	"trans": "to ban",
 	"childWords": [
 		{
 			"verb": "verbannen",
 			"separ": false,
-			"trans": "to ban"
+			"trans": "to banish"
+		}
+	]
+},
+{
+	"root": "hauen",
+	"trans": "to beat",
+	"childWords": [
+		{
+			"verb": "abhauen",
+			"separ": true,
+			"trans": "to skedaddle"
 		}
 	]
 },
 {
 	"root": "sammeln",
-	"trans": "to collect",
+	"trans": "to pick",
 	"childWords": [
 		{
 			"verb": "versammeln",
 			"separ": false,
-			"trans": "to congregate"
+			"trans": "to assemble"
 		}
 	]
 },
@@ -4180,20 +5303,14 @@
 	"trans": "to notice",
 	"childWords": [
 		{
+			"verb": "aufmerken",
+			"separ": true,
+			"trans": "to attend"
+		},
+		{
 			"verb": "bemerken",
 			"separ": false,
-			"trans": "to observe"
-		}
-	]
-},
-{
-	"root": "fressen",
-	"trans": "to devour",
-	"childWords": [
-		{
-			"verb": "abfressen",
-			"separ": true,
-			"trans": "to browse"
+			"trans": "to notice"
 		}
 	]
 },
@@ -4204,7 +5321,7 @@
 		{
 			"verb": "abdämmen",
 			"separ": true,
-			"trans": "to dam up"
+			"trans": "to dam"
 		}
 	]
 },
@@ -4215,12 +5332,17 @@
 		{
 			"verb": "beleben",
 			"separ": false,
-			"trans": "to stimulate"
+			"trans": "to animate"
 		},
 		{
 			"verb": "zusammenleben",
 			"separ": true,
-			"trans": "to coexist"
+			"trans": "to cohabit"
+		},
+		{
+			"verb": "erleben",
+			"separ": false,
+			"trans": "to experience"
 		},
 		{
 			"verb": "überleben",
@@ -4230,13 +5352,18 @@
 		{
 			"verb": "verleben",
 			"separ": false,
-			"trans": "to spend [one's time / life]"
+			"trans": "to experience"
+		},
+		{
+			"verb": "einleben",
+			"separ": true,
+			"trans": "to immerse oneself"
 		}
 	]
 },
 {
 	"root": "stören",
-	"trans": "to upset",
+	"trans": "to disturb",
 	"childWords": [
 		{
 			"verb": "zerstören",
@@ -4246,18 +5373,23 @@
 		{
 			"verb": "verstören",
 			"separ": false,
-			"trans": "to unsettle"
+			"trans": "to derail"
 		}
 	]
 },
 {
 	"root": "zeigen",
-	"trans": "to offer",
+	"trans": "to show",
 	"childWords": [
 		{
 			"verb": "aufzeigen",
 			"separ": true,
-			"trans": "to show"
+			"trans": "to demonstrate"
+		},
+		{
+			"verb": "anzeigen",
+			"separ": true,
+			"trans": "to indicate"
 		},
 		{
 			"verb": "vorzeigen",
@@ -4273,12 +5405,7 @@
 		{
 			"verb": "ausstrahlen",
 			"separ": true,
-			"trans": "to broadcast"
-		},
-		{
-			"verb": "verstrahlen",
-			"separ": false,
-			"trans": "to contaminate with radiation"
+			"trans": "to emanate"
 		}
 	]
 },
@@ -4289,7 +5416,7 @@
 		{
 			"verb": "bekämpfen",
 			"separ": false,
-			"trans": "to oppose"
+			"trans": "to fight"
 		}
 	]
 },
@@ -4300,12 +5427,12 @@
 		{
 			"verb": "anstreben",
 			"separ": true,
-			"trans": "to seek"
+			"trans": "to aim"
 		},
 		{
 			"verb": "erstreben",
 			"separ": false,
-			"trans": "to strive"
+			"trans": "to aim at"
 		},
 		{
 			"verb": "verstreben",
@@ -4315,19 +5442,24 @@
 	]
 },
 {
-	"root": "mahnen",
-	"trans": "to warn",
+	"root": "lachen",
+	"trans": "to laugh",
 	"childWords": [
 		{
-			"verb": "abmahnen",
+			"verb": "auslachen",
 			"separ": true,
-			"trans": "to admonish"
+			"trans": "to laugh"
+		},
+		{
+			"verb": "verlachen",
+			"separ": false,
+			"trans": "to deride"
 		}
 	]
 },
 {
 	"root": "stimmen",
-	"trans": "to add up",
+	"trans": "to tune",
 	"childWords": [
 		{
 			"verb": "zustimmen",
@@ -4337,38 +5469,38 @@
 		{
 			"verb": "bestimmen",
 			"separ": false,
-			"trans": "to provide"
+			"trans": "to determine"
 		},
 		{
 			"verb": "beistimmen",
 			"separ": true,
-			"trans": "to agree"
+			"trans": "to accede"
 		},
 		{
 			"verb": "abstimmen",
 			"separ": true,
-			"trans": "to tune"
+			"trans": "to vote"
 		},
 		{
 			"verb": "einstimmen",
 			"separ": true,
-			"trans": "to tune"
+			"trans": "to tally"
 		},
 		{
 			"verb": "verstimmen",
 			"separ": false,
-			"trans": "to upset"
+			"trans": "to contravene"
 		}
 	]
 },
 {
 	"root": "ackern",
-	"trans": "to plough [br.]",
+	"trans": "to plod",
 	"childWords": [
 		{
 			"verb": "beackern",
 			"separ": false,
-			"trans": "to plough [br.]"
+			"trans": "to cultivate"
 		}
 	]
 },
@@ -4379,13 +5511,13 @@
 		{
 			"verb": "abbröckeln",
 			"separ": true,
-			"trans": "to crumble away"
+			"trans": "to wane"
 		}
 	]
 },
 {
 	"root": "wachsen",
-	"trans": "to increase",
+	"trans": "to grow",
 	"childWords": [
 		{
 			"verb": "aufwachsen",
@@ -4400,12 +5532,17 @@
 		{
 			"verb": "erwachsen",
 			"separ": false,
-			"trans": "to arise"
+			"trans": "to adult"
+		},
+		{
+			"verb": "durchwachsen",
+			"separ": true,
+			"trans": "to fair to middling"
 		},
 		{
 			"verb": "verwachsen",
 			"separ": false,
-			"trans": "to coalesce"
+			"trans": "to aggregated"
 		}
 	]
 },
@@ -4416,18 +5553,23 @@
 		{
 			"verb": "aufkochen",
 			"separ": true,
-			"trans": "to boil up"
+			"trans": "to boil"
+		},
+		{
+			"verb": "bekochen",
+			"separ": false,
+			"trans": "to cook for"
 		},
 		{
 			"verb": "einkochen",
 			"separ": true,
-			"trans": "to bottle"
+			"trans": "to boil down"
 		}
 	]
 },
 {
 	"root": "trauen",
-	"trans": "to marry [priest",
+	"trans": "to wed",
 	"childWords": [
 		{
 			"verb": "vertrauen",
@@ -4438,39 +5580,54 @@
 			"verb": "misstrauen",
 			"separ": false,
 			"trans": "to suspect"
+		},
+		{
+			"verb": "getrauen",
+			"separ": false,
+			"trans": "to dare"
+		},
+		{
+			"verb": "zutrauen",
+			"separ": true,
+			"trans": "to commend"
 		}
 	]
 },
 {
 	"root": "treiben",
-	"trans": "to drive [animals",
+	"trans": "to propel",
 	"childWords": [
 		{
 			"verb": "vertreiben",
 			"separ": false,
-			"trans": "to market"
+			"trans": "to drive away"
 		},
 		{
 			"verb": "betreiben",
 			"separ": false,
-			"trans": "to conduct"
+			"trans": "to carry on"
 		},
 		{
 			"verb": "übertreiben",
 			"separ": false,
-			"trans": "to boast"
+			"trans": "to exaggerate"
 		},
 		{
 			"verb": "antreiben",
 			"separ": true,
-			"trans": "to push on"
+			"trans": "to drive"
 		}
 	]
 },
 {
 	"root": "bessern",
-	"trans": "to amend",
+	"trans": "to ameliorate",
 	"childWords": [
+		{
+			"verb": "verschlimmbessern",
+			"separ": false,
+			"trans": "to kill the patient with the cure"
+		},
 		{
 			"verb": "verbessern",
 			"separ": false,
@@ -4484,7 +5641,7 @@
 		{
 			"verb": "aufbessern",
 			"separ": true,
-			"trans": "to improve"
+			"trans": "to eke out"
 		}
 	]
 },
@@ -4495,7 +5652,7 @@
 		{
 			"verb": "auseinandersetzen",
 			"separ": true,
-			"trans": "to expose"
+			"trans": "to deal"
 		},
 		{
 			"verb": "übersetzen",
@@ -4505,7 +5662,7 @@
 		{
 			"verb": "einsetzen",
 			"separ": true,
-			"trans": "to install"
+			"trans": "to appoint"
 		},
 		{
 			"verb": "fortsetzen",
@@ -4520,32 +5677,32 @@
 		{
 			"verb": "besetzen",
 			"separ": false,
-			"trans": "to cast"
+			"trans": "to occupy"
 		},
 		{
 			"verb": "umsetzen",
 			"separ": true,
-			"trans": "to convert"
+			"trans": "to implement"
 		},
 		{
 			"verb": "absetzen",
 			"separ": true,
-			"trans": "to sell"
+			"trans": "to dethrone"
 		},
 		{
 			"verb": "hinsetzen",
 			"separ": true,
-			"trans": "to sit down"
+			"trans": "to sit"
 		},
 		{
 			"verb": "zusammensetzen",
 			"separ": true,
-			"trans": "to combine"
+			"trans": "to compose"
 		},
 		{
 			"verb": "versetzen",
 			"separ": false,
-			"trans": "to add"
+			"trans": "to alarm"
 		},
 		{
 			"verb": "ersetzen",
@@ -4555,38 +5712,59 @@
 		{
 			"verb": "aussetzen",
 			"separ": true,
-			"trans": "to abate legal proceedings"
+			"trans": "to abandon"
 		},
 		{
 			"verb": "durchsetzen",
 			"separ": true,
-			"trans": "to force through"
+			"trans": "to enforce"
+		},
+		{
+			"verb": "nachsetzen",
+			"separ": true,
+			"trans": "to trail"
 		},
 		{
 			"verb": "freisetzen",
 			"separ": true,
-			"trans": "to break loose"
+			"trans": "to release"
 		},
 		{
 			"verb": "herabsetzen",
 			"separ": true,
-			"trans": "to reduce"
+			"trans": "to belittle"
+		},
+		{
+			"verb": "widersetzen",
+			"separ": false,
+			"trans": "to defy"
 		},
 		{
 			"verb": "voraussetzen",
 			"separ": true,
-			"trans": "to require"
+			"trans": "to presuppose"
 		}
 	]
 },
 {
 	"root": "spotten",
-	"trans": "to gibe",
+	"trans": "to jeer",
 	"childWords": [
 		{
 			"verb": "verspotten",
 			"separ": false,
-			"trans": "to deride"
+			"trans": "to flout"
+		}
+	]
+},
+{
+	"root": "schickern",
+	"trans": "to drink",
+	"childWords": [
+		{
+			"verb": "beschickern",
+			"separ": true,
+			"trans": "to get"
 		}
 	]
 },
@@ -4602,7 +5780,7 @@
 		{
 			"verb": "auszahlen",
 			"separ": true,
-			"trans": "to cash out"
+			"trans": "to pay"
 		},
 		{
 			"verb": "draufzahlen",
@@ -4618,24 +5796,24 @@
 		{
 			"verb": "begrüßen",
 			"separ": false,
-			"trans": "to welcome"
+			"trans": "to greet"
 		}
 	]
 },
 {
-	"root": "schwitzen",
-	"trans": "to be in a sweat",
+	"root": "strapazieren",
+	"trans": "to strain",
 	"childWords": [
 		{
-			"verb": "anschwitzen",
-			"separ": true,
-			"trans": "to (lightly) sautée"
+			"verb": "überstrapazieren",
+			"separ": false,
+			"trans": "to overwork"
 		}
 	]
 },
 {
 	"root": "klappern",
-	"trans": "to clack",
+	"trans": "to clatter",
 	"childWords": [
 		{
 			"verb": "abklappern",
@@ -4646,107 +5824,171 @@
 },
 {
 	"root": "packen",
-	"trans": "to clutch",
+	"trans": "to pack",
 	"childWords": [
 		{
 			"verb": "auspacken",
 			"separ": true,
-			"trans": "to do one's unpacking"
+			"trans": "to unwrap"
 		},
 		{
 			"verb": "einpacken",
 			"separ": true,
-			"trans": "to pack"
+			"trans": "to box"
 		},
 		{
 			"verb": "verpacken",
 			"separ": false,
-			"trans": "to pack"
+			"trans": "to box"
 		},
 		{
 			"verb": "entpacken",
 			"separ": false,
-			"trans": "to extract"
+			"trans": "to unpack"
 		},
 		{
 			"verb": "zupacken",
 			"separ": true,
-			"trans": "to grab"
+			"trans": "to get down"
 		},
 		{
 			"verb": "abpacken",
 			"separ": true,
-			"trans": "to pack [fish"
+			"trans": "to pack"
 		}
 	]
 },
 {
 	"root": "spülen",
-	"trans": "to douche",
+	"trans": "to rinse",
 	"childWords": [
 		{
 			"verb": "abspülen",
 			"separ": true,
-			"trans": "to rinse out"
+			"trans": "to gargle"
+		},
+		{
+			"verb": "unterspülen",
+			"separ": false,
+			"trans": "to hollow out"
 		}
 	]
 },
 {
-	"root": "klären",
-	"trans": "to clear [football]",
+	"root": "schreiben",
+	"trans": "to write",
 	"childWords": [
 		{
-			"verb": "verklären",
-			"separ": false,
-			"trans": "to glorify"
-		},
-		{
-			"verb": "erklären",
-			"separ": false,
-			"trans": "to give an account of"
-		},
-		{
-			"verb": "aufklären",
+			"verb": "kleinschreiben",
 			"separ": true,
-			"trans": "to brighten"
+			"trans": "to begin a word without a capital letter"
+		},
+		{
+			"verb": "beschreiben",
+			"separ": false,
+			"trans": "to describe"
+		},
+		{
+			"verb": "fortschreiben",
+			"separ": true,
+			"trans": "to adjust"
+		},
+		{
+			"verb": "unterschreiben",
+			"separ": false,
+			"trans": "to sign"
+		},
+		{
+			"verb": "abschreiben",
+			"separ": true,
+			"trans": "to write down"
+		},
+		{
+			"verb": "ausschreiben",
+			"separ": true,
+			"trans": "to write out"
+		},
+		{
+			"verb": "verschreiben",
+			"separ": false,
+			"trans": "to prescribe"
+		},
+		{
+			"verb": "umschreiben",
+			"separ": false,
+			"trans": "to paraphrase"
+		},
+		{
+			"verb": "vorschreiben",
+			"separ": true,
+			"trans": "to prescribe"
+		},
+		{
+			"verb": "niederschreiben",
+			"separ": true,
+			"trans": "to write down"
+		},
+		{
+			"verb": "zuschreiben",
+			"separ": true,
+			"trans": "to ascribe"
+		},
+		{
+			"verb": "festschreiben",
+			"separ": true,
+			"trans": "to lay down"
+		},
+		{
+			"verb": "einschreiben",
+			"separ": true,
+			"trans": "to register"
+		},
+		{
+			"verb": "großschreiben",
+			"separ": true,
+			"trans": "to capitalize"
+		},
+		{
+			"verb": "aufschreiben",
+			"separ": true,
+			"trans": "to write down"
+		},
+		{
+			"verb": "überschreiben",
+			"separ": false,
+			"trans": "to overwrite"
+		},
+		{
+			"verb": "anschreiben",
+			"separ": true,
+			"trans": "to notch"
 		}
 	]
 },
 {
 	"root": "siedeln",
-	"trans": "to colonize",
+	"trans": "to settle",
 	"childWords": [
 		{
 			"verb": "übersiedeln",
 			"separ": true,
-			"trans": "to transfer"
+			"trans": "to move"
 		},
 		{
 			"verb": "ansiedeln",
 			"separ": true,
-			"trans": "to settle [colonize]"
+			"trans": "to colonize"
 		},
 		{
 			"verb": "besiedeln",
 			"separ": false,
-			"trans": "to colonialize"
-		}
-	]
-},
-{
-	"root": "fasen",
-	"trans": "to bevel",
-	"childWords": [
-		{
-			"verb": "abfasen",
-			"separ": true,
-			"trans": "to chamfer"
+			"trans": "to people"
 		}
 	]
 },
 {
 	"root": "heben",
-	"trans": "to raise",
+	"trans": "to lift",
 	"childWords": [
 		{
 			"verb": "erheben",
@@ -4756,27 +5998,32 @@
 		{
 			"verb": "aufheben",
 			"separ": true,
-			"trans": "to make void"
+			"trans": "to abolish"
 		},
 		{
 			"verb": "anheben",
 			"separ": true,
-			"trans": "to raise"
+			"trans": "to lift"
 		},
 		{
 			"verb": "abheben",
 			"separ": true,
-			"trans": "to raise"
+			"trans": "to withdraw"
+		},
+		{
+			"verb": "entheben",
+			"separ": false,
+			"trans": "to clear"
 		},
 		{
 			"verb": "hervorheben",
 			"separ": true,
-			"trans": "to signalize"
+			"trans": "to highlight"
 		},
 		{
 			"verb": "beheben",
 			"separ": false,
-			"trans": "to remove"
+			"trans": "to cash"
 		}
 	]
 },
@@ -4787,7 +6034,7 @@
 		{
 			"verb": "anfangen",
 			"separ": true,
-			"trans": "to become"
+			"trans": "to begin"
 		},
 		{
 			"verb": "umfangen",
@@ -4797,12 +6044,60 @@
 		{
 			"verb": "einfangen",
 			"separ": true,
-			"trans": "to catch"
+			"trans": "to capture"
 		},
 		{
 			"verb": "abfangen",
 			"separ": true,
-			"trans": "to retain"
+			"trans": "to intercept"
+		},
+		{
+			"verb": "verfangen",
+			"separ": false,
+			"trans": "to be caught"
+		}
+	]
+},
+{
+	"root": "schreien",
+	"trans": "to shout",
+	"childWords": [
+		{
+			"verb": "verschreien",
+			"separ": false,
+			"trans": "to conjure up"
+		}
+	]
+},
+{
+	"root": "schleichen",
+	"trans": "to creep",
+	"childWords": [
+		{
+			"verb": "erschleichen",
+			"separ": false,
+			"trans": "to creep"
+		},
+		{
+			"verb": "beschleichen",
+			"separ": false,
+			"trans": "to steal up to"
+		},
+		{
+			"verb": "anschleichen",
+			"separ": true,
+			"trans": "to sneak up on"
+		}
+	]
+},
+{
+	"root": "buchen",
+	"trans": "to book",
+	"childWords": [
+		{
+			"verb": "abbuchen",
+			"separ": true,
+			"trans": "to debit"
 		}
 	]
 },
@@ -4813,22 +6108,22 @@
 		{
 			"verb": "anrufen",
 			"separ": true,
-			"trans": "to invoke"
+			"trans": "to call"
 		},
 		{
 			"verb": "abrufen",
 			"separ": true,
-			"trans": "to call"
+			"trans": "to fetch"
 		},
 		{
 			"verb": "aufrufen",
 			"separ": true,
-			"trans": "to call"
+			"trans": "to invoke"
 		},
 		{
 			"verb": "berufen",
 			"separ": false,
-			"trans": "to convene"
+			"trans": "to appoint"
 		},
 		{
 			"verb": "herbeirufen",
@@ -4839,38 +6134,38 @@
 },
 {
 	"root": "erhalten",
-	"trans": "to receive",
+	"trans": "to get",
 	"childWords": [
 		{
 			"verb": "aufrechterhalten",
 			"separ": true,
-			"trans": "to maintain"
+			"trans": "to buoy up"
 		}
 	]
 },
 {
 	"root": "zeichnen",
-	"trans": "to design",
+	"trans": "to draw",
 	"childWords": [
 		{
 			"verb": "bezeichnen",
 			"separ": false,
-			"trans": "to describe"
+			"trans": "to name"
 		},
 		{
 			"verb": "kennzeichnen",
 			"separ": false,
-			"trans": "to identify"
+			"trans": "to mark"
 		},
 		{
 			"verb": "abzeichnen",
 			"separ": true,
-			"trans": "to delineate"
+			"trans": "to check"
 		},
 		{
 			"verb": "auszeichnen",
 			"separ": true,
-			"trans": "to tag"
+			"trans": "to award"
 		},
 		{
 			"verb": "unterzeichnen",
@@ -4880,12 +6175,12 @@
 		{
 			"verb": "einzeichnen",
 			"separ": true,
-			"trans": "to draw in"
+			"trans": "to brand"
 		},
 		{
 			"verb": "gegenzeichnen",
 			"separ": true,
-			"trans": "to counter-sign"
+			"trans": "to countersign"
 		},
 		{
 			"verb": "verzeichnen",
@@ -4896,45 +6191,23 @@
 },
 {
 	"root": "strafen",
-	"trans": "to chastise",
+	"trans": "to punish",
 	"childWords": [
 		{
 			"verb": "bestrafen",
 			"separ": false,
-			"trans": "to sentence"
+			"trans": "to punish"
 		}
 	]
 },
 {
 	"root": "härten",
-	"trans": "to anneal",
+	"trans": "to harden",
 	"childWords": [
 		{
 			"verb": "aushärten",
 			"separ": true,
 			"trans": "to cure"
-		}
-	]
-},
-{
-	"root": "kassieren",
-	"trans": "to cashier",
-	"childWords": [
-		{
-			"verb": "abkassieren",
-			"separ": true,
-			"trans": "to cash up"
-		}
-	]
-},
-{
-	"root": "äsen",
-	"trans": "to browse",
-	"childWords": [
-		{
-			"verb": "abäsen",
-			"separ": true,
-			"trans": "to crop [of deer]"
 		}
 	]
 },
@@ -4945,18 +6218,18 @@
 		{
 			"verb": "gutheißen",
 			"separ": true,
-			"trans": "to ratify"
+			"trans": "to approve"
 		},
 		{
 			"verb": "verheißen",
 			"separ": false,
-			"trans": "to promise"
+			"trans": "to bode"
 		}
 	]
 },
 {
 	"root": "wässern",
-	"trans": "to soak",
+	"trans": "to water",
 	"childWords": [
 		{
 			"verb": "verwässern",
@@ -4966,13 +6239,29 @@
 	]
 },
 {
-	"root": "blitzen",
-	"trans": "to flash",
+	"root": "fesseln",
+	"trans": "to absorb",
 	"childWords": [
 		{
-			"verb": "aufblitzen",
-			"separ": true,
-			"trans": "to flash"
+			"verb": "entfesseln",
+			"separ": false,
+			"trans": "to unleash"
+		}
+	]
+},
+{
+	"root": "pissen",
+	"trans": "to piss",
+	"childWords": [
+		{
+			"verb": "verpissen",
+			"separ": false,
+			"trans": "to piss off"
+		},
+		{
+			"verb": "bepissen",
+			"separ": false,
+			"trans": "to bepiss"
 		}
 	]
 },
@@ -4981,30 +6270,94 @@
 	"trans": "to do",
 	"childWords": [
 		{
-			"verb": "nottun",
-			"separ": false,
-			"trans": "to be essential"
-		},
-		{
 			"verb": "kundtun",
 			"separ": true,
-			"trans": "to communicate"
+			"trans": "to announce"
 		},
 		{
 			"verb": "wehtun",
 			"separ": true,
 			"trans": "to hurt"
+		},
+		{
+			"verb": "leidtun",
+			"separ": true,
+			"trans": "to regret"
+		},
+		{
+			"verb": "dartun",
+			"separ": true,
+			"trans": "to explain"
+		},
+		{
+			"verb": "antun",
+			"separ": true,
+			"trans": "to accept"
+		}
+	]
+},
+{
+	"root": "dingen",
+	"trans": "to haggle",
+	"childWords": [
+		{
+			"verb": "abdingen",
+			"separ": true,
+			"trans": "to cede"
+		},
+		{
+			"verb": "bedingen",
+			"separ": false,
+			"trans": "to bring about"
+		},
+		{
+			"verb": "verdingen",
+			"separ": false,
+			"trans": "to hire out"
+		}
+	]
+},
+{
+	"root": "zagen",
+	"trans": "to hesitate",
+	"childWords": [
+		{
+			"verb": "verzagen",
+			"separ": false,
+			"trans": "to despond"
+		}
+	]
+},
+{
+	"root": "sparen",
+	"trans": "to save",
+	"childWords": [
+		{
+			"verb": "zusammensparen",
+			"separ": true,
+			"trans": "to save up"
+		}
+	]
+},
+{
+	"root": "siechen",
+	"trans": "to waste away",
+	"childWords": [
+		{
+			"verb": "dahinsiechen",
+			"separ": true,
+			"trans": "to languish"
 		}
 	]
 },
 {
 	"root": "schlingen",
-	"trans": "to gulp",
+	"trans": "to gobble",
 	"childWords": [
 		{
 			"verb": "verschlingen",
 			"separ": false,
-			"trans": "to engulf"
+			"trans": "to devour"
 		}
 	]
 },
@@ -5015,27 +6368,27 @@
 		{
 			"verb": "bekommen",
 			"separ": false,
-			"trans": "to have"
+			"trans": "to obtain"
 		},
 		{
 			"verb": "ankommen",
 			"separ": true,
-			"trans": "to come"
+			"trans": "to arrive"
 		},
 		{
 			"verb": "aufkommen",
 			"separ": true,
-			"trans": "to come up [topic"
+			"trans": "to arise"
 		},
 		{
 			"verb": "hereinkommen",
 			"separ": true,
-			"trans": "to come in"
+			"trans": "to enter"
 		},
 		{
 			"verb": "entgegenkommen",
 			"separ": true,
-			"trans": "to approach"
+			"trans": "to subtend"
 		},
 		{
 			"verb": "abkommen",
@@ -5045,22 +6398,22 @@
 		{
 			"verb": "vorkommen",
 			"separ": true,
-			"trans": "to happen"
+			"trans": "to occur"
 		},
 		{
 			"verb": "überkommen",
 			"separ": false,
-			"trans": "to overcome"
+			"trans": "to come down"
 		},
 		{
 			"verb": "auskommen",
 			"separ": true,
-			"trans": "to manage"
+			"trans": "to get by"
 		},
 		{
 			"verb": "herauskommen",
 			"separ": true,
-			"trans": "to result"
+			"trans": "to emerge"
 		},
 		{
 			"verb": "entkommen",
@@ -5075,22 +6428,27 @@
 		{
 			"verb": "umkommen",
 			"separ": true,
-			"trans": "to be killed"
+			"trans": "to perish"
 		},
 		{
 			"verb": "verkommen",
 			"separ": false,
-			"trans": "to deteriorate"
+			"trans": "to reprobate"
 		},
 		{
 			"verb": "heraufkommen",
 			"separ": true,
-			"trans": "to come up [via stairs etc.]"
+			"trans": "to approach"
 		},
 		{
 			"verb": "herunterkommen",
 			"separ": true,
-			"trans": "to deteriorate"
+			"trans": "to descend"
+		},
+		{
+			"verb": "hochkommen",
+			"separ": true,
+			"trans": "to rise to the surface"
 		},
 		{
 			"verb": "abhandenkommen",
@@ -5100,27 +6458,32 @@
 		{
 			"verb": "herankommen",
 			"separ": true,
-			"trans": "to close in"
+			"trans": "to approach"
 		},
 		{
 			"verb": "zurechtkommen",
 			"separ": true,
-			"trans": "to manage"
+			"trans": "to cope"
 		},
 		{
 			"verb": "hinkommen",
 			"separ": true,
-			"trans": "to reach it"
+			"trans": "to arrive at"
+		},
+		{
+			"verb": "herzukommen",
+			"separ": true,
+			"trans": "to arrive"
 		},
 		{
 			"verb": "wegkommen",
 			"separ": true,
-			"trans": "to get away"
+			"trans": "to walk"
 		},
 		{
 			"verb": "vorankommen",
 			"separ": true,
-			"trans": "to succeed"
+			"trans": "to advance"
 		}
 	]
 },
@@ -5131,28 +6494,34 @@
 		{
 			"verb": "niederknien",
 			"separ": true,
-			"trans": "to genuflect"
+			"trans": "to kneel down"
 		}
 	]
 },
 {
-	"root": "gleichen",
-	"trans": "to resemble",
+	"root": "blitzen",
+	"trans": "to flash",
 	"childWords": [
 		{
-			"verb": "vergleichen",
-			"separ": false,
-			"trans": "to compare"
-		},
-		{
-			"verb": "begleichen",
-			"separ": false,
-			"trans": "to meet"
-		},
-		{
-			"verb": "angleichen",
+			"verb": "abblitzen",
 			"separ": true,
-			"trans": "to adjust"
+			"trans": "to rebuff"
+		},
+		{
+			"verb": "aufblitzen",
+			"separ": true,
+			"trans": "to flash"
+		}
+	]
+},
+{
+	"root": "spritzen",
+	"trans": "to inject",
+	"childWords": [
+		{
+			"verb": "abspritzen",
+			"separ": true,
+			"trans": "to cum"
 		}
 	]
 },
@@ -5169,7 +6538,7 @@
 },
 {
 	"root": "wandern",
-	"trans": "to move",
+	"trans": "to walk",
 	"childWords": [
 		{
 			"verb": "auswandern",
@@ -5179,29 +6548,40 @@
 		{
 			"verb": "abwandern",
 			"separ": true,
-			"trans": "to vary"
+			"trans": "to be transferred"
+		}
+	]
+},
+{
+	"root": "petzen",
+	"trans": "to snitch",
+	"childWords": [
+		{
+			"verb": "verpetzen",
+			"separ": false,
+			"trans": "to snitch"
 		}
 	]
 },
 {
 	"root": "billigen",
-	"trans": "to grant",
+	"trans": "to approve",
 	"childWords": [
 		{
 			"verb": "missbilligen",
 			"separ": false,
-			"trans": "to deprecate"
+			"trans": "to disapprove"
 		}
 	]
 },
 {
 	"root": "suchen",
-	"trans": "to seek",
+	"trans": "to search",
 	"childWords": [
 		{
 			"verb": "untersuchen",
 			"separ": false,
-			"trans": "to determine"
+			"trans": "to examine"
 		},
 		{
 			"verb": "besuchen",
@@ -5216,12 +6596,28 @@
 		{
 			"verb": "ersuchen",
 			"separ": false,
-			"trans": "to ask"
+			"trans": "to request"
 		},
 		{
 			"verb": "durchsuchen",
 			"separ": false,
-			"trans": "to examine"
+			"trans": "to search"
+		}
+	]
+},
+{
+	"root": "feuchten",
+	"trans": "to humid",
+	"childWords": [
+		{
+			"verb": "befeuchten",
+			"separ": false,
+			"trans": "to moisten"
+		},
+		{
+			"verb": "anfeuchten",
+			"separ": true,
+			"trans": "to moisten"
 		}
 	]
 },
@@ -5235,110 +6631,170 @@
 			"trans": "to screw on"
 		},
 		{
-			"verb": "zusammenschrauben",
-			"separ": true,
-			"trans": "to screw together"
-		},
-		{
 			"verb": "festschrauben",
 			"separ": true,
-			"trans": "to screw down"
+			"trans": "to screw tight"
+		}
+	]
+},
+{
+	"root": "baden",
+	"trans": "to bathe",
+	"childWords": [
+		{
+			"verb": "ausbaden",
+			"separ": true,
+			"trans": "to pay for"
+		}
+	]
+},
+{
+	"root": "saufen",
+	"trans": "to drink",
+	"childWords": [
+		{
+			"verb": "ersaufen",
+			"separ": false,
+			"trans": "to drown"
+		}
+	]
+},
+{
+	"root": "kommandieren",
+	"trans": "to command",
+	"childWords": [
+		{
+			"verb": "abkommandieren",
+			"separ": true,
+			"trans": "to draft"
 		}
 	]
 },
 {
 	"root": "schmieren",
-	"trans": "to daub",
+	"trans": "to lubricate",
 	"childWords": [
 		{
 			"verb": "abschmieren",
 			"separ": true,
-			"trans": "to degrease"
+			"trans": "to grease"
 		},
 		{
 			"verb": "anschmieren",
 			"separ": true,
-			"trans": "to bedaub"
+			"trans": "to con"
 		},
 		{
 			"verb": "beschmieren",
 			"separ": false,
-			"trans": "to bedaub"
+			"trans": "to spread"
 		}
 	]
 },
 {
-	"root": "punktieren",
-	"trans": "to tap",
+	"root": "fühlen",
+	"trans": "to feel",
 	"childWords": [
 		{
-			"verb": "interpunktieren",
+			"verb": "nachfühlen",
+			"separ": true,
+			"trans": "to feel"
+		},
+		{
+			"verb": "befühlen",
 			"separ": false,
-			"trans": "to punctuate"
+			"trans": "to feel"
+		},
+		{
+			"verb": "mitfühlen",
+			"separ": true,
+			"trans": "to empathize"
+		},
+		{
+			"verb": "anfühlen",
+			"separ": true,
+			"trans": "to feel"
+		},
+		{
+			"verb": "erfühlen",
+			"separ": false,
+			"trans": "to sense"
+		}
+	]
+},
+{
+	"root": "erleben",
+	"trans": "to experience",
+	"childWords": [
+		{
+			"verb": "miterleben",
+			"separ": true,
+			"trans": "to attend"
 		}
 	]
 },
 {
 	"root": "rütteln",
-	"trans": "to shake",
+	"trans": "to jolt",
 	"childWords": [
 		{
 			"verb": "wachrütteln",
 			"separ": true,
-			"trans": "to arouse"
+			"trans": "to jolt"
 		}
 	]
 },
 {
-	"root": "zwingen",
-	"trans": "to force",
+	"root": "klarieren",
+	"trans": "to clear",
 	"childWords": [
 		{
-			"verb": "bezwingen",
+			"verb": "deklarieren",
 			"separ": false,
-			"trans": "to control"
-		},
+			"trans": "to declare"
+		}
+	]
+},
+{
+	"root": "walten",
+	"trans": "to rule over",
+	"childWords": [
 		{
-			"verb": "erzwingen",
+			"verb": "verwalten",
 			"separ": false,
-			"trans": "to force"
-		},
-		{
-			"verb": "aufzwingen",
-			"separ": true,
-			"trans": "to force"
+			"trans": "to manage"
 		}
 	]
 },
 {
 	"root": "weichen",
-	"trans": "to vanish",
+	"trans": "to give way",
 	"childWords": [
 		{
 			"verb": "abweichen",
 			"separ": true,
-			"trans": "to vary [differ]"
+			"trans": "to differ"
 		},
 		{
 			"verb": "ausweichen",
 			"separ": true,
-			"trans": "to avoid"
+			"trans": "to dodge"
 		},
 		{
 			"verb": "entweichen",
 			"separ": false,
-			"trans": "to get out of reach"
+			"trans": "to evade"
 		}
 	]
 },
 {
 	"root": "lauschen",
-	"trans": "to be listening",
+	"trans": "to listen",
 	"childWords": [
 		{
 			"verb": "belauschen",
 			"separ": false,
-			"trans": "to overhear"
+			"trans": "to eavesdrop"
 		}
 	]
 },
@@ -5354,19 +6810,35 @@
 	]
 },
 {
+	"root": "flechten",
+	"trans": "to braid",
+	"childWords": [
+		{
+			"verb": "entflechten",
+			"separ": false,
+			"trans": "to decartelize"
+		}
+	]
+},
+{
 	"root": "lehnen",
 	"trans": "to lean",
 	"childWords": [
 		{
 			"verb": "ablehnen",
 			"separ": true,
-			"trans": "to refuse"
+			"trans": "to reject"
+		},
+		{
+			"verb": "auflehnen",
+			"separ": true,
+			"trans": "to rebel"
 		}
 	]
 },
 {
 	"root": "stopfen",
-	"trans": "to stuff",
+	"trans": "to darn",
 	"childWords": [
 		{
 			"verb": "ausstopfen",
@@ -5377,28 +6849,33 @@
 },
 {
 	"root": "streuen",
-	"trans": "to spread",
+	"trans": "to scatter",
 	"childWords": [
 		{
 			"verb": "zerstreuen",
 			"separ": false,
-			"trans": "to disperse"
+			"trans": "to scatter"
 		},
 		{
 			"verb": "bestreuen",
 			"separ": false,
-			"trans": "to bespread"
+			"trans": "to cover"
 		}
 	]
 },
 {
-	"root": "überholen",
-	"trans": "to forereach",
+	"root": "wägen",
+	"trans": "to ponder",
 	"childWords": [
 		{
-			"verb": "generalüberholen",
+			"verb": "abwägen",
+			"separ": true,
+			"trans": "to weigh"
+		},
+		{
+			"verb": "erwägen",
 			"separ": false,
-			"trans": "to refurbish"
+			"trans": "to consider"
 		}
 	]
 },
@@ -5409,23 +6886,55 @@
 		{
 			"verb": "abhobeln",
 			"separ": true,
-			"trans": "to plane off"
+			"trans": "to cross out"
+		}
+	]
+},
+{
+	"root": "stechen",
+	"trans": "to sting",
+	"childWords": [
+		{
+			"verb": "bestechen",
+			"separ": false,
+			"trans": "to bribe"
+		},
+		{
+			"verb": "erstechen",
+			"separ": false,
+			"trans": "to stab"
+		},
+		{
+			"verb": "zerstechen",
+			"separ": false,
+			"trans": "to prick all over"
 		}
 	]
 },
 {
 	"root": "tauschen",
-	"trans": "to switch",
+	"trans": "to exchange",
 	"childWords": [
 		{
 			"verb": "vertauschen",
 			"separ": false,
-			"trans": "to change"
+			"trans": "to swap"
 		},
 		{
 			"verb": "austauschen",
 			"separ": true,
 			"trans": "to exchange"
+		}
+	]
+},
+{
+	"root": "formen",
+	"trans": "to form",
+	"childWords": [
+		{
+			"verb": "abformen",
+			"separ": true,
+			"trans": "to molding"
 		}
 	]
 },
@@ -5436,45 +6945,24 @@
 		{
 			"verb": "einnicken",
 			"separ": true,
-			"trans": "to doze off [coll.]"
-		}
-	]
-},
-{
-	"root": "stauben",
-	"trans": "to make dust",
-	"childWords": [
-		{
-			"verb": "verstauben",
-			"separ": false,
-			"trans": "to gather dust"
-		},
-		{
-			"verb": "entstauben",
-			"separ": false,
-			"trans": "to dust"
-		},
-		{
-			"verb": "abstauben",
-			"separ": true,
-			"trans": "to brush the dust off"
+			"trans": "to doze off"
 		}
 	]
 },
 {
 	"root": "dreschen",
-	"trans": "to flail",
+	"trans": "to thresh",
 	"childWords": [
 		{
 			"verb": "verdreschen",
 			"separ": false,
-			"trans": "to thresh"
+			"trans": "to lambaste"
 		}
 	]
 },
 {
 	"root": "schwinden",
-	"trans": "to fade",
+	"trans": "to dwindle",
 	"childWords": [
 		{
 			"verb": "verschwinden",
@@ -5484,18 +6972,7 @@
 		{
 			"verb": "entschwinden",
 			"separ": false,
-			"trans": "to vanish"
-		}
-	]
-},
-{
-	"root": "leimen",
-	"trans": "to glue",
-	"childWords": [
-		{
-			"verb": "zusammenleimen",
-			"separ": true,
-			"trans": "to agglutinate"
+			"trans": "to disappear"
 		}
 	]
 },
@@ -5504,9 +6981,14 @@
 	"trans": "to judge",
 	"childWords": [
 		{
+			"verb": "ausrichten",
+			"separ": true,
+			"trans": "to align"
+		},
+		{
 			"verb": "aufrichten",
 			"separ": true,
-			"trans": "to raise"
+			"trans": "to rear"
 		},
 		{
 			"verb": "unterrichten",
@@ -5516,7 +6998,7 @@
 		{
 			"verb": "einrichten",
 			"separ": true,
-			"trans": "to construct"
+			"trans": "to arrange"
 		},
 		{
 			"verb": "errichten",
@@ -5529,25 +7011,35 @@
 			"trans": "to report"
 		},
 		{
+			"verb": "hinrichten",
+			"separ": true,
+			"trans": "to execute"
+		},
+		{
 			"verb": "verrichten",
 			"separ": false,
-			"trans": "to achieve"
+			"trans": "to answer the purpose"
 		},
 		{
 			"verb": "anrichten",
 			"separ": true,
-			"trans": "to dress [food for table]"
+			"trans": "to arrange"
+		},
+		{
+			"verb": "entrichten",
+			"separ": false,
+			"trans": "to ante up"
 		}
 	]
 },
 {
 	"root": "bereiten",
-	"trans": "to prepare",
+	"trans": "to cause",
 	"childWords": [
 		{
 			"verb": "zubereiten",
 			"separ": true,
-			"trans": "to make"
+			"trans": "to prepare"
 		},
 		{
 			"verb": "vorbereiten",
@@ -5568,29 +7060,56 @@
 	]
 },
 {
+	"root": "reagieren",
+	"trans": "to react",
+	"childWords": [
+		{
+			"verb": "abreagieren",
+			"separ": true,
+			"trans": "to abreact"
+		}
+	]
+},
+{
 	"root": "leiten",
-	"trans": "to lead",
+	"trans": "to control",
 	"childWords": [
 		{
 			"verb": "ableiten",
 			"separ": true,
-			"trans": "to derive"
+			"trans": "to deduce"
 		}
 	]
 },
 {
 	"root": "weihen",
-	"trans": "to dedicate",
+	"trans": "to consecrate",
 	"childWords": [
 		{
 			"verb": "einweihen",
 			"separ": true,
-			"trans": "to consecrate"
+			"trans": "to baptize"
 		},
 		{
 			"verb": "entweihen",
 			"separ": false,
-			"trans": "to deconsecrate"
+			"trans": "to desecrate"
+		}
+	]
+},
+{
+	"root": "pressen",
+	"trans": "to squeeze",
+	"childWords": [
+		{
+			"verb": "erpressen",
+			"separ": false,
+			"trans": "to blackmail"
+		},
+		{
+			"verb": "abpressen",
+			"separ": true,
+			"trans": "to extort"
 		}
 	]
 },
@@ -5602,17 +7121,27 @@
 			"verb": "erwerben",
 			"separ": false,
 			"trans": "to acquire"
+		},
+		{
+			"verb": "bewerben",
+			"separ": false,
+			"trans": "to apply"
+		},
+		{
+			"verb": "einwerben",
+			"separ": true,
+			"trans": "to acquire"
 		}
 	]
 },
 {
 	"root": "grenzen",
-	"trans": "to abut",
+	"trans": "to border",
 	"childWords": [
 		{
 			"verb": "abgrenzen",
 			"separ": true,
-			"trans": "to define"
+			"trans": "to demarcate"
 		},
 		{
 			"verb": "ausgrenzen",
@@ -5622,7 +7151,12 @@
 		{
 			"verb": "angrenzen",
 			"separ": true,
-			"trans": "to abut"
+			"trans": "to border"
+		},
+		{
+			"verb": "eingrenzen",
+			"separ": true,
+			"trans": "to determine"
 		},
 		{
 			"verb": "begrenzen",
@@ -5633,42 +7167,67 @@
 },
 {
 	"root": "ziehen",
-	"trans": "to pull",
+	"trans": "to raise",
 	"childWords": [
 		{
 			"verb": "anziehen",
 			"separ": true,
-			"trans": "to grow"
+			"trans": "to tighten"
 		},
 		{
 			"verb": "ausziehen",
 			"separ": true,
-			"trans": "to extract"
+			"trans": "to undress"
 		},
 		{
 			"verb": "abziehen",
 			"separ": true,
-			"trans": "to remove"
+			"trans": "to subtract"
+		},
+		{
+			"verb": "blankziehen",
+			"separ": true,
+			"trans": "to draw"
 		},
 		{
 			"verb": "umziehen",
 			"separ": true,
-			"trans": "to change lodgings"
+			"trans": "to move"
+		},
+		{
+			"verb": "aufziehen",
+			"separ": true,
+			"trans": "to raise"
 		},
 		{
 			"verb": "vollziehen",
 			"separ": false,
-			"trans": "to perform"
+			"trans": "to implement"
+		},
+		{
+			"verb": "verziehen",
+			"separ": false,
+			"trans": "to twist"
+		},
+		{
+			"verb": "reinziehen",
+			"separ": true,
+			"trans": "to check out"
 		},
 		{
 			"verb": "vorziehen",
 			"separ": true,
-			"trans": "to choose"
+			"trans": "to prefer"
+		},
+		{
+			"verb": "beziehen",
+			"separ": false,
+			"trans": "to refer"
 		},
 		{
 			"verb": "wegziehen",
 			"separ": true,
-			"trans": "to adjourn to another place"
+			"trans": "to pull away"
 		},
 		{
 			"verb": "erziehen",
@@ -5686,6 +7245,11 @@
 			"trans": "to withdraw"
 		},
 		{
+			"verb": "zurückziehen",
+			"separ": true,
+			"trans": "to withdraw"
+		},
+		{
 			"verb": "herziehen",
 			"separ": true,
 			"trans": "to pull near"
@@ -5693,7 +7257,7 @@
 		{
 			"verb": "hinziehen",
 			"separ": true,
-			"trans": "to protract"
+			"trans": "to go"
 		},
 		{
 			"verb": "großziehen",
@@ -5703,23 +7267,23 @@
 		{
 			"verb": "überziehen",
 			"separ": true,
-			"trans": "to cover"
+			"trans": "to plate"
 		},
 		{
 			"verb": "durchziehen",
 			"separ": true,
-			"trans": "to draw through"
+			"trans": "to pervade"
 		},
 		{
 			"verb": "zusammenziehen",
 			"separ": true,
-			"trans": "to concentrate"
+			"trans": "to contract"
 		}
 	]
 },
 {
 	"root": "rutschen",
-	"trans": "to slip",
+	"trans": "to slide",
 	"childWords": [
 		{
 			"verb": "ausrutschen",
@@ -5729,18 +7293,28 @@
 		{
 			"verb": "abrutschen",
 			"separ": true,
-			"trans": "to slide"
+			"trans": "to slip off"
 		}
 	]
 },
 {
 	"root": "mustern",
-	"trans": "to examine",
+	"trans": "to scrutinize",
 	"childWords": [
+		{
+			"verb": "bemustern",
+			"separ": false,
+			"trans": "to take sample"
+		},
 		{
 			"verb": "ausmustern",
 			"separ": true,
-			"trans": "to reject"
+			"trans": "to sift out"
+		},
+		{
+			"verb": "abmustern",
+			"separ": true,
+			"trans": "to pay off"
 		}
 	]
 },
@@ -5751,7 +7325,7 @@
 		{
 			"verb": "anwenden",
 			"separ": true,
-			"trans": "to use"
+			"trans": "to apply"
 		},
 		{
 			"verb": "verwenden",
@@ -5761,7 +7335,7 @@
 		{
 			"verb": "entwenden",
 			"separ": false,
-			"trans": "to make away with"
+			"trans": "to steal"
 		},
 		{
 			"verb": "aufwenden",
@@ -5771,18 +7345,34 @@
 		{
 			"verb": "einwenden",
 			"separ": true,
-			"trans": "to argue"
+			"trans": "to object"
+		}
+	]
+},
+{
+	"root": "kotzen",
+	"trans": "to vomit",
+	"childWords": [
+		{
+			"verb": "ankotzen",
+			"separ": true,
+			"trans": "to piss off"
+		},
+		{
+			"verb": "auskotzen",
+			"separ": true,
+			"trans": "to be sick"
 		}
 	]
 },
 {
 	"root": "greifen",
-	"trans": "to grab",
+	"trans": "to seize",
 	"childWords": [
 		{
 			"verb": "ergreifen",
 			"separ": false,
-			"trans": "to take"
+			"trans": "to seize"
 		},
 		{
 			"verb": "angreifen",
@@ -5792,7 +7382,7 @@
 		{
 			"verb": "eingreifen",
 			"separ": true,
-			"trans": "to interfere"
+			"trans": "to intervene"
 		},
 		{
 			"verb": "begreifen",
@@ -5803,94 +7393,76 @@
 			"verb": "vergreifen",
 			"separ": false,
 			"trans": "to make a mistake"
+		},
+		{
+			"verb": "zurückgreifen",
+			"separ": true,
+			"trans": "to resort"
+		}
+	]
+},
+{
+	"root": "gleichen",
+	"trans": "to resemble",
+	"childWords": [
+		{
+			"verb": "vergleichen",
+			"separ": false,
+			"trans": "to compare"
+		},
+		{
+			"verb": "begleichen",
+			"separ": false,
+			"trans": "to acquit"
+		},
+		{
+			"verb": "angleichen",
+			"separ": true,
+			"trans": "to adapt"
 		}
 	]
 },
 {
 	"root": "tappen",
-	"trans": "to pad",
+	"trans": "to grope",
 	"childWords": [
 		{
 			"verb": "ertappen",
 			"separ": false,
-			"trans": "to cop"
+			"trans": "to catch"
 		}
 	]
 },
 {
 	"root": "impfen",
-	"trans": "to inject",
+	"trans": "to vaccinate",
 	"childWords": [
 		{
 			"verb": "einimpfen",
 			"separ": true,
-			"trans": "to inject"
+			"trans": "to inculcate"
 		}
 	]
 },
 {
-	"root": "weisen",
-	"trans": "to indicate",
+	"root": "tupfen",
+	"trans": "to dab",
 	"childWords": [
 		{
-			"verb": "abweisen",
+			"verb": "abtupfen",
 			"separ": true,
-			"trans": "to refuse"
-		},
+			"trans": "to dab"
+		}
+	]
+},
+{
+	"root": "wärmen",
+	"trans": "to warm",
+	"childWords": [
 		{
-			"verb": "unterweisen",
-			"separ": false,
-			"trans": "to instruct"
-		},
-		{
-			"verb": "beweisen",
-			"separ": false,
-			"trans": "to establish"
-		},
-		{
-			"verb": "anweisen",
+			"verb": "aufwärmen",
 			"separ": true,
-			"trans": "to order"
-		},
-		{
-			"verb": "hinweisen",
-			"separ": true,
-			"trans": "to suggest"
-		},
-		{
-			"verb": "erweisen",
-			"separ": false,
-			"trans": "to argue"
-		},
-		{
-			"verb": "einweisen",
-			"separ": true,
-			"trans": "to indoctrinate"
-		},
-		{
-			"verb": "aufweisen",
-			"separ": true,
-			"trans": "to show"
-		},
-		{
-			"verb": "zurückweisen",
-			"separ": true,
-			"trans": "to reject"
-		},
-		{
-			"verb": "überweisen",
-			"separ": false,
-			"trans": "to assign"
-		},
-		{
-			"verb": "nachweisen",
-			"separ": true,
-			"trans": "to establish"
-		},
-		{
-			"verb": "zurechtweisen",
-			"separ": true,
-			"trans": "to carpet [br.] [coll.]"
+			"trans": "to limber up"
 		}
 	]
 },
@@ -5901,7 +7473,7 @@
 		{
 			"verb": "verdampfen",
 			"separ": false,
-			"trans": "to become vaporized"
+			"trans": "to evaporate"
 		}
 	]
 },
@@ -5912,12 +7484,12 @@
 		{
 			"verb": "abreisen",
 			"separ": true,
-			"trans": "to start"
+			"trans": "to depart"
 		},
 		{
 			"verb": "verreisen",
 			"separ": false,
-			"trans": "to go away on a trip"
+			"trans": "to journey"
 		},
 		{
 			"verb": "anreisen",
@@ -5933,7 +7505,7 @@
 		{
 			"verb": "besiegen",
 			"separ": false,
-			"trans": "to overcome"
+			"trans": "to beat"
 		}
 	]
 },
@@ -5944,14 +7516,19 @@
 		{
 			"verb": "erröten",
 			"separ": false,
-			"trans": "to blush at a thing"
+			"trans": "to blush"
 		}
 	]
 },
 {
 	"root": "kleben",
-	"trans": "to stick",
+	"trans": "to glue",
 	"childWords": [
+		{
+			"verb": "aufkleben",
+			"separ": true,
+			"trans": "to affix"
+		},
 		{
 			"verb": "ankleben",
 			"separ": true,
@@ -5961,7 +7538,7 @@
 },
 {
 	"root": "scheinen",
-	"trans": "to glisten",
+	"trans": "to seem",
 	"childWords": [
 		{
 			"verb": "erscheinen",
@@ -5969,9 +7546,30 @@
 			"trans": "to appear"
 		},
 		{
-			"verb": "aufscheinen",
+			"verb": "bescheinen",
+			"separ": false,
+			"trans": "to illuminate"
+		}
+	]
+},
+{
+	"root": "wehren",
+	"trans": "to defend",
+	"childWords": [
+		{
+			"verb": "verwehren",
+			"separ": false,
+			"trans": "to reprobate"
+		},
+		{
+			"verb": "bewehren",
+			"separ": false,
+			"trans": "to arm"
+		},
+		{
+			"verb": "abwehren",
 			"separ": true,
-			"trans": "to appear"
+			"trans": "to ward off"
 		}
 	]
 },
@@ -5985,6 +7583,11 @@
 			"trans": "to evoke"
 		},
 		{
+			"verb": "revozieren",
+			"separ": false,
+			"trans": "to revoke"
+		},
+		{
 			"verb": "provozieren",
 			"separ": false,
 			"trans": "to provoke"
@@ -5993,12 +7596,12 @@
 },
 {
 	"root": "posaunen",
-	"trans": "to proclaim loudly",
+	"trans": "to blow",
 	"childWords": [
 		{
 			"verb": "ausposaunen",
 			"separ": true,
-			"trans": "to broadcast"
+			"trans": "to blazon abroad"
 		}
 	]
 },
@@ -6014,114 +7617,145 @@
 	]
 },
 {
+	"root": "fürchten",
+	"trans": "to fear",
+	"childWords": [
+		{
+			"verb": "befürchten",
+			"separ": false,
+			"trans": "to fear"
+		}
+	]
+},
+{
 	"root": "stellen",
-	"trans": "to put",
+	"trans": "to apply",
 	"childWords": [
 		{
 			"verb": "anstellen",
 			"separ": true,
-			"trans": "to hire"
+			"trans": "to employ"
+		},
+		{
+			"verb": "vorstellen",
+			"separ": true,
+			"trans": "to introduce"
 		},
 		{
 			"verb": "darstellen",
 			"separ": true,
-			"trans": "to describe"
+			"trans": "to represent"
 		},
 		{
 			"verb": "einstellen",
 			"separ": true,
-			"trans": "to position"
+			"trans": "to stop"
 		},
 		{
 			"verb": "umstellen",
 			"separ": false,
-			"trans": "to surround"
+			"trans": "to transpose"
 		},
 		{
 			"verb": "herstellen",
 			"separ": true,
-			"trans": "to make"
+			"trans": "to produce"
 		},
 		{
 			"verb": "ausstellen",
 			"separ": true,
-			"trans": "to show"
+			"trans": "to exhibit"
 		},
 		{
 			"verb": "bestellen",
 			"separ": false,
-			"trans": "to order"
+			"trans": "to request"
 		},
 		{
 			"verb": "abstellen",
 			"separ": true,
-			"trans": "to stable"
+			"trans": "to stand"
 		},
 		{
 			"verb": "feststellen",
 			"separ": true,
-			"trans": "to establish"
+			"trans": "to ascertain"
 		},
 		{
 			"verb": "erstellen",
 			"separ": false,
-			"trans": "to build"
+			"trans": "to create"
 		},
 		{
 			"verb": "aufstellen",
 			"separ": true,
-			"trans": "to set"
+			"trans": "to posit"
 		},
 		{
 			"verb": "herausstellen",
 			"separ": true,
-			"trans": "to expose"
+			"trans": "to feature"
 		},
 		{
 			"verb": "unterstellen",
 			"separ": false,
-			"trans": "to assume"
+			"trans": "to subjugate"
 		},
 		{
 			"verb": "freistellen",
 			"separ": true,
-			"trans": "to release"
+			"trans": "to exonerate"
+		},
+		{
+			"verb": "verstellen",
+			"separ": false,
+			"trans": "to disguise"
 		},
 		{
 			"verb": "nachstellen",
 			"separ": true,
-			"trans": "to adjust"
+			"trans": "to keep watch on"
+		},
+		{
+			"verb": "zustellen",
+			"separ": true,
+			"trans": "to deliver"
 		},
 		{
 			"verb": "entstellen",
 			"separ": false,
-			"trans": "to distort"
+			"trans": "to disfigure"
 		},
 		{
 			"verb": "zusammenstellen",
 			"separ": true,
-			"trans": "to arrange"
-		},
-		{
-			"verb": "überstellen",
-			"separ": false,
-			"trans": "to transfer"
+			"trans": "to compose"
 		},
 		{
 			"verb": "fertigstellen",
 			"separ": true,
-			"trans": "to accomplish"
+			"trans": "to complete"
 		}
 	]
 },
 {
 	"root": "machen",
-	"trans": "to render [formal: to make]",
+	"trans": "to go",
 	"childWords": [
+		{
+			"verb": "anmachen",
+			"separ": true,
+			"trans": "to light"
+		},
 		{
 			"verb": "zumachen",
 			"separ": true,
 			"trans": "to close"
+		},
+		{
+			"verb": "ausmachen",
+			"separ": true,
+			"trans": "to turn off"
 		},
 		{
 			"verb": "aufmachen",
@@ -6129,46 +7763,62 @@
 			"trans": "to open"
 		},
 		{
+			"verb": "wegmachen",
+			"separ": true,
+			"trans": "to disarrange"
+		},
+		{
 			"verb": "einmachen",
 			"separ": true,
-			"trans": "to confect"
+			"trans": "to can"
 		},
 		{
 			"verb": "kaputtmachen",
 			"separ": true,
-			"trans": "to ruinate"
+			"trans": "to break"
 		},
 		{
 			"verb": "durchmachen",
 			"separ": true,
-			"trans": "to run through"
+			"trans": "to undergo"
 		},
 		{
 			"verb": "abmachen",
 			"separ": true,
-			"trans": "to settle"
+			"trans": "to arrange"
 		},
 		{
 			"verb": "nachmachen",
 			"separ": true,
-			"trans": "to clone"
+			"trans": "to imitate"
+		}
+	]
+},
+{
+	"root": "scheißen",
+	"trans": "to shit",
+	"childWords": [
+		{
+			"verb": "bescheißen",
+			"separ": false,
+			"trans": "to swindle"
 		}
 	]
 },
 {
 	"root": "prallen",
-	"trans": "to bounce",
+	"trans": "to bump",
 	"childWords": [
 		{
 			"verb": "aufprallen",
 			"separ": true,
-			"trans": "to hit"
+			"trans": "to thud"
 		}
 	]
 },
 {
 	"root": "wehen",
-	"trans": "to wave",
+	"trans": "to blow",
 	"childWords": [
 		{
 			"verb": "verwehen",
@@ -6178,7 +7828,7 @@
 		{
 			"verb": "umwehen",
 			"separ": true,
-			"trans": "to blow down"
+			"trans": "to blow over"
 		}
 	]
 },
@@ -6189,28 +7839,28 @@
 		{
 			"verb": "verzaubern",
 			"separ": false,
-			"trans": "to becharm"
+			"trans": "to enchant"
 		}
 	]
 },
 {
 	"root": "sprechen",
-	"trans": "to talk",
+	"trans": "to speak",
 	"childWords": [
 		{
 			"verb": "widersprechen",
 			"separ": false,
-			"trans": "to object"
+			"trans": "to contradict"
 		},
 		{
 			"verb": "aussprechen",
 			"separ": true,
-			"trans": "to say"
+			"trans": "to pronounce"
 		},
 		{
 			"verb": "entsprechen",
 			"separ": false,
-			"trans": "to answer"
+			"trans": "to correspond"
 		},
 		{
 			"verb": "versprechen",
@@ -6220,27 +7870,32 @@
 		{
 			"verb": "besprechen",
 			"separ": false,
-			"trans": "to critique"
+			"trans": "to discuss"
 		},
 		{
 			"verb": "ansprechen",
 			"separ": true,
-			"trans": "to trip"
+			"trans": "to address"
 		},
 		{
 			"verb": "zusprechen",
 			"separ": true,
-			"trans": "to award"
+			"trans": "to assign"
+		},
+		{
+			"verb": "absprechen",
+			"separ": true,
+			"trans": "to arrange"
 		},
 		{
 			"verb": "nachsprechen",
 			"separ": true,
-			"trans": "to repeat [sth. said]"
+			"trans": "to repeat after"
 		},
 		{
 			"verb": "freisprechen",
 			"separ": true,
-			"trans": "to discharge"
+			"trans": "to absolve"
 		}
 	]
 },
@@ -6262,34 +7917,49 @@
 		{
 			"verb": "enterben",
 			"separ": false,
-			"trans": "to cut off with a shilling"
+			"trans": "to disinherit"
 		}
 	]
 },
 {
 	"root": "vollziehen",
-	"trans": "to perform",
+	"trans": "to implement",
 	"childWords": [
 		{
 			"verb": "nachvollziehen",
 			"separ": true,
-			"trans": "to understand"
+			"trans": "to comprehend"
 		}
 	]
 },
 {
 	"root": "bieten",
-	"trans": "to provide",
+	"trans": "to bid",
 	"childWords": [
 		{
 			"verb": "anbieten",
 			"separ": true,
-			"trans": "to provide"
+			"trans": "to offer"
 		},
 		{
 			"verb": "verbieten",
 			"separ": false,
-			"trans": "to ban"
+			"trans": "to forbid"
+		},
+		{
+			"verb": "erbieten",
+			"separ": false,
+			"trans": "to bid"
+		},
+		{
+			"verb": "gebieten",
+			"separ": false,
+			"trans": "to command"
+		},
+		{
+			"verb": "feilbieten",
+			"separ": true,
+			"trans": "to become popular"
 		}
 	]
 },
@@ -6300,32 +7970,42 @@
 		{
 			"verb": "abbrechen",
 			"separ": true,
-			"trans": "to cancel"
+			"trans": "to break"
 		},
 		{
 			"verb": "anbrechen",
 			"separ": true,
-			"trans": "to broach"
+			"trans": "to break"
 		},
 		{
 			"verb": "aufbrechen",
 			"separ": true,
-			"trans": "to break open"
+			"trans": "to start"
 		},
 		{
 			"verb": "ausbrechen",
 			"separ": true,
-			"trans": "to escape"
+			"trans": "to break out"
 		},
 		{
 			"verb": "einbrechen",
 			"separ": true,
-			"trans": "to crack"
+			"trans": "to break in"
+		},
+		{
+			"verb": "verbrechen",
+			"separ": false,
+			"trans": "to break"
 		},
 		{
 			"verb": "zerbrechen",
 			"separ": false,
-			"trans": "to crack"
+			"trans": "to break"
+		},
+		{
+			"verb": "gebrechen",
+			"separ": false,
+			"trans": "to lack"
 		},
 		{
 			"verb": "umbrechen",
@@ -6335,22 +8015,22 @@
 		{
 			"verb": "erbrechen",
 			"separ": false,
-			"trans": "to heave up"
+			"trans": "to vomit"
 		},
 		{
 			"verb": "unterbrechen",
 			"separ": false,
-			"trans": "to stop"
+			"trans": "to interrupt"
 		},
 		{
 			"verb": "durchbrechen",
 			"separ": true,
-			"trans": "to breach"
+			"trans": "to break through"
 		},
 		{
 			"verb": "entzweibrechen",
 			"separ": true,
-			"trans": "to shatter"
+			"trans": "to break"
 		},
 		{
 			"verb": "ehebrechen",
@@ -6369,24 +8049,65 @@
 	"trans": "to burn",
 	"childWords": [
 		{
+			"verb": "abbrennen",
+			"separ": true,
+			"trans": "to burn down"
+		},
+		{
 			"verb": "verbrennen",
 			"separ": false,
-			"trans": "to combust"
+			"trans": "to burn"
 		},
 		{
 			"verb": "durchbrennen",
 			"separ": true,
-			"trans": "to melt"
+			"trans": "to elope"
 		},
 		{
 			"verb": "einbrennen",
 			"separ": true,
-			"trans": "to brand"
+			"trans": "to etch"
 		},
 		{
 			"verb": "anbrennen",
 			"separ": true,
 			"trans": "to burn"
+		}
+	]
+},
+{
+	"root": "finden",
+	"trans": "to find",
+	"childWords": [
+		{
+			"verb": "erfinden",
+			"separ": false,
+			"trans": "to invent"
+		},
+		{
+			"verb": "befinden",
+			"separ": false,
+			"trans": "to be"
+		},
+		{
+			"verb": "abfinden",
+			"separ": true,
+			"trans": "to compensate"
+		},
+		{
+			"verb": "stattfinden",
+			"separ": true,
+			"trans": "to happen"
+		},
+		{
+			"verb": "herausfinden",
+			"separ": true,
+			"trans": "to find out"
+		},
+		{
+			"verb": "wiederfinden",
+			"separ": true,
+			"trans": "to find again"
 		}
 	]
 },
@@ -6397,7 +8118,7 @@
 		{
 			"verb": "verhöhnen",
 			"separ": false,
-			"trans": "to boo"
+			"trans": "to deride"
 		}
 	]
 },
@@ -6408,18 +8129,18 @@
 		{
 			"verb": "entfalten",
 			"separ": false,
-			"trans": "to develop"
+			"trans": "to unfold"
 		}
 	]
 },
 {
 	"root": "gewinnen",
-	"trans": "to achieve",
+	"trans": "to earn",
 	"childWords": [
 		{
 			"verb": "zurückgewinnen",
 			"separ": true,
-			"trans": "to regain"
+			"trans": "to recuperate"
 		},
 		{
 			"verb": "abgewinnen",
@@ -6430,17 +8151,17 @@
 },
 {
 	"root": "hungern",
-	"trans": "to be hungry",
+	"trans": "to hunger",
 	"childWords": [
 		{
 			"verb": "verhungern",
 			"separ": false,
-			"trans": "to die of hunger"
+			"trans": "to starve"
 		},
 		{
 			"verb": "aushungern",
 			"separ": true,
-			"trans": "to famish"
+			"trans": "to starve"
 		}
 	]
 },
@@ -6451,18 +8172,18 @@
 		{
 			"verb": "abstempeln",
 			"separ": true,
-			"trans": "to stamp"
+			"trans": "to cancel"
 		}
 	]
 },
 {
 	"root": "stampfen",
-	"trans": "to stomp",
+	"trans": "to pitch",
 	"childWords": [
 		{
 			"verb": "zerstampfen",
 			"separ": false,
-			"trans": "to bruise"
+			"trans": "to stomp"
 		}
 	]
 },
@@ -6473,23 +8194,23 @@
 		{
 			"verb": "verordnen",
 			"separ": false,
-			"trans": "to provide"
+			"trans": "to prescribe"
 		},
 		{
 			"verb": "anordnen",
 			"separ": true,
-			"trans": "to arrange"
+			"trans": "to order"
 		},
 		{
 			"verb": "einordnen",
 			"separ": true,
-			"trans": "to sort"
+			"trans": "to place"
 		}
 	]
 },
 {
 	"root": "spannen",
-	"trans": "to brace",
+	"trans": "to stretch",
 	"childWords": [
 		{
 			"verb": "entspannen",
@@ -6505,38 +8226,49 @@
 		{
 			"verb": "bestärken",
 			"separ": false,
-			"trans": "to confirm"
+			"trans": "to strengthen"
 		},
 		{
 			"verb": "verstärken",
 			"separ": false,
-			"trans": "to add"
+			"trans": "to amplify"
 		}
 	]
 },
 {
 	"root": "schalten",
-	"trans": "to control",
+	"trans": "to switch",
 	"childWords": [
 		{
 			"verb": "ausschalten",
 			"separ": true,
-			"trans": "to deactivate"
+			"trans": "to turn off"
 		},
 		{
 			"verb": "einschalten",
 			"separ": true,
-			"trans": "to activate"
+			"trans": "to turn on"
 		},
 		{
 			"verb": "anschalten",
 			"separ": true,
-			"trans": "to connect"
+			"trans": "to switch on"
 		},
 		{
 			"verb": "abschalten",
 			"separ": true,
-			"trans": "to clear"
+			"trans": "to switch off"
+		}
+	]
+},
+{
+	"root": "prägen",
+	"trans": "to coin",
+	"childWords": [
+		{
+			"verb": "einprägen",
+			"separ": true,
+			"trans": "to etch"
 		}
 	]
 },
@@ -6545,35 +8277,30 @@
 	"trans": "to warn",
 	"childWords": [
 		{
-			"verb": "entwarnen",
-			"separ": false,
-			"trans": "to give the all-clear"
-		},
-		{
 			"verb": "verwarnen",
 			"separ": false,
-			"trans": "to warn"
+			"trans": "to caution"
 		}
 	]
 },
 {
 	"root": "lassen",
-	"trans": "to leave",
+	"trans": "to let",
 	"childWords": [
 		{
 			"verb": "hinterlassen",
 			"separ": false,
-			"trans": "to consign"
+			"trans": "to leave"
 		},
 		{
 			"verb": "verlassen",
 			"separ": false,
-			"trans": "to evacuate"
+			"trans": "to dreary"
 		},
 		{
 			"verb": "entlassen",
 			"separ": false,
-			"trans": "to boot out [coll.] [to fire]"
+			"trans": "to dismiss"
 		},
 		{
 			"verb": "zulassen",
@@ -6583,42 +8310,73 @@
 		{
 			"verb": "überlassen",
 			"separ": false,
-			"trans": "to leave"
+			"trans": "to cede"
 		},
 		{
 			"verb": "ablassen",
 			"separ": true,
-			"trans": "to sink"
+			"trans": "to vent"
 		},
 		{
 			"verb": "anlassen",
 			"separ": true,
-			"trans": "to activate"
+			"trans": "to animadvert"
+		},
+		{
+			"verb": "auflassen",
+			"separ": true,
+			"trans": "to leave open"
+		},
+		{
+			"verb": "auslassen",
+			"separ": true,
+			"trans": "to omit"
 		},
 		{
 			"verb": "durchlassen",
 			"separ": true,
-			"trans": "to allow"
+			"trans": "to let pass"
+		},
+		{
+			"verb": "einlassen",
+			"separ": true,
+			"trans": "to admit"
+		},
+		{
+			"verb": "belassen",
+			"separ": false,
+			"trans": "to leave"
 		},
 		{
 			"verb": "erlassen",
 			"separ": false,
-			"trans": "to cancel"
+			"trans": "to enact"
 		},
 		{
 			"verb": "freilassen",
 			"separ": true,
-			"trans": "to emancipate"
+			"trans": "to release"
 		},
 		{
 			"verb": "unterlassen",
 			"separ": false,
-			"trans": "to neglect"
+			"trans": "to abandon"
 		},
 		{
 			"verb": "nachlassen",
 			"separ": true,
-			"trans": "to relax"
+			"trans": "to abate"
+		}
+	]
+},
+{
+	"root": "punktieren",
+	"trans": "to puncture",
+	"childWords": [
+		{
+			"verb": "interpunktieren",
+			"separ": false,
+			"trans": "to punctuate"
 		}
 	]
 },
@@ -6629,81 +8387,86 @@
 		{
 			"verb": "besitzen",
 			"separ": false,
-			"trans": "to have"
+			"trans": "to possess"
 		},
 		{
 			"verb": "aussitzen",
 			"separ": true,
-			"trans": "to ride out [to attempt to survive by waiting and hoping for the best]"
+			"trans": "to sit out"
 		},
 		{
 			"verb": "aufsitzen",
 			"separ": true,
-			"trans": "to mount"
+			"trans": "to straddle"
 		},
 		{
-			"verb": "einsitzen",
-			"separ": true,
-			"trans": "to be in gaol [br.]"
+			"verb": "ersitzen",
+			"separ": false,
+			"trans": "to acquire by adverse possession"
 		}
 	]
 },
 {
 	"root": "stoßen",
-	"trans": "to push",
+	"trans": "to knock",
 	"childWords": [
+		{
+			"verb": "aufstoßen",
+			"separ": true,
+			"trans": "to overcome"
+		},
 		{
 			"verb": "verstoßen",
 			"separ": false,
-			"trans": "to offend"
+			"trans": "to disown"
 		},
 		{
 			"verb": "umstoßen",
 			"separ": true,
-			"trans": "to annihilate"
+			"trans": "to subvert"
 		},
 		{
 			"verb": "anstoßen",
 			"separ": true,
-			"trans": "to push"
+			"trans": "to nudge"
 		},
 		{
 			"verb": "abstoßen",
 			"separ": true,
-			"trans": "to push"
+			"trans": "to turn off"
 		}
 	]
 },
 {
 	"root": "weinen",
-	"trans": "to weep",
+	"trans": "to cry",
 	"childWords": [
 		{
 			"verb": "beweinen",
 			"separ": false,
-			"trans": "to beweep"
+			"trans": "to mourn"
 		}
 	]
 },
 {
-	"root": "starren",
-	"trans": "to goggle",
+	"root": "schmachten",
+	"trans": "to languish",
 	"childWords": [
 		{
-			"verb": "anstarren",
-			"separ": true,
-			"trans": "to gaze"
+			"verb": "verschmachten",
+			"separ": false,
+			"trans": "to languish"
 		}
 	]
 },
 {
 	"root": "losen",
-	"trans": "to cast lots",
+	"trans": "to draw lots",
 	"childWords": [
 		{
 			"verb": "auslosen",
 			"separ": true,
-			"trans": "to draw by lot"
+			"trans": "to draw"
 		}
 	]
 },
@@ -6714,27 +8477,32 @@
 		{
 			"verb": "ansagen",
 			"separ": true,
-			"trans": "to announce [radio"
+			"trans": "to announce"
 		},
 		{
 			"verb": "versagen",
 			"separ": false,
-			"trans": "to break down"
+			"trans": "to fail"
 		},
 		{
 			"verb": "aussagen",
 			"separ": true,
-			"trans": "to reveal"
+			"trans": "to bear"
+		},
+		{
+			"verb": "nachsagen",
+			"separ": true,
+			"trans": "to repeat"
 		},
 		{
 			"verb": "absagen",
 			"separ": true,
-			"trans": "to cancel"
+			"trans": "to call off"
 		},
 		{
 			"verb": "zusagen",
 			"separ": true,
-			"trans": "to confirm"
+			"trans": "to accept"
 		},
 		{
 			"verb": "besagen",
@@ -6747,9 +8515,14 @@
 			"trans": "to announce"
 		},
 		{
+			"verb": "aufsagen",
+			"separ": true,
+			"trans": "to declaim"
+		},
+		{
 			"verb": "entsagen",
 			"separ": false,
-			"trans": "to abdicate"
+			"trans": "to abandon"
 		},
 		{
 			"verb": "vorhersagen",
@@ -6765,69 +8538,79 @@
 		{
 			"verb": "erkennen",
 			"separ": false,
-			"trans": "to identify"
+			"trans": "to recognize"
 		},
 		{
 			"verb": "bekennen",
 			"separ": false,
-			"trans": "to admit"
+			"trans": "to confess"
 		},
 		{
 			"verb": "verkennen",
 			"separ": false,
-			"trans": "to fail to recognize"
+			"trans": "to misread"
+		},
+		{
+			"verb": "auskennen",
+			"separ": true,
+			"trans": "to know"
 		}
 	]
 },
 {
 	"root": "sorgen",
-	"trans": "to worry",
+	"trans": "to care",
 	"childWords": [
 		{
 			"verb": "versorgen",
 			"separ": false,
-			"trans": "to provide"
+			"trans": "to supply"
 		},
 		{
 			"verb": "umsorgen",
 			"separ": false,
-			"trans": "to shepherd"
+			"trans": "to nurture"
 		},
 		{
 			"verb": "entsorgen",
 			"separ": false,
-			"trans": "to dispose of"
+			"trans": "to dispose"
 		},
 		{
 			"verb": "besorgen",
 			"separ": false,
-			"trans": "to provide"
+			"trans": "to get"
 		},
 		{
 			"verb": "vorsorgen",
 			"separ": true,
-			"trans": "to provide"
+			"trans": "to be armed with"
+		},
+		{
+			"verb": "ersorgen",
+			"separ": false,
+			"trans": "to await"
 		}
 	]
 },
 {
 	"root": "handeln",
-	"trans": "to deal",
+	"trans": "to act",
 	"childWords": [
 		{
 			"verb": "behandeln",
 			"separ": true,
-			"trans": "to deal"
+			"trans": "to treat"
 		},
 		{
 			"verb": "abhandeln",
 			"separ": true,
-			"trans": "to treat [a topic or subject]"
+			"trans": "to deal"
 		},
 		{
 			"verb": "aushandeln",
 			"separ": true,
-			"trans": "to strike [a bargain]"
+			"trans": "to negotiate"
 		},
 		{
 			"verb": "verhandeln",
@@ -6838,65 +8621,65 @@
 },
 {
 	"root": "staunen",
-	"trans": "to marvel",
+	"trans": "to be amazed",
 	"childWords": [
 		{
 			"verb": "erstaunen",
 			"separ": false,
-			"trans": "to amaze"
+			"trans": "to astonish"
 		},
 		{
 			"verb": "bestaunen",
 			"separ": false,
-			"trans": "to gaze"
+			"trans": "to gape"
 		}
 	]
 },
 {
 	"root": "streichen",
-	"trans": "to strike out",
+	"trans": "to paint",
 	"childWords": [
 		{
 			"verb": "verstreichen",
 			"separ": false,
-			"trans": "to spread [on food]"
+			"trans": "to elapse"
 		}
 	]
 },
 {
 	"root": "räumen",
-	"trans": "to deplete",
+	"trans": "to clear",
 	"childWords": [
 		{
 			"verb": "aufräumen",
 			"separ": true,
-			"trans": "to clean house"
+			"trans": "to clean"
 		},
 		{
 			"verb": "einräumen",
 			"separ": true,
-			"trans": "to grant"
+			"trans": "to concede"
 		},
 		{
 			"verb": "wegräumen",
 			"separ": true,
-			"trans": "to clear away"
+			"trans": "to put away"
 		},
 		{
 			"verb": "abräumen",
 			"separ": true,
-			"trans": "to clean up"
+			"trans": "to abstract"
 		}
 	]
 },
 {
-	"root": "begehren",
-	"trans": "to seek",
+	"root": "starren",
+	"trans": "to stare",
 	"childWords": [
 		{
-			"verb": "aufbegehren",
+			"verb": "anstarren",
 			"separ": true,
-			"trans": "to protest"
+			"trans": "to stare"
 		}
 	]
 },
@@ -6907,89 +8690,110 @@
 		{
 			"verb": "absägen",
 			"separ": true,
-			"trans": "to cut away"
+			"trans": "to saw off"
+		},
+		{
+			"verb": "zersägen",
+			"separ": false,
+			"trans": "to saw up"
 		}
 	]
 },
 {
 	"root": "leeren",
-	"trans": "to drink off",
+	"trans": "to empty",
 	"childWords": [
 		{
 			"verb": "entleeren",
 			"separ": false,
-			"trans": "to drain"
+			"trans": "to empty"
 		}
 	]
 },
 {
 	"root": "dehnen",
-	"trans": "to expand",
+	"trans": "to stretch",
 	"childWords": [
 		{
 			"verb": "ausdehnen",
 			"separ": true,
-			"trans": "to continue"
+			"trans": "to extend"
 		}
 	]
 },
 {
 	"root": "lösen",
-	"trans": "to disengage",
+	"trans": "to solve",
 	"childWords": [
 		{
 			"verb": "auslösen",
 			"separ": true,
-			"trans": "to cause"
+			"trans": "to trigger"
 		},
 		{
 			"verb": "ablösen",
 			"separ": true,
-			"trans": "to clear off"
+			"trans": "to change places"
 		},
 		{
 			"verb": "erlösen",
 			"separ": false,
-			"trans": "to save"
+			"trans": "to deliver"
 		}
 	]
 },
 {
-	"root": "kommandieren",
-	"trans": "to command",
+	"root": "rühren",
+	"trans": "to stir",
 	"childWords": [
 		{
-			"verb": "abkommandieren",
+			"verb": "berühren",
+			"separ": false,
+			"trans": "touch"
+		},
+		{
+			"verb": "anrühren",
 			"separ": true,
-			"trans": "to draft"
+			"trans": "touch"
+		}
+	]
+},
+{
+	"root": "meinen",
+	"trans": "to think",
+	"childWords": [
+		{
+			"verb": "vermeinen",
+			"separ": false,
+			"trans": "to suppose"
 		}
 	]
 },
 {
 	"root": "hebeln",
-	"trans": "to leverage",
+	"trans": "to lever",
 	"childWords": [
 		{
 			"verb": "aushebeln",
 			"separ": true,
-			"trans": "to leverage"
+			"trans": "to lever"
 		}
 	]
 },
 {
-	"root": "steigern",
-	"trans": "to increase",
+	"root": "fuhrwerken",
+	"trans": "to cart",
 	"childWords": [
 		{
-			"verb": "versteigern",
-			"separ": false,
-			"trans": "to auction"
+			"verb": "herumfuhrwerken",
+			"separ": true,
+			"trans": "to bustle around"
 		}
 	]
 },
 {
 	"root": "schicken",
-	"trans": "to dispatch",
+	"trans": "to send",
 	"childWords": [
 		{
 			"verb": "abschicken",
@@ -6999,17 +8803,44 @@
 		{
 			"verb": "fortschicken",
 			"separ": true,
-			"trans": "to order away"
+			"trans": "to send away"
+		},
+		{
+			"verb": "anschicken",
+			"separ": true,
+			"trans": "to prepare"
 		},
 		{
 			"verb": "beschicken",
 			"separ": false,
-			"trans": "to charge"
+			"trans": "to load"
 		},
 		{
 			"verb": "zurückschicken",
 			"separ": true,
-			"trans": "to remit"
+			"trans": "to send back"
+		}
+	]
+},
+{
+	"root": "schämen",
+	"trans": "to shame",
+	"childWords": [
+		{
+			"verb": "beschämen",
+			"separ": false,
+			"trans": "to abash"
+		}
+	]
+},
+{
+	"root": "zeihen",
+	"trans": "to accuse",
+	"childWords": [
+		{
+			"verb": "verzeihen",
+			"separ": false,
+			"trans": "to pardon"
 		}
 	]
 },
@@ -7021,58 +8852,157 @@
 			"verb": "versalzen",
 			"separ": false,
 			"trans": "to oversalt"
-		},
-		{
-			"verb": "nachsalzen",
-			"separ": true,
-			"trans": "to add more salt"
 		}
 	]
 },
 {
-	"root": "fechten",
-	"trans": "to battle",
+	"root": "wetten",
+	"trans": "to bet",
 	"childWords": [
 		{
-			"verb": "verfechten",
+			"verb": "verwetten",
 			"separ": false,
-			"trans": "to advocate"
+			"trans": "to bet"
+		}
+	]
+},
+{
+	"root": "maledeien",
+	"trans": "to condemn",
+	"childWords": [
+		{
+			"verb": "vermaledeien",
+			"separ": false,
+			"trans": "to condemn"
+		}
+	]
+},
+{
+	"root": "zwingen",
+	"trans": "to compel",
+	"childWords": [
+		{
+			"verb": "bezwingen",
+			"separ": false,
+			"trans": "to beat"
 		},
 		{
-			"verb": "anfechten",
+			"verb": "erzwingen",
+			"separ": false,
+			"trans": "to force"
+		},
+		{
+			"verb": "aufzwingen",
 			"separ": true,
-			"trans": "to challenge"
+			"trans": "to bludgeon"
+		}
+	]
+},
+{
+	"root": "arbeiten",
+	"trans": "to work",
+	"childWords": [
+		{
+			"verb": "abarbeiten",
+			"separ": true,
+			"trans": "to execute"
+		},
+		{
+			"verb": "bearbeiten",
+			"separ": false,
+			"trans": "to edit"
+		},
+		{
+			"verb": "herausarbeiten",
+			"separ": true,
+			"trans": "to bring out"
+		},
+		{
+			"verb": "ausarbeiten",
+			"separ": true,
+			"trans": "to work out"
+		},
+		{
+			"verb": "verarbeiten",
+			"separ": false,
+			"trans": "to process"
+		},
+		{
+			"verb": "erarbeiten",
+			"separ": false,
+			"trans": "to acquire"
+		},
+		{
+			"verb": "überarbeiten",
+			"separ": false,
+			"trans": "to overwork"
+		},
+		{
+			"verb": "aufarbeiten",
+			"separ": true,
+			"trans": "to collate"
+		},
+		{
+			"verb": "schwarzarbeiten",
+			"separ": true,
+			"trans": "to do illicit work"
+		},
+		{
+			"verb": "einarbeiten",
+			"separ": true,
+			"trans": "to get used to the work"
+		},
+		{
+			"verb": "hinarbeiten",
+			"separ": true,
+			"trans": "to aiming at"
+		}
+	]
+},
+{
+	"root": "jagen",
+	"trans": "to hunt",
+	"childWords": [
+		{
+			"verb": "verjagen",
+			"separ": false,
+			"trans": "to drive away"
+		},
+		{
+			"verb": "abjagen",
+			"separ": true,
+			"trans": "to recover from"
 		}
 	]
 },
 {
 	"root": "binden",
-	"trans": "to link",
+	"trans": "to tie",
 	"childWords": [
 		{
 			"verb": "abbinden",
 			"separ": true,
-			"trans": "to bind off"
+			"trans": "to bond"
 		},
 		{
 			"verb": "verbinden",
 			"separ": false,
-			"trans": "to join"
+			"trans": "to tie"
 		},
 		{
 			"verb": "unterbinden",
 			"separ": false,
-			"trans": "to stop"
+			"trans": "to deactivate"
 		},
 		{
 			"verb": "umbinden",
 			"separ": true,
-			"trans": "to tie round"
+			"trans": "to cut down on"
 		},
 		{
 			"verb": "entbinden",
 			"separ": false,
-			"trans": "to release"
+			"trans": "to absolve"
 		}
 	]
 },
@@ -7083,12 +9013,12 @@
 		{
 			"verb": "erfragen",
 			"separ": false,
-			"trans": "to enquire"
+			"trans": "to ask"
 		},
 		{
 			"verb": "befragen",
 			"separ": false,
-			"trans": "to interview"
+			"trans": "to question"
 		},
 		{
 			"verb": "hinterfragen",
@@ -7098,12 +9028,12 @@
 		{
 			"verb": "abfragen",
 			"separ": true,
-			"trans": "to request"
+			"trans": "to query"
 		},
 		{
 			"verb": "ausfragen",
 			"separ": true,
-			"trans": "to interrogate"
+			"trans": "to quiz"
 		}
 	]
 },
@@ -7114,68 +9044,116 @@
 		{
 			"verb": "erfahren",
 			"separ": false,
-			"trans": "to come to a person's knowledge"
+			"trans": "to experienced"
+		},
+		{
+			"verb": "widerfahren",
+			"separ": false,
+			"trans": "to befall"
+		},
+		{
+			"verb": "umfahren",
+			"separ": false,
+			"trans": "to drive round"
 		},
 		{
 			"verb": "fortfahren",
 			"separ": true,
-			"trans": "to pursue"
+			"trans": "to continue"
 		},
 		{
 			"verb": "wegfahren",
 			"separ": true,
-			"trans": "to back away"
+			"trans": "to drive away"
 		},
 		{
-			"verb": "herüberfahren",
+			"verb": "anfahren",
 			"separ": true,
-			"trans": "to come across"
+			"trans": "to pull away"
 		},
 		{
 			"verb": "überfahren",
 			"separ": false,
-			"trans": "to drive over"
+			"trans": "to run over"
 		},
 		{
 			"verb": "hochfahren",
 			"separ": true,
-			"trans": "to boot up"
+			"trans": "to bootstrap"
 		},
 		{
 			"verb": "auffahren",
 			"separ": true,
-			"trans": "to ascend to"
+			"trans": "to ascend"
 		},
 		{
 			"verb": "durchfahren",
 			"separ": false,
-			"trans": "to pass through"
+			"trans": "to break through"
 		},
 		{
 			"verb": "verfahren",
 			"separ": false,
-			"trans": "to move"
+			"trans": "to proceed"
 		},
 		{
-			"verb": "entfahren",
-			"separ": false,
-			"trans": "to escape"
+			"verb": "schwarzfahren",
+			"separ": true,
+			"trans": "to stowaway"
 		},
 		{
 			"verb": "mitfahren",
 			"separ": true,
-			"trans": "to go with"
+			"trans": "to accompany"
 		},
 		{
 			"verb": "befahren",
 			"separ": false,
-			"trans": "to drive along"
+			"trans": "to frequented"
+		}
+	]
+},
+{
+	"root": "scheuchen",
+	"trans": "to shoo",
+	"childWords": [
+		{
+			"verb": "aufscheuchen",
+			"separ": true,
+			"trans": "to scare up"
+		}
+	]
+},
+{
+	"root": "pfeifen",
+	"trans": "to whistle",
+	"childWords": [
+		{
+			"verb": "abpfeifen",
+			"separ": true,
+			"trans": "to whistle to a close"
+		}
+	]
+},
+{
+	"root": "würgen",
+	"trans": "to retch",
+	"childWords": [
+		{
+			"verb": "abwürgen",
+			"separ": true,
+			"trans": "to stall"
+		},
+		{
+			"verb": "erwürgen",
+			"separ": false,
+			"trans": "to strangle"
 		}
 	]
 },
 {
 	"root": "beizen",
-	"trans": "to baste",
+	"trans": "to etch",
 	"childWords": [
 		{
 			"verb": "abbeizen",
@@ -7186,7 +9164,7 @@
 },
 {
 	"root": "stecken",
-	"trans": "to put",
+	"trans": "to stick",
 	"childWords": [
 		{
 			"verb": "verstecken",
@@ -7196,18 +9174,18 @@
 		{
 			"verb": "abstecken",
 			"separ": true,
-			"trans": "to define"
+			"trans": "to stake out"
 		},
 		{
 			"verb": "anstecken",
 			"separ": true,
-			"trans": "to stick"
+			"trans": "to infect"
 		}
 	]
 },
 {
 	"root": "langen",
-	"trans": "to be sufficient",
+	"trans": "to be enough",
 	"childWords": [
 		{
 			"verb": "erlangen",
@@ -7218,18 +9196,18 @@
 },
 {
 	"root": "knüpfen",
-	"trans": "to make",
+	"trans": "to tie",
 	"childWords": [
 		{
 			"verb": "anknüpfen",
 			"separ": true,
-			"trans": "to contact"
+			"trans": "to begin"
 		}
 	]
 },
 {
 	"root": "führen",
-	"trans": "to lead",
+	"trans": "to control",
 	"childWords": [
 		{
 			"verb": "einführen",
@@ -7239,58 +9217,63 @@
 		{
 			"verb": "durchführen",
 			"separ": true,
-			"trans": "to complete"
+			"trans": "to perform"
 		},
 		{
 			"verb": "ausführen",
 			"separ": true,
-			"trans": "to take out"
+			"trans": "to perform"
 		},
 		{
 			"verb": "entführen",
 			"separ": false,
-			"trans": "to carry off"
+			"trans": "to kidnap"
 		},
 		{
 			"verb": "aufführen",
 			"separ": true,
-			"trans": "to present"
+			"trans": "to perform"
 		},
 		{
 			"verb": "verführen",
 			"separ": false,
-			"trans": "to allure"
+			"trans": "to seduce"
+		},
+		{
+			"verb": "überführen",
+			"separ": false,
+			"trans": "to rearrange"
 		},
 		{
 			"verb": "irreführen",
 			"separ": true,
-			"trans": "to bewilder"
+			"trans": "to mislead"
 		},
 		{
 			"verb": "heimführen",
 			"separ": true,
-			"trans": "to take home"
+			"trans": "to marry"
 		}
 	]
 },
 {
 	"root": "fließen",
-	"trans": "to pour",
+	"trans": "to flow",
 	"childWords": [
 		{
 			"verb": "durchfließen",
 			"separ": false,
-			"trans": "to flow through"
+			"trans": "to cross"
 		},
 		{
 			"verb": "abfließen",
 			"separ": true,
-			"trans": "to drain off"
+			"trans": "to exonerate"
 		},
 		{
 			"verb": "zerfließen",
 			"separ": false,
-			"trans": "to dissolve"
+			"trans": "to melt"
 		}
 	]
 },
@@ -7306,7 +9289,7 @@
 		{
 			"verb": "andauern",
 			"separ": true,
-			"trans": "to stand"
+			"trans": "to last"
 		},
 		{
 			"verb": "überdauern",
@@ -7317,39 +9300,39 @@
 },
 {
 	"root": "erkennen",
-	"trans": "to identify",
+	"trans": "to recognize",
 	"childWords": [
 		{
 			"verb": "aberkennen",
 			"separ": true,
-			"trans": "to deny"
+			"trans": "to deprive"
 		},
 		{
 			"verb": "anerkennen",
 			"separ": true,
-			"trans": "to allow"
+			"trans": "to recognize"
 		}
 	]
 },
 {
-	"root": "driften",
-	"trans": "to drift",
+	"root": "lieben",
+	"trans": "to love",
 	"childWords": [
 		{
-			"verb": "abdriften",
-			"separ": true,
-			"trans": "to make leeway"
+			"verb": "verlieben",
+			"separ": false,
+			"trans": "to fall in love"
 		}
 	]
 },
 {
 	"root": "prügeln",
-	"trans": "to beat with a cudgel",
+	"trans": "to beat",
 	"childWords": [
 		{
 			"verb": "verprügeln",
 			"separ": true,
-			"trans": "to batter"
+			"trans": "to lambaste"
 		}
 	]
 },
@@ -7360,7 +9343,12 @@
 		{
 			"verb": "fressen",
 			"separ": false,
-			"trans": "to devour"
+			"trans": "to eat"
+		},
+		{
+			"verb": "mittagessen",
+			"separ": false,
+			"trans": "to food"
 		},
 		{
 			"verb": "aufessen",
@@ -7370,13 +9358,13 @@
 		{
 			"verb": "mitessen",
 			"separ": true,
-			"trans": "to partake (of)"
+			"trans": "to partake"
 		}
 	]
 },
 {
 	"root": "bergen",
-	"trans": "to save",
+	"trans": "to salvage",
 	"childWords": [
 		{
 			"verb": "verbergen",
@@ -7395,62 +9383,110 @@
 			"trans": "to sag"
 		},
 		{
+			"verb": "aufhängen",
+			"separ": true,
+			"trans": "to hang"
+		},
+		{
+			"verb": "verhängen",
+			"separ": false,
+			"trans": "to inflict"
+		},
+		{
 			"verb": "anhängen",
 			"separ": true,
-			"trans": "to stick"
+			"trans": "to append"
 		}
 	]
 },
 {
 	"root": "achten",
-	"trans": "to respect",
+	"trans": "to esteem",
 	"childWords": [
 		{
 			"verb": "missachten",
 			"separ": false,
-			"trans": "to neglect"
+			"trans": "to disregard"
 		},
 		{
 			"verb": "beachten",
 			"separ": false,
-			"trans": "to follow"
+			"trans": "to pay attention"
 		},
 		{
 			"verb": "verachten",
 			"separ": false,
-			"trans": "to condemn"
+			"trans": "to despise"
 		},
 		{
 			"verb": "erachten",
 			"separ": false,
-			"trans": "to consider [deem]"
+			"trans": "to deem"
+		}
+	]
+},
+{
+	"root": "gasen",
+	"trans": "to gas",
+	"childWords": [
+		{
+			"verb": "vergasen",
+			"separ": false,
+			"trans": "to gas"
+		},
+		{
+			"verb": "begasen",
+			"separ": false,
+			"trans": "to fumigation"
 		}
 	]
 },
 {
 	"root": "wecken",
-	"trans": "to excite",
+	"trans": "to wake",
 	"childWords": [
 		{
 			"verb": "aufwecken",
 			"separ": true,
-			"trans": "to arouse"
+			"trans": "to wake"
 		},
 		{
 			"verb": "erwecken",
 			"separ": false,
-			"trans": "to inspire"
+			"trans": "to awake"
 		}
 	]
 },
 {
 	"root": "schmücken",
-	"trans": "to decorate",
+	"trans": "to adorn",
 	"childWords": [
 		{
 			"verb": "ausschmücken",
 			"separ": true,
-			"trans": "to decorate"
+			"trans": "to beautify"
+		}
+	]
+},
+{
+	"root": "einigen",
+	"trans": "to unite",
+	"childWords": [
+		{
+			"verb": "vereinigen",
+			"separ": false,
+			"trans": "to unite"
+		}
+	]
+},
+{
+	"root": "löffeln",
+	"trans": "to ladle out",
+	"childWords": [
+		{
+			"verb": "auslöffeln",
+			"separ": true,
+			"trans": "to spoon up"
 		}
 	]
 },
@@ -7459,6 +9495,11 @@
 	"trans": "to help",
 	"childWords": [
 		{
+			"verb": "behelfen",
+			"separ": false,
+			"trans": "to make do"
+		},
+		{
 			"verb": "mithelfen",
 			"separ": true,
 			"trans": "to assist"
@@ -7466,18 +9507,18 @@
 		{
 			"verb": "aushelfen",
 			"separ": true,
-			"trans": "to assist"
+			"trans": "to help out"
 		}
 	]
 },
 {
-	"root": "leiden",
-	"trans": "to suffer",
+	"root": "melden",
+	"trans": "to report",
 	"childWords": [
 		{
-			"verb": "erleiden",
+			"verb": "vermelden",
 			"separ": false,
-			"trans": "to suffer"
+			"trans": "to announce"
 		}
 	]
 },
@@ -7486,6 +9527,16 @@
 	"trans": "to look",
 	"childWords": [
 		{
+			"verb": "ausschauen",
+			"separ": true,
+			"trans": "to be after"
+		},
+		{
+			"verb": "abschauen",
+			"separ": true,
+			"trans": "to peek"
+		},
+		{
 			"verb": "anschauen",
 			"separ": true,
 			"trans": "to view"
@@ -7493,18 +9544,23 @@
 		{
 			"verb": "vorbeischauen",
 			"separ": true,
-			"trans": "to call in"
+			"trans": "to stop by"
+		},
+		{
+			"verb": "umschauen",
+			"separ": true,
+			"trans": "to look round"
 		}
 	]
 },
 {
 	"root": "drängen",
-	"trans": "to push",
+	"trans": "to urge",
 	"childWords": [
 		{
 			"verb": "aufdrängen",
 			"separ": true,
-			"trans": "to obtrude"
+			"trans": "to impose"
 		}
 	]
 },
@@ -7515,7 +9571,18 @@
 		{
 			"verb": "wiedererlangen",
 			"separ": true,
-			"trans": "to recover"
+			"trans": "to regain"
+		}
+	]
+},
+{
+	"root": "speiben",
+	"trans": "to vomit",
+	"childWords": [
+		{
+			"verb": "anspeiben",
+			"separ": true,
+			"trans": "to puke"
 		}
 	]
 },
@@ -7526,17 +9593,17 @@
 		{
 			"verb": "aufrechnen",
 			"separ": true,
-			"trans": "to add"
+			"trans": "to count up"
 		},
 		{
 			"verb": "zusammenrechnen",
 			"separ": true,
-			"trans": "to total"
+			"trans": "to add up"
 		},
 		{
 			"verb": "berechnen",
 			"separ": false,
-			"trans": "to charge"
+			"trans": "to calculate"
 		},
 		{
 			"verb": "ausrechnen",
@@ -7551,17 +9618,50 @@
 		{
 			"verb": "nachrechnen",
 			"separ": true,
-			"trans": "to add up again"
+			"trans": "to recalculate"
 		},
 		{
 			"verb": "verrechnen",
 			"separ": false,
-			"trans": "to settle"
+			"trans": "to clear"
 		},
 		{
 			"verb": "errechnen",
 			"separ": false,
-			"trans": "to generate"
+			"trans": "to compute"
+		}
+	]
+},
+{
+	"root": "buttern",
+	"trans": "to butter",
+	"childWords": [
+		{
+			"verb": "zubuttern",
+			"separ": true,
+			"trans": "to chip in"
+		}
+	]
+},
+{
+	"root": "plustern",
+	"trans": "to fluff",
+	"childWords": [
+		{
+			"verb": "aufplustern",
+			"separ": true,
+			"trans": "to fluff"
+		}
+	]
+},
+{
+	"root": "neiden",
+	"trans": "to be jealous",
+	"childWords": [
+		{
+			"verb": "beneiden",
+			"separ": false,
+			"trans": "to envy"
 		}
 	]
 },
@@ -7572,39 +9672,39 @@
 		{
 			"verb": "auswringen",
 			"separ": true,
-			"trans": "to wring out"
+			"trans": "to wring"
 		}
 	]
 },
 {
 	"root": "kürzen",
-	"trans": "to reduce",
+	"trans": "to abbreviate",
 	"childWords": [
 		{
 			"verb": "verkürzen",
 			"separ": false,
-			"trans": "to decrease"
+			"trans": "to shorten"
 		}
 	]
 },
 {
 	"root": "rücken",
-	"trans": "to move",
+	"trans": "to push",
 	"childWords": [
 		{
 			"verb": "abrücken",
 			"separ": true,
-			"trans": "to depart"
+			"trans": "to dissociate"
 		},
 		{
 			"verb": "vorrücken",
 			"separ": true,
-			"trans": "to proceed"
+			"trans": "to advance"
 		},
 		{
 			"verb": "einrücken",
 			"separ": true,
-			"trans": "to insert"
+			"trans": "to indent"
 		}
 	]
 },
@@ -7620,13 +9720,24 @@
 	]
 },
 {
+	"root": "filzen",
+	"trans": "to felt",
+	"childWords": [
+		{
+			"verb": "verfilzen",
+			"separ": false,
+			"trans": "to become complicated"
+		}
+	]
+},
+{
 	"root": "kreisen",
-	"trans": "to circulate",
+	"trans": "to circle",
 	"childWords": [
 		{
 			"verb": "einkreisen",
 			"separ": true,
-			"trans": "to surround"
+			"trans": "to circle"
 		}
 	]
 },
@@ -7637,12 +9748,12 @@
 		{
 			"verb": "bereiten",
 			"separ": false,
-			"trans": "to prepare"
+			"trans": "to cause"
 		},
 		{
 			"verb": "umreiten",
 			"separ": false,
-			"trans": "to ride down [trample]"
+			"trans": "to ride down"
 		}
 	]
 },
@@ -7653,44 +9764,49 @@
 		{
 			"verb": "verzweifeln",
 			"separ": false,
-			"trans": "to become desperate"
+			"trans": "to despair"
 		},
 		{
 			"verb": "anzweifeln",
 			"separ": true,
-			"trans": "to discredit [rumour]"
+			"trans": "to question"
 		},
 		{
 			"verb": "bezweifeln",
 			"separ": false,
-			"trans": "to suspect"
+			"trans": "to doubt"
 		}
 	]
 },
 {
 	"root": "wahren",
-	"trans": "to maintain",
+	"trans": "to keep",
 	"childWords": [
 		{
 			"verb": "bewahren",
 			"separ": false,
-			"trans": "to save"
+			"trans": "to preserve"
+		},
+		{
+			"verb": "verwahren",
+			"separ": false,
+			"trans": "to cable"
 		}
 	]
 },
 {
 	"root": "treten",
-	"trans": "to step",
+	"trans": "to kick",
 	"childWords": [
 		{
 			"verb": "antreten",
 			"separ": true,
-			"trans": "to fall in"
+			"trans": "to take on"
 		},
 		{
 			"verb": "vertreten",
 			"separ": false,
-			"trans": "to advocate"
+			"trans": "to act for"
 		},
 		{
 			"verb": "auftreten",
@@ -7700,7 +9816,7 @@
 		{
 			"verb": "eintreten",
 			"separ": true,
-			"trans": "to tread into"
+			"trans": "to enter"
 		},
 		{
 			"verb": "beitreten",
@@ -7710,55 +9826,66 @@
 		{
 			"verb": "betreten",
 			"separ": false,
-			"trans": "to tread"
+			"trans": "to enter"
 		},
 		{
 			"verb": "abtreten",
 			"separ": true,
-			"trans": "to convey"
+			"trans": "to cede"
 		},
 		{
 			"verb": "zurücktreten",
 			"separ": true,
-			"trans": "to retire"
+			"trans": "to resign"
 		},
 		{
 			"verb": "wegtreten",
 			"separ": true,
-			"trans": "to stand down"
+			"trans": "to dismiss"
 		},
 		{
 			"verb": "austreten",
 			"separ": true,
-			"trans": "to escape"
+			"trans": "to leave"
 		}
 	]
 },
 {
 	"root": "sortieren",
-	"trans": "to arrange",
+	"trans": "to sort",
 	"childWords": [
 		{
 			"verb": "aussortieren",
 			"separ": true,
-			"trans": "to reject"
+			"trans": "to sort out"
+		}
+	]
+},
+{
+	"root": "murksen",
+	"trans": "to skimp",
+	"childWords": [
+		{
+			"verb": "abmurksen",
+			"separ": true,
+			"trans": "to drygulch"
 		}
 	]
 },
 {
 	"root": "zapfen",
-	"trans": "to draw [beer]",
+	"trans": "to cancel",
 	"childWords": [
 		{
 			"verb": "verzapfen",
 			"separ": false,
-			"trans": "to mortise (into)"
+			"trans": "to mortise"
 		}
 	]
 },
 {
 	"root": "schädigen",
-	"trans": "to cause harm",
+	"trans": "to damage",
 	"childWords": [
 		{
 			"verb": "beschädigen",
@@ -7774,17 +9901,27 @@
 		{
 			"verb": "verloben",
 			"separ": false,
-			"trans": "to affiance"
+			"trans": "to betroth"
+		},
+		{
+			"verb": "fortloben",
+			"separ": true,
+			"trans": "to kick upstairs"
 		},
 		{
 			"verb": "ausloben",
 			"separ": true,
-			"trans": "to offer as a prize"
+			"trans": "to offer a prize"
 		},
 		{
 			"verb": "geloben",
 			"separ": false,
-			"trans": "to make a vow"
+			"trans": "to vow"
+		},
+		{
+			"verb": "wegloben",
+			"separ": true,
+			"trans": "to kick upstairs"
 		}
 	]
 },
@@ -7795,34 +9932,29 @@
 		{
 			"verb": "verscharren",
 			"separ": false,
-			"trans": "to hide / bury in the ground"
+			"trans": "to bury"
 		}
 	]
 },
 {
 	"root": "sichern",
-	"trans": "to ensure",
+	"trans": "to save",
 	"childWords": [
-		{
-			"verb": "entsichern",
-			"separ": false,
-			"trans": "to release the safety catch"
-		},
 		{
 			"verb": "versichern",
 			"separ": false,
-			"trans": "to cover"
+			"trans": "to insure"
 		},
 		{
 			"verb": "absichern",
 			"separ": true,
-			"trans": "to ensure"
+			"trans": "to fuse"
 		}
 	]
 },
 {
 	"root": "pflücken",
-	"trans": "to harvest",
+	"trans": "to pick",
 	"childWords": [
 		{
 			"verb": "zerpflücken",
@@ -7832,39 +9964,49 @@
 		{
 			"verb": "abpflücken",
 			"separ": true,
-			"trans": "to pick"
+			"trans": "to pluck off"
 		}
 	]
 },
 {
 	"root": "holen",
-	"trans": "to get [fetch]",
+	"trans": "to fetch",
 	"childWords": [
+		{
+			"verb": "erholen",
+			"separ": false,
+			"trans": "to rally"
+		},
 		{
 			"verb": "verholen",
 			"separ": false,
-			"trans": "to shift"
+			"trans": "to warp"
 		},
 		{
 			"verb": "überholen",
 			"separ": false,
-			"trans": "to forereach"
+			"trans": "to overtake"
+		},
+		{
+			"verb": "einholen",
+			"separ": true,
+			"trans": "to overtake"
 		},
 		{
 			"verb": "abholen",
 			"separ": true,
-			"trans": "to fetch"
+			"trans": "to pick up"
 		},
 		{
 			"verb": "nachholen",
 			"separ": true,
-			"trans": "to fetch later"
+			"trans": "to catch up"
 		}
 	]
 },
 {
 	"root": "stürzen",
-	"trans": "to fall [from a height or badly]",
+	"trans": "to overthrow",
 	"childWords": [
 		{
 			"verb": "abstürzen",
@@ -7880,88 +10022,93 @@
 		{
 			"verb": "ausspucken",
 			"separ": true,
-			"trans": "to spit (out)"
+			"trans": "to disgorge"
 		}
 	]
 },
 {
 	"root": "anbringen",
-	"trans": "to add",
+	"trans": "to mount",
 	"childWords": [
 		{
 			"verb": "voranbringen",
 			"separ": true,
-			"trans": "to promote"
+			"trans": "to advance"
 		}
 	]
 },
 {
 	"root": "dringen",
-	"trans": "to get through",
+	"trans": "to coerce",
 	"childWords": [
 		{
 			"verb": "eindringen",
 			"separ": true,
-			"trans": "to penetrate"
+			"trans": "to invade"
 		}
 	]
 },
 {
-	"root": "zäumen",
-	"trans": "to bridle",
+	"root": "cremen",
+	"trans": "to cream",
 	"childWords": [
 		{
-			"verb": "abzäumen",
+			"verb": "eincremen",
 			"separ": true,
-			"trans": "to take the bridle off"
+			"trans": "to cream"
 		}
 	]
 },
 {
 	"root": "drücken",
-	"trans": "to push",
+	"trans": "to press",
 	"childWords": [
 		{
 			"verb": "abdrücken",
 			"separ": true,
-			"trans": "to shoot"
+			"trans": "to clench"
 		},
 		{
-			"verb": "wegdrücken",
+			"verb": "ausdrücken",
 			"separ": true,
-			"trans": "to push away"
+			"trans": "to express"
+		},
+		{
+			"verb": "verdrücken",
+			"separ": false,
+			"trans": "to beat it"
 		},
 		{
 			"verb": "unterdrücken",
 			"separ": false,
-			"trans": "to eliminate"
+			"trans": "to oppress"
 		},
 		{
 			"verb": "bedrücken",
 			"separ": false,
-			"trans": "to bear down"
+			"trans": "to oppress"
 		}
 	]
 },
 {
 	"root": "schlüpfen",
-	"trans": "to eclose",
+	"trans": "to hatch",
 	"childWords": [
 		{
 			"verb": "ausschlüpfen",
 			"separ": true,
-			"trans": "to come out"
+			"trans": "to hatch"
 		}
 	]
 },
 {
-	"root": "würgen",
-	"trans": "to suffocate",
+	"root": "fleddern",
+	"trans": "to rob",
 	"childWords": [
 		{
-			"verb": "abwürgen",
-			"separ": true,
-			"trans": "to burke"
+			"verb": "zerfleddern",
+			"separ": false,
+			"trans": "to tatter"
 		}
 	]
 },
@@ -7977,13 +10124,35 @@
 	]
 },
 {
+	"root": "färben",
+	"trans": "to dye",
+	"childWords": [
+		{
+			"verb": "abfärben",
+			"separ": true,
+			"trans": "to run"
+		}
+	]
+},
+{
+	"root": "singen",
+	"trans": "to sing",
+	"childWords": [
+		{
+			"verb": "besingen",
+			"separ": false,
+			"trans": "to express"
+		}
+	]
+},
+{
 	"root": "gehen",
 	"trans": "to go",
 	"childWords": [
 		{
 			"verb": "aufgehen",
 			"separ": true,
-			"trans": "to add up"
+			"trans": "to rise"
 		},
 		{
 			"verb": "spazieren gehen",
@@ -7993,17 +10162,22 @@
 		{
 			"verb": "vergehen",
 			"separ": false,
-			"trans": "to slide"
+			"trans": "to pass"
+		},
+		{
+			"verb": "begehen",
+			"separ": false,
+			"trans": "to commit"
 		},
 		{
 			"verb": "weggehen",
 			"separ": true,
-			"trans": "to depart"
+			"trans": "to leave"
 		},
 		{
 			"verb": "ausgehen",
 			"separ": true,
-			"trans": "to come off"
+			"trans": "to go out"
 		},
 		{
 			"verb": "eingehen",
@@ -8013,37 +10187,42 @@
 		{
 			"verb": "umgehen",
 			"separ": false,
-			"trans": "to bypass"
+			"trans": "to avoid"
 		},
 		{
 			"verb": "untergehen",
 			"separ": true,
-			"trans": "to sink"
+			"trans": "to set"
+		},
+		{
+			"verb": "zugehen",
+			"separ": true,
+			"trans": "to aim at"
 		},
 		{
 			"verb": "angehen",
 			"separ": true,
-			"trans": "to address [problem]"
+			"trans": "to concern"
 		},
 		{
 			"verb": "abgehen",
 			"separ": true,
-			"trans": "to leave"
+			"trans": "to exit"
 		},
 		{
 			"verb": "hervorgehen",
 			"separ": true,
-			"trans": "to proceed [originate"
+			"trans": "to answer"
 		},
 		{
 			"verb": "übergehen",
 			"separ": true,
-			"trans": "to ignore"
+			"trans": "to overlook"
 		},
 		{
 			"verb": "zurückgehen",
 			"separ": true,
-			"trans": "to reduce"
+			"trans": "to decline"
 		},
 		{
 			"verb": "vorgehen",
@@ -8053,17 +10232,22 @@
 		{
 			"verb": "fortgehen",
 			"separ": true,
-			"trans": "to depart"
+			"trans": "to go away"
 		},
 		{
 			"verb": "entgehen",
 			"separ": false,
-			"trans": "to avoid"
+			"trans": "to escape"
+		},
+		{
+			"verb": "fremdgehen",
+			"separ": true,
+			"trans": "to cheat"
 		},
 		{
 			"verb": "vorübergehen",
 			"separ": true,
-			"trans": "to blow over"
+			"trans": "to elapse"
 		},
 		{
 			"verb": "nachgehen",
@@ -8073,7 +10257,7 @@
 		{
 			"verb": "durchgehen",
 			"separ": true,
-			"trans": "to pass"
+			"trans": "to go through"
 		},
 		{
 			"verb": "mitgehen",
@@ -8083,32 +10267,64 @@
 		{
 			"verb": "hineingehen",
 			"separ": true,
-			"trans": "to go inside"
+			"trans": "to enter"
 		},
 		{
 			"verb": "zergehen",
 			"separ": false,
-			"trans": "to dissolve"
+			"trans": "to deliquesce"
+		}
+	]
+},
+{
+	"root": "texten",
+	"trans": "to write",
+	"childWords": [
+		{
+			"verb": "zutexten",
+			"separ": true,
+			"trans": "to at"
+		}
+	]
+},
+{
+	"root": "waschen",
+	"trans": "to wash",
+	"childWords": [
+		{
+			"verb": "reinwaschen",
+			"separ": true,
+			"trans": "to purge"
+		},
+		{
+			"verb": "abwaschen",
+			"separ": true,
+			"trans": "to do the dishes"
 		}
 	]
 },
 {
 	"root": "schminken",
-	"trans": "to make up",
+	"trans": "to null",
 	"childWords": [
 		{
 			"verb": "abschminken",
 			"separ": true,
-			"trans": "to remove the make-up"
+			"trans": "to remove make up"
 		}
 	]
 },
 {
 	"root": "graben",
-	"trans": "to sink",
+	"trans": "to dig",
 	"childWords": [
 		{
 			"verb": "begraben",
+			"separ": false,
+			"trans": "to bury"
+		},
+		{
+			"verb": "vergraben",
 			"separ": false,
 			"trans": "to bury"
 		},
@@ -8120,13 +10336,13 @@
 		{
 			"verb": "umgraben",
 			"separ": true,
-			"trans": "to dig"
+			"trans": "to dig up"
 		}
 	]
 },
 {
 	"root": "naschen",
-	"trans": "to eat sweets on the sly",
+	"trans": "to snack",
 	"childWords": [
 		{
 			"verb": "vernaschen",
@@ -8148,12 +10364,23 @@
 },
 {
 	"root": "harschen",
-	"trans": "to freeze over",
+	"trans": "to crust",
 	"childWords": [
 		{
 			"verb": "verharschen",
 			"separ": false,
-			"trans": "to form a crust [snow]"
+			"trans": "to become caked"
+		}
+	]
+},
+{
+	"root": "gewöhnen",
+	"trans": "to accustom",
+	"childWords": [
+		{
+			"verb": "abgewöhnen",
+			"separ": true,
+			"trans": "to give up"
 		}
 	]
 }
