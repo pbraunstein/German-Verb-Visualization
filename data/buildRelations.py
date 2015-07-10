@@ -14,7 +14,6 @@ OUTPUT = "verben.csv"
 NA = u'N/A'
 CODE = "utf-8"
 DICT = "buDict.txt"
-FREQ_LIST = "englFreq.csv"
 
 class xmlRecord:
     def __init__(self, record, dictionary):
@@ -193,17 +192,6 @@ def readInDict():
             toReturn[listL[0]] = listL[1]
 
     return toReturn
-
-# Reads in the frequency list for use in choosing English translations of words
-def readFreqList():
-    toReturn = {}
-    with open(FREQ_LIST, 'r') as filer:
-        for line in filer:
-            listL = line.strip().split(",")
-            toReturn[listL[0].decode(CODE)] = int(listL[1])
-
-    return toReturn
-
 
 
 # updates the dictionary with API call results
