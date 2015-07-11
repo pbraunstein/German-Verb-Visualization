@@ -24,6 +24,12 @@
 	}
 </style>
 <body>
+	<div id="menu">
+		<h1> MY DIV</h1>
+	</div>
+	<div id="viz">
+	</div>
+	
 	<script>
         console.log("IN MASTER BRANCH")
 		var color = d3.scale.category20();
@@ -34,10 +40,18 @@
 		var HUB_SCALE_FACTOR = 2;
 		var TRANS_DURATION = 1000;
 		var PAUSE_DURATION = 3000;
-		var currentlyAnimating = []
-		var svg = d3.select("body").append("svg")
+
+		var svg = d3.selectAll("div").select(function() {if (this.id == 'viz') return this;})
+					.append("svg")
 					.attr("width", width)
 					.attr("height", height)
+
+		// Position menu div
+		var div = document.getElementById('menu');
+		div.style.position="relative"
+		div.style.left = 0;
+		div.style.top = 0;
+
 		var fdg;
 		// Add bounding box
 		 svg.append("rect")
@@ -60,7 +74,7 @@
 			var i = 0;
 			index = null
 			for (i = 0; i < data.length; i++) {
-				if (data[i]['root'].localeCompare('bringen') == 0) {
+				if (data[i]['root'].localeCompare('fallen') == 0) {
 					index = i
 					console.log("GOT IT")
 				}
