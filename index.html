@@ -25,10 +25,12 @@
 </style>
 <body>
 	<div id="menu">
-		<h1> MY DIV</h1>
 	</div>
 	<div id="viz">
 	</div>
+	<div id="10Q">
+		<p>Powered by <a href="https://de.wiktionary.org/wiki/Wiktionary:Hauptseite">Wiktionary</a> and 
+			<a href="https://glosbe.com/">Glosbe</a></p>
 	
 	<script>
         console.log("IN MASTER BRANCH")
@@ -46,11 +48,7 @@
 					.attr("width", width)
 					.attr("height", height)
 
-		// Position menu div
-		var div = document.getElementById('menu');
-		div.style.position="relative"
-		div.style.left = 0;
-		div.style.top = 0;
+
 
 		var fdg;
 		// Add bounding box
@@ -70,20 +68,52 @@
 		});
 		
 		function vizIt() {
-			var index = 0;
+			var menu = document.getElementById("menu");
+			var selectList = document.createElement("select")
+			selectList.id = "options";
+			menu.appendChild(selectList);
+
+			// Sort data so that it is alphabetical
+			data.sort(function (a, b) {
+				var verbA = amerikanize(a.root.toLowerCase());
+				var verbB = amerikanize(b.root.toLowerCase());
+				return (verbA < verbB) ? -1 : 1;
+			});
+		
 			var i = 0;
 			index = null
 			for (i = 0; i < data.length; i++) {
-				if (data[i]['root'].localeCompare('fallen') == 0) {
-					index = i
-					console.log("GOT IT")
+				var option = document.createElement("option")
+				option.value = data[i]
+				option.text = data[i]['root']
+				selectList.appendChild(option)
+
+				if (data[i]['root'].localeCompare('steigen') == 0) {
+					selectList.selectedIndex = i;
 				}
 			}
 
-			buildFDG(data[index]);
+			selectList.onchange = (function() {
+				buildFDG(data[selectList.selectedIndex]);
+			});
+
+			buildFDG(data[selectList.selectedIndex]);  // Build first tree
+		}
+
+		// Removes umlauts and Esszetts for sorting purposes
+		function amerikanize(verb) {
+			verb = verb.replace("ä", "ae");
+			verb = verb.replace("ü", "ue");
+			verb = verb.replace("ö", "oe");
+			verb = verb.replace("ß", "ss");
+			return verb;
 		}
 
 		function buildFDG(preTree) {
+			if (fdg) {
+				svg.selectAll(".node").remove();
+				svg.selectAll(".link").remove();
+			} 
 			fdg = d3.layout.force()
 				.gravity(0.05)
 				.charge(-1000)
@@ -133,6 +163,7 @@
 						  .enter().append("g")
 						  .attr("class", "node")
 						  .call(fdg.drag);
+
 
 			// add circles for the nodes
 			node.append("circle")		  
