@@ -1,9 +1,8 @@
-=== New Features ===
---- Add the words in Unterbegriffe to the possible synonynms
-
 === D3 Code Organization ===
 --- reorganize code into different js files
---- read up on transform translation attribute thing
+--- reorganize get derived terms function in buildRelations.py so that it is
+------ less terrible
+--- write a real readme
 
 === DATA PARSING ===
 --- Try and fix wandeln problem (see bugs.txt)
