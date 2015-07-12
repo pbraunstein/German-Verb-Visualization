@@ -1036,7 +1036,7 @@
 		{
 			"verb": "abschleppen",
 			"separ": true,
-			"trans": "tow"
+			"trans": "to tow"
 		},
 		{
 			"verb": "einschleppen",
@@ -2347,7 +2347,7 @@
 		{
 			"verb": "vertragen",
 			"separ": false,
-			"trans": "tolerate"
+			"trans": "to tolerate"
 		},
 		{
 			"verb": "austragen",
@@ -4962,7 +4962,7 @@
 		{
 			"verb": "anfassen",
 			"separ": true,
-			"trans": "touch"
+			"trans": "to touch"
 		},
 		{
 			"verb": "zusammenfassen",
@@ -8749,12 +8749,12 @@
 		{
 			"verb": "berühren",
 			"separ": false,
-			"trans": "touch"
+			"trans": "to touch"
 		},
 		{
 			"verb": "anrühren",
 			"separ": true,
-			"trans": "touch"
+			"trans": "to touch"
 		}
 	]
 },

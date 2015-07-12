@@ -44,7 +44,7 @@ class xmlRecord:
     def getEnTrans(self, dictionary):
         try:
             trans = dictionary[self.name]
-            if not trans.startswith(u'to') and trans != NA:
+            if not trans.startswith(u'to ') and trans != NA:
                 trans = u'to ' + trans
             return trans
         except KeyError:

@@ -345,7 +345,7 @@ erwachen,wachen,n,to awake
 verbergen,bergen,n,to hide
 ,drucken,n,to print
 benutzen,nutzen,n,to use
-berühren,rühren,n,touch
+berühren,rühren,n,to touch
 ,dreschen,n,to thresh
 ,lächeln,n,to smile
 ,fließen,n,to flow
@@ -363,7 +363,7 @@ versprechen,sprechen,n,to promise
 besprechen,sprechen,n,to discuss
 versagen,sagen,n,to fail
 ,siegen,n,to win
-anfassen,fassen,y,touch
+anfassen,fassen,y,to touch
 anspielen,spielen,y,to allude
 einstellen,stellen,y,to stop
 ,heben,n,to lift
@@ -757,7 +757,7 @@ einholen,holen,y,to overtake
 herausarbeiten,arbeiten,y,to bring out
 herausschmecken,schmecken,y,to taste
 aussagen,sagen,y,to bear
-anrühren,rühren,y,touch
+anrühren,rühren,y,to touch
 gehorchen,horchen,n,to obey
 belassen,lassen,n,to leave
 unterschreiben,schreiben,n,to sign
@@ -1333,7 +1333,7 @@ unternehmen,nehmen,n,to undertake
 einseifen,seifen,y,to soap
 ,wetten,n,to bet
 emigrieren,migrieren,n,to emigrate
-vertragen,tragen,n,tolerate
+vertragen,tragen,n,to tolerate
 ablaufen,laufen,y,to expire
 innehaben,haben,y,to hold
 verschlafen,schlafen,n,to oversleep
@@ -1400,7 +1400,7 @@ einwerben,werben,y,to acquire
 verwählen,wählen,n,to misdial
 ausmalen,malen,y,to color
 aufführen,führen,y,to perform
-abschleppen,schleppen,y,tow
+abschleppen,schleppen,y,to tow
 wegtreten,treten,y,to dismiss
 bekämpfen,kämpfen,n,to fight
 verführen,führen,n,to seduce
