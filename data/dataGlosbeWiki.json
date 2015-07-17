@@ -223,22 +223,6 @@
 	]
 },
 {
-	"root": "kündigen",
-	"trans": "to can",
-	"childWords": [
-		{
-			"verb": "ankündigen",
-			"separ": true,
-			"trans": "to announce"
-		},
-		{
-			"verb": "verkündigen",
-			"separ": false,
-			"trans": "to annunciate"
-		}
-	]
-},
-{
 	"root": "reizen",
 	"trans": "to irritate",
 	"childWords": [
@@ -1428,11 +1412,6 @@
 			"trans": "to forsake"
 		},
 		{
-			"verb": "abgeben",
-			"separ": true,
-			"trans": "to give"
-		},
-		{
 			"verb": "vorgeben",
 			"separ": true,
 			"trans": "to pretend"
@@ -2342,17 +2321,6 @@
 	]
 },
 {
-	"root": "betten",
-	"trans": "to embed",
-	"childWords": [
-		{
-			"verb": "einbetten",
-			"separ": true,
-			"trans": "to embed"
-		}
-	]
-},
-{
 	"root": "tragen",
 	"trans": "to transport",
 	"childWords": [
@@ -2389,13 +2357,18 @@
 	]
 },
 {
-	"root": "klarieren",
-	"trans": "to clear",
+	"root": "kündigen",
+	"trans": "to can",
 	"childWords": [
 		{
-			"verb": "deklarieren",
+			"verb": "ankündigen",
+			"separ": true,
+			"trans": "to announce"
+		},
+		{
+			"verb": "verkündigen",
 			"separ": false,
-			"trans": "to declare"
+			"trans": "to annunciate"
 		}
 	]
 },
@@ -4256,28 +4229,6 @@
 			"verb": "vergären",
 			"separ": false,
 			"trans": "to ferment"
-		}
-	]
-},
-{
-	"root": "flechten",
-	"trans": "to braid",
-	"childWords": [
-		{
-			"verb": "entflechten",
-			"separ": false,
-			"trans": "to decartelize"
-		}
-	]
-},
-{
-	"root": "schmettern",
-	"trans": "to smash",
-	"childWords": [
-		{
-			"verb": "zerschmettern",
-			"separ": false,
-			"trans": "to smash"
 		}
 	]
 },
@@ -6794,23 +6745,13 @@
 	]
 },
 {
-	"root": "zwingen",
-	"trans": "to compel",
+	"root": "klarieren",
+	"trans": "to clear",
 	"childWords": [
 		{
-			"verb": "bezwingen",
+			"verb": "deklarieren",
 			"separ": false,
-			"trans": "to beat"
-		},
-		{
-			"verb": "erzwingen",
-			"separ": false,
-			"trans": "to force"
-		},
-		{
-			"verb": "aufzwingen",
-			"separ": true,
-			"trans": "to bludgeon"
+			"trans": "to declare"
 		}
 	]
 },
@@ -6822,17 +6763,6 @@
 			"verb": "verwalten",
 			"separ": false,
 			"trans": "to manage"
-		}
-	]
-},
-{
-	"root": "süßen",
-	"trans": "to sweeten",
-	"childWords": [
-		{
-			"verb": "versüßen",
-			"separ": false,
-			"trans": "to sugar"
 		}
 	]
 },
@@ -6880,13 +6810,13 @@
 	]
 },
 {
-	"root": "mehren",
-	"trans": "to add",
+	"root": "flechten",
+	"trans": "to braid",
 	"childWords": [
 		{
-			"verb": "vermehren",
+			"verb": "entflechten",
 			"separ": false,
-			"trans": "to augment"
+			"trans": "to decartelize"
 		}
 	]
 },
@@ -7099,17 +7029,6 @@
 			"verb": "entrichten",
 			"separ": false,
 			"trans": "to ante up"
-		}
-	]
-},
-{
-	"root": "knoten",
-	"trans": "to knot",
-	"childWords": [
-		{
-			"verb": "verknoten",
-			"separ": false,
-			"trans": "to tie"
 		}
 	]
 },
@@ -7694,17 +7613,6 @@
 			"verb": "anflehen",
 			"separ": true,
 			"trans": "to beg"
-		}
-	]
-},
-{
-	"root": "anbringen",
-	"trans": "to mount",
-	"childWords": [
-		{
-			"verb": "voranbringen",
-			"separ": true,
-			"trans": "to advance"
 		}
 	]
 },
@@ -8970,6 +8878,27 @@
 	]
 },
 {
+	"root": "zwingen",
+	"trans": "to compel",
+	"childWords": [
+		{
+			"verb": "bezwingen",
+			"separ": false,
+			"trans": "to beat"
+		},
+		{
+			"verb": "erzwingen",
+			"separ": false,
+			"trans": "to force"
+		},
+		{
+			"verb": "aufzwingen",
+			"separ": true,
+			"trans": "to bludgeon"
+		}
+	]
+},
+{
 	"root": "arbeiten",
 	"trans": "to work",
 	"childWords": [
@@ -9270,11 +9199,6 @@
 	"trans": "to tie",
 	"childWords": [
 		{
-			"verb": "verknüpfen",
-			"separ": false,
-			"trans": "to join"
-		},
-		{
 			"verb": "anknüpfen",
 			"separ": true,
 			"trans": "to begin"
@@ -9420,11 +9344,6 @@
 			"verb": "fressen",
 			"separ": false,
 			"trans": "to eat"
-		},
-		{
-			"verb": "abendessen",
-			"separ": false,
-			"trans": "to supper"
 		},
 		{
 			"verb": "mittagessen",
@@ -10034,17 +9953,6 @@
 	]
 },
 {
-	"root": "beleben",
-	"trans": "to animate",
-	"childWords": [
-		{
-			"verb": "wiederbeleben",
-			"separ": true,
-			"trans": "to resuscitate"
-		}
-	]
-},
-{
 	"root": "pflücken",
 	"trans": "to pick",
 	"childWords": [
@@ -10061,13 +9969,38 @@
 	]
 },
 {
-	"root": "schminken",
-	"trans": "to null",
+	"root": "holen",
+	"trans": "to fetch",
 	"childWords": [
 		{
-			"verb": "abschminken",
+			"verb": "erholen",
+			"separ": false,
+			"trans": "to rally"
+		},
+		{
+			"verb": "verholen",
+			"separ": false,
+			"trans": "to warp"
+		},
+		{
+			"verb": "überholen",
+			"separ": false,
+			"trans": "to overtake"
+		},
+		{
+			"verb": "einholen",
 			"separ": true,
-			"trans": "to remove make up"
+			"trans": "to overtake"
+		},
+		{
+			"verb": "abholen",
+			"separ": true,
+			"trans": "to pick up"
+		},
+		{
+			"verb": "nachholen",
+			"separ": true,
+			"trans": "to catch up"
 		}
 	]
 },
@@ -10094,13 +10027,13 @@
 	]
 },
 {
-	"root": "hüten",
-	"trans": "to look after",
+	"root": "anbringen",
+	"trans": "to mount",
 	"childWords": [
 		{
-			"verb": "verhüten",
-			"separ": false,
-			"trans": "to prevent"
+			"verb": "voranbringen",
+			"separ": true,
+			"trans": "to advance"
 		}
 	]
 },
@@ -10112,11 +10045,6 @@
 			"verb": "eindringen",
 			"separ": true,
 			"trans": "to invade"
-		},
-		{
-			"verb": "vordringen",
-			"separ": true,
-			"trans": "to advance"
 		}
 	]
 },
@@ -10376,38 +10304,13 @@
 	]
 },
 {
-	"root": "holen",
-	"trans": "to fetch",
+	"root": "schminken",
+	"trans": "to null",
 	"childWords": [
 		{
-			"verb": "erholen",
-			"separ": false,
-			"trans": "to rally"
-		},
-		{
-			"verb": "verholen",
-			"separ": false,
-			"trans": "to warp"
-		},
-		{
-			"verb": "überholen",
-			"separ": false,
-			"trans": "to overtake"
-		},
-		{
-			"verb": "einholen",
+			"verb": "abschminken",
 			"separ": true,
-			"trans": "to overtake"
-		},
-		{
-			"verb": "abholen",
-			"separ": true,
-			"trans": "to pick up"
-		},
-		{
-			"verb": "nachholen",
-			"separ": true,
-			"trans": "to catch up"
+			"trans": "to remove make up"
 		}
 	]
 },

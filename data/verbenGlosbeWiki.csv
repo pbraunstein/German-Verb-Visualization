@@ -422,7 +422,6 @@ aushungern,hungern,y,to starve
 erpressen,pressen,n,to blackmail
 ,stampfen,n,to pitch
 ,schalten,n,to switch
-wiederbeleben,beleben,y,to resuscitate
 betrinken,trinken,n,to get drunk
 herunterladen,laden,y,to download
 ,filzen,n,to felt
@@ -481,7 +480,6 @@ vergleichen,gleichen,n,to compare
 ,rinnen,n,to flow
 abbremsen,bremsen,y,to brake
 abziehen,ziehen,y,to subtract
-abgeben,geben,y,to give
 ,fangen,n,to catch
 verschmähen,schmähen,n,to disdain
 abdichten,dichten,y,to calk
@@ -517,11 +515,8 @@ umfallen,fallen,y,to be overturned
 ,schämen,n,to shame
 verbleiben,bleiben,n,to dwell
 vorgeben,geben,y,to pretend
-,beleben,n,to animate
 beleben,leben,n,to animate
-,mehren,n,to add
 ,steigen,n,to climb
-abendessen,essen,n,to supper
 mittagessen,essen,n,to food
 ,meinen,n,to think
 erheben,heben,n,to raise
@@ -539,7 +534,6 @@ aufräumen,räumen,y,to clean
 aufwickeln,wickeln,y,to wind
 aufwachen,wachen,y,to awake
 verfassen,fassen,n,to write
-,süßen,n,to sweeten
 ,richten,n,to judge
 aufrichten,richten,y,to rear
 verreisen,reisen,n,to journey
@@ -703,7 +697,6 @@ beistimmen,stimmen,y,to accede
 beistehen,stehen,y,to assist
 beitreten,treten,y,to join
 unterrichten,richten,n,to teach
-zerschmettern,schmettern,n,to smash
 eintragen,tragen,y,to fill out
 ausschalten,schalten,y,to turn off
 verpachten,pachten,n,to lease
@@ -854,13 +847,11 @@ beackern,ackern,n,to cultivate
 ausschlafen,schlafen,y,to sleep in
 ,speisen,n,to eat
 einsehen,sehen,y,to have a look at
-vermehren,mehren,n,to augment
 umbenennen,benennen,y,to rename
 übersteigen,steigen,n,to exceed
 einlaufen,laufen,y,to arrive
 zurückzucken,zucken,y,to recoil
 ,mahnen,n,to urge
-verknoten,knoten,n,to tie
 ausschlachten,schlachten,y,to cannibalize
 fortloben,loben,y,to kick upstairs
 herumlaufen,laufen,y,to run around
@@ -1136,7 +1127,6 @@ anschrauben,schrauben,y,to screw on
 abtakeln,takeln,y,to unrig
 mitnehmen,nehmen,y,to take
 ,takeln,n,to rig
-,hüten,n,to look after
 durchbrechen,brechen,y,to break through
 ausbrüten,brüten,y,to hatch
 abzeichnen,zeichnen,y,to check
@@ -1242,7 +1232,6 @@ herunterkommen,kommen,y,to descend
 verkehren,kehren,n,to associate
 ,pflücken,n,to pick
 entleihen,leihen,n,to rent
-,knoten,n,to knot
 abladen,laden,y,to unload
 anzweifeln,zweifeln,y,to question
 bekennen,kennen,n,to confess
@@ -1440,7 +1429,6 @@ fremdgehen,gehen,y,to cheat
 erstreben,streben,n,to aim at
 umlaufen,laufen,y,to circulate
 abmurksen,murksen,y,to drygulch
-versüßen,süßen,n,to sugar
 anklagen,klagen,y,to accuse
 bescheißen,scheißen,n,to swindle
 abhaken,haken,y,to tick
@@ -1499,7 +1487,6 @@ einfangen,fangen,y,to capture
 ,scherzen,n,to joke
 ,sickern,n,to ooze
 absichern,sichern,y,to fuse
-verhüten,hüten,n,to prevent
 überführen,führen,n,to rearrange
 verbannen,bannen,n,to banish
 zerfallen,fallen,n,to decompose
@@ -1531,7 +1518,6 @@ anmalen,malen,y,to paint
 abdämmen,dämmen,y,to dam
 ,dämmen,n,to dam
 abmessen,messen,y,to measure
-verknüpfen,knüpfen,n,to join
 zerfleddern,fleddern,n,to tatter
 ankleben,kleben,y,to stick
 unterteilen,teilen,n,to classify
@@ -1540,7 +1526,6 @@ verfangen,fangen,n,to be caught
 freigeben,geben,y,to release
 missfallen,fallen,n,to displease
 ausspucken,spucken,y,to disgorge
-,betten,n,to embed
 stattgeben,geben,y,to accede
 anrichten,richten,y,to arrange
 ,spritzen,n,to inject
@@ -1614,7 +1599,6 @@ verwahren,wahren,n,to cable
 absterben,sterben,y,to atrophy
 ,feuern,n,to fire
 kleinreden,reden,y,to play down
-,schmettern,n,to smash
 aufschließen,schließen,y,to unlock
 zuschließen,schließen,y,to lock
 großziehen,ziehen,y,to rear
@@ -1768,7 +1752,6 @@ bestreiten,streiten,n,to deny
 bestaunen,staunen,n,to gape
 durchtrennen,trennen,n,to sever
 ,staunen,n,to be amazed
-einbetten,betten,y,to embed
 ,gestehen,n,to confess
 gestehen,stehen,n,to confess
 besiedeln,siedeln,n,to people
@@ -1981,7 +1964,6 @@ zufallen,fallen,y,to close
 zersägen,sägen,n,to saw up
 zergehen,gehen,n,to deliquesce
 aufzählen,zählen,y,to enumerate
-vordringen,dringen,y,to advance
 abwischen,wischen,y,to wipe
 ausschimpfen,schimpfen,y,to scold
 zurechtweisen,weisen,y,to reprimand

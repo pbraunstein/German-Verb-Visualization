@@ -94,50 +94,24 @@ class xmlRecord:
     # Parses the text of the xml to record to get the derived words
     # Returns a list of derived terms
     # (auf Deutsch: Wortbildungen)
-    # TODO TODO FIX THIS AWEFUL FUNCTION
     def getDerivedTerms(self, text):
-        regEx1 = re.compile(ur'\{\{Wortbildungen\}\}(.*)=', re.UNICODE |
+        regEx1 = re.compile(ur'\{\{Wortbildungen\}\}(.*?)=', re.UNICODE |
                 re.DOTALL)
         regEx2 = re.compile(ur'\{\{Unterbegriffe\}\}(.*?)\{\{Beispiele', re.UNICODE |
                 re.DOTALL)
 
-        regExP = re.compile(ur'([0-9:\[\]\"\']*)', re.UNICODE)
-
-        regExP2 = re.compile(ur'\n', re.UNICODE)
-        
-        
-        match2 = regEx2.search(text)
+        match1 = regEx2.search(text)
         listL1 = []
-        if match2:
-            termsListP = regExP.sub('', match2.group(1))
-            termsListP = regExP2.sub(',', termsListP)  # Replace newLines
-            listL1 = termsListP.split(",")
-            listL1 = [x for x in listL1 if x != '']
-            listL1 = [x.strip() for x in listL1]
+        if match1:
+            listL1 = getMatchedTerms(match1)
 
-        match = regEx1.search(text)
+        match2 = regEx1.search(text)
 
         # This code is messy, it splits on commas and colons to make
         # a flat list. It uses a regex to strip certain punctuation
         listL2 = []
-        if match:
-            # Geedy match in Regex gobbles too much, split on ===
-            # which I know to be the start of the next sectiont
-            terms = match.group(1).split("===")[0]
-            terms = terms.strip()
-            termsList1 = terms.split(u':')
-            termsList2 = []
-            for word in termsList1:
-                wordList = word.split(u',')
-                for littleWord in wordList:
-                    termsList2.append(littleWord)
-            regEx3 = re.compile(ur'([0-9\[\]\"\']*)', re.UNICODE)
-
-            # Remove punctuation and numbers 
-            termsList2 = [regEx3.sub('', x).strip() for x in termsList2]
-
-            # Filter out empty strings
-            listL2 = [x for x in termsList2 if x != u'']
+        if match2:
+            listL2 = getMatchedTerms(match2)
 
         # Collect results
         return listL1 + listL2
@@ -210,6 +184,30 @@ def getRecords(allPages, wordTrans):
                 toReturn.append(newRec)
 
     return [toReturn, wordTrans]
+
+
+# Strips out the words in a match object. These are related words, but the
+# formatting isn't consistent, so it is necessary to use a number of regexs
+def getMatchedTerms(matchObj, toPrint=False):
+        regExP = re.compile(ur'([0-9\[\]\"\']*)', re.UNICODE)
+        regExP2 = re.compile(ur'[\n:]', re.UNICODE)
+        toReturn = []
+        if toPrint:
+            print "ENTER"
+            print matchObj.group(1)
+        termsListP = regExP.sub('', matchObj.group(1))
+        if toPrint:
+            print termsListP
+        termsListP = regExP2.sub(',', termsListP)  # Replace newLines
+        toReturn = termsListP.split(",")
+        toReturn = [x for x in toReturn if x != '']
+        toReturn = [x.strip() for x in toReturn]
+
+        if toPrint:
+            print toReturn
+            print "EXIT"
+
+        return toReturn
 
 
 # Figures out from the derived terms, which terms are roots and which are
