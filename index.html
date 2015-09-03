@@ -68,12 +68,14 @@
 		});
 		
 		function vizIt() {
+            console.log("In viz it");
 			var menu = document.getElementById("menu");
 			var selectList = document.createElement("select")
 			selectList.id = "options";
 			menu.appendChild(selectList);
 
 			// Sort data so that it is alphabetical
+            console.log(data.length)
 			data.sort(function (a, b) {
 				var verbA = amerikanize(a.root.toLowerCase());
 				var verbB = amerikanize(b.root.toLowerCase());
@@ -241,7 +243,6 @@
 	// box is the this context of the g svg
 	// extracts radius and uses this to position node within x bounds
 	function clampX(node, box) {
-		// INSANE ABSURD way to get radius, is there a better way?
 		var rad = d3.select(box)[0][0].childNodes[0].r.animVal.value;
 		var newVal;
 		if (node.x - rad < 0){
@@ -259,7 +260,6 @@
 	// box is the this context of the g svg
 	// extracts radius and uses this to position node within y bounds
 	function clampY(node, box){
-		// INSANE ABSURD way to get radius, is there a better way?
 		var rad = d3.select(box)[0][0].childNodes[0].r.animVal.value;
 		var newVal;
 		if (node.y - rad < 0){
