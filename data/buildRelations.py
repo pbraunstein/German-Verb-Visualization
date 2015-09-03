@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-# Right now, throws out all records without translation
+# Builds graph of verb roots and prefixes
+
 
 from sys import exit
 from bs4 import BeautifulSoup
@@ -48,26 +49,7 @@ class xmlRecord:
                 trans = u'to ' + trans
             return trans
         except KeyError:
-            print self.name.encode(CODE)
             return NA
-            try:
-                link = "https://glosbe.com/gapi/translate?from=deu&dest=eng" +\
-                            "&format=json&phrase=" +\
-                            quote_plus(self.name.encode(CODE)) +\
-                            "&callback=my_custom_function_name"
-
-                content = urllib2.urlopen(link).read()
-                regEx = re.compile("my_custom_function_name\(\{\"result\":\"ok\",\"tuc\":\[\{\"phrase\":\{\"text\":\"([\w\s]+)\",", re.UNICODE)
-                match = regEx.search(content)
-                if match:
-                    trans = match.group(1).decode(CODE)
-                    return trans
-                else:
-                    return NA
-            except urllib2.HTTPError:
-                writeOutDict(dictionary)
-                print "ABORTED"
-                exit(1)
 
 
     # Determines if the verb is separable by counting the number of words
@@ -145,7 +127,7 @@ def main():
     wordTrans = packing[1]
     print "Complete."
 
-    print "Annotating Reltations...."
+    print "Annotating Relations...."
     records = annotateRelations(records)
     print "Complete."
 
