@@ -1,0 +1,10 @@
+~*
+*.pyc
+.sw
+dewiktionary*.xml
+cbomn*.txt
+dictCCVerbList.txt
+*num
+completeDict*.txt
+buDictBU.txt
+libs/bower_components
